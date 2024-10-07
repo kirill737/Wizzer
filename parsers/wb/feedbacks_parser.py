@@ -21,9 +21,9 @@ def get_root_by_id(product_id: int) -> int:
     except (KeyError, IndexError) as exc:
         raise RuntimeError("Json access error") from exc
 
-def get_feedbacks_by_root(root: int) -> list[str]:
+def get_raw_feedbacks_by_root_index(root: int, index: int) -> dict:
     response = requests.get(
-        f"https://feedbacks1.wb.ru/feedbacks/v2/{root}",
+        f"https://feedbacks{index}.wb.ru/feedbacks/v2/{root}",
         timeout=10
     )
     if response.status_code != 200:
@@ -31,6 +31,14 @@ def get_feedbacks_by_root(root: int) -> list[str]:
             f"Wrong response code: {response.status_code}"
         )
     feedbacks_json = response.json()
+    return feedbacks_json
+
+def get_feedbacks_by_root(root: int) -> list[str]:
+    for i in range(1, 5):
+        if get_raw_feedbacks_by_root_index(root, i)['feedbacks']:
+            feedbacks_json = get_raw_feedbacks_by_root_index(root, i)
+            break
+        continue
     try:
         feedbacks_list = []
         for feedback in feedbacks_json['feedbacks']:
@@ -44,4 +52,5 @@ def get_all_feedbacks(product_id: int) -> list[str]:
     feedbacks = get_feedbacks_by_root(root)
     return feedbacks
 
-print(get_all_feedbacks)
+
+print(get_all_feedbacks(177900370))
