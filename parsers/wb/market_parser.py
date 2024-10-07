@@ -1,13 +1,16 @@
+"""
+DOCSTRING TEMPLATE
+"""
 import json
-from models import InputJSON, OutputProduct
-from pydantic import ValidationError
-from pathlib import Path
-from typing import Optional
 import re
+from pathlib import Path
 import requests
+from models import InputJSON, OutputProduct
 
 # Функция для загрузки существующих данных из output.json и их обновления
-def addData(file: str, data: list):
+
+
+def add_data(file: str, data: list) -> None:
     # Проверяем, существует ли файл
     if Path(file).is_file():
         # Загружаем существующие данные из файла, если файл не пустой
@@ -15,7 +18,8 @@ def addData(file: str, data: list):
             try:
                 existing_data = json.load(f)
             except json.JSONDecodeError:
-                existing_data = []  # Если файл пуст или содержит некорректный JSON, начинаем с пустого списка
+                # Если файл пуст или содержит некорректный JSON, начинаем с пустого списка
+                existing_data = []
     else:
         existing_data = []
 
@@ -26,22 +30,13 @@ def addData(file: str, data: list):
     with open(file, 'w', encoding='utf-8') as f:
         json.dump(existing_data, f, ensure_ascii=False, indent=4)
 
-def parse_json_file(input_file: str, output_file: str):
-    try:
-        with open(input_file, 'r', encoding='utf-8') as f:
-            inputJson = json.load(f)
-        parsedData = parse_json(inputJson)
-        addData(output_file, parsedData)
 
-    except ValidationError as e:
-        print("Ошибка валидации данных:", e)
-    except Exception as e:
-        print(f"Произошла ошибка: {e}")
-# Загрузка JSON
-
-def parse_json(inputJson):
+def parse_json(input_json: str) -> None:
+    """
+    Parsing
+    """
     # Валидация входных данных через Pydantic
-    input_data = InputJSON(**inputJson)
+    input_data = InputJSON(**input_json)
     output_file = "output.json"
     # Собираем данные для нового JSON
     output_products = []
@@ -50,18 +45,20 @@ def parse_json(inputJson):
         output_product = OutputProduct.from_product(product)
         output_products.append(output_product.model_dump())
     # Загрузка существующих данных
-    addData(output_file, output_products)  # Загружаем существующие данные
+    add_data(output_file, output_products)  # Загружаем существующие данные
 
     print(f"Данные успешно добавлены в JSON файл: {output_file}")
 
-def parseBrand(url:str):
+
+def parse_brand(url: str) -> int:
+    # Извлекает id бренда из ссылки на категорию
     def extract_fbrand_value(url: str) -> int:
         # Регулярное выражение для поиска числа после "fbrand="
         match = re.search(r'fbrand=(\d+)', url)
-        
         # Если совпадение найдено, вернем число, иначе None
         if not match:
-            raise ValueError("URL не содержит параметра fbrand или он некорректен.")
+            raise ValueError(
+                "URL не содержит параметра fbrand или он некорректен.")
         return int(match.group(1))
 
     params = {
@@ -76,19 +73,24 @@ def parseBrand(url:str):
         'spp': '1',
         'subject': '515',
     }
-    response = requests.get('https://catalog.wb.ru/catalog/electronic22/v2/catalog', params=params)
-    
+    response = requests.get(
+        'https://catalog.wb.ru/catalog/electronic22/v2/catalog', params=params, timeout=10)
     while response.status_code == 200:
         print(f"Parsing page {params['page']} ")
-        rawData = response.json()
-        parse_json(rawData)
+        raw_data = response.json()
+        parse_json(raw_data)
         params['page'] = str(int(params['page']) + 1)
-        response = requests.get('https://catalog.wb.ru/catalog/electronic22/v2/catalog', params=params)
+        response = requests.get(
+            'https://catalog.wb.ru/catalog/electronic22/v2/catalog', params=params, timeout=10)
 
 # def parseWBFeedbacks(id: str):
 
+
 if __name__ == "__main__":
-    brandId = 6049
-    brandId = 5772
-    parseBrand(f"https://www.wildberries.ru/catalog/elektronika/smartfony-i-telefony/vse-smartfony?sort=popular&fbrand={brandId}")
-    
+    # BRAND_ID = 6049
+    BRAND_ID = 5772
+    SORT = "popular"
+    parse_brand(
+        f"https://www.wildberries.ru/catalog/elektronika"
+        f"/smartfony-i-telefony/vse-smartfony?sort={SORT}&fbrand={BRAND_ID}"
+    )

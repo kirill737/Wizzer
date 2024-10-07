@@ -46,8 +46,7 @@ def parse_feedback_text(url):
         feedback_texts = [item.get_text(strip=True) for item in feedback_items]
 
         return feedback_texts
-    else:
-        return f"Ошибка {response.status_code} при запросе страницы"
+    return f"Ошибка {response.status_code} при запросе страницы"
 
 url = 'https://www.wildberries.ru/catalog/179740419/feedbacks?imtId=173747980&size=297218388'
 

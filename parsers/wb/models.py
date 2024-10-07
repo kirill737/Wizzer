@@ -1,14 +1,15 @@
-from pydantic import BaseModel, field_validator, model_validator
-from typing import List, Optional
-import re
-
+"""
+TEMPLATE DOCSTRING
+"""
+from typing import List
+from pydantic import BaseModel
 
 # Вспомогательные функции
 # def getModel(text):
 #     # Регулярное выражение для поиска модели iPhone, включая такие варианты, как "Pro Max", "mini", "Pro", и т.д.
 #     model_pattern = r"(iphone\s*(\d+|XS|SE|XR)?\s*(mini|pro max|pro max plus|pro|max|promax|plus)?\s*)"
 #     model_match = re.search(model_pattern, text, re.IGNORECASE)
-    
+
 #     if model_match:
 #         model = model_match.group(0).strip()
 #         return model.capitalize()
@@ -20,28 +21,36 @@ import re
 # def getMemory(text):
 #     memory_pattern = r"(\d+)\s*(gb|гб|tb|тб)"
 #     memory_match = re.search(memory_pattern, text, re.IGNORECASE)
-    
+
 #     if memory_match:
 #         memory_size = memory_match.group(1)
 #         memory_unit = memory_match.group(2).lower()
-        
+
 #         if memory_unit in ["gb", "гб"]:
 #             return f"{memory_size}GB"
 #         elif memory_unit in ["tb", "тб"]:
 #             return f"{memory_size}TB"
 #     else:
 #         return ""
-    
+
 #     return None
 
 # Модель для размеров (sizes)
+
+
 class Price(BaseModel):
     total: int
+
+
 class Size(BaseModel):
     price: Price
+
+
 class Color(BaseModel):
     name: str
 # Модель продукта
+
+
 class Product(BaseModel):
     brand: str
     brandId: int
@@ -58,22 +67,24 @@ class Product(BaseModel):
     # memory: Optional[str] = None
     # color: Optional[str] = None
     # price: Optional[float] = None
-    
-
     # Валидация fullname, model, memory
     # @model_validator(mode='before')
     # def process_fullname(cls, values):
     #     fullname = values.get('name', '')
     #     # values['model'] = getModel(fullname)
     #     # values['memory'] = getMemory(fullname)
-    #     # values['color'] = 
+    #     # values['color'] =
     #     return values
 
 # Модель данных, содержащая список продуктов
+
+
 class Data(BaseModel):
     products: List[Product]
 
 # Модель для входного JSON
+
+
 class InputJSON(BaseModel):
     state: int
     version: int
@@ -81,6 +92,8 @@ class InputJSON(BaseModel):
     data: Data
 
 # Модель для выходного JSON
+
+
 class OutputProduct(BaseModel):
     brand: str
     brandId: int
