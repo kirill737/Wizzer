@@ -35,4 +35,4 @@ def create_few_cards(url: str, cards_json: str, result_json: str,  cards_amount:
         json.dump(few_cards, result_file, ensure_ascii=False, indent=4)
 
 
-create_few_cards(URL, 'output.json', 'kirillu.json', 3)
+create_few_cards(URL, 'iphones.json', 'kirillu.json', 3)
