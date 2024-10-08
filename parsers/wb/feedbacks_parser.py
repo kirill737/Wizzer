@@ -14,7 +14,6 @@ def get_root_by_id(product_id: int) -> int:
             f"Wrong response code: {response.status_code}"
         )
     root_json = response.json()
-    print(type(root_json))
     try:
         root_value = root_json['data']['products'][0]['root']
         return root_value
@@ -53,4 +52,4 @@ def get_all_feedbacks(product_id: int) -> list[str]:
     return feedbacks
 
 
-print(get_all_feedbacks(177900370))
+# print(get_all_feedbacks(177900370))

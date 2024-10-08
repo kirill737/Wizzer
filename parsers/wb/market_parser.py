@@ -7,6 +7,8 @@ from pathlib import Path
 import requests
 from models import InputJSON, OutputProduct
 
+CATALOG_URL = 'https://catalog.wb.ru/catalog/electronic22/v2/catalog'
+OUTPUT_JSON = 'output.json'
 # Функция для загрузки существующих данных из output.json и их обновления
 
 
@@ -31,13 +33,12 @@ def add_data(file: str, data: list) -> None:
         json.dump(existing_data, f, ensure_ascii=False, indent=4)
 
 
-def parse_json(input_json: str) -> None:
+def parse_json(input_json: str, output_json: str) -> None:
     """
     Parsing
     """
     # Валидация входных данных через Pydantic
     input_data = InputJSON(**input_json)
-    output_file = "output.json"
     # Собираем данные для нового JSON
     output_products = []
     for product in input_data.data.products:
@@ -45,12 +46,12 @@ def parse_json(input_json: str) -> None:
         output_product = OutputProduct.from_product(product)
         output_products.append(output_product.model_dump())
     # Загрузка существующих данных
-    add_data(output_file, output_products)  # Загружаем существующие данные
+    add_data(output_json, output_products)  # Загружаем существующие данные
 
-    print(f"Данные успешно добавлены в JSON файл: {output_file}")
+    print(f"Данные успешно добавлены в JSON файл: {output_json}")
 
 
-def parse_brand(url: str) -> int:
+def parse_brand_by_url(url: str, output_json: str, pages_amount: int = 100):
     # Извлекает id бренда из ссылки на категорию
     def extract_fbrand_value(url: str) -> int:
         # Регулярное выражение для поиска числа после "fbrand="
@@ -74,23 +75,22 @@ def parse_brand(url: str) -> int:
         'subject': '515',
     }
     response = requests.get(
-        'https://catalog.wb.ru/catalog/electronic22/v2/catalog', params=params, timeout=10)
-    while response.status_code == 200:
+        CATALOG_URL, params=params, timeout=10)
+    while response.status_code == 200 and int(params['page']) <= pages_amount:
         print(f"Parsing page {params['page']} ")
         raw_data = response.json()
-        parse_json(raw_data)
+        parse_json(raw_data, output_json)
         params['page'] = str(int(params['page']) + 1)
         response = requests.get(
-            'https://catalog.wb.ru/catalog/electronic22/v2/catalog', params=params, timeout=10)
-
-# def parseWBFeedbacks(id: str):
+            CATALOG_URL, params=params, timeout=10)
 
 
 if __name__ == "__main__":
     # BRAND_ID = 6049
     BRAND_ID = 5772
     SORT = "popular"
-    parse_brand(
+    parse_brand_by_url(
         f"https://www.wildberries.ru/catalog/elektronika"
-        f"/smartfony-i-telefony/vse-smartfony?sort={SORT}&fbrand={BRAND_ID}"
+        f"/smartfony-i-telefony/vse-smartfony?sort={SORT}&fbrand={BRAND_ID}",
+        OUTPUT_JSON
     )
