@@ -1,0 +1,729 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 18,
+        "opinions": [
+            {
+                "id": "81d2493a-7b20-42e6-a626-5f423cba0c54",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "6e35564a-5bcd-e859-7c4c-36ab7be18873",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZI06886",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "83baff330a9551b7cdf2983269d73c67",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-30 06:14:48.467401",
+                "insertStampFormatted": "30.09.2024",
+                "updateStamp": "2024-09-30 06:14:48.467401",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "080f490f-c4ce-437b-9009-6977737af7e8",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "82979f51-12e8-a538-9550-b81f700372b6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IF7822",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5201d59aa1ca02bf2785713e1cdefcd6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 13:48:23.855011",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 13:48:23.855011",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f65a5a45-de6d-49aa-8c67-139bf872282f",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "fabe52b0-b53b-34ea-e372-d41175461111",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NES516636",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "06cbcc52fee9ddd45a9aea2154dc1665",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 06:35:00.633776",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 06:35:00.633776",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1783d84b-3fd0-4484-9910-884b64e128b6",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "c1bb072b-16ea-4e3d-b8c3-062d570b3fb8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Дмитрий Ник",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9bf28bb78acb94639b5074dd07767194",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-22 08:04:46.406193",
+                "insertStampFormatted": "22.05.2024",
+                "updateStamp": "2024-05-22 08:04:46.406193",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a9c10c16-768f-48b2-bfe6-3bf650528660",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "7855e419-6efa-e45e-0d62-89d624056b07",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AN27062",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8a040c2879bbd2b0c38ab2e12b9de7d9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-07 13:45:26.263089",
+                "insertStampFormatted": "07.03.2024",
+                "updateStamp": "2024-03-07 13:45:26.263089",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "54f9972a-aa2d-4dba-9bd5-2407e473d8e6",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "7b3b51a0-415b-62ab-4673-a38b4ceaf429",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BE83746",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "af12cd397a4a307b079be2de0acf702e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-08 15:25:15.975102",
+                "insertStampFormatted": "08.02.2024",
+                "updateStamp": "2024-02-08 15:25:30.657148",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "7344cb5a-b4fc-4caa-be82-59052cb12375",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "7b3c04a7-00c5-4a42-8d42-b678130c82bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAL23202",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-28 13:45:55.926826",
+                "insertStampFormatted": "28.01.2024",
+                "updateStamp": "2024-01-28 13:46:09.273891",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "16ce8488-5bf0-4936-be3e-f1eb18ad1196",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "df8fdc7a-39b9-45a3-9677-90408b2f8d17",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "покупатель в шоке",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "13149bc545bdb1049a5a592d419b81b3",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-09 06:16:29.036507",
+                "insertStampFormatted": "09.12.2023",
+                "updateStamp": "2023-12-09 06:16:29.036507",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1dd462db-c873-4949-b47a-666c36029330",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "f83078e5-294d-441c-8b9f-7f69e646161f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "pravitel83",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1f3cb7e5cacb71067c00aa31594cec87",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-09-23 11:04:41.586827",
+                "insertStampFormatted": "23.09.2023",
+                "updateStamp": "2023-09-23 11:04:41.586827",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "fd39c6e8-4d4b-42c0-b6c7-d6c3daded5b5",
+                "objectId": "54d86b10-34c5-11ed-901c-00155d8ed20b",
+                "objectUrl": "/product/54d86b1034c5ed20/61-smartfon-apple-iphone-13-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ белый",
+                "user": {
+                    "id": "45089dc5-aa05-432b-b0d0-b2109bebd5ca",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "sergei1212",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3c133ac6dd172f830c6f329824c4c8bd",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-14 14:14:25.912874",
+                "insertStampFormatted": "14.07.2023",
+                "updateStamp": "2023-07-14 14:14:25.912874",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 16
+            }
+        },
+        "topId": "cd1a83ae-8f95-4bf1-ba07-aa2ccace94d3"
+    },
+    "message": "",
+    "errors": []
+}

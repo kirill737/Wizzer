@@ -1,0 +1,4373 @@
+{
+    "assets": {
+        "inlineJs": {
+            "7c2d70ae8bcfea04649fdde7e4cd6a57": "window.AjaxState.register([[{\"type\":\"characteristics-description\",\"timeout\":10},[{\"id\":\"as-HOPlvQ\",\"data\":{\"id\":\"3u\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-fc-yNO\",\"data\":{\"id\":\"2dx\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-IuTi0e\",\"data\":{\"id\":\"44\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-USmRh_\",\"data\":{\"id\":\"48j\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-NpTzmX\",\"data\":{\"id\":\"al\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-1bpcFv\",\"data\":{\"id\":\"6h\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-p51Y9H\",\"data\":{\"id\":\"4a\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-21u-l7\",\"data\":{\"id\":\"2ft\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-JzU6vO\",\"data\":{\"id\":\"1q\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-YcQ7ic\",\"data\":{\"id\":\"4h\",\"categoryUid\":\"17a8a01d16404e77\"}},{\"id\":\"as-NLf3uT\",\"data\":{\"id\":\"25s\",\"categoryUid\":\"17a8a01d16404e77\"}}],false]]);"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/10/1xya992/ajax-state-characteristics-description.js",
+            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": false,
+    "data": {
+        "blocks": {
+            "search": [
+                {
+                    "query": null,
+                    "type": "search",
+                    "id": "q",
+                    "label": "Поиск по категории",
+                    "description": null
+                }
+            ],
+            "avails": [
+                {
+                    "variants": [
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [
+                                "Мега белая дача",
+                                "дача",
+                                "белая",
+                                "мега",
+                                "котельники"
+                            ],
+                            "id": "4930",
+                            "label": "DNS Мега Белая Дача",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Петровский парк",
+                            "metroColor": "#88CDCF",
+                            "keywords": [],
+                            "id": "5827",
+                            "label": "DNS Москва ВТБ Арена",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Селигерская",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "1672",
+                            "label": "DNS Москва ТРЦ «XL»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Улица Старокачаловская",
+                            "metroColor": "#BAC8E8",
+                            "keywords": [],
+                            "id": "4058",
+                            "label": "DNS Москва ТЦ «Круг»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Водный стадион",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "5915",
+                            "label": "DNS Москва ТЦ Водный",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Савеловская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "721",
+                            "label": "DNS ТК «Савёловский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Алтуфьево",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5706",
+                            "label": "DNS ТЦ «ВЕСНА»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "3588",
+                            "label": "DNS ТЦ «РИО»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "6779",
+                            "label": "DNS м.Котельники",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Митино",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "6728",
+                            "label": "DNS м. Митино",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Пятницкое шоссе",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "4890",
+                            "label": "DNS м. Пятницкое ш.",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Деловой центр",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "4891",
+                            "label": "«Афимолл Сити»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бунинская аллея",
+                            "metroColor": "#BAC8E8",
+                            "keywords": [],
+                            "id": "5505",
+                            "label": "Бунинская Аллея",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Багратионовская",
+                            "metroColor": "#1EBCEF",
+                            "keywords": [],
+                            "id": "2966",
+                            "label": "Горбушкин двор",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Партизанская",
+                            "metroColor": "#0072BA",
+                            "keywords": [
+                                "Измайлово",
+                                "Партизанская",
+                                "Первомайская",
+                                "Измайловская",
+                                "Шоссе",
+                                "Щелковское шоссе",
+                                "Соколиная гора"
+                            ],
+                            "id": "5001",
+                            "label": "Измайловский Пассаж",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Шоссе Энтузиастов",
+                            "metroColor": "#F9BCD1",
+                            "keywords": [],
+                            "id": "2876",
+                            "label": "КЦ «Буденовский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Проспект Вернадского",
+                            "metroColor": "#E42313",
+                            "keywords": [],
+                            "id": "5579",
+                            "label": "Ленинский пр-кт, 99",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Лухмановская",
+                            "metroColor": "#CC0066",
+                            "keywords": [],
+                            "id": "5192",
+                            "label": "Лухмановский Пассаж",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Молодежная",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "7109",
+                            "label": "МФК Кунцево Плаза",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Сокол",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "4670",
+                            "label": "Метромаркет м.Сокол",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Рабочий Посёлок",
+                            "metroColor": "#F5A528",
+                            "keywords": [],
+                            "id": "5227",
+                            "label": "Можайское шоссе 39",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Алтуфьево",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "4194",
+                            "label": "Москва «м.Алтуфьево»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Свиблово",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "4501",
+                            "label": "Москва БЦ «Снежная»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Крестьянская застава",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "6744",
+                            "label": "Москва БЦ Сотый",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Говорово",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "6833",
+                            "label": "Москва Говорово",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Коммунарка",
+                            "metroColor": "#E42313",
+                            "keywords": [],
+                            "id": "5819",
+                            "label": "Москва Коммунарка",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "5408",
+                            "label": "Москва Малыгина 7",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Рассказовка",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "5981",
+                            "label": "Москва Рассказовка",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Солнцево",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "5997",
+                            "label": "Москва Солнцево",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "4633",
+                            "label": "Москва Солнцево Парк",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Ростокино",
+                            "metroColor": "#CC4C6E",
+                            "keywords": [],
+                            "id": "5746",
+                            "label": "Москва ТРК Европолис",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Жулебино",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "3083",
+                            "label": "Москва ТРЦ «МИЛЯ»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Лианозово",
+                            "metroColor": "#F5A528",
+                            "keywords": [],
+                            "id": "6149",
+                            "label": "Москва ТРЦ Зиг-Заг",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Кузьминки",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "6877",
+                            "label": "Москва ТРЦ Кузьминки",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Саларьево",
+                            "metroColor": "#E42313",
+                            "keywords": [],
+                            "id": "5045",
+                            "label": "Москва ТРЦ Саларис",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Алтуфьево",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "4794",
+                            "label": "Москва ТЦ «Будапешт»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Дмитровская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5007",
+                            "label": "Москва ТЦ «Парк 11»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Петровско-Разумовская",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "3905",
+                            "label": "Москва ТЦ «Парус»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Выставочный центр",
+                            "metroColor": "#006DA8",
+                            "keywords": [],
+                            "id": "6921",
+                            "label": "Москва ТЦ«РМ» м.ВДНХ",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Речной вокзал",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "5153",
+                            "label": "Москва ТЦ «Флотилия»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Тушинская",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "7051",
+                            "label": "Москва ТЦ Авиатор",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Пражская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "6764",
+                            "label": "Москва ТЦ АрмадаХоум",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Отрадное",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5944",
+                            "label": "Москва ТЦ Байконур",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Тимирязевская",
+                            "metroColor": "#006DA8",
+                            "keywords": [],
+                            "id": "4957",
+                            "label": "Москва ТЦ Депо Молл",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бауманская",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "7141",
+                            "label": "Москва ТЦ Елоховский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Марьина Роща",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "2778",
+                            "label": "Москва ТЦ Капитолий",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Озёрная",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "6852",
+                            "label": "Москва ТЦ Кувшинка",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бабушкинская",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "6947",
+                            "label": "Москва ТЦ Орион",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Охотный ряд",
+                            "metroColor": "#E42313",
+                            "keywords": [],
+                            "id": "6623",
+                            "label": "МоскваТЦ Охотный ряд",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Шипиловская",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "6715",
+                            "label": "Москва ТЦ Столица",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Речной вокзал",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "3973",
+                            "label": "Москва ТЦ У Речного",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бульвар Адмирала Ушакова",
+                            "metroColor": "#BAC8E8",
+                            "keywords": [],
+                            "id": "3666",
+                            "label": "Москва Южное Бутово",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Медведково",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "6664",
+                            "label": "Москва м.Медведково",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Перово",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "6822",
+                            "label": "Москва метро Перово",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Новопеределкино",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "6692",
+                            "label": "Новопеределкино М30",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Первомайская",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "6986",
+                            "label": "Первомайский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Планерная",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "5263",
+                            "label": "ТПУ Планерная",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Дубровка",
+                            "metroColor": "#F9BCD1",
+                            "keywords": [
+                                "mozaica",
+                                "mozaika",
+                                "мозайка"
+                            ],
+                            "id": "2944",
+                            "label": "ТРК Мозаика",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Октябрьское поле",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "5832",
+                            "label": "ТРК Пятая Авеню",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Пражская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [
+                                "колумбус",
+                                "торговый центр Колумбус"
+                            ],
+                            "id": "3202",
+                            "label": "ТРЦ «COLUMBUS»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Севастопольская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "3572",
+                            "label": "ТРЦ «Азовский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Братиславская",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "3015",
+                            "label": "ТРЦ «БУМ»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Алма-Атинская",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "2882",
+                            "label": "ТРЦ «БраVо»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Коломенская",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "5658",
+                            "label": "ТРЦ «Нора»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Щелковская",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "4529",
+                            "label": "ТРЦ «Щёлковский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Тропарево",
+                            "metroColor": "#E42313",
+                            "keywords": [],
+                            "id": "6098",
+                            "label": "ТРЦ Галеон",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Косино",
+                            "metroColor": "#CC0066",
+                            "keywords": [],
+                            "id": "5697",
+                            "label": "ТРЦ Город Косино",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Киевская",
+                            "metroColor": "#915133",
+                            "keywords": [],
+                            "id": "5314",
+                            "label": "ТРЦ Европейский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Домодедовская",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "5031",
+                            "label": "ТРЦ Каширская Плаза",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Славянский бульвар",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "5967",
+                            "label": "ТРЦ Океания ПВЗ",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Теплый Стан",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "5102",
+                            "label": "ТРЦ Принц Плаза",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Нагатинская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "6907",
+                            "label": "ТЦ For You",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Зябликово",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "3544",
+                            "label": "ТЦ «W» Елецкая",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "3529",
+                            "label": "ТЦ «W Бирюлевская»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Выхино",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "3788",
+                            "label": "ТЦ «Вешняки»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Площадь Гагарина",
+                            "metroColor": "#CC4C6E",
+                            "keywords": [],
+                            "id": "4663",
+                            "label": "ТЦ «Гагаринский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Южная",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "4557",
+                            "label": "ТЦ «Глобал Сити»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Нагорная",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5420",
+                            "label": "ТЦ «Грай»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Крылатское",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "4499",
+                            "label": "ТЦ «Крылатский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [
+                                "Лес",
+                                "Хабаровская"
+                            ],
+                            "id": "5680",
+                            "label": "ТЦ «ЛЕС»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "4929",
+                            "label": "ТЦ «Океан»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Улица Академика Янгеля",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5311",
+                            "label": "ТЦ «Сомбреро»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Раменки",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "3972",
+                            "label": "ТЦ «Тиара»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Ясенево",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "4138",
+                            "label": "ТЦ «Форт Ясенево»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Марксистская",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "2314",
+                            "label": "ТЦ «Шоколад»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Беляево",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "3006",
+                            "label": "ТЦ «Шоколад Беляево»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Кантемировская",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "4854",
+                            "label": "ТЦ «Эльбрус»",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бунинская аллея",
+                            "metroColor": "#BAC8E8",
+                            "keywords": [],
+                            "id": "6367",
+                            "label": "ТЦ Бутово Молл",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Варшавская",
+                            "metroColor": "#88CDCF",
+                            "keywords": [],
+                            "id": "6409",
+                            "label": "ТЦ Варшавский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Новокосино",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "4648",
+                            "label": "ТЦ Виктория",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [
+                                "Волгоградка",
+                                "Академика Скрябина",
+                                "Юных Ленинцев",
+                                "Федора Полетаева",
+                                "Рязанский Проспект",
+                                "Кузьминки",
+                                "Сормовский пр-д"
+                            ],
+                            "id": "4937",
+                            "label": "ТЦ Волгоградский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Новослободская",
+                            "metroColor": "#915133",
+                            "keywords": [],
+                            "id": "5098",
+                            "label": "ТЦ Дружба",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Новогиреево",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "5312",
+                            "label": "ТЦ Киргизия",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Шаболовская",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "7047",
+                            "label": "ТЦ Конкорд Маркет",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бибирево",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5266",
+                            "label": "ТЦ Лента м.Бибирево",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Люблино",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "4539",
+                            "label": "ТЦ Люблино",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Марьино",
+                            "metroColor": "#BED12C",
+                            "keywords": [],
+                            "id": "2787",
+                            "label": "ТЦ Марьинский Пассаж",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Филевский парк",
+                            "metroColor": "#1EBCEF",
+                            "keywords": [],
+                            "id": "5099",
+                            "label": "ТЦ Мини-Молл",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Беговая",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "6733",
+                            "label": "ТЦ На Беговой",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Арбатская",
+                            "metroColor": "#1EBCEF",
+                            "keywords": [],
+                            "id": "6770",
+                            "label": "ТЦ Новоарбатский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Сходненская",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "7092",
+                            "label": "ТЦ Оранжевый мир",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Владыкино",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "5216",
+                            "label": "ТЦ ПаркХаусВладыкино",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Перово",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "4664",
+                            "label": "ТЦ Перово Молл",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Сокольники",
+                            "metroColor": "#E42313",
+                            "keywords": [],
+                            "id": "6593",
+                            "label": "ТЦ Сокольники",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Профсоюзная",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "6731",
+                            "label": "ТЦ Триумфальный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "6576",
+                            "label": "ТЦ Щелково",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Бульвар Рокоссовского",
+                            "metroColor": "#E42313",
+                            "keywords": [
+                                "Янтарь",
+                                "Место встречи",
+                                "Кинотеатр Янтарь",
+                                "Открытое шоссе",
+                                "Бульвар рокоссовского",
+                                "Перекресток"
+                            ],
+                            "id": "4673",
+                            "label": "ТЦ Янтарь",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Автозаводская",
+                            "metroColor": "#4FB04F",
+                            "keywords": [],
+                            "id": "3963",
+                            "label": "ТЦ м. Автозаводская",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Комсомольская",
+                            "metroColor": "#915133",
+                            "keywords": [],
+                            "id": "3825",
+                            "label": "Универмаг Московский",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Улица 1905 года",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "4672",
+                            "label": "Электроника наПресне",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [
+                                "Ярославка",
+                                "Ярославское",
+                                "Москва",
+                                "Москва ярославское шоссе",
+                                "Шоссе",
+                                "ярик",
+                                "москва",
+                                "мск"
+                            ],
+                            "id": "4671",
+                            "label": "Ярославское шоссе 54",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Хорошево",
+                            "metroColor": "#CC4C6E",
+                            "keywords": [],
+                            "id": "5333",
+                            "label": "м.Народное Ополчение",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Рязанский проспект",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "6904",
+                            "label": "м.Рязанский проспект",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Щукинская",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "6912",
+                            "label": "м. Щукинская ГИПЕР",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Электрозаводская",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "375",
+                            "label": "м. Электрозаводская",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Алексеевская",
+                            "metroColor": "#F07E24",
+                            "keywords": [],
+                            "id": "6751",
+                            "label": "метро Алексеевская",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Семеновская",
+                            "metroColor": "#0072BA",
+                            "keywords": [
+                                "dns",
+                                "dns-shop",
+                                "днс",
+                                "вты",
+                                "lyc"
+                            ],
+                            "id": "5930",
+                            "label": "метро Семёновская",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Чертановская",
+                            "metroColor": "#ADACAC",
+                            "keywords": [],
+                            "id": "6899",
+                            "label": "метро Чертановская",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Выхино",
+                            "metroColor": "#943E90",
+                            "keywords": [],
+                            "id": "4170",
+                            "label": "метро Юго-Восточная",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Строгино",
+                            "metroColor": "#0072BA",
+                            "keywords": [],
+                            "id": "4146",
+                            "label": "на Таллинской",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Мичуринский проспект",
+                            "metroColor": "#FFCD1C",
+                            "keywords": [],
+                            "id": "5250",
+                            "label": "на Удальцова",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3327",
+                            "label": "Апрелевка ТЦ Мелодия",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5494",
+                            "label": "Балашиха, Пионерская",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4600",
+                            "label": "Балашиха мкр Купавна",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3880",
+                            "label": "Железнодор. Конфитюр",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6302",
+                            "label": "Железнодор. Кучино",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6678",
+                            "label": "Железнодор. Павлино",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "874",
+                            "label": "Железнодор. Юнион",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3577",
+                            "label": "Железнодорожный Заря",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3404",
+                            "label": "Люксор",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6582",
+                            "label": "Новоизмайловский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4171",
+                            "label": "ТЦ Заречье ГИПЕР",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6648",
+                            "label": "ТЦ МаксСити",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4646",
+                            "label": "DNS Белоозерский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4203",
+                            "label": "DNS Бронницы",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4638",
+                            "label": "ТЦ Бутово Парк",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [
+                                "ДНС",
+                                "DNS",
+                                "LYC",
+                                "ДНС Видное",
+                                "DNS Видное",
+                                "ДНС Видное на Березовой",
+                                "DNS Видное на Березовой"
+                            ],
+                            "id": "6124",
+                            "label": "Видное на Берёзовой",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3940",
+                            "label": "ТРЦ «Галерея 9-18»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4652",
+                            "label": "DNS ТЦ «Кооператор»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3562",
+                            "label": "Воскресенск Атриум",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4488",
+                            "label": "ТЦ Воскресенск ГИПЕР",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3773",
+                            "label": "DNS Голицыно",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3983",
+                            "label": "DNS Дедовск",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3331",
+                            "label": "Дзержинский ТК «ДАР»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [
+                                "Дмитров Гипер",
+                                "Дмитров Центр",
+                                "ДНС Центр",
+                                "ДНС Гипер",
+                                "DNS Центр",
+                                "DNS Гипер"
+                            ],
+                            "id": "3958",
+                            "label": "ТРЦ Центр",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6143",
+                            "label": "ТЦ НОРД",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6841",
+                            "label": "ТЦ Центральный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4668",
+                            "label": "Домодедово ТЦ Солис",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6659",
+                            "label": "Домодедово ТЦ Стайер",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "1695",
+                            "label": "ТЦ «Торговый город»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "2895",
+                            "label": "Дубна «Терминал Б»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "2983",
+                            "label": "Егорьевск Панорама",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4145",
+                            "label": "Егорьевск ТЦ Янтарь",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4826",
+                            "label": "ТЦ Ермолино",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5566",
+                            "label": "Жуковский ТЦ Авиатор",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3846",
+                            "label": "Жуковский ТЦ Взлет",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "7100",
+                            "label": "Зарайск на Ленинской",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4252",
+                            "label": "DNS Звенигород",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5648",
+                            "label": "DNS ТЦ «Иридиум»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5411",
+                            "label": "DNS ТЦ «Юность»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6426",
+                            "label": "DNS ТЦ Зеленопарк",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5423",
+                            "label": "DNS ТЦ Энергия",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6832",
+                            "label": "Зеленоград ТЦ«Киоск»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [
+                                "Крюково днс",
+                                "Крюково"
+                            ],
+                            "id": "3265",
+                            "label": "ТЦ «Зеленоградский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4512",
+                            "label": "ТЦ «Кубик»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "7138",
+                            "label": "Истра ул. ЛЕНИНА",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6125",
+                            "label": "Кашира ТД Ока",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5802",
+                            "label": "Кашира на Садовой",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "627",
+                            "label": "Клин «на Гагарина»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3185",
+                            "label": "Коломна ТЦ «Лента»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "561",
+                            "label": "Коломна ТЦ «Рио»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4601",
+                            "label": "Коломна ТЦ Радужный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4173",
+                            "label": "ТЦ «Вертикаль»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "1489",
+                            "label": "ТЦ «Номер 1»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3587",
+                            "label": "ТЦ «СИТИ»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4185",
+                            "label": "DNS Красково",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4590",
+                            "label": "на Академика Янгеля",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6427",
+                            "label": "Красногорск ТРЦ Июнь",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5352",
+                            "label": "ТЦ «Красногорский»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3792",
+                            "label": "Краснознаменск",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5016",
+                            "label": "Кубинка ТЦ «Куб»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4157",
+                            "label": "ОДЦ «Гранд»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4643",
+                            "label": "ТЦ «Лесной»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4491",
+                            "label": "ТЦ «Орион»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3737",
+                            "label": "ТЦ «Катюшки»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5396",
+                            "label": "ТЦ Ника",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4883",
+                            "label": "Лопатино ТЦ «Аструм»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4995",
+                            "label": "на Кирова",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3904",
+                            "label": "Луховицы ТЦ «Кадо»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [
+                                "справа от  детского мира"
+                            ],
+                            "id": "4667",
+                            "label": "Лыткарино ТРЦ Весна",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4651",
+                            "label": "Люберцы ТК «Комфорт»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3195",
+                            "label": "Люберцы ТРЦ «Орбита»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5978",
+                            "label": "Люберцы ТРЦ Выходной",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3041",
+                            "label": "Люберцы ТЦ «Гренада»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3915",
+                            "label": "Люберцы пр-кт Победы",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3612",
+                            "label": "DNS Малаховка",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5817",
+                            "label": "Михнево",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [
+                                "ДНС",
+                                "купить смартфон",
+                                "Купить айфон",
+                                "бытовая техника",
+                                "цифровая техника",
+                                "электроинструмент"
+                            ],
+                            "id": "3662",
+                            "label": "Можайск ТЦ «Спектр»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4284",
+                            "label": "Столица Московский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6184",
+                            "label": "ТРК Красный Кит",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3989",
+                            "label": "ТЦ 4Дейли",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6110",
+                            "label": "ТЦ XL",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6922",
+                            "label": "ТЦ Июнь",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6148",
+                            "label": "ТЦ Перловский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6795",
+                            "label": "Наро-Фоминск Арена",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3324",
+                            "label": "Наро-Фоминск Каравай",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3594",
+                            "label": "Нахабино ТЦ Элизиум",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4290",
+                            "label": "Новохаритоново",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5818",
+                            "label": "Окей ГИПЕР",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3580",
+                            "label": "ТЦ Ногинский ГИПЕР",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4649",
+                            "label": "ТЦ Союз",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5135",
+                            "label": "ТД Домино",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4636",
+                            "label": "Лесной Городок",
+                            "count": null
+                        },
+                        {
+                            "metroName": "Немчиновка",
+                            "metroColor": "#F5A528",
+                            "keywords": [
+                                "Марфино",
+                                "Одинцово",
+                                "Сколково",
+                                "Новоивановское",
+                                "Немчиновка"
+                            ],
+                            "id": "5498",
+                            "label": "Марфино АШАН",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4001",
+                            "label": "Одинцово ТЦ «О'Парк»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6881",
+                            "label": "Одинцово ТЦ Курс",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5046",
+                            "label": "Одинцово Трёхгорка",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "784",
+                            "label": "Одинцовское Подворье",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4665",
+                            "label": "Озёры ТЦ «Магнум»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "1529",
+                            "label": "ТЦ «Орех»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3573",
+                            "label": "ТЦ Никольский ГИПЕР",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5954",
+                            "label": "DNS Павловская слоб.",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6635",
+                            "label": "ТЦ Павловский Посад",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "1706",
+                            "label": "ТЦ Покровский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4632",
+                            "label": "ЗнамяОктября Рязан.ш",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6580",
+                            "label": "Климовск ТЦ ГранСити",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3339",
+                            "label": "Подольск «на Родине»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [
+                                "Корстон",
+                                "Остров сокровищ",
+                                "Ленинград"
+                            ],
+                            "id": "4669",
+                            "label": "Подольск ТЦ Корстон",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6349",
+                            "label": "Подольск Центральный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3409",
+                            "label": "Протвино ТЦ «Слава»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5796",
+                            "label": "DNS Путилково",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3312",
+                            "label": "Пушкино ТРЦ Победа",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4199",
+                            "label": "Пущино ТЦ «Талисман»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6573",
+                            "label": "DNS Быково",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4347",
+                            "label": "Островцы ТЦ Моймолл",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4943",
+                            "label": "Раменское Солнечный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5287",
+                            "label": "Раменское Холодово",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4645",
+                            "label": "ТЦ «Апельсин»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5590",
+                            "label": "ТРЦ Реутов Парк",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "2049",
+                            "label": "ТРЦ Шоколад",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5831",
+                            "label": "ТЦ Карат",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4634",
+                            "label": "Центральный рынок",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3982",
+                            "label": "DNS Руза",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5445",
+                            "label": "«Лофт Паркинг»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3499",
+                            "label": "Селятино",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3086",
+                            "label": "ТРК «Счастливая 7Я»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5244",
+                            "label": "ТЦ ТИМА",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4208",
+                            "label": "Серебряные Пруды",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3068",
+                            "label": "Серпухов ТРЦ Б-КЛАСС",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [
+                                "Атлас"
+                            ],
+                            "id": "5618",
+                            "label": "Серпухов ТЦ «Атлас»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5898",
+                            "label": "ТЦ Торговые ряды",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4629",
+                            "label": "DNS Солнечногорск",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3270",
+                            "label": "ТЦ Шоколад",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6673",
+                            "label": "Ступино ТЦ Райпо",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3408",
+                            "label": "Талдом ТЦ «Юность»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4248",
+                            "label": "Томилино ТЦ Планета",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3815",
+                            "label": "Троицк на Городской",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4285",
+                            "label": "DNS Тучково",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "1664",
+                            "label": "Фрязино ТЦ «Чижово»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4266",
+                            "label": "ТЦ Аксеново",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6767",
+                            "label": "DNS Левобережный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "6141",
+                            "label": "DNS Сходня",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4299",
+                            "label": "DNS ТРЦ МЕГА Химки",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5795",
+                            "label": "DNS Химки ТЦ «Лига»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3799",
+                            "label": "Хотьково ТЦ Любимый",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4251",
+                            "label": "Школьный бульвар",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3736",
+                            "label": "«На Симферопольском»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "7099",
+                            "label": "Чехов ТК Чеховский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3196",
+                            "label": "Шатура ТРЦ Радужный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": "#D10000",
+                            "keywords": [],
+                            "id": "4635",
+                            "label": "DNS Шаховская",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "2947",
+                            "label": "Щелково «Дом Быта»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "1707",
+                            "label": "Щелково ТРЦ «Ладья»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5160",
+                            "label": "Щёлково Чкаловский",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3814",
+                            "label": "Щербинка ТД «Максим»",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3372",
+                            "label": "Центральный Рынок",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "4650",
+                            "label": "ТРЦ Парк Плаза",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "5464",
+                            "label": "ТЦ Центральный",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "7045",
+                            "label": "ТЦ Эльград",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "3884",
+                            "label": "ТЦ Прайд",
+                            "count": null
+                        },
+                        {
+                            "metroName": null,
+                            "metroColor": null,
+                            "keywords": [],
+                            "id": "6875",
+                            "label": "пл.Генерала Кузнецов",
+                            "count": null
+                        }
+                    ],
+                    "selected": [],
+                    "type": "shops",
+                    "id": "shop-catalog",
+                    "label": "Магазины",
+                    "description": null
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "now",
+                            "label": "В наличии",
+                            "count": null
+                        },
+                        {
+                            "id": "today",
+                            "label": "Под заказ: сегодня",
+                            "count": null
+                        },
+                        {
+                            "id": "tomorrow",
+                            "label": "Под заказ: завтра",
+                            "count": null
+                        },
+                        {
+                            "id": "later",
+                            "label": "Под заказ: позже",
+                            "count": null
+                        },
+                        {
+                            "id": "out_of_stock",
+                            "label": "Отсутствующие в продаже",
+                            "count": null
+                        }
+                    ],
+                    "selected": [],
+                    "default": [
+                        "now",
+                        "today",
+                        "tomorrow",
+                        "later"
+                    ],
+                    "type": "checkbox",
+                    "id": "stock",
+                    "label": "Наличие",
+                    "description": null
+                }
+            ],
+            "left": [
+                {
+                    "count": 150,
+                    "selected": false,
+                    "hint": null,
+                    "type": "toggle",
+                    "id": "rating",
+                    "label": "Рейтинг 4 и выше",
+                    "description": null
+                },
+                {
+                    "count": 0,
+                    "selected": false,
+                    "hint": "минимум обращений в сервис",
+                    "type": "toggle",
+                    "id": "rely",
+                    "label": "Надёжные модели",
+                    "description": null
+                },
+                {
+                    "count": 88,
+                    "selected": false,
+                    "hint": null,
+                    "type": "toggle",
+                    "id": "review",
+                    "label": "Есть обзор",
+                    "description": null
+                },
+                {
+                    "variants": [
+                        {
+                            "min": null,
+                            "max": 10000,
+                            "id": "05a260cb1c02af6a5fba32e8cbf2e715",
+                            "label": "Менее 10 000 ₽",
+                            "count": 0
+                        },
+                        {
+                            "min": 10001,
+                            "max": 18000,
+                            "id": "6fe60a792ba906017a8472be3ea9ab45",
+                            "label": "10 001 - 18 000 ₽",
+                            "count": 0
+                        },
+                        {
+                            "min": 18001,
+                            "max": 27000,
+                            "id": "94d3c76f75ab4384a99f966eb932baed",
+                            "label": "18 001 - 27 000 ₽",
+                            "count": 0
+                        },
+                        {
+                            "min": 27001,
+                            "max": 40000,
+                            "id": "ef55e886f139d1b4b78ea1001a69933d",
+                            "label": "27 001 - 40 000 ₽",
+                            "count": 0
+                        },
+                        {
+                            "min": 40001,
+                            "max": null,
+                            "id": "a0c869ef13542a4a63d4ee843c977939",
+                            "label": "40 001 ₽ и более",
+                            "count": 172
+                        }
+                    ],
+                    "min": 6999,
+                    "max": 229999,
+                    "minSelected": null,
+                    "maxSelected": null,
+                    "selected": [],
+                    "type": "range-checkbox",
+                    "id": "price",
+                    "label": "Цена",
+                    "description": null
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "vygodnyekomplekty",
+                            "label": "Выгодные комплекты",
+                            "count": 0
+                        },
+                        {
+                            "id": "rassrockailivygoda",
+                            "label": "Рассрочка или выгода",
+                            "count": 168
+                        },
+                        {
+                            "id": "skidkazasposoboplaty",
+                            "label": "Скидка за способ оплаты",
+                            "count": 0
+                        },
+                        {
+                            "id": "tovarysoskidkoj",
+                            "label": "Скидки и предложения",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "action",
+                    "label": "Акция",
+                    "description": null
+                },
+                {
+                    "top": [
+                        "apple",
+                        "samsung",
+                        "xiaomi",
+                        "honor",
+                        "realme",
+                        "tecno",
+                        "infinix"
+                    ],
+                    "variants": [
+                        {
+                            "id": "apple",
+                            "label": "Apple",
+                            "count": 172
+                        },
+                        {
+                            "id": "asus",
+                            "label": "ASUS",
+                            "count": 0
+                        },
+                        {
+                            "id": "blackview",
+                            "label": "Blackview",
+                            "count": 0
+                        },
+                        {
+                            "id": "cmfbynothing",
+                            "label": "CMF By Nothing",
+                            "count": 0
+                        },
+                        {
+                            "id": "coolpad",
+                            "label": "Coolpad",
+                            "count": 0
+                        },
+                        {
+                            "id": "google",
+                            "label": "Google",
+                            "count": 0
+                        },
+                        {
+                            "id": "honor",
+                            "label": "HONOR",
+                            "count": 0
+                        },
+                        {
+                            "id": "huawei",
+                            "label": "HUAWEI",
+                            "count": 0
+                        },
+                        {
+                            "id": "iiif150",
+                            "label": "IIIF150",
+                            "count": 0
+                        },
+                        {
+                            "id": "infinix",
+                            "label": "Infinix",
+                            "count": 0
+                        },
+                        {
+                            "id": "itel",
+                            "label": "itel",
+                            "count": 0
+                        },
+                        {
+                            "id": "kenshi",
+                            "label": "KENSHI",
+                            "count": 0
+                        },
+                        {
+                            "id": "motorola",
+                            "label": "Motorola",
+                            "count": 0
+                        },
+                        {
+                            "id": "nothing",
+                            "label": "Nothing",
+                            "count": 0
+                        },
+                        {
+                            "id": "nubia",
+                            "label": "Nubia",
+                            "count": 0
+                        },
+                        {
+                            "id": "oneplus",
+                            "label": "OnePlus",
+                            "count": 0
+                        },
+                        {
+                            "id": "oppo",
+                            "label": "OPPO",
+                            "count": 0
+                        },
+                        {
+                            "id": "oukitel",
+                            "label": "Oukitel",
+                            "count": 0
+                        },
+                        {
+                            "id": "poco",
+                            "label": "POCO",
+                            "count": 0
+                        },
+                        {
+                            "id": "realme",
+                            "label": "realme",
+                            "count": 0
+                        },
+                        {
+                            "id": "samsung",
+                            "label": "Samsung",
+                            "count": 0
+                        },
+                        {
+                            "id": "tecno",
+                            "label": "Tecno",
+                            "count": 0
+                        },
+                        {
+                            "id": "vivo",
+                            "label": "Vivo",
+                            "count": 0
+                        },
+                        {
+                            "id": "wigor",
+                            "label": "Wigor",
+                            "count": 0
+                        },
+                        {
+                            "id": "wiko",
+                            "label": "Wiko",
+                            "count": 0
+                        },
+                        {
+                            "id": "xiaomi",
+                            "label": "Xiaomi",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "brand",
+                    "label": "Производитель",
+                    "description": null
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "1qx",
+                            "label": "32 ГБ",
+                            "count": 0
+                        },
+                        {
+                            "id": "1qw",
+                            "label": "64 ГБ",
+                            "count": 0
+                        },
+                        {
+                            "id": "1qz",
+                            "label": "128 ГБ",
+                            "count": 59
+                        },
+                        {
+                            "id": "1qy",
+                            "label": "256 ГБ",
+                            "count": 67
+                        },
+                        {
+                            "id": "aqz",
+                            "label": "512 ГБ",
+                            "count": 36
+                        },
+                        {
+                            "id": "ghg",
+                            "label": "1024 ГБ",
+                            "count": 10
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[3u]",
+                    "label": "Объем встроенной памяти (ГБ)",
+                    "description": "<span id=\"as-HOPlvQ\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "21",
+                            "label": "есть",
+                            "count": 172
+                        },
+                        {
+                            "id": "cr",
+                            "label": "нет",
+                            "count": 0
+                        },
+                        {
+                            "id": "311",
+                            "label": "опционально",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[2dx]",
+                    "label": "NFC",
+                    "description": "<span id=\"as-fc-yNO\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "1ua",
+                            "label": "3 ГБ",
+                            "count": 0
+                        },
+                        {
+                            "id": "cv",
+                            "label": "4 ГБ",
+                            "count": 25
+                        },
+                        {
+                            "id": "d1",
+                            "label": "6 ГБ",
+                            "count": 57
+                        },
+                        {
+                            "id": "cw",
+                            "label": "8 ГБ",
+                            "count": 90
+                        },
+                        {
+                            "id": "d2",
+                            "label": "12 ГБ",
+                            "count": 0
+                        },
+                        {
+                            "id": "cx",
+                            "label": "16 ГБ",
+                            "count": 0
+                        },
+                        {
+                            "id": "aqo",
+                            "label": "24 ГБ",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[44]",
+                    "label": "Объем оперативной памяти (ГБ)",
+                    "description": "<span id=\"as-IuTi0e\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "h9dq",
+                            "label": "2024",
+                            "count": 46
+                        },
+                        {
+                            "id": "ben8",
+                            "label": "2023",
+                            "count": 79
+                        },
+                        {
+                            "id": "97qs",
+                            "label": "2022",
+                            "count": 26
+                        },
+                        {
+                            "id": "7rbv",
+                            "label": "2021",
+                            "count": 20
+                        },
+                        {
+                            "id": "43wg",
+                            "label": "2019",
+                            "count": 1
+                        },
+                        {
+                            "id": "1vqn",
+                            "label": "2018",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[48j]",
+                    "label": "Год релиза",
+                    "description": "<span id=\"as-USmRh_\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "3db",
+                            "label": "Android",
+                            "count": 852
+                        },
+                        {
+                            "id": "4pv",
+                            "label": "iOS",
+                            "count": 172
+                        }
+                    ],
+                    "selected": [
+                        "4pv"
+                    ],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[al]",
+                    "label": "Операционная система",
+                    "description": "<span id=\"as-NpTzmX\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "ia6z",
+                            "label": "ASUS ROG Phone 8",
+                            "count": 0
+                        },
+                        {
+                            "id": "i8w3",
+                            "label": "ASUS Zenfone 11 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "5n9q",
+                            "label": "Apple iPhone 11",
+                            "count": 1
+                        },
+                        {
+                            "id": "9ul3",
+                            "label": "Apple iPhone 13",
+                            "count": 24
+                        },
+                        {
+                            "id": "d9db",
+                            "label": "Apple iPhone 14",
+                            "count": 21
+                        },
+                        {
+                            "id": "dj94",
+                            "label": "Apple iPhone 14 Plus",
+                            "count": 1
+                        },
+                        {
+                            "id": "d9d8",
+                            "label": "Apple iPhone 14 Pro",
+                            "count": 1
+                        },
+                        {
+                            "id": "d9dd",
+                            "label": "Apple iPhone 14 Pro Max",
+                            "count": 2
+                        },
+                        {
+                            "id": "g3xn",
+                            "label": "Apple iPhone 15",
+                            "count": 19
+                        },
+                        {
+                            "id": "g3xl",
+                            "label": "Apple iPhone 15 Plus",
+                            "count": 13
+                        },
+                        {
+                            "id": "g3xf",
+                            "label": "Apple iPhone 15 Pro",
+                            "count": 20
+                        },
+                        {
+                            "id": "g3xi",
+                            "label": "Apple iPhone 15 Pro Max",
+                            "count": 24
+                        },
+                        {
+                            "id": "ijqf",
+                            "label": "Apple iPhone 16",
+                            "count": 14
+                        },
+                        {
+                            "id": "ijqh",
+                            "label": "Apple iPhone 16 Plus",
+                            "count": 8
+                        },
+                        {
+                            "id": "ijqi",
+                            "label": "Apple iPhone 16 Pro",
+                            "count": 14
+                        },
+                        {
+                            "id": "ijqg",
+                            "label": "Apple iPhone 16 Pro Max",
+                            "count": 10
+                        },
+                        {
+                            "id": "dtyj",
+                            "label": "Blackview BV7100",
+                            "count": 0
+                        },
+                        {
+                            "id": "g3y8",
+                            "label": "Blackview BV9200",
+                            "count": 0
+                        },
+                        {
+                            "id": "je2t",
+                            "label": "CMF Phone 1",
+                            "count": 0
+                        },
+                        {
+                            "id": "gs7m",
+                            "label": "Coolpad Cool 20+",
+                            "count": 0
+                        },
+                        {
+                            "id": "ha1e",
+                            "label": "Google Pixel 8",
+                            "count": 0
+                        },
+                        {
+                            "id": "ha22",
+                            "label": "Google Pixel 8 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "ke4z",
+                            "label": "Google Pixel 9",
+                            "count": 0
+                        },
+                        {
+                            "id": "kepi",
+                            "label": "Google Pixel 9 Pro XL",
+                            "count": 0
+                        },
+                        {
+                            "id": "g5nd",
+                            "label": "HONOR 90 Lite",
+                            "count": 0
+                        },
+                        {
+                            "id": "kh3x",
+                            "label": "HONOR 90 Smart",
+                            "count": 0
+                        },
+                        {
+                            "id": "ijq1",
+                            "label": "HONOR 200",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2yk",
+                            "label": "HONOR 200 Lite",
+                            "count": 0
+                        },
+                        {
+                            "id": "i6sr",
+                            "label": "HONOR 200 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "hqk5",
+                            "label": "HONOR Magic6 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "hapv",
+                            "label": "HONOR Magic V2",
+                            "count": 0
+                        },
+                        {
+                            "id": "ga0w",
+                            "label": "HONOR X6a",
+                            "count": 0
+                        },
+                        {
+                            "id": "io9j",
+                            "label": "HONOR X6b",
+                            "count": 0
+                        },
+                        {
+                            "id": "fw0l",
+                            "label": "HONOR X7a Plus",
+                            "count": 0
+                        },
+                        {
+                            "id": "ggec",
+                            "label": "HONOR X7b",
+                            "count": 0
+                        },
+                        {
+                            "id": "erb0",
+                            "label": "HONOR X8a",
+                            "count": 0
+                        },
+                        {
+                            "id": "h5sm",
+                            "label": "HONOR X8b",
+                            "count": 0
+                        },
+                        {
+                            "id": "ggee",
+                            "label": "HONOR X9b",
+                            "count": 0
+                        },
+                        {
+                            "id": "fdlc",
+                            "label": "HUAWEI Mate X3",
+                            "count": 0
+                        },
+                        {
+                            "id": "fdcb",
+                            "label": "HUAWEI P60",
+                            "count": 0
+                        },
+                        {
+                            "id": "fdke",
+                            "label": "HUAWEI P60 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2t1",
+                            "label": "HUAWEI Pura 70",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2u7",
+                            "label": "HUAWEI Pura 70 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2ve",
+                            "label": "HUAWEI Pura 70 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "dqs7",
+                            "label": "HUAWEI nova 10 SE",
+                            "count": 0
+                        },
+                        {
+                            "id": "fr2d",
+                            "label": "HUAWEI nova 11",
+                            "count": 0
+                        },
+                        {
+                            "id": "fr2a",
+                            "label": "HUAWEI nova 11 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "hu6o",
+                            "label": "HUAWEI nova 12 SE",
+                            "count": 0
+                        },
+                        {
+                            "id": "hsko",
+                            "label": "HUAWEI nova 12i",
+                            "count": 0
+                        },
+                        {
+                            "id": "hud2",
+                            "label": "HUAWEI nova 12s",
+                            "count": 0
+                        },
+                        {
+                            "id": "e2gs",
+                            "label": "HUAWEI nova Y61",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyyb",
+                            "label": "HUAWEI nova Y72",
+                            "count": 0
+                        },
+                        {
+                            "id": "e73a",
+                            "label": "IIIF150 Air1",
+                            "count": 0
+                        },
+                        {
+                            "id": "e6zu",
+                            "label": "IIIF150 Air1 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "e6zw",
+                            "label": "IIIF150 Air1 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2yn",
+                            "label": "Infinix GT 20 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "ap49",
+                            "label": "Infinix HOT 11",
+                            "count": 0
+                        },
+                        {
+                            "id": "ds1b",
+                            "label": "Infinix HOT 20",
+                            "count": 0
+                        },
+                        {
+                            "id": "f6qk",
+                            "label": "Infinix HOT 30i",
+                            "count": 0
+                        },
+                        {
+                            "id": "gvpp",
+                            "label": "Infinix HOT 40",
+                            "count": 0
+                        },
+                        {
+                            "id": "gvpq",
+                            "label": "Infinix HOT 40 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "gvpl",
+                            "label": "Infinix HOT 40i",
+                            "count": 0
+                        },
+                        {
+                            "id": "keou",
+                            "label": "Infinix HOT 50",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyy0",
+                            "label": "Infinix NOTE 40",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyxw",
+                            "label": "Infinix NOTE 40 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2yo",
+                            "label": "Infinix NOTE 40 Pro+ 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "gvpm",
+                            "label": "Infinix SMART 8",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyy7",
+                            "label": "Infinix SMART 8 Plus",
+                            "count": 0
+                        },
+                        {
+                            "id": "hded",
+                            "label": "Infinix SMART 8 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "gswp",
+                            "label": "Infinix ZERO 30 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "k6v3",
+                            "label": "Infinix ZERO 40 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "gvvo",
+                            "label": "Itel A60s",
+                            "count": 0
+                        },
+                        {
+                            "id": "h2vj",
+                            "label": "Itel A70",
+                            "count": 0
+                        },
+                        {
+                            "id": "he8f",
+                            "label": "Itel P55",
+                            "count": 0
+                        },
+                        {
+                            "id": "he7w",
+                            "label": "Itel P55+",
+                            "count": 0
+                        },
+                        {
+                            "id": "igjv",
+                            "label": "Itel RS4",
+                            "count": 0
+                        },
+                        {
+                            "id": "huqg",
+                            "label": "Itel S24",
+                            "count": 0
+                        },
+                        {
+                            "id": "jmua",
+                            "label": "KENSHI Armor C1s",
+                            "count": 0
+                        },
+                        {
+                            "id": "hxv3",
+                            "label": "KENSHI Armor C1w",
+                            "count": 0
+                        },
+                        {
+                            "id": "jmu0",
+                            "label": "KENSHI Armor H1s",
+                            "count": 0
+                        },
+                        {
+                            "id": "k9dn",
+                            "label": "KENSHI Armor I1 Slim",
+                            "count": 0
+                        },
+                        {
+                            "id": "jmtw",
+                            "label": "KENSHI Armor I1w",
+                            "count": 0
+                        },
+                        {
+                            "id": "hztm",
+                            "label": "KENSHI Armor P1s",
+                            "count": 0
+                        },
+                        {
+                            "id": "j1w6",
+                            "label": "Motorola Edge 50 Fusion",
+                            "count": 0
+                        },
+                        {
+                            "id": "j1tl",
+                            "label": "Motorola Edge 50 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "i3qh",
+                            "label": "Motorola Moto G54",
+                            "count": 0
+                        },
+                        {
+                            "id": "j4rt",
+                            "label": "Motorola Moto G85",
+                            "count": 0
+                        },
+                        {
+                            "id": "ghkd",
+                            "label": "Motorola Razr 40 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "g4qv",
+                            "label": "Nothing Phone 2",
+                            "count": 0
+                        },
+                        {
+                            "id": "hru5",
+                            "label": "Nothing Phone 2a",
+                            "count": 0
+                        },
+                        {
+                            "id": "ghm0",
+                            "label": "Nubia Red Magic 8S Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "hlr1",
+                            "label": "Nubia Red Magic 9 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "gzm3",
+                            "label": "Nubia Z50S Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "hls6",
+                            "label": "Nubia Z60 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "jyu8",
+                            "label": "OPPO A3",
+                            "count": 0
+                        },
+                        {
+                            "id": "kepq",
+                            "label": "OPPO A3x",
+                            "count": 0
+                        },
+                        {
+                            "id": "guuu",
+                            "label": "OPPO A18",
+                            "count": 0
+                        },
+                        {
+                            "id": "gkt5",
+                            "label": "OPPO A38",
+                            "count": 0
+                        },
+                        {
+                            "id": "ahnf",
+                            "label": "OPPO A55",
+                            "count": 0
+                        },
+                        {
+                            "id": "ggms",
+                            "label": "OPPO A58",
+                            "count": 0
+                        },
+                        {
+                            "id": "j77j",
+                            "label": "OPPO A60",
+                            "count": 0
+                        },
+                        {
+                            "id": "g3sb",
+                            "label": "OPPO A78",
+                            "count": 0
+                        },
+                        {
+                            "id": "hjsy",
+                            "label": "OPPO Reno11 F 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "jbx5",
+                            "label": "OPPO Reno12 F 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "gito",
+                            "label": "OnePlus Ace 2 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "h3jd",
+                            "label": "OnePlus Nord 3",
+                            "count": 0
+                        },
+                        {
+                            "id": "8vqm",
+                            "label": "Oukitel K15 Plus",
+                            "count": 0
+                        },
+                        {
+                            "id": "apvb",
+                            "label": "Oukitel WP17",
+                            "count": 0
+                        },
+                        {
+                            "id": "dz8c",
+                            "label": "Oukitel WP19",
+                            "count": 0
+                        },
+                        {
+                            "id": "eyq3",
+                            "label": "Oukitel WP21",
+                            "count": 0
+                        },
+                        {
+                            "id": "exk4",
+                            "label": "Oukitel WP21 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "eyy4",
+                            "label": "Oukitel WP22",
+                            "count": 0
+                        },
+                        {
+                            "id": "fyx0",
+                            "label": "Oukitel WP26",
+                            "count": 0
+                        },
+                        {
+                            "id": "gpzf",
+                            "label": "Oukitel WP27",
+                            "count": 0
+                        },
+                        {
+                            "id": "d99k",
+                            "label": "POCO C40",
+                            "count": 0
+                        },
+                        {
+                            "id": "grx1",
+                            "label": "POCO C65",
+                            "count": 0
+                        },
+                        {
+                            "id": "cz5w",
+                            "label": "POCO F4",
+                            "count": 0
+                        },
+                        {
+                            "id": "fht0",
+                            "label": "POCO F5",
+                            "count": 0
+                        },
+                        {
+                            "id": "f82k",
+                            "label": "POCO F5 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2ym",
+                            "label": "POCO F6",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyym",
+                            "label": "POCO F6 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "d9pk",
+                            "label": "POCO M4",
+                            "count": 0
+                        },
+                        {
+                            "id": "dkff",
+                            "label": "POCO M5",
+                            "count": 0
+                        },
+                        {
+                            "id": "i2yl",
+                            "label": "POCO M6",
+                            "count": 0
+                        },
+                        {
+                            "id": "gmh2",
+                            "label": "POCO M6 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "edcm",
+                            "label": "POCO X5",
+                            "count": 0
+                        },
+                        {
+                            "id": "ejk4",
+                            "label": "POCO X5 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "grwx",
+                            "label": "POCO X6",
+                            "count": 0
+                        },
+                        {
+                            "id": "grx5",
+                            "label": "POCO X6 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "grwz",
+                            "label": "Samsung Galaxy A05",
+                            "count": 0
+                        },
+                        {
+                            "id": "gwkh",
+                            "label": "Samsung Galaxy A05s",
+                            "count": 0
+                        },
+                        {
+                            "id": "jzp1",
+                            "label": "Samsung Galaxy A06",
+                            "count": 0
+                        },
+                        {
+                            "id": "ev5m",
+                            "label": "Samsung Galaxy A14",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyyo",
+                            "label": "Samsung Galaxy A15",
+                            "count": 0
+                        },
+                        {
+                            "id": "h6r1",
+                            "label": "Samsung Galaxy A25 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "etbr",
+                            "label": "Samsung Galaxy A34 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "h6fq",
+                            "label": "Samsung Galaxy A35 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "h6fs",
+                            "label": "Samsung Galaxy A55 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "as5a",
+                            "label": "Samsung Galaxy S21 FE",
+                            "count": 0
+                        },
+                        {
+                            "id": "b0x6",
+                            "label": "Samsung Galaxy S22",
+                            "count": 0
+                        },
+                        {
+                            "id": "e99w",
+                            "label": "Samsung Galaxy S23",
+                            "count": 0
+                        },
+                        {
+                            "id": "gnfs",
+                            "label": "Samsung Galaxy S23 FE",
+                            "count": 0
+                        },
+                        {
+                            "id": "e99x",
+                            "label": "Samsung Galaxy S23 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyyu",
+                            "label": "Samsung Galaxy S24",
+                            "count": 0
+                        },
+                        {
+                            "id": "ka9u",
+                            "label": "Samsung Galaxy S24 FE",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyz3",
+                            "label": "Samsung Galaxy S24 Ultra",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyyk",
+                            "label": "Samsung Galaxy S24+",
+                            "count": 0
+                        },
+                        {
+                            "id": "9wxb",
+                            "label": "Samsung Galaxy Z Flip3",
+                            "count": 0
+                        },
+                        {
+                            "id": "iuwn",
+                            "label": "Samsung Galaxy Z Flip6",
+                            "count": 0
+                        },
+                        {
+                            "id": "g6zf",
+                            "label": "Samsung Galaxy Z Fold5",
+                            "count": 0
+                        },
+                        {
+                            "id": "isn6",
+                            "label": "Samsung Galaxy Z Fold6",
+                            "count": 0
+                        },
+                        {
+                            "id": "fq13",
+                            "label": "Tecno CAMON 20",
+                            "count": 0
+                        },
+                        {
+                            "id": "fpop",
+                            "label": "Tecno CAMON 20 Premier 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "fpo5",
+                            "label": "Tecno CAMON 20 Pro 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "fpoa",
+                            "label": "Tecno CAMON 20 Pro 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyxu",
+                            "label": "Tecno CAMON 30",
+                            "count": 0
+                        },
+                        {
+                            "id": "h27i",
+                            "label": "Tecno CAMON 30 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyyy",
+                            "label": "Tecno CAMON 30 Premier 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyxy",
+                            "label": "Tecno CAMON 30 Pro 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "kgvs",
+                            "label": "Tecno CAMON 30S",
+                            "count": 0
+                        },
+                        {
+                            "id": "k1cs",
+                            "label": "Tecno CAMON 30S Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "k41s",
+                            "label": "Tecno PHANTOM V Flip 2",
+                            "count": 0
+                        },
+                        {
+                            "id": "k3ub",
+                            "label": "Tecno PHANTOM V Fold 2",
+                            "count": 0
+                        },
+                        {
+                            "id": "ggiz",
+                            "label": "Tecno POVA 5 Pro 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "hbr2",
+                            "label": "Tecno POVA 6",
+                            "count": 0
+                        },
+                        {
+                            "id": "hbr3",
+                            "label": "Tecno POVA 6 Neo",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyy3",
+                            "label": "Tecno POVA 6 Pro 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "exk8",
+                            "label": "Tecno SPARK 10 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "exkb",
+                            "label": "Tecno SPARK 10C",
+                            "count": 0
+                        },
+                        {
+                            "id": "grxc",
+                            "label": "Tecno SPARK 20",
+                            "count": 0
+                        },
+                        {
+                            "id": "grx8",
+                            "label": "Tecno SPARK 20 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "gyyd",
+                            "label": "Tecno SPARK 20 Pro+",
+                            "count": 0
+                        },
+                        {
+                            "id": "grxa",
+                            "label": "Tecno SPARK 20C",
+                            "count": 0
+                        },
+                        {
+                            "id": "kcic",
+                            "label": "Tecno SPARK 30",
+                            "count": 0
+                        },
+                        {
+                            "id": "kh6z",
+                            "label": "Tecno SPARK 30 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "kjjp",
+                            "label": "Tecno SPARK 30 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "kci8",
+                            "label": "Tecno SPARK 30C",
+                            "count": 0
+                        },
+                        {
+                            "id": "k3bz",
+                            "label": "Tecno SPARK GO 1",
+                            "count": 0
+                        },
+                        {
+                            "id": "etbl",
+                            "label": "Tecno SPARK GO 2023",
+                            "count": 0
+                        },
+                        {
+                            "id": "gwc6",
+                            "label": "Tecno SPARK GO 2024",
+                            "count": 0
+                        },
+                        {
+                            "id": "gsz2",
+                            "label": "Vivo T2",
+                            "count": 0
+                        },
+                        {
+                            "id": "htwd",
+                            "label": "Vivo V30 Lite 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "i13p",
+                            "label": "Vivo V30e",
+                            "count": 0
+                        },
+                        {
+                            "id": "kaph",
+                            "label": "Vivo V40",
+                            "count": 0
+                        },
+                        {
+                            "id": "khuv",
+                            "label": "Vivo V40 Lite",
+                            "count": 0
+                        },
+                        {
+                            "id": "kht1",
+                            "label": "Vivo V40 Lite 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "htvc",
+                            "label": "Vivo Y03",
+                            "count": 0
+                        },
+                        {
+                            "id": "i13s",
+                            "label": "Vivo Y18",
+                            "count": 0
+                        },
+                        {
+                            "id": "git1",
+                            "label": "Vivo Y27",
+                            "count": 0
+                        },
+                        {
+                            "id": "hym2",
+                            "label": "Vivo Y28",
+                            "count": 0
+                        },
+                        {
+                            "id": "dqd2",
+                            "label": "WIKO 10",
+                            "count": 0
+                        },
+                        {
+                            "id": "50m5",
+                            "label": "Wigor V5",
+                            "count": 0
+                        },
+                        {
+                            "id": "bih3",
+                            "label": "Xiaomi 12",
+                            "count": 0
+                        },
+                        {
+                            "id": "clmp",
+                            "label": "Xiaomi 12 Lite",
+                            "count": 0
+                        },
+                        {
+                            "id": "gfp8",
+                            "label": "Xiaomi 13T",
+                            "count": 0
+                        },
+                        {
+                            "id": "grxg",
+                            "label": "Xiaomi 14",
+                            "count": 0
+                        },
+                        {
+                            "id": "ka9p",
+                            "label": "Xiaomi 14T",
+                            "count": 0
+                        },
+                        {
+                            "id": "kd4l",
+                            "label": "Xiaomi 14T Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "ka4s",
+                            "label": "Xiaomi Mix Flip",
+                            "count": 0
+                        },
+                        {
+                            "id": "cfpx",
+                            "label": "Xiaomi Redmi 10 2022",
+                            "count": 0
+                        },
+                        {
+                            "id": "fw5l",
+                            "label": "Xiaomi Redmi 12",
+                            "count": 0
+                        },
+                        {
+                            "id": "i6sq",
+                            "label": "Xiaomi Redmi 13",
+                            "count": 0
+                        },
+                        {
+                            "id": "grx3",
+                            "label": "Xiaomi Redmi 13C",
+                            "count": 0
+                        },
+                        {
+                            "id": "kd3v",
+                            "label": "Xiaomi Redmi 14C",
+                            "count": 0
+                        },
+                        {
+                            "id": "h85f",
+                            "label": "Xiaomi Redmi A3",
+                            "count": 0
+                        },
+                        {
+                            "id": "iez4",
+                            "label": "Xiaomi Redmi A3x",
+                            "count": 0
+                        },
+                        {
+                            "id": "b28j",
+                            "label": "Xiaomi Redmi Note 11 Pro+",
+                            "count": 0
+                        },
+                        {
+                            "id": "bieq",
+                            "label": "Xiaomi Redmi Note 11 Pro 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "f7o1",
+                            "label": "Xiaomi Redmi Note 12S",
+                            "count": 0
+                        },
+                        {
+                            "id": "grwt",
+                            "label": "Xiaomi Redmi Note 13",
+                            "count": 0
+                        },
+                        {
+                            "id": "grwv",
+                            "label": "Xiaomi Redmi Note 13 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "grxo",
+                            "label": "Xiaomi Redmi Note 13 Pro+",
+                            "count": 0
+                        },
+                        {
+                            "id": "k1m4",
+                            "label": "Xiaomi Redmi Note 13 Pro 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "cwdv",
+                            "label": "realme 9 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "berk",
+                            "label": "realme 9i",
+                            "count": 0
+                        },
+                        {
+                            "id": "fja0",
+                            "label": "realme 11",
+                            "count": 0
+                        },
+                        {
+                            "id": "if2k",
+                            "label": "realme 12 4G",
+                            "count": 0
+                        },
+                        {
+                            "id": "hpi0",
+                            "label": "realme 12 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "heox",
+                            "label": "realme 12 Pro",
+                            "count": 0
+                        },
+                        {
+                            "id": "hegr",
+                            "label": "realme 12 Pro+",
+                            "count": 0
+                        },
+                        {
+                            "id": "hpi1",
+                            "label": "realme 12+ 5G",
+                            "count": 0
+                        },
+                        {
+                            "id": "d52k",
+                            "label": "realme C25Y",
+                            "count": 0
+                        },
+                        {
+                            "id": "dt8v",
+                            "label": "realme C33",
+                            "count": 0
+                        },
+                        {
+                            "id": "cwcn",
+                            "label": "realme C35",
+                            "count": 0
+                        },
+                        {
+                            "id": "g0ws",
+                            "label": "realme C53",
+                            "count": 0
+                        },
+                        {
+                            "id": "j5d6",
+                            "label": "realme C61",
+                            "count": 0
+                        },
+                        {
+                            "id": "idd1",
+                            "label": "realme C63",
+                            "count": 0
+                        },
+                        {
+                            "id": "hrzx",
+                            "label": "realme C65",
+                            "count": 0
+                        },
+                        {
+                            "id": "h83m",
+                            "label": "realme C67",
+                            "count": 0
+                        },
+                        {
+                            "id": "ii49",
+                            "label": "realme GT 6",
+                            "count": 0
+                        },
+                        {
+                            "id": "if04",
+                            "label": "realme GT 6T",
+                            "count": 0
+                        },
+                        {
+                            "id": "hb54",
+                            "label": "realme Note 50",
+                            "count": 0
+                        },
+                        {
+                            "id": "dlnu",
+                            "label": "realme narzo 50",
+                            "count": 0
+                        },
+                        {
+                            "id": "ceuj",
+                            "label": "realme narzo 50A",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[6h]",
+                    "label": "Модель",
+                    "description": "<span id=\"as-1bpcFv\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "variants": [
+                        {
+                            "min": null,
+                            "max": 3999,
+                            "id": "ca063bd4c64048c4c46bf00d9ebf1ffd",
+                            "label": "Менее 3 999",
+                            "count": 86
+                        },
+                        {
+                            "min": 4000,
+                            "max": 4499,
+                            "id": "e7bea4e0cb677f114c33c286339f5d9d",
+                            "label": "4 000 - 4 499",
+                            "count": 40
+                        },
+                        {
+                            "min": 4500,
+                            "max": 4999,
+                            "id": "3253b120091bda45ad079596754ddd4f",
+                            "label": "4 500 - 4 999",
+                            "count": 0
+                        },
+                        {
+                            "min": 5000,
+                            "max": 5999,
+                            "id": "65e6d259224c9605e571fda5574d31ec",
+                            "label": "5 000 - 5 999",
+                            "count": 0
+                        },
+                        {
+                            "min": 6000,
+                            "max": null,
+                            "id": "c25d2328985c82de9fb67ed2403eb8fe",
+                            "label": "6 000 и более",
+                            "count": 0
+                        }
+                    ],
+                    "emptyVariantLabel": "Все",
+                    "min": 3110,
+                    "max": 21000,
+                    "minSelected": null,
+                    "maxSelected": null,
+                    "selected": null,
+                    "type": "range-radio",
+                    "id": "fr[4a]",
+                    "label": "Емкость аккумулятора (мА*ч)",
+                    "description": "<span id=\"as-p51Y9H\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "si",
+                            "label": "60 Гц",
+                            "count": 101
+                        },
+                        {
+                            "id": "4ms",
+                            "label": "90 Гц",
+                            "count": 0
+                        },
+                        {
+                            "id": "sf",
+                            "label": "120 Гц",
+                            "count": 71
+                        },
+                        {
+                            "id": "sp",
+                            "label": "144 Гц",
+                            "count": 0
+                        },
+                        {
+                            "id": "1882",
+                            "label": "165 Гц",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[2ft]",
+                    "label": "Частота обновления экрана (Гц)",
+                    "description": "<span id=\"as-21u-l7\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "variants": [
+                        {
+                            "min": null,
+                            "max": 6.09,
+                            "id": "a69fbfa49d38d4e6cc9c624899b2104d",
+                            "label": "Менее 6.09",
+                            "count": 0
+                        },
+                        {
+                            "min": 6.1,
+                            "max": 6.29,
+                            "id": "a4c4b0c433a570ab60f02ba58f3e2368",
+                            "label": "6.1 - 6.29",
+                            "count": 0
+                        },
+                        {
+                            "min": 6.3,
+                            "max": 6.49,
+                            "id": "0db6843789c61d6a3adcaf00f9e6a9ab",
+                            "label": "6.3 - 6.49",
+                            "count": 14
+                        },
+                        {
+                            "min": 6.5,
+                            "max": 6.59,
+                            "id": "785fc4b10b4e5b08d6f442f8b626ed16",
+                            "label": "6.5 - 6.59",
+                            "count": 0
+                        },
+                        {
+                            "min": 6.6,
+                            "max": 6.79,
+                            "id": "b16e1a457c4d43554a54d3181486bb0a",
+                            "label": "6.6 - 6.79",
+                            "count": 48
+                        },
+                        {
+                            "min": 6.8,
+                            "max": null,
+                            "id": "14b52e8fc12e606d723ac62efdc0cbf7",
+                            "label": "6.8 и более",
+                            "count": 10
+                        }
+                    ],
+                    "emptyVariantLabel": "Все",
+                    "min": 5.85,
+                    "max": 7.92,
+                    "minSelected": null,
+                    "maxSelected": null,
+                    "selected": null,
+                    "type": "range-radio",
+                    "id": "fr[1q]",
+                    "label": "Диагональ экрана (дюйм)",
+                    "description": "<span id=\"as-JzU6vO\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "bn",
+                            "label": "4",
+                            "count": 0
+                        },
+                        {
+                            "id": "bo",
+                            "label": "6",
+                            "count": 172
+                        },
+                        {
+                            "id": "bq",
+                            "label": "8",
+                            "count": 0
+                        },
+                        {
+                            "id": "1p1",
+                            "label": "9",
+                            "count": 0
+                        },
+                        {
+                            "id": "1ox",
+                            "label": "10",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[4h]",
+                    "label": "Количество ядер",
+                    "description": "<span id=\"as-YcQ7ic\"></span>",
+                    "isSpec": true
+                },
+                {
+                    "top": [],
+                    "variants": [
+                        {
+                            "id": "2ir",
+                            "label": "AMOLED",
+                            "count": 0
+                        },
+                        {
+                            "id": "ifen",
+                            "label": "CrystalRes AMOLED",
+                            "count": 0
+                        },
+                        {
+                            "id": "6ydt",
+                            "label": "Dynamic AMOLED 2X",
+                            "count": 0
+                        },
+                        {
+                            "id": "hru7",
+                            "label": "Flexible AMOLED",
+                            "count": 0
+                        },
+                        {
+                            "id": "1uq",
+                            "label": "IPS",
+                            "count": 0
+                        },
+                        {
+                            "id": "1mgd",
+                            "label": "LTPS",
+                            "count": 0
+                        },
+                        {
+                            "id": "h6rd",
+                            "label": "Liquid Retina HD",
+                            "count": 1
+                        },
+                        {
+                            "id": "ce0",
+                            "label": "OLED",
+                            "count": 0
+                        },
+                        {
+                            "id": "fr",
+                            "label": "PLS",
+                            "count": 0
+                        },
+                        {
+                            "id": "ghkh",
+                            "label": "POLED",
+                            "count": 0
+                        },
+                        {
+                            "id": "1ur",
+                            "label": "Super AMOLED",
+                            "count": 0
+                        },
+                        {
+                            "id": "h55c",
+                            "label": "Super Retina XDR",
+                            "count": 171
+                        },
+                        {
+                            "id": "41i",
+                            "label": "TFT LCD",
+                            "count": 0
+                        }
+                    ],
+                    "selected": [],
+                    "default": [],
+                    "type": "checkbox",
+                    "id": "f[25s]",
+                    "label": "Тип матрицы (подробно)",
+                    "description": "<span id=\"as-NLf3uT\"></span>",
+                    "isSpec": true
+                }
+            ],
+            "top": [
+                {
+                    "variants": [
+                        {
+                            "id": "1",
+                            "label": "Сначала недорогие",
+                            "count": null
+                        },
+                        {
+                            "id": "2",
+                            "label": "Сначала дорогие",
+                            "count": null
+                        },
+                        {
+                            "id": "6",
+                            "label": "Сначала популярные",
+                            "count": null
+                        },
+                        {
+                            "id": "8",
+                            "label": "По новинкам",
+                            "count": null
+                        },
+                        {
+                            "id": "7",
+                            "label": "По скидке (%)",
+                            "count": null
+                        },
+                        {
+                            "id": "4",
+                            "label": "По количеству отзывов",
+                            "count": null
+                        },
+                        {
+                            "id": "5",
+                            "label": "Сначала с лучшей оценкой",
+                            "count": null
+                        }
+                    ],
+                    "selected": null,
+                    "default": "1",
+                    "type": "radio",
+                    "id": "order",
+                    "label": "Сортировка",
+                    "description": null
+                },
+                {
+                    "variants": [
+                        {
+                            "id": "none",
+                            "label": "Отсутствует",
+                            "count": null
+                        },
+                        {
+                            "id": "brand",
+                            "label": "По производителю",
+                            "count": null
+                        },
+                        {
+                            "id": "avails",
+                            "label": "По наличию",
+                            "count": null
+                        }
+                    ],
+                    "selected": null,
+                    "default": "none",
+                    "type": "radio",
+                    "id": "groupBy",
+                    "label": "Группировка",
+                    "description": null
+                }
+            ],
+            "pageTop": []
+        },
+        "extendedFiltersUrl": "/catalog/category/get-extended-filters/?searchUid=17a8a01d16404e77"
+    },
+    "message": "",
+    "errors": []
+}
