@@ -1,5 +1,5 @@
 """
-DOCSTRING TEMPLATE
+    DOCSTRING TEMPLATE
 """
 import json
 import re
@@ -10,7 +10,6 @@ from models import InputJSON, OutputProduct
 CATALOG_URL = 'https://catalog.wb.ru/catalog/electronic22/v2/catalog'
 OUTPUT_JSON = 'output.json'
 # Функция для загрузки существующих данных из output.json и их обновления
-
 
 def add_data(file: str, data: list) -> None:
     # Проверяем, существует ли файл
@@ -35,7 +34,7 @@ def add_data(file: str, data: list) -> None:
 
 def parse_json(input_json: str, output_json: str) -> None:
     """
-    Parsing
+        Parsing
     """
     # Валидация входных данных через Pydantic
     input_data = InputJSON(**input_json)

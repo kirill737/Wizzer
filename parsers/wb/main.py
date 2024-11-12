@@ -1,5 +1,5 @@
 """
-Вспомогательный мини скрипт для склеивания нескольких карточек вмест с отзывами
+    Скрипт для склеивания нескольких карточек и отзывов
 """
 import json
 from feedbacks_parser import get_all_feedbacks
@@ -11,15 +11,14 @@ URL = (
     f"/vse-smartfony?sort=popular&fbrand={BRAND_ID}"
 )
 
-
 def create_few_cards(url: str, cards_json: str, result_json: str,  cards_amount: int) -> None:
     """
-    Функция для создание json файла с несколькими товарами и отзывами на них.
+        Функция для создание json файла с несколькими товарами и отзывами на них.
 
-    url - ссылка на страницу со всеми товарами бренда\n
-    cards_json - название файла со спаршенными товарами\n
-    result_json - название конечного файла с нужное информацией\n
-    cards_amount - кол-во товаров которое запишется в result_json
+        url - ссылка на страницу со всеми товарами бренда\n
+        cards_json - название файла со спаршенными товарами\n
+        result_json - название конечного файла с нужное информацией\n
+        cards_amount - кол-во товаров которое запишется в result_json
     """
     pages_amount = cards_amount / \
         100 if cards_amount % 100 == 0 else cards_amount / 100 + 1
@@ -34,5 +33,5 @@ def create_few_cards(url: str, cards_json: str, result_json: str,  cards_amount:
     with open(result_json, 'w', encoding='utf-8') as result_file:
         json.dump(few_cards, result_file, ensure_ascii=False, indent=4)
 
-
-create_few_cards(URL, 'iphones.json', 'kirillu.json', 3)
+if __name__ == "__main__":
+    create_few_cards(URL, './parsers/wb/result/debug/iphones.json', './parsers/wb/result/pages/page_1.json', 10)
