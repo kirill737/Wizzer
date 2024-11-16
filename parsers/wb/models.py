@@ -1,5 +1,5 @@
 """
-TEMPLATE DOCSTRING
+    Файл с описанием структуры json файлов
 """
 from typing import List
 from pydantic import BaseModel
@@ -96,30 +96,31 @@ class InputJSON(BaseModel):
 
 class OutputProduct(BaseModel):
     brand: str
-    brandId: int
+    # brandId: int
     id: int
-    color: str
+    # color: str
     fullname: str
     # model: str
     # memory: str
     rating: float
-    reviewRating: float
-    feedbacks: int
     price: float
+    # reviewRating: float
+    feedbacks: int
+    
 
     # Валидатор для создания нового объекта на основе Product
     @classmethod
     def from_product(cls, product: Product):
         return cls(
             brand=product.brand,
-            brandId=product.brandId,
+            # brandId=product.brandId,/
             id=product.id,
-            color=product.colors[0].name if product.colors else "",
+            # color=product.colors[0].name if product.colors else "",
             fullname=product.name,
             # model=product.model,
             # memory=product.memory,
-            rating=product.rating,
-            reviewRating=product.reviewRating,
+            rating=product.reviewRating,
+            # reviewRating=product.reviewRating,
             feedbacks=product.feedbacks,
             price=product.sizes[0].price.total / 100
         )

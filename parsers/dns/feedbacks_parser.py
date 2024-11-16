@@ -1,5 +1,7 @@
 from helper import *
 import requests
+def clean_feedback(feedback: str) -> str:
+    return feedback.replace('<p>', '').replace('</p>', '')
 def get_feedbacks_info(product_id: str) -> dict:
     """
         Получает информацию о кол-ве отзывов на товар и их среднюю оценку. <br>
@@ -75,9 +77,9 @@ def get_feedbacks_part(product_id: str, offset: int, limit: int) -> list:
         # save_log_file("parsers/dns/debug/parts/lastOpinion.json", opinion)
         # save_log_file("parsers/dns/debug/parts/opinoins.json", opinions)
         all_feedbacks.append({
-            'plus': opinion['plus'],
-            'minus': opinion['minus'],
-            'comment': opinion['comment'],
+            'plus': clean_feedback(opinion['plus']),
+            'minus': clean_feedback(opinion['minus']),
+            'comment': clean_feedback(opinion['comment']),
             'rating': opinion['rating']
             # "name": opinion['user']['name']
         })

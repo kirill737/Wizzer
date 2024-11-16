@@ -5,13 +5,18 @@ import json
 import re
 from pathlib import Path
 import requests
+from helper import *
 from models import InputJSON, OutputProduct
+from feedbacks_parser import get_all_feedbacks
 
 CATALOG_URL = 'https://catalog.wb.ru/catalog/electronic22/v2/catalog'
 OUTPUT_JSON = 'output.json'
-# Функция для загрузки существующих данных из output.json и их обновления
 
-def add_data(file: str, data: list) -> None:
+def add_few_cards_to_json(file: str, data: list[dict]) -> None:
+    step_print("Adding few cards to json...")
+    """
+        Добавляет новые карточки в файл к уже существующим.
+    """
     # Проверяем, существует ли файл
     if Path(file).is_file():
         # Загружаем существующие данные из файла, если файл не пустой
@@ -30,11 +35,12 @@ def add_data(file: str, data: list) -> None:
     # Перезаписываем файл с обновлёнными данными
     with open(file, 'w', encoding='utf-8') as f:
         json.dump(existing_data, f, ensure_ascii=False, indent=4)
+    step_print("Cards added to json!")
 
-
-def parse_json(input_json: str, output_json: str) -> None:
+def get_data_from_raw_json(input_json: str):
+    step_print("Getting data from raw json...")
     """
-        Parsing
+        Извлекает нужные данные из response json и возвращает их в виде списка словарей.
     """
     # Валидация входных данных через Pydantic
     input_data = InputJSON(**input_json)
@@ -43,19 +49,29 @@ def parse_json(input_json: str, output_json: str) -> None:
     for product in input_data.data.products:
         # Используем модель для генерации выходных данных
         output_product = OutputProduct.from_product(product)
+        # print(output_json)
+        # exit(0)
         output_products.append(output_product.model_dump())
     # Загрузка существующих данных
-    add_data(output_json, output_products)  # Загружаем существующие данные
+    # add_data(output_json, output_products)  # Загружаем существующие данные
+    # print(f"Данные успешно добавлены в JSON файл: {output_json}")
+    step_print("Got all data!")
+    return output_products
 
-    print(f"Данные успешно добавлены в JSON файл: {output_json}")
-
-
-def parse_brand_by_url(url: str, output_json: str, pages_amount: int = 100):
+def parse_brand_by_url(url: str, pages_amount: int = 100):
+    """
+        Парсит бренд по ссылку на категорию с ним.  <br>
+        url - ссылка на категорию. <br>
+        output_json - название выходного json файла. <br>
+        pages_amount -  кол-во страниц для парсинга.
+    """
+    step_print("Parsing brand by url...")
     # Извлекает id бренда из ссылки на категорию
     def extract_fbrand_value(url: str) -> int:
-        # Регулярное выражение для поиска числа после "fbrand="
+        """
+            Извлекает id бренда из ссылки на категорию товаров.
+        """
         match = re.search(r'fbrand=(\d+)', url)
-        # Если совпадение найдено, вернем число, иначе None
         if not match:
             raise ValueError(
                 "URL не содержит параметра fbrand или он некорректен.")
@@ -73,17 +89,25 @@ def parse_brand_by_url(url: str, output_json: str, pages_amount: int = 100):
         'spp': '1',
         'subject': '515',
     }
+    step_print("Sending responses...")
     response = requests.get(
         CATALOG_URL, params=params, timeout=10)
+    few_cards = []
     while response.status_code == 200 and int(params['page']) <= pages_amount:
         print(f"Parsing page {params['page']} ")
         raw_data = response.json()
-        parse_json(raw_data, output_json)
+        few_cards += get_data_from_raw_json(raw_data)
+        # add_few_cards_to_json(few_cards, output_json)
         params['page'] = str(int(params['page']) + 1)
         response = requests.get(
             CATALOG_URL, params=params, timeout=10)
-
-
+    step_print("All responses were sent.")
+    step_print("Parsing finished!")
+    return few_cards
+def parse_cards_by_ids(folder: str, id_list: list[int]):
+    for card_id in id_list:
+        feedbacks = get_all_feedbacks(product_id=card_id)
+        save_log_file(f"{folder}/{card_id}_feedbacks.json", feedbacks)
 if __name__ == "__main__":
     # BRAND_ID = 6049
     BRAND_ID = 5772

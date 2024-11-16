@@ -116,7 +116,7 @@ def switch_page_in_url(url):
     # patern = "https://www.dns-shop.ru/catalog/*/*/"
     # patern = "https://www.dns-shop.ru/catalog/*/*/?order=6&p=1"
 
-def parse_product(url, pages_amount):
+def parse_product(url, pages_amount=1):
     try:
         step_print("Open browser")
         driver = uc.Chrome()
