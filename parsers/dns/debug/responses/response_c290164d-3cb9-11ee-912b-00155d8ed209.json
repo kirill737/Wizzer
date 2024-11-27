@@ -1,0 +1,729 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 12,
+        "opinions": [
+            {
+                "id": "5abd7976-0c7b-4dc5-96f4-146287a64280",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "b1f46c99-07e4-d06e-fb25-c47da9f108f5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/dcd56fa967406b5b8ff2f522068c59fa/79b39fb2352e9d0f5782f21b1c72c6fae5ce83fc41e08fa347fc7fc75bafb4fd.png\">",
+                    "name": "f4g5h6",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e81b0016b1fe5225fb90fdd42fd094f5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-07 00:13:44.719817",
+                "insertStampFormatted": "07.07.2024",
+                "updateStamp": "2024-07-07 01:39:05.665774",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>- цена</p><p>-производительность</p><p>-камера</p>",
+                "minus": "<p>-рамка телефона из пластика</p>",
+                "comment": "<p>-пользуюсь 1 неделю</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a7cc0008-a77d-48b8-99ac-55fd5d655e7f",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "11df7b62-1c9e-49bc-a169-32c052b8a987",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MY6143",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fce717e92dddb71735681a86fad2cd74",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-07 14:59:40.940918",
+                "insertStampFormatted": "07.10.2024",
+                "updateStamp": "2024-10-07 14:59:40.940918",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c3449a21-4fcd-4ceb-a9dc-e30be42e6d9e",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "4c19bb6b-1f2b-aa7a-346d-f0ee1e6dd94c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PY24961",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f9147392ba940baf40eea16fbb9855d6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-26 04:48:24.347335",
+                "insertStampFormatted": "26.08.2024",
+                "updateStamp": "2024-08-26 04:48:24.347335",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "cf669f30-a0a9-469a-a9e6-5e974a1141f1",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "6269e442-1874-47d9-9856-a4804dd8cc0b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HA46482",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "63241c4450d11a35ea6567de2750937d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-17 20:20:22.456425",
+                "insertStampFormatted": "17.08.2024",
+                "updateStamp": "2024-08-17 20:20:22.456425",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d34b56ac-d422-490f-86a8-c11dad8ebefe",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "7d2a53e0-1748-43a4-8935-3538846b7927",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UG21821",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3172023b215f76cb63a33577b1b2fa32",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-04 14:53:30.136673",
+                "insertStampFormatted": "04.07.2024",
+                "updateStamp": "2024-07-04 14:53:30.136673",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c11af275-1ef1-4146-a811-c9b2f20e51cd",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "bb36debb-801f-873d-0002-7db15b1adccc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "iLobster99",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5b270529e149972e5051d27d2cc01fce",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-21 12:11:07.661345",
+                "insertStampFormatted": "21.06.2024",
+                "updateStamp": "2024-06-21 12:11:07.661345",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c44ce4d9-8499-4b56-a0d5-7569f7d320fe",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "60159ed6-a75c-26e3-5f08-ce8cd16d2971",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QE86517",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0782cc0f1e9eaf23e932636c0b178cc9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-28 08:46:14.790629",
+                "insertStampFormatted": "28.05.2024",
+                "updateStamp": "2024-05-28 08:46:14.790629",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b24571a5-d582-429e-888c-9fa79a60c434",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "91e25530-41f4-43da-a1de-d0475b0af02d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NY6921",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1ac6a3076a34e0aeb0c77a053ee6fe52",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-14 13:32:43.319342",
+                "insertStampFormatted": "14.04.2024",
+                "updateStamp": "2024-04-14 13:32:43.319342",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0489229d-964b-4711-89fb-5bcb06f87038",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "f225772d-9c0c-86cd-7eeb-e33de17fa52a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AA52468",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "aedd4edf38e93f35cf318837d8855f8c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-14 04:57:50.834194",
+                "insertStampFormatted": "14.01.2024",
+                "updateStamp": "2024-01-14 04:57:50.834194",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3c11373e-0a2a-4568-96b5-753ff281ac7f",
+                "objectId": "c290164d-3cb9-11ee-912b-00155d8ed209",
+                "objectUrl": "/product/c290164d3cb9ed20/672-smartfon-oppo-a58-128-gb-cernyj/",
+                "objectName": "6.72\" Смартфон OPPO A58 128 ГБ черный",
+                "user": {
+                    "id": "be3142fc-7db5-4d55-62e8-4e115c80cf36",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QC7212",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-10 13:19:17.82345",
+                "insertStampFormatted": "10.11.2023",
+                "updateStamp": "2023-11-10 13:19:17.82345",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 11
+            }
+        },
+        "topId": "cf9b6c47-7547-4f49-bfe5-93a8baf6f0e8"
+    },
+    "message": "",
+    "errors": []
+}

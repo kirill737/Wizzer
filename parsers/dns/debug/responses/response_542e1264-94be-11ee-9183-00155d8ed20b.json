@@ -1,0 +1,744 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 41,
+        "opinions": [
+            {
+                "id": "5864a30a-97fd-465c-b3cb-c35545f44645",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "c931ed9b-de93-49c4-82fa-dbae4a582614",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZB1557",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b63a5418ad8438fe631578bcc6a5c41a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 15:51:42.696396",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 15:56:22.043753",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>тонкие рамки, 120гц, мощный процессор, камера, комплектация</p>",
+                "minus": "<p>на 120гц заряда хватает на 7 часов включенного экрана</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "58fcceb5-109d-4261-a801-dfc3d7a32c4e",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "920ce397-4fd0-b950-9bec-a79326b76982",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/3238fd72edfee6162eb9b8f2d7020449/22b4618921b6770de99bbde837b299947e460b980feebe61787bd155e85ebf72.jpeg\">",
+                    "name": "Пришелец-AI45321",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e79eb2f3c4a746291e25a937683908f4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-23 06:55:54.086026",
+                "insertStampFormatted": "23.03.2024",
+                "updateStamp": "2024-03-23 10:02:38.340601",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Свои 30к отрабатывает на 100%</p>",
+                "minus": "<p>Для обычного пользователя - их нет</p>",
+                "comment": "<p>Если уж хотите купить телефон на года 4, то лучше взять X6 PRO</p>",
+                "usersCommentsCount": 7,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d2d0ecd4-98a3-426b-be9c-e478acf99021",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "853e5240-7557-f9bf-ad50-495989098da6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PS81501",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c69fe339e79596cd13161e710b13028e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-02 03:16:44.080455",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-02 03:16:44.080455",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1cf2ea68-ffdb-490c-a16e-323f3bb6ea60",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "32ee2f83-1fac-4415-97eb-6564541b283a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAI07401",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0dcaeef2872f6fd29c697352540bcf07",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 23:49:40.091609",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-01 23:49:40.091609",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d540686a-3825-481d-b202-13e48d207582",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "bcef0ef3-36d2-877b-46aa-910f764b50fd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IG05659",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f8ef346a5e4dfec29752f4458a12b68e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-21 16:23:46.562756",
+                "insertStampFormatted": "21.09.2024",
+                "updateStamp": "2024-09-21 16:23:46.562756",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "bbcd770e-a97d-4801-bbcf-0eea11fda618",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "1beea13b-8c3a-84b9-f974-773c35558bf9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XE92163",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "27ccac76d9371e24e78f7c3911f731bf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-21 10:25:59.700501",
+                "insertStampFormatted": "21.09.2024",
+                "updateStamp": "2024-09-21 10:25:59.700501",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b5b4ae52-928c-4098-bddc-1ad330603c15",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "2f872378-2de9-ae9d-339b-a613d2ab5254",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YJ09913",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-17 13:04:55.028394",
+                "insertStampFormatted": "17.09.2024",
+                "updateStamp": "2024-09-17 13:04:55.028394",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3e6c3608-e480-479f-befb-da7974b0cb4e",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "1a5e644b-57eb-85fc-3e1c-2d268ccd67a9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KX96684",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b024ec61db5b1cbe12ec9a3913bd1b59",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 01:25:57.258978",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 01:25:57.258978",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b0c2098d-35fd-4b42-b905-e234e147d081",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "92ecca7b-ccd2-d1fe-0fb6-2a023c210094",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UT61310",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d5ef8604bad4708f46d0c80dcea4bedf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-09 14:47:53.393554",
+                "insertStampFormatted": "09.09.2024",
+                "updateStamp": "2024-09-09 14:47:53.393554",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "128e82ac-5486-4c50-a884-044d032cb7ae",
+                "objectId": "542e1264-94be-11ee-9183-00155d8ed20b",
+                "objectUrl": "/product/542e126494beed20/667-smartfon-poco-x6-256-gb-sinij/",
+                "objectName": "6.67\" Смартфон POCO X6 256 ГБ синий",
+                "user": {
+                    "id": "4735f964-ffaf-2327-6753-a30320778f15",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "solobaric85",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "647cc1337ea87cb523f6918d34c57470",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-02 16:02:21.455195",
+                "insertStampFormatted": "02.09.2024",
+                "updateStamp": "2024-09-02 16:02:21.455195",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 27
+            }
+        },
+        "topId": "d95d9132-f9be-49fc-92ce-6e48e31cbdfa"
+    },
+    "message": "",
+    "errors": []
+}

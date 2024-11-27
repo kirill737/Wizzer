@@ -1,0 +1,723 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 60,
+        "opinions": [
+            {
+                "id": "9ad50297-94c9-4859-b433-282d931e3abc",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "9c34fdc5-f338-2256-c675-b6bcbbbfa7e4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IP93526",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7163bc1b075fe9b8b3a4422e84fffed3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-12 18:05:08.5035",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-12 18:44:46.275867",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Всё соответствует описанию. В комплекте есть и чехол и защитная плёнка</p>",
+                "minus": "<p>Нет. Все согласно описанию</p>",
+                "comment": "<p>Очень довольны покупкой.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "834daf56-b58c-4b0e-9890-7577ac765d73",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "52267c9a-b7e2-425d-b538-2a92ca133bda",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TO44834",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-23 12:52:50.79702",
+                "insertStampFormatted": "23.07.2024",
+                "updateStamp": "2024-07-23 13:09:31.395879",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Надёжный телефон</p>",
+                "minus": "<p>Пока не выявлено</p>",
+                "comment": "<p>Рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "2bbfcfdb-0995-4f3d-8167-88ca032aea2c",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/fcfa523d140ad9ca631b274c7e3ecd0a/209d13968da888dac2553227f7be9050c952e372ab543bc85d2dbc2fa62fab4f.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3aee7e08-36a8-430f-aad1-d5299cb74169",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "fea7c500-aaf6-b9c6-8c62-4b6eba3e89c1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IY75996",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-14 19:11:09.26707",
+                "insertStampFormatted": "14.07.2024",
+                "updateStamp": "2024-07-14 19:34:32.207336",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [],
+                "plus": "<p>Дешевый</p>",
+                "minus": "<p>Виснет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "78648748-5c36-4d8a-ae5d-b24e070140d1",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "352330fc-07f0-4e7e-9009-29f16717c042",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UD2542",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f83a6ae24830b747fa33996ce94bd0e8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-13 15:09:30.231047",
+                "insertStampFormatted": "13.07.2024",
+                "updateStamp": "2024-07-22 07:26:09.392694",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>всё норм</p>",
+                "minus": "<p>пока не обнаружили</p>",
+                "comment": "<p>покупали для ребенка. его всё устраивает в т.ч. игры )</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "eac35658-9643-4eac-ad3b-614098c253cd",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "2a30feac-2bbc-3144-70f8-330a6b8e3922",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TB93503",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "489fda318f8edd7d8dbd323aa14c4237",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-05 05:30:45.89739",
+                "insertStampFormatted": "05.01.2024",
+                "updateStamp": "2024-01-05 05:35:11.882113",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Не много подтормаживает камера.</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "083f1809-4ebc-4d41-a9ec-c03a2651d38e",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "abd1b0c0-0474-4143-9d8a-38f7ee5c41d8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Edgarchik03",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-28 09:48:18.06815",
+                "insertStampFormatted": "28.12.2023",
+                "updateStamp": "2023-12-28 10:48:55.398905",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Оболочка, дизайн, стериозвук</p>",
+                "minus": "<p>Не выявлено</p>",
+                "comment": "<p>За свои деньги топ</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7f09f229-7d53-436b-b220-1f909ed1aecc",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "1a8de4d8-58bd-1374-62bf-9b9d34ba0317",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TO39304",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dc44aa4d22d006f4428e338f26421c7d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 14:39:01.272848",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 14:39:01.272848",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "bb8e634e-1fd0-4a3c-a754-62fd479caeb8",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "1f2ceb12-0422-7de8-d555-890ee038ee47",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PT30605",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1c7fe04f9310927d5969e962156c61f2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-20 13:04:55.704347",
+                "insertStampFormatted": "20.10.2024",
+                "updateStamp": "2024-10-20 13:04:55.704347",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "51657270-94bf-4893-a4d5-f7e2ee4bb87b",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "fb206954-b3ad-4bb0-8a93-0a03ee51cd17",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PC4487",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "43219681651737f6fae86eb126013ca7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 16:31:03.215203",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 16:31:03.215203",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "bc9529fc-b6de-4535-9c55-cff9340aa7cf",
+                "objectId": "5a381d74-7893-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/5a381d747893ed20/656-smartfon-tecno-spark-20c-128-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20C 128 ГБ белый",
+                "user": {
+                    "id": "303f43a8-7807-f88f-2e7a-4ff9d8fa7a35",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QU5139",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "605d565821d5dc9975d2682ef336cf70",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 17:25:16.906956",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 17:25:16.906956",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Оперативная память (ГБ)": "4",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 44
+            }
+        },
+        "topId": "e60e8288-70b1-4166-851f-6a16a51091c5"
+    },
+    "message": "",
+    "errors": []
+}

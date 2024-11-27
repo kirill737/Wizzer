@@ -1,0 +1,732 @@
+{
+    "assets": {
+        "inlineJs": {
+            "a0177f2d9bdfbd27d170e1961d0c0593": "window.avatarGenerator.generate('g-B06Jjq', 'B06Jjq', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 47,
+        "opinions": [
+            {
+                "id": "a30eb492-43b3-4293-8fcc-3a1bfe0511df",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "e596623e-8643-1259-947d-37319655351c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JE54253",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d09ed90de86f2d536e43f44f23217545",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-22 19:47:48.53669",
+                "insertStampFormatted": "22.11.2024",
+                "updateStamp": "2024-11-22 20:14:47.754298",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Нет</p>",
+                "minus": "<p>Много</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "910c75c4-0cca-47ae-8a69-4ab0d02447f2",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "6c79252c-d189-425a-817e-e2dbf83d9ad3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "rakochu",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c20118c4d1ca873bdf0328e1d1c4ebd7",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-06-23 10:44:11.07705",
+                "insertStampFormatted": "23.06.2023",
+                "updateStamp": "2023-06-23 12:30:40.662001",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Айфон, что тут ещё сказать, всё работает</p><p>1сим + есим на все случаи</p>",
+                "minus": "<p>Пожадничали 120гц и проц побыстрее. Могли бы и подешевле его продавать</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2fdd54c1-4e89-48ed-919c-c99eab44389c",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "0284399f-05a1-5154-ed94-fa5387396030",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AG78954",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6b9930090fd2aa9b09225e5f68bd3bce",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 19:15:01.46568",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 19:15:01.46568",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d8743516-5aa1-4764-9fc3-c5db075afed0",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "d0b5980f-bef6-bcd8-3351-9a4af4eb5397",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XI6935",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "82c9d6b4331019d4d7f5b939aeba0cd2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 13:00:38.583341",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 13:00:38.583341",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8d176c91-7a50-4e63-995b-635a280e4065",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "3f5620fb-5de4-4830-b0a8-502485a01cb3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RA2371",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b1e1383de23bb4d1788a28d9ae54d9ae",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-29 16:11:22.190669",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-29 16:11:22.190669",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5939d953-8ebf-44ba-b9f3-bbf4c7731d7c",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "be6d7d81-687a-5188-182b-3dbaec3226aa",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LP84170",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d738c57aa6a77706a696a7fd41859d7e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-13 12:53:55.189807",
+                "insertStampFormatted": "13.09.2024",
+                "updateStamp": "2024-09-13 12:53:55.189807",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c41d0bbe-4032-4d3e-a02e-795558b8800d",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "6f09c3bb-e32d-cbf2-d1dd-4ec9b9d21031",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NC84352",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "aa28c6a24d07a069ff6519a122b2ff8a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-04 11:22:09.020528",
+                "insertStampFormatted": "04.09.2024",
+                "updateStamp": "2024-09-04 11:22:09.020528",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "03da86fe-b8b2-4504-82ad-f1ea04e475a4",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "fe6845c8-2391-45cb-867f-34b64f6bd678",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PM7898",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6fdf6141ebbad1f9ad73915d4f67ad30",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-04 10:31:03.612189",
+                "insertStampFormatted": "04.09.2024",
+                "updateStamp": "2024-09-04 10:31:03.612189",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8cdabab0-2d08-4277-8a0d-db678f8fce61",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "0c467ccd-5e1f-6bd2-93bd-69f167455fcc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FX31778",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-20 18:09:28.202674",
+                "insertStampFormatted": "20.08.2024",
+                "updateStamp": "2024-08-20 18:09:28.202674",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "60833f5a-3ffa-43e3-a73f-22eaa5386848",
+                "objectId": "de2c334c-9d35-11ed-908e-00155d8ed209",
+                "objectUrl": "/product/de2c334c9d35ed20/61-smartfon-apple-iphone-14-128-gb-belyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ белый",
+                "user": {
+                    "id": "c5294512-f91b-ee24-ebb9-cbc97c4d3f21",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KF28326",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5c8f1965104f66039c3253d31bfe87be",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-17 09:43:31.434567",
+                "insertStampFormatted": "17.08.2024",
+                "updateStamp": "2024-08-17 09:43:31.434567",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 36
+            }
+        },
+        "topId": "0eb5fdeb-2414-432c-8806-8b9a642fb338"
+    },
+    "message": "",
+    "errors": []
+}

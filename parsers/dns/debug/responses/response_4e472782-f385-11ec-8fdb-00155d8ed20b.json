@@ -4,18 +4,18 @@
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 223,
+        "totalCount": 228,
         "opinions": [
             {
                 "id": "6d913fc2-9bd4-431c-820c-508349465309",
@@ -151,7 +151,7 @@
                 "plus": "<p>отличный аппарат!</p>",
                 "minus": "<p>нет</p>",
                 "comment": "<p>комментарии тут излишни!</p>",
-                "usersCommentsCount": 0,
+                "usersCommentsCount": 1,
                 "images": [],
                 "hasNotApprovedImages": false,
                 "isEditable": false,
@@ -713,7 +713,7 @@
                 "2": 0,
                 "3": 1,
                 "4": 6,
-                "5": 212
+                "5": 213
             }
         },
         "topId": "cd1a83ae-8f95-4bf1-ba07-aa2ccace94d3"

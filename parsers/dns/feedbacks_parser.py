@@ -1,7 +1,9 @@
 from helper import *
 import requests
 def clean_feedback(feedback: str) -> str:
-    return feedback.replace('<p>', '').replace('</p>', '')
+    if feedback != None:
+        return feedback.replace('<p>', '').replace('</p>', '')
+    return ""
 def get_feedbacks_info(product_id: str) -> dict:
     """
         Получает информацию о кол-ве отзывов на товар и их среднюю оценку. <br>
@@ -33,7 +35,7 @@ def get_feedbacks_info(product_id: str) -> dict:
         feedbacks_amount += value
         tmp_sum_value += value * int(key)
     result["amount"] = feedbacks_amount
-    result["mean"] = round(tmp_sum_value / feedbacks_amount, 3)
+    result["mean"] = round(tmp_sum_value / feedbacks_amount, 3) if feedbacks_amount != 0 else 0
     debug_print(f"Feedbacks info: {result}")
     return result
 
@@ -51,6 +53,13 @@ def get_feedbacks_part(product_id: str, offset: int, limit: int) -> list:
         ```
     """
     # print("Getting part of all feedbacks")
+    def is_text_usefull(text: str) -> bool:
+        """
+            Функция для оценки полезности отзыва.
+        """
+        if len(text) < 5:
+            return False
+        return True
     all_feedbacks = []
 
     files = {
@@ -75,14 +84,18 @@ def get_feedbacks_part(product_id: str, offset: int, limit: int) -> list:
     
     for opinion in opinions:
         # save_log_file("parsers/dns/debug/parts/lastOpinion.json", opinion)
-        # save_log_file("parsers/dns/debug/parts/opinoins.json", opinions)
-        all_feedbacks.append({
-            'plus': clean_feedback(opinion['plus']),
-            'minus': clean_feedback(opinion['minus']),
-            'comment': clean_feedback(opinion['comment']),
-            'rating': opinion['rating']
-            # "name": opinion['user']['name']
-        })
+        # save_log_file(f"parsers/dns/debug/responses/opinoins.json", opinions)
+        plus = clean_feedback(opinion['plus'])
+        minus = clean_feedback(opinion['minus'])
+        comment = clean_feedback(opinion['comment'])
+        if is_text_usefull(plus) and is_text_usefull(minus) and is_text_usefull(comment):
+            all_feedbacks.append({
+                'plus': plus,
+                'minus': minus,
+                'comment': comment,
+                'rating': opinion['rating']
+                # "name": opinion['user']['name']
+            })
     return all_feedbacks
 
 def get_all_feedbacks(product_id: str, feedbacks_amount: int):

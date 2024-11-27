@@ -1,0 +1,723 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 57,
+        "opinions": [
+            {
+                "id": "4d295faa-f096-4e7b-8839-7e1fcac9878e",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "29cff344-42f4-455d-ab4f-47cd34cd5bf6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "redbook",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8d9b8e988b71f51acf0d32b361affc60",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-01-15 05:46:35.10336",
+                "insertStampFormatted": "15.01.2023",
+                "updateStamp": "2023-01-15 06:45:29.654603",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный вариант для тех кто не хочет заморачиваться с настройками.</p>",
+                "minus": "<p>Цена.</p>",
+                "comment": "<p>Ребенку нравится.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9aa553f3-7885-4066-b5d0-9c229744de05",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "36dff340-e6a5-460e-915b-834acf703226",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/621160d7a7b47c84c4c75826d6de12f4/fbcba7cf5cea652b1362619bdff150d0fb9d6039d7040381af0209edc7a228d9.jpg\">",
+                    "name": "ermak_off4",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "81467ab145773a07f7ffcf7bf6fc03f1",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-01-12 19:08:50.714255",
+                "insertStampFormatted": "12.01.2023",
+                "updateStamp": "2023-08-14 22:00:19.552583",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Apple как всегда на высоте, очень хороший смартфон.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>iPhone он и в Африке iPhone, всё как всегда круто.</p><p>Советую купить к нему именно такой блок зарядки, по качеству отличный, по параметрам как оригинал, так же поддерживает быструю зарядку: https://www.dns-shop.ru/product/bee8d6b4c3772eb1/setevoe-zaradnoe-ustrojstvo-xiaomi-mi-20w-belyj/</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "7c5834e7-41d3-4d35-8be9-1473d9b8c23a",
+                        "text": "<p>прошло 8 месяцев..... мнение не изменилось, отличный аппарат!</p>",
+                        "textInitial": "прошло 8 месяцев..... мнение не изменилось, отличный аппарат!",
+                        "insertStamp": "2023-08-14 18:24:01.843051",
+                        "insertStampFormatted": "14 августа 2023 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d8f7684f-0240-48c5-9b8b-a6b6c5c06f64",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "7a313030-b3c3-8b60-c5b8-fbeebdab4ba8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/512cca365c9ff78ae772fbd256929f6a/aef12f3f6ce97297dbdadf2a31bd334e81b72a8ed81c0038c7d178265979d8cf.jpg\">",
+                    "name": "Seregasamec",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "535d14f253a56ff893448f180a701fbb",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-01-07 16:49:52.225717",
+                "insertStampFormatted": "07.01.2023",
+                "updateStamp": "2023-01-07 16:56:20.643165",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Удобство, качаство, быстрота без лагов и прочее</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>С самого первого телефона я уже на айфонах, через все модели прошел, и решал купить эту, пока доволен всем, модель брал для американского рынка, уточняйте сразу после покупки это важно было для меня!!!</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "2f9ddce8-e813-442b-9df4-60564f050e78",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/f0f82056469e2fcaa250ab8a354b6744/9885cda3fc00fecbbaf99364adb914cffb2361bead062cf1b865d74e07dcbb94.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "bf79a2d2-6a99-4527-930c-5bbe422e3c54",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "b762e48d-8cd5-42b0-9de3-eff7e2ac3d17",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "GRus76",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e2ef1df19ae70515b5085a5696a69597",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-12-06 01:06:54.981743",
+                "insertStampFormatted": "06.12.2022",
+                "updateStamp": "2022-12-07 07:46:36.530428",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Удобно лежит в руке, удобство про использовании, качество, светосильная камера.</p>",
+                "minus": "<p>Все таки для 14 могли бы и новый проц поставить.</p>",
+                "comment": "<p>Долго думал купить 13 или 14. Оставил выбор за 14. Пока что все устраивает.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8c5dee51-c286-4bd4-95f4-c0f8b6acd704",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "c649834f-0a6b-4462-97e7-d90fdbf0e8a8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "yurchenko_viktor",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bb374570c6fd76c82a150aabccb9da3e",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-12-04 09:06:51.434458",
+                "insertStampFormatted": "04.12.2022",
+                "updateStamp": "2022-12-05 07:02:50.432454",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Это айфон, быстрый, плавный, удобный, отличный телефон для повседневной жизни, кому может быть как социальный маркер.</p><p>Камера и софт камеры отличный.</p><p>Тактильность, удобство, отзывчивость, работа датчиков и всей системы на высоте.</p><p>Материалы исполнения соответственно флагманские.</p><p>Дисплей выше всяких похвал, хоть и не 120 герц, глаз наверно столько и не распознает.</p><p>Покупался простой 14-тый на 128. С большим дисплеем и про версии и т.д. было жалко денег просто))</p><p>В играх не тестировался, не интересуют, тесты производительности не делал.</p>",
+                "minus": "<p>С учетом того что все знаю что это айфон со своей экосистемой, не дешёвыми аксессуарами и т.д. , недостатков нет, это беспрецедентный смартфон.</p>",
+                "comment": "<p>Купил, прошел все процедуры регистрации - все работает, ничего не тормозит. Некоторых приложений нет впринцепе, некоторых из-за геополитической обстановки. Некоторые платные не получится пиратить как на андроиде есть такое.  Наверно и он по прошествии какого то времени будет тормозить, но это время будет больше чем на андроид смартфонах. Много имел дело с смартфонами на андроид, все, все без исключения захлёбываются и лагают. Но на них больше свободы, если есть такая необходимость. Дело не в достатке и чем то еще, кто хочет, тот берет айфон радуется и пользуется. Да не дешевые аксессуары и т.д. Каждый прекрасно знает что он получит когда покупает айфон.</p><p>Проблем с переносом контактов нету, подключаешь в аккаунтах гугл аккаунт и все синхронизируется. Работает наверно практически все что на андроиде. Даже GBoard можно поставить и использовать.</p><p>Этот телефон работает, работает без нареканий, и года 4 ещё будет работать на таком же уровне, а может и дольше.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c03560c9-ec0e-4201-a47e-5d649001372b",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "6b496f6e-8fd0-26ca-159f-b3efcbe5d415",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EI92828",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2dd7c668835d78f5cb3a87d68bab03d7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-01 07:02:35.64235",
+                "insertStampFormatted": "01.05.2024",
+                "updateStamp": "2024-05-01 07:02:35.64235",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c232b3bd-e393-4105-a8fa-b73b978e5df4",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "4f06cc87-68ad-b7ca-ee44-86c69a0e6e60",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DO62239",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "00bc55c755d6aab9a3aeb74d805bf3a8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-17 05:39:02.768921",
+                "insertStampFormatted": "17.02.2024",
+                "updateStamp": "2024-02-17 05:39:02.768921",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "69955c74-a75c-416f-80ae-a50f95d9af5f",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "231c6c20-4f46-4b87-9de7-72d02bf6f70a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WB4602",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2d13b3c5d0a05c0c91a594fab9ba990f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-13 17:33:32.536014",
+                "insertStampFormatted": "13.02.2024",
+                "updateStamp": "2024-02-13 17:33:32.536014",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0a1fc0da-4a9d-4c6c-91a2-4267fcba25bd",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "3604f8c0-f6b5-45d9-9f68-6d01251a0c1d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "XGudron",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3fffa0d3450f21ef3690a8c082863c69",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-09-15 07:19:50.084545",
+                "insertStampFormatted": "15.09.2023",
+                "updateStamp": "2023-09-15 07:19:50.084545",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e2c7329c-4b03-42d2-aabf-7dfdea3e69e7",
+                "objectId": "c9ff94e9-3ef5-11ed-9027-00155d8ed20c",
+                "objectUrl": "/product/c9ff94e93ef5ed20/61-smartfon-apple-iphone-14-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 14 128 ГБ черный",
+                "user": {
+                    "id": "8445e292-93c9-cd9e-6ad8-30bf8ba7bf53",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HU82416",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "707828878fe5fb53c5ca2e12c7e5e2f6",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-30 10:55:33.432608",
+                "insertStampFormatted": "30.07.2023",
+                "updateStamp": "2023-07-30 10:55:33.432608",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A2881 (1eSim+1SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 54
+            }
+        },
+        "topId": "a2d39b55-8502-4afb-bf0e-bd5ca59dcd71"
+    },
+    "message": "",
+    "errors": []
+}

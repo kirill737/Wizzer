@@ -1,0 +1,735 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 112,
+        "opinions": [
+            {
+                "id": "aeea5bc1-5eed-4f9b-b6bf-c63ecc8aeca5",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "0d40e832-5b64-0016-ab97-ab8c19dbb6df",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/622c6fe9596e3b62e80df808c66c9684/3d9537dd9f87ade1446845ab840b5b1a5b711ce228b708855288286601e35bac.jpg\">",
+                    "name": "John_Wick_",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9714f2c1136442f11fbedef16e8d9b0d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-26 11:49:05.05585",
+                "insertStampFormatted": "26.08.2024",
+                "updateStamp": "2024-08-26 12:18:19.301888",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Бюджетная звонилка</p>",
+                "minus": "<p>Плохо слышно собеседника, подтупливания</p>",
+                "comment": "<p>Как звонилка для рабочих задач норм, собственно с этой целью и был куплен. Если как основной телефон то не стоит этих денег</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7965b101-5fd0-415b-9f5b-e9987b05e2a9",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "aa6363be-ea69-420c-855d-a0e263cf6705",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CE31170",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0313dc532225e68c142945e358e28f39",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-25 03:25:36.597513",
+                "insertStampFormatted": "25.07.2024",
+                "updateStamp": "2024-07-25 03:28:01.12007",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший телефон хорошая цена</p>",
+                "minus": "<p>Недостатки пока не замечены</p>",
+                "comment": "<p>Хороший телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a8ea457e-6181-47d7-baf7-cadc2a26e65a",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "c4796224-c33b-a4ca-0367-b8893489057b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KV27189",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "633b40e5199acb177a3cce4020f0918f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-07 18:27:06.258406",
+                "insertStampFormatted": "07.04.2024",
+                "updateStamp": "2024-04-07 19:13:50.265229",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Купила маме -пенсионерке. Отлично! Качество связи, отличное шумопоглощение, микрофон, камера -просто супер! Отличный экран, Для связи , отличный телефон! Удобно лежит в руке.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "66a83ed9-e325-42eb-b280-bac4fad4a41c",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "2482caac-dd1c-4df9-80ff-c43146862a19",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WD2608",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-28 04:35:14.72135",
+                "insertStampFormatted": "28.03.2024",
+                "updateStamp": "2024-03-28 04:45:25.78777",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Жалко что нет адаптера питания на быструю зарядку,в комплекте 10 ватный.</p>",
+                "comment": "<p>А так все хорошо работает.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b363b5e7-2777-45a1-b59d-d3b9bd663184",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "693b3fa3-600b-3b6c-ef64-beb032ea32b6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VB39829",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e6fd3d3c571ad613fcb12bdd6da63111",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-14 12:11:17.31508",
+                "insertStampFormatted": "14.02.2024",
+                "updateStamp": "2024-02-14 14:43:17.738178",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>За такую цену просто отличный телефон.</p>",
+                "minus": "<p>их нет</p>",
+                "comment": "<p>Довольно шустрый. Но и не самый крутой телефон с неплохими параметрами и средненькой камерой. Соотношение цена/качество оптимальное.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0095bdf7-619e-4bf7-81cc-21d992f34e17",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "d631c9d5-e848-c442-bbcd-b6405da24468",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WE87591",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3da8f320dbc730320c9533be6e8d9334",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-03 13:01:52.73595",
+                "insertStampFormatted": "03.02.2024",
+                "updateStamp": "2024-02-03 13:27:04.56231",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Нормальный телефон. Камера хорошая, памяти много. Ребенок доволен. Хватает и на игры. За 9999 рублей мне кажется ТОП.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "043b1fd8-4505-4edc-8789-b9494ad83dff",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "86ae0415-aa30-0b96-de96-14b3318e1c32",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XC64821",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8f507d4de305ebba62c55ae07845bf33",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-28 15:11:54.888857",
+                "insertStampFormatted": "28.01.2024",
+                "updateStamp": "2024-01-28 17:00:59.924042",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все отлично</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Отличный аппарат-рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ab8f10a7-e04b-465c-a441-a3f95085d454",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "e407b282-92f0-8efd-8053-5b300df9b5ff",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/657938d73eef78acda28b4dd467524d5/d335d0d2c88c39502ad92f833cf16924fc0ff30f8d126702b3b816acdf8d843f.jpg\">",
+                    "name": "luxury-man",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "751465e3025f5d0c8fcd097667501b5c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-26 14:57:38.53816",
+                "insertStampFormatted": "26.01.2024",
+                "updateStamp": "2024-01-26 15:23:56.487881",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Выглядит ГОРАЗДО дороже, чем есть на самом деле. Аппарат приятно держать в руках. Работает внезапно вполне шустро, экран приятный. Камера... ну, она неплохо снимает. Правда неплохо.</p>",
+                "minus": "<p>Установлено 12 (двенадцать) игр и еще несколько десятков каких-то непонятных приложений, общим объемом на 4гб, которые можно удалить и освободить место. Еще примерно столько же удалить нельзя. Крайне раздражает, что некоторые совершенно ненужные приложения нельзя не то что удалить, но даже отключить, что было бы очень кстати на бюджетном аппарате. Постоянно вылезают какие-то навязчивые уведомления, которые пытаются донести, что я неправильно пользуюсь телефоном.</p>",
+                "comment": "<p>Телефон приобретался в подарок, получатель подарка был несказанно рад. Но я в очередной раз убедился, что хиаоми себе бы я никогда и ни за что не приобрел бы.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4c46cf6c-8785-4808-a4e0-b125f1f4936a",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "cda18782-1ae4-41a2-b384-27e10a887f62",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/acb68da213d8722bad54a6466338b255/dba1f41036c809f1e6e0c2c4923f4fc924d9fdb86eda33d1672a9d188794472a.jpg\">",
+                    "name": "Kristo4",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d3b81debb89dde9efd1fa1b5401c554a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-21 08:27:20.56645",
+                "insertStampFormatted": "21.01.2024",
+                "updateStamp": "2024-01-21 08:33:36.469679",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>хорошо</p>",
+                "minus": "<p>большой как лопата</p>",
+                "comment": "<p>доволен</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8ed3305c-667c-4304-a3af-36a80ea67047",
+                "objectId": "361944d3-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/361944d377caed20/674-smartfon-poco-c65-128-gb-sinij/",
+                "objectName": "6.74\" Смартфон POCO C65 128 ГБ синий",
+                "user": {
+                    "id": "e9fd39f3-5ddd-4cd3-ac06-c0d357dc5098",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/fa8e23cd01ff465e97bba2e61fb74826/2fb33a438a7b5cce0b9077f72f76e1379f83d0273fec38fdb0149c8502fe8cb8.jpg\">",
+                    "name": "Сергей Свет",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "824e1420c8ab1dd53fff99e558609ce0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-19 05:27:49.242029",
+                "insertStampFormatted": "19.01.2024",
+                "updateStamp": "2024-01-19 05:40:20.205265",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Вполне современный смартфон для простых действий, простые приложения, звонки, мессенджеры. 6/128</p>",
+                "minus": "<p>Слишком много предустановленного софта всяких яндексов, да и прочего барахла, которым вообще не знаю пользуется ли кто-то?</p>",
+                "comment": "<p>Брал матери для повседневного использования, большой экран, текст сделал крупнее. Сам владею телефоном той же марки POCO X4 Pro 5G 8/256 - серией телефонов доволен!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 0,
+                "4": 9,
+                "5": 90,
+                "0": 1
+            }
+        },
+        "topId": "43b5febb-ff26-46d2-9361-272b4b64f7c9"
+    },
+    "message": "",
+    "errors": []
+}

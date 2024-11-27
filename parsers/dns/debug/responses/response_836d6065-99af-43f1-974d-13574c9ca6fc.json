@@ -1,0 +1,738 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 39,
+        "opinions": [
+            {
+                "id": "afbc73e9-2f4c-442c-9924-68f016781d8e",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "02cc96b3-a5da-7a48-1098-7a5ab0c3d988",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Denis5*",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "00c73e8abb1149bcbf4c2ae88146e539",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-09 08:55:06.92731",
+                "insertStampFormatted": "09.11.2024",
+                "updateStamp": "2024-11-09 10:28:17.599269",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Пользуюсь телефоном месяц. Очень нравится. Минусов нет. Шустрый, подвисаний нет. Батареи на день хватает. Камера снимает отлично и фото и видео. Связь хорошая. Заряжается быстро, менее часа. Рекомендую к покупке!</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7daacb4f-4105-401a-9e93-b0fbd83367bc",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "e2bb15e6-b396-2497-c720-607fca27b212",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-US55599",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 04:07:03.73692",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 04:44:09.325014",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Форма телефона, качество корпуса, камеры, есть искусственный интеллект</p>",
+                "minus": "<p>Не наблюдаю!</p>",
+                "comment": "<p>Отличный телефон! На расстоянии могут принять за айфон 🤣</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f766b4eb-8089-4a62-8ac6-89d304962210",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "785f0452-7c05-4d33-b630-e162fae1a443",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NP5645",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e8b23b655cd5ab987547bcbc02c47daa",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-14 06:10:48.069377",
+                "insertStampFormatted": "14.08.2024",
+                "updateStamp": "2024-10-02 13:35:07.414654",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Всё кроме камеры</p>",
+                "minus": "<p>Ультраширик на этом телефоне абсолютно бесполезен. Автофокуса нет, снимает мыло, по факту  - это заглушка, как в дешёвом телефоне.  На предыдущем телефоне 2019 года S10+ также не было автофокуса, но там камера снимала значительно лучше, т.е. за 5 лет камера только деградировала в самсунге. На этом телефоне не получилось за 2 месяца снять ни одной хорошей фотографии.  Это какой-то позор, ставить такую камеру в телефон за 100+ тысяч.</p><p>Сначала даже подумал, что попался брак, но на форумах такие же жалобы.</p><p>У основной камеры и телевика автофокус есть, снимки получаются отличные. Если кому-то важен ширик, то лучше не берите этот телефон.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8de4527c-5286-47e8-a76e-54f1dfde2d4f",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "6ac9dbea-aa28-48e8-b9ec-60698c760f9c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/b20d3d4dc18cc7b5ed04ecedcb9ca823/c866a38b20999846090719705d33b7037a63514a0cda1e8f1f4fe2d802d5fb0a.jpeg\">",
+                    "name": "statuskia",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fb4c63278f02a521df828f025beb9b2a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-16 04:57:20.018104",
+                "insertStampFormatted": "16.03.2024",
+                "updateStamp": "2024-04-06 18:53:16.932196",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран, корпус</p>",
+                "minus": "<p>Заряд - 1 день</p>",
+                "comment": "<p>Лучший телефон, приятно держать в руке</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b6002d87-7845-4577-be99-c5171616b3e2",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "6b643701-21e6-9e53-6e69-51ddfee628d7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/6352e71daba279adaef9b5ef941b7b30/3f5aef9ed2b7908d531bc5a560313a89fca14f6772bb7a34d68d68a0d6feadbc.jpg\">",
+                    "name": "Аль-Андалуси",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1a976efe8a0935a60b2a43dddb5dbb04",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-21 10:20:26.22959",
+                "insertStampFormatted": "21.02.2024",
+                "updateStamp": "2024-02-21 11:40:59.922342",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Молниеносная скорость, великолепный дисплей, красивый дизайн, высокое качество сборки, функции искусственного интеллекта просто непревзойденны, по сути, в нем есть все, что вы хотели бы видеть в смартфоне.</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>Лучший смартфон 2024 года</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "d2421b5d-10e5-476a-abb9-f8af5ebe0796",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/5db9bd24d124fd5b47d07199cf7861e3/8cc8a4715a81fde377419aeb8d77d8a3b2b63a77973c18204f31e734e1570f12.jpeg"
+                    },
+                    {
+                        "id": "3dbded1a-f54d-457d-99ad-b12bf86d1c43",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/93eecad357b7f4691c1d07562ca5faca/71ed369509e20e8015ac2ae1fbac8296a2af3f9185519ae2a41df904b92f8ecd.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3555a5de-9248-4d4f-a1fd-50bba96d9794",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "5fe0fb7e-4b88-66e8-d3d8-53f9f39ae1e2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MA95539",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2fd0ca48dc7ca5c8bf6a44d278560925",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 10:51:08.512409",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 10:51:08.512409",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6d14ddb5-d151-408e-be9f-f424c02ba999",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "dbe3fef2-5f63-4942-914f-6b2de6568df1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RQ71775",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5d7ff469df3cbf309c902a13a029a11a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 09:48:49.831307",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 09:48:49.831307",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "654aab29-52a3-47ae-ae67-d1228b091ba8",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "86fda987-6510-8e2d-6a78-9d8aaf04b1d1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WD27159",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "00e368b2746d07f06f659a638e20646a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 22:15:35.929668",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-28 22:15:35.929668",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1d4f5afc-66b6-4812-8e02-9954fbb6c824",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "255f3667-e8e4-550f-e4da-e2fe68e2b6d9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XB50137",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "69c43f1e66b7cdd5b16268fca90c373c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-10 21:49:49.216436",
+                "insertStampFormatted": "11.09.2024",
+                "updateStamp": "2024-09-10 21:49:49.216436",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "fd073c56-2490-459d-9567-8f2dda20c675",
+                "objectId": "836d6065-99af-43f1-974d-13574c9ca6fc",
+                "objectUrl": "/product/836d606599afca6f/67-smartfon-samsung-galaxy-s24-512-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24+ 512 ГБ черный",
+                "user": {
+                    "id": "c4fb1d95-000e-416f-a199-c7cece83a94e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAF57540",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bd050dd758adba289fa407976564277b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-07 16:38:54.719043",
+                "insertStampFormatted": "07.09.2024",
+                "updateStamp": "2024-09-07 16:38:54.719043",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 26
+            }
+        },
+        "topId": "8852dd9f-8991-40d4-8512-c8ad971405ee"
+    },
+    "message": "",
+    "errors": []
+}

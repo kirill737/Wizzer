@@ -1,0 +1,699 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 55,
+        "opinions": [
+            {
+                "id": "b92829be-0625-422d-b55a-e5707781509f",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "d25ede71-851a-bad1-4709-57ecd7604238",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/c902b2a6bb97c648b4f44c01e3f4d3da/cea45c68a97b8035435a250596b3b17922c8292e089fa2b17a216982ccbf0d10.jpg\">",
+                    "name": "Пришелец-ID71462",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "271b48461599a98fa1ac75575e21dfc6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-09 17:48:36.077651",
+                "insertStampFormatted": "09.06.2024",
+                "updateStamp": "2024-06-10 01:18:45.124068",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Большой экран , внешний вид , удобный чехол</p>",
+                "minus": "<p>Пока не обнаружил</p>",
+                "comment": "<p>Отличный смартфон за свои деньги стильный дизайн удобная камера небольшой вес отлично подходит для прослушивания музыки</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7d174029-a64e-47bc-b7e8-1bb9693c3802",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "e3f51ab9-676e-44c1-9956-2ae7d37ad7ef",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "prorok-moisey",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fbb3b7cd45a37028a04481c7d427488e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-20 22:57:49.975883",
+                "insertStampFormatted": "21.04.2024",
+                "updateStamp": "2024-05-19 06:45:22.277279",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея</p><p>Экран</p><p>Достаточно громкий. Стерео, но второй динамик сверху, намного тише основного</p>",
+                "minus": "<p>Сенсор экрана ужасный.. Чтобы shorts-ы прокрутить вправо - надо сильно постараться. Возможно програмная проблема, но на трёх хонорах такого никогда не было.</p><p>Сенсор отпечатка воспринимает только полностью сухой палец.. чуть вспотел - суши</p>",
+                "comment": "<p>Через пол года начал тупить при открытии приложений. Быват ютюб-приложение открывает секунды 2-4. Так-же и с другими \"тяжелыми\" приложениями.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4fceef31-940f-41f6-be0f-dffdd4531871",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "ee04847a-eb07-7ae6-d0be-e5c22a88c78b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JA01252",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2816a128de7e2ccc136e33f3ecf85ea0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-15 11:09:53.46185",
+                "insertStampFormatted": "15.03.2024",
+                "updateStamp": "2024-03-15 13:07:09.391945",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>-Стильный</p><p>-Шустрый</p><p>-Быстро заряжается</p><p>-Огромный</p><p>-Многофункциональный</p><p>-Приятная комплектация</p>",
+                "minus": "<p>-Сыроватая OS</p><p>-Быстро разряжается</p><p>-Плоская крышка</p><p>-Отдельная пленка</p>",
+                "comment": "<p>Коротко пройдусь по пунктам и поясню за плюсы и минусы. С момента приобретения прошло уже 10 дней, думаю что с телефоном я более менее познакомился.</p><p>Смартфон ооочень красивый, его внешность бросается в глаза. Чего только стоит эта подсветка, оу май, это же гениально. За что компанию Tecno отдельно хочется похвалить, так это за дизайн их некоторых смартфонов. Сам по себе аппарат огромный, как лопата, с таким же огромным зарядником на 68W. Хотел бы сказать что это минус, так как не в каждый карман он влезет, но объективно это скорее плюс. Все-таки на такой большой диагонали можно фильмы или даже оняме поглядеть.</p><p>Работает все быстро и шустро, за все это время не ощутил никаких лагов. Ничего не могу сказать за игры, но с обычными задачами он справляется уверенно. Есть много всяких интересных фишек и функций, как например управление жестами.</p><p>Автономность у смартфона конечно так себе, но компенсируется это неимоверно быстрой зарядкой: с 20% до 100% он заряжается примерно минут за 40. Потрясающе. Хотя я не уверен, насколько быстро его аккумулятор износится.</p><p>Ну и комплектация. В коробку, у которой тоже довольно интересный дизайн, помимо зарядника кладут еще чехол и пленку.</p><p>Что касается самого важного минуса - это сырая оболочка HiOS. Если начать ковырять настройки, то со временем обнаруживается, что тут есть некоторые проблемы с локализацией. Из-за этого не все настройки понятны, не всем настройкам дается описание. Но справедливости ради, стоит сказать, что после обновления некоторые моменты с языком были пофикшены, да и по большей части тут все вполне нормально, если не придираться. И батарея здесь не то чтобы супер автономная, ее хватает примерно на сутки не требовательного пользования. Я подозреваю, что это так же связано с системой (уже дал наводку в поддержку, возможно это еще оптимизируют).</p><p>Ну и парочка придирок. Под плоской крышкой подразумеваю, что крышка буквально плоская: рисунок не имеет рельефа и текстуры, как я ожидал, глядя на картинки (вот же наивный), имейте это ввиду. А пленка в комплекте здесь лежит ОТДЕЛЬНО, видимо было лень ее наклеить.</p><p>Про камеру, к сожалению, сказать ничего не могу, не шарю. В обзорах пишут, что она тут так себе, но меня вполне устраивает.</p><p>Итог. К покупке однозначно рекомендую. Для меня минусы оказались незначительны, сам я покупкой более чем доволен.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6f74009e-106f-44ed-827d-19b240f5aa0b",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "26f6d5bd-79a5-1f6f-d331-6a76ea81569f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/8b41c33635336c8d108a09f98c9559cb/0b5b44ee038b2d0a8de0a09604636237b325287c2dc3eb22dd337546b15b861d.jpg\">",
+                    "name": "MasProGames",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6632d98ed5642ab0d6d4193949863b06",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-08 10:04:55.14064",
+                "insertStampFormatted": "08.03.2024",
+                "updateStamp": "2024-03-08 11:52:16.21605",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Красивый, стильный, шустрый.</p>",
+                "minus": "<p>Память не соответствует описанию.</p>",
+                "comment": "<p>Установил пару мессенджеров, сделал обновления приложений и системы , это всё заняло около 14 гигов (наверное в учет идет и сама система)и это телефон еще без фото, видео, музыки и тд. личных файлов. Подключив к пк, увидел не 128гб а 108. Вопрос, где мои 20гб?))</p>",
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7fea38df-08e4-4ecd-910e-9870d3c8010e",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "48e7068f-cfe6-4258-be0f-a4fd00c33a01",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TV9971",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2e5d55b4043ffdbb69adff18da186dd9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-12 18:50:34.221884",
+                "insertStampFormatted": "12.01.2024",
+                "updateStamp": "2024-01-12 19:25:19.359159",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Прекрасный телефон. Очень доволен. Нет рекламы.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "53d8a73e-4b16-4dfb-96e2-a16b58815c74",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "c77689bb-672d-db27-fb42-2dda051ca4a1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "MaxKolizey",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-25 16:08:25.52017",
+                "insertStampFormatted": "25.11.2023",
+                "updateStamp": "2023-11-25 16:44:35.945548",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший телефон за свои деньги, 8 гб оперативки, отлично тянет стендофф и пабг</p>",
+                "minus": "<p>Камера как по мне не очень, также подсветка работает через раз. Также я заметил что уже на небольшом расстоянии сигнал Wi-Fi слабенький</p>",
+                "comment": "<p>В целом телефон отличный, стильный, подойдет для гейминга. Серьёзных минусов нет, к покупке рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d79f1a43-1c0e-4d78-ba38-3244ed1c8e42",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "08e0b07a-bc10-47dc-89df-a927f03aa6f1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RR2515",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bc0837fbe76c000c2f08d202923b682b",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-07 07:04:37.59795",
+                "insertStampFormatted": "07.11.2023",
+                "updateStamp": "2023-11-07 08:56:51.433796",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Не выявила</p>",
+                "minus": "<p>Самая бестолковая покупка.</p>",
+                "comment": "<p>Нет возможности запретить доступ приложениям к интернету. Не работают настройки задней подсветки. Громоздкий, пленка в комплекте, но не наклеена. Продала через неделю</p>",
+                "usersCommentsCount": 9,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "075a75cd-1b3f-46bd-845d-1ea6a17868ed",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "1506f14f-bba1-1c69-e238-93a627cc237f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/5b6a4e4f560a6bb2b8298a2986a9e5db/a8e57732225c65c315fcd4deb7713ae889326ec3503157b6e341343291030b21.jpg\">",
+                    "name": "Пришелец-DA27037",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f724ae3a4ae5ec93e1e2da18905196e1",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-29 09:56:41.137469",
+                "insertStampFormatted": "29.10.2023",
+                "updateStamp": "2023-10-29 10:51:55.598972",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Стильный, красивый. Подойдет для стендофа в 120 фпс на ср-выс ваще кайф. Фронталка годная, делает красивые портреты да и основная камера тоже норм. Единственное на подсветку не смотрите она чисто для прикола, особого прока нету. В принципе телефоном доволен и вам советую, как минимум дизайн меня впечатлил, хоть телефон и скапливает пыли и грязь все равно советую, можно и протереть</p>",
+                "minus": "<p>Да вроде нет, ну может нагревается при долгом времяпрепровождении в играх например но это так сказать база</p>",
+                "comment": "<p>Советую как тел для дальнейшего апгрейда, имею ввиду на пару годиков хватит но думаю что потом лучше взять телефон подороже по типу того же техно но уже модель tecno camo 20 pro 5g у которого и камера и начинка получше будет. Ну а так tecno pova 5 pro 5g советую, за свои деньги топчик.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7d8444a8-1c34-49f1-b75d-da54c2d167c8",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "9edea6d6-f191-4816-b637-77b210263a24",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "жека2310",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9c2db8df7c826ef2fdbf21e60df608fb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 12:25:13.900846",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 12:25:13.900846",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d9e67ad9-4486-458e-a1f6-665d3d8aa2ba",
+                "objectId": "81e1a044-6407-42a2-91ec-d1a3df1259dc",
+                "objectUrl": "/product/81e1a0446407259d/68-smartfon-tecno-pova-5-pro-5g-128-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 128 ГБ серебристый",
+                "user": {
+                    "id": "a095e9e0-b03c-2425-5694-070ca4f86d17",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BC81883",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ff9f2a55c30b4b8367ab8ce64ae6da6e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 13:10:36.590707",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 13:10:36.590707",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 1,
+                "3": 0,
+                "4": 3,
+                "5": 40
+            }
+        },
+        "topId": "1cfa5c65-be0d-485e-91cf-2a67d0073a67"
+    },
+    "message": "",
+    "errors": []
+}

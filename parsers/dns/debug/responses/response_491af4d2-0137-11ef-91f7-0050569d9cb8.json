@@ -1,0 +1,762 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 116,
+        "opinions": [
+            {
+                "id": "436945be-e926-4e36-8066-6a8a7a7544d8",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "192f828f-adfb-306f-5fe7-1981eef6a193",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/713ddb509709209ffa826a1e4c7fd4e9/4f36a11e3bfccaf2fdad3399f6677620445819663cf875bca7993e961a6ee4df.jpeg\">",
+                    "name": "Пришелец-ZG16308",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-20 04:06:53.33402",
+                "insertStampFormatted": "20.11.2024",
+                "updateStamp": "2024-11-20 04:19:17.145875",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличная связь,работает шустро  много оперативки и памяти,камера отличная,неплохо держит заряд, мощный адаптер зарядки.</p>",
+                "minus": "<p>Сильно выпирают камеры, чехол.</p>",
+                "comment": "<p>Отличный смартфон.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2e64863d-c65e-468f-8ef7-e3a57256cf06",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "6beb29e4-63d9-782e-4d3b-2399db71ab05",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IW29302",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-17 10:17:23.85995",
+                "insertStampFormatted": "17.11.2024",
+                "updateStamp": "2024-11-17 10:54:28.137873",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Это камерофон</p>",
+                "minus": null,
+                "comment": "<p>За эти деньги вы получаете отличную камеру, плавность работы, хорошую производительность. Даже не знаю что указать в недостатках, меня всё устраивает.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c21a03a7-c05b-4212-830a-5e2e86ba62ca",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "5728d91c-985f-06f4-0bff-03bc9493cc28",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DB44536",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-04 15:34:51.22038",
+                "insertStampFormatted": "04.11.2024",
+                "updateStamp": "2024-11-04 15:40:57.832865",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>В целом хороший телефон. Очень понравился внешне. Фото и видео вполне хорошего качества.</p>",
+                "minus": "<p>Связь</p>",
+                "comment": "<p>Когда звонишь по телефону, то меня слышат хорошо, а вот я слышу плохо. Периодически заикается голос. Менял симки разных операторов, всё остается так же. Думаю что попался брак именно моего телефона. Планирую нести в ремонт по гарантии. Надеюсь исправят</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c649290a-c7e9-4491-93a2-a309fa9c233b",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "f4a3acbb-8337-f6d5-288e-186d501d8475",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XE62217",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4ac4b2f736c22551af55398d0d96b634",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 23:33:02.77126",
+                "insertStampFormatted": "31.10.2024",
+                "updateStamp": "2024-10-31 00:47:20.425376",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Нет</p>",
+                "minus": "<p>Быстро садится батарея, очень быстро. Греется даже от простых игр, камера как на старых телефонах годов так 2008</p>",
+                "comment": "<p>Не советую к покупке, одно большое разочарование</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "776709e1-6225-4a6a-8374-90352f414cc2",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "dcb516c5-c535-f8f4-4cb1-25b318ea9aad",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/0cfab63413c5fac29fd55013413e4b6e/a54b4e8d6706dc0e323409cbc040116d93859aa00e8059d3e51785c6a9004c7e.jpeg\">",
+                    "name": "DR.PODPORINA",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a0953c1739e8e6ff658f918a0b5973b9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 11:48:01.23882",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 12:07:22.873159",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Тупит.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "ad7c1b7d-8cd7-4b09-8e22-94ca55fb3799",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d8c148c50909ba0d91dd7f321385f0ea/ad8d29904ea3f878c9b7c5631ac3854d3c1b25c1f78a5aaebc8db03664292114.jpeg"
+                    },
+                    {
+                        "id": "3d1f0889-1b70-4745-adf0-624d6b81854b",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/6e8b99fc4314095c4602c5cd6a4e09c2/6dab87b6101422233688ec01818608be1be64d75da12aca715e11af73bf5e7a8.jpeg"
+                    },
+                    {
+                        "id": "15f04956-4d80-4aa6-b257-b6b2efe3058d",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2f2d05742d1eee04e0cd53f4a63f2b87/f7ede8d266042ef7e792b06cc0978ee8169a371f766657f1fc4ba2bce5a2f84f.jpeg"
+                    },
+                    {
+                        "id": "115cb499-3518-4425-9a79-8c9e99c644ba",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/41166e7da400a7ed9b5a8337efae1e45/b10ea0789e14560433e74711217db094cf798b60da79e9ecce04c62bd08349de.jpeg"
+                    },
+                    {
+                        "id": "03c79419-1643-4562-8288-e13868dbe215",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/3fe023bbcfc8ba956d366cdf5ea6db74/d6767f101b62d72f7451c3668a8b8c45dd19ed6380c9f039ece8fbcdde9e7037.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7bfd16f7-409f-4eea-82b1-c3075e6e631c",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "bc0f9f0e-7a6e-4e52-ac5d-3f13d664f291",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Shiozik92",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 15:38:25.78621",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 16:06:40.840215",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран</p><p>Камера</p><p>Размер</p><p>Плавность и скорость работы</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Самый топовый телефон лично для меня сейчас.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9cb6018f-83c6-4a9d-a703-abdf181373e1",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "dcf37a7c-b9d1-4a28-6002-f7247a18d8e1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZF5681",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 03:56:58.52001",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 03:59:37.784043",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон отличный, покупала в акции с часами. Гугл сервисы за 5 минут установила и все работает.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "26f98685-5c7a-4c40-9e06-d977cb9bcf38",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "d4db1611-9952-31f8-0c1e-8d6061d77d3f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Kamankay",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d6511a4ad10689b8782eb578297a1409",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 21:04:32.37699",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 01:04:57.944684",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Камера, производительность, скорость зарядки, внешний вид</p>",
+                "minus": "<p>Хрупкий чехол в комплекте.</p>",
+                "comment": "<p>Телефон мне очень понравился. С гуглами проблем вообще нет, всё устанавливается за 2-3 минуты. Watsapp прекрасно работает.</p><p>Камера. Тут я вообще офигел. Ожидал что луна получится максимум большим белым диском с тёмными пятнышками, а получилось это. Побаловался, конечно с фильтрами, но это всё встроено в приложение галереи. Правда режим удаления объектов пока кривоват, но где он не кривой? Ну и режим в движении. Не заявленные 300км/ч (Это вроде на ультре) , но двигающийся авто спокойно ловит</p><p>По производительности, Геншин, фортнайт, пабг, всё тянет на максимальных настройках в 60+ фпс, и греется в пределах нормы (в отличии от того, что многие пишут).</p><p>По зарядке с 4 до 100 процентов зарядился за 38 минут (С таймером на компе сидел), но это только на оригинальной зарядке 66 ват.</p><p>Устройством доволен, и купил бы его даже по полной стоимости (урвал по скидке за 47500, так еще и с часами)</p>",
+                "usersCommentsCount": 5,
+                "images": [
+                    {
+                        "id": "ab83138a-48e3-4c94-b749-f4da6b968d06",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/f979dd56a0b24e9949add011c1495bdf/896aeb332645d927bc04a97a28db39072b60013554d237c62065fb5217fcdb34.jpeg"
+                    },
+                    {
+                        "id": "91c1324c-7aef-4475-a4a8-0a672e40d67b",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/4528c23237a5f6774c6de8de61abddd7/c683653b9fab917b7b641d293b39fdbd10eaec132290bd96e8502bdfcee588c6.jpeg"
+                    },
+                    {
+                        "id": "5f2595b1-53b5-4c4e-b6d5-9c0671d5414e",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2439eb889663f463d5232a5cae304dfd/1f0a306f98e21e8b56d64acb95c5a7aca1b1277200160b60adc3b0322867f172.jpeg"
+                    },
+                    {
+                        "id": "1a389ebd-e696-4287-ac13-892d5cc52fd5",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/912d2fd789d07c44c6bb56491ff76fa9/51efa18723531ed0fdfcee03585c0fa7c91bb92dad983e3dfa421cc6f3723f72.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4286f401-de02-4a2e-bdc0-adb673bf3470",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "f367a150-fbcc-f9eb-1789-11811e1c541c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UC36118",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 18:03:48.94155",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 18:19:00.218556",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Отличный телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0ce5703a-8136-4cd5-af96-42c9eb966a48",
+                "objectId": "491af4d2-0137-11ef-91f7-0050569d9cb8",
+                "objectUrl": "/product/491af4d20137d9cb/66-smartfon-huawei-pura-70-256-gb-cernyj/",
+                "objectName": "6.6\" Смартфон HUAWEI Pura 70 256 ГБ черный",
+                "user": {
+                    "id": "4397efab-271f-41e2-ab68-61f758cb758f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/b11c1142ff5cbb0bc6dbbddc8db9b5d0/3585187926144525d75170fc9eceb4fc22993bacadec93e75bceb8da63db62c2.jpg\">",
+                    "name": "DrZloy",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "99d2514902ff2c65388601f56d34105e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 05:33:14.72214",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 05:41:54.574326",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон, не тупит, не лагает, всё работает плавно, выбирал между про и обычной версией, выбрал эту из-за меньшего размера, камера отличная, фотки получаются офигенные, батареи спокойно хватает на 2 дня, отсутствие гугл сервисов, полный перенос данных и настроек со старого телефона Honor.</p>",
+                "minus": "<p>Сканер отпечатка в экране, не привычно после сканера на боковой кнопке</p>",
+                "comment": "<p>Замечательный аппарат.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 4,
+                "4": 5,
+                "5": 66
+            }
+        },
+        "topId": "afc3941e-fa6b-433d-bf36-25550ec088c9"
+    },
+    "message": "",
+    "errors": []
+}

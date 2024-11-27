@@ -1,0 +1,751 @@
+{
+    "assets": {
+        "inlineJs": {
+            "baf1584a6d1a6e58a5d9fa6b380a5c11": "window.avatarGenerator.generate('g-zeFZ2n', 'zeFZ2n', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 46,
+        "opinions": [
+            {
+                "id": "f92acb3b-31a3-4810-ab5f-65fdb88c7c18",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "4ce1acd0-39d1-4208-a8da-9f6dcf2ed79e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UB3800",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "95a7c94b6b12d3f1ad0d033193c6b883",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-19 20:18:00.113791",
+                "insertStampFormatted": "19.06.2024",
+                "updateStamp": "2024-06-19 20:23:08.672443",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрая зарядка</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Хороший подарок</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "995f9135-605b-4260-b3d1-6d5fd0816f85",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "bf70089b-20f7-300f-6ffc-4faf045b3c99",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JM39414",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "04fe0a55e45fd5d3d91920c0156e0f9e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-13 08:45:24.791688",
+                "insertStampFormatted": "13.05.2024",
+                "updateStamp": "2024-05-13 09:41:22.08731",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Флагман по цене бюджетного.</p>",
+                "minus": "<p>Батарея</p>",
+                "comment": "<p>Радует экран, проц и качество звука при просмотре видео.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "12ab82e0-4082-4bea-8b1f-4624e9e932f4",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "b93aac1b-20bf-762a-2e30-33a91619b1d7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "SergBS7",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "db2e90f881307e3a85f1910bd53d2978",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-09 22:07:25.637051",
+                "insertStampFormatted": "10.05.2024",
+                "updateStamp": "2024-05-10 01:28:51.480538",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный дисплей</p><p>Отличная камера</p><p>120 Ватт зарядка и 15 минут с минимального процента зарядка</p><p>Удобная система</p>",
+                "minus": "<p>Наверное на 24 год 4500 аккумулятора будет маловато, но мне норм.</p>",
+                "comment": "<p>Покупал в 24 году, телефон классный</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c88e859f-520d-4700-be02-0d35914eafa3",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "5488057b-99fa-529b-454c-e02f9b68537d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/44077f8c4260521fe2be9d4c8a329265/defe14c70482fddb011076b3f905aadcd0c7910631030c114f8f1b09dbbe766e.jpg\">",
+                    "name": "wenvog",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "974b4f2be2ee9cf1aede457a5aaa4caa",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-11 20:42:49.40717",
+                "insertStampFormatted": "11.01.2024",
+                "updateStamp": "2024-01-12 02:06:08.786681",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>5G в будущем, очень быстрая зарядка, средненькая камера, терпимый чип</p>",
+                "minus": "<p>Особо не вижу недостатков, если учитывать цену</p><p>Ну может миуи</p>",
+                "comment": "<p>Пока доволен</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e02553e0-6ba5-445e-b1fe-899409f0df17",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "773e8d8b-6358-9fbe-8d0e-eac3d0261ca5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/07b80fa8bc34fdb60fc066050d8662bf/927cdec5c9c13a36e1708e00d7de58ea4d7a922305568ae1359c28de9d5268ef.jpg\">",
+                    "name": "KYKLYX",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "34df6403cf7a589bda3770058203655e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-05 23:54:11.031432",
+                "insertStampFormatted": "06.01.2024",
+                "updateStamp": "2024-01-23 01:53:16.160132",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид, батарея, качество связи.</p>",
+                "minus": null,
+                "comment": "<p>Купил и не жалею. Жаль не знаю как правильно удалить лишние приложения. Всё таки кампания не должна решать за покупателя что ему устанавливать... Решать должны мы *</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "246554ba-7a66-4dc3-805a-ff36f2991d12",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "fb8e7065-ee34-44b0-f6cb-d4902f2faca8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NP8654",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-03 15:12:59.409469",
+                "insertStampFormatted": "03.12.2023",
+                "updateStamp": "2024-02-15 15:03:57.352879",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Хорошая камера</p><p>Отличный дисплей</p>",
+                "minus": "<p>После месяца использования, понял что никому не рекомендую данный смартфон. Самый основной минус - это то, что его заряда хватает максимум на 6 часов использования. Надежды на то, что аккумулятор откалибруется и подстроится под меня уже особо нет.</p>",
+                "comment": "<p>Надежды на то, что аккумулятор откалибруется и подстроится под меня уже особо нет.</p>",
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "5546c89b-c59b-4a27-919b-7ce7e0251364",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5278e55eaadeb253068414a51f0bc8c0/a89a4af7d7de844a4c8a6d9c519d26bf21f4c08b94d835491f2e78ef7e863a57.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "14e54aeb-b0bc-469f-89ab-fcb3133bb323",
+                        "text": "<p>Проверил ёмкость, недоумение не описать, это максимум что смог зарядить, а заявленной 4500 здесь и в помине нет. Так что сами смотрите, на свой страх и риск.</p>",
+                        "textInitial": "Проверил ёмкость, недоумение не описать, это максимум что смог зарядить, а заявленной 4500 здесь и в помине нет. Так что сами смотрите, на свой страх и риск.",
+                        "insertStamp": "2024-02-15 12:19:27.042146",
+                        "insertStampFormatted": "15 февраля 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "94f0350a-ebb5-4b4e-a63d-1f4f93c90951",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "2a8d869d-6422-47fa-8a86-fcb4bc57083c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Dimochua",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f85168ca54e70f58379f5f668f46ff1e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 14:37:00.555058",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 14:37:00.555058",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9d6c3051-b790-4be2-9872-f8e444144a95",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "fcc8011b-0458-5754-4bdb-a1b870329dda",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Romanak175",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2071b2b6b9b56250ecf46ce452ec9f2c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 03:12:20.657578",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 03:12:20.657578",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0c125fdf-5043-4d7f-bfc5-5852543f6b6e",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "143ffd62-6cca-e196-a400-21c9be12e738",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VN44180",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d64d48a5116d948a8bb7d30a4b990e34",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 13:17:50.21235",
+                "insertStampFormatted": "16.09.2024",
+                "updateStamp": "2024-09-16 13:17:50.21235",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a12c500a-a52d-4ce4-b578-9d09a669046e",
+                "objectId": "d6ca758e-68cb-11ee-9159-00155d8ed20a",
+                "objectUrl": "/product/d6ca758e68cbed20/667-smartfon-xiaomi-redmi-note-11-pro-256-gb-seryj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro+ 256 ГБ серый",
+                "user": {
+                    "id": "dc8933d1-ee39-5fd8-7766-27eb13098755",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RZ23216",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c2c622a35ba46aa3b84aaf072d887603",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-10 07:31:35.252481",
+                "insertStampFormatted": "10.09.2024",
+                "updateStamp": "2024-09-10 07:31:35.252481",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 37
+            }
+        },
+        "topId": "36da8c3a-7df6-48be-a3e6-cd43653d989f"
+    },
+    "message": "",
+    "errors": []
+}

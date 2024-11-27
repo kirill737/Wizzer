@@ -1,0 +1,708 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 112,
+        "opinions": [
+            {
+                "id": "580050f3-2658-4a28-8d81-49099beccfc8",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "fd82c8dd-a9a4-c914-1043-a77873ff8463",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ZT67616",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b205770801141ed4792d3cd0aeb45206",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-22 12:11:46.59607",
+                "insertStampFormatted": "22.11.2024",
+                "updateStamp": "2024-11-22 12:19:16.799352",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Аппарат как аппарат.</p>",
+                "minus": "<p>За свои деньги нормальный телефон.</p>",
+                "comment": "<p>Примерно через месяц после покупки, появились проблемы с поиском сети и связи, затем с обнаружения сим карты, сдал в сервисный центр</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d1b09d3f-1901-4727-b666-056130faa4fb",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "a14476f3-19db-780a-e598-a740945d5370",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/4f2b5fb148ac418aadfa0b90a3ce29e0/5c7ea67ab71c433b65c70a0097786b6ab1076e597bdc4b42a1710795f6db890a.jpeg\">",
+                    "name": "Пришелец_228_058",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "31db6bd236ccb9dfe628153553e04870",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 05:35:26.301729",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 05:40:58.47027",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>производительность (честно не знаю что там говорили про плохой процессор все игры тяне )</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>ни разу не видел чтобы чтото подлагивало все шикарно конечно геншин на ултрах не понят но на самых низких настройках играется без пролагов</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9924c4f0-e178-4a76-8fa4-e585eeccd2cd",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "fede0386-03bf-fa6a-def4-113227d1ebfa",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HH46786",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "111710b296d451bce29c50a15311e7e8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-20 18:15:32.61939",
+                "insertStampFormatted": "20.09.2024",
+                "updateStamp": "2024-09-20 19:25:04.689911",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный смартфон по соотношению цена-качество. Большая емкость батареи. Можно настроить под свои нужды.</p>",
+                "minus": "<p>Не выявлено.</p>",
+                "comment": "<p>Смартфон покупался не для игр и фотосессий.  Нужен был модуль NFC и без проблем работа приложений. Китайскими приложениями по умолчанию не пользуюсь, действительно, много разной рекламы и мусора. Первым делом установил в Системной навигации \"Три навигационные кнопки\", отказавшись от жестов. Так мне удобней и контролируешь запущенные приложения. Далее установил Rustore, браузер Kiwi с uBlock Origin для блокировки рекламы. Apk приложений устанавливаются через браузер при скачиваний, например на сайте Telegram или на Github у разработчиков. Google Play мне не нужен, так как вмешивается в некоторые apk приложений, в тот же telegram, но если надо скачать apk приложение какое-то, то проблем особых нет. Самый простой способ скачать с apkpure.com. Чтобы установить доступ через компьютер, надо установить программу по умолчанию в смартфоне HiSuite, включить режим разработчика и получаешь доступ к папкам смартфона. Apk переданные на смартфон с компьютера также устанавливаются. По поводу размера, сразу оценивайте габариты, меня устраивает. В целом нормальный смартфон.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5c57725b-b4e9-4983-a74a-8725133eb97c",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "bd7f8fff-d5e8-4a46-de57-8f7297bdf897",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZW77268",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 13:45:45.23864",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 14:31:48.437018",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Качество</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Отличный телефон не пожалел что купил 👍👍👍</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5055f355-115b-4531-99b9-2c1c6d29dd20",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "d117b69f-5a20-4987-9a97-7f5a5de412b9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Sacred_one",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-27 07:22:44.97298",
+                "insertStampFormatted": "27.07.2024",
+                "updateStamp": "2024-07-31 00:30:08.7159",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>За такую цену, вполне приличная камера, и экран. Приятный звук, в остальном ничего особенного.</p>",
+                "minus": "<p>СОФТ!  Да не для кого уже не сюрприз, что Хуавей продаёт свои смартфоны без плей маркета. Но что теперь,  туда  ещё и закрыты возможности по его ПОЛНОЦЕННОЙ  установке... Становится КРАЙНЕ неприятным сюрпризом.  Вообще можете забыть про гугловское по. Клавиатуру вы включить не сможете, хром не будет проходить капчу в поисковике, а приложения - затычки позволяют ставить гугловское по только в изолированной среде.  Аппгэлери, как в прочем и весь родной софт хуавэя - переполненная рекламой помойка. На самом деле отвратительная и очень навязчивая. В общем для работы пойдет, но для личных нужд крайне не рекомендую.</p>",
+                "comment": "<p>Типичная китайская звонилка. За 10000 р. Ну, под личиной известного бренда. Камеру сделали качественную, для этой цены, тут все честно, но софт и общее исполнение страдают. В общем, все логично. Не пошло на пользу китайскому гиганту отключение от западных сервисов, китайцы вообще понятия не имеют что такое  комфортный софт, им кажется что надо на каждый квадратный миллиметр запихнуть как можно больше ВСЕГО, особенно РЕКЛАМЫ, а сделать в дайлере поле куда можно вставлять скопированный номер телефона это слабо. А скачать нормальный нельзя, так как плеймаркет недоступен а в их магазине 10 миллионов вариантов игры три в ряд но 3 альтернативных приложения дайлера. В общем покупать только если совсем мало денег и нужна камера с парой приложений, потому как это по сути уже не смартфоны...</p>",
+                "usersCommentsCount": 11,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3dac5ac5-fee9-44b2-ae3e-4e1c93dbf533",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "f871126f-bb4a-1529-ccc6-a92e9f321e96",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAB72570",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3b4e350130eaaee8530816b0c05eb4db",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-28 05:03:58.898731",
+                "insertStampFormatted": "28.02.2024",
+                "updateStamp": "2024-02-28 05:34:48.170782",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Хороший динамик, камера, чехол есть в комплекте это очень хорошо т,. К. Его пока не продают нигде.</p>",
+                "minus": "<p>Не удобно держать в руке из-за выпирающей камеры, это я поняла в первые минуты . Далее обнаружила в нем кучу не нужных приложений, настоящая мусорка, а гугл и прочие типа сгк и энергосбыт загрузить не даёт. Потом он ещё и тормозной оказался, читаю книгу он страницу не даёт крутить в низ долго думает. То же самое и по всему в браузере. И на десерт быстро разряжается при минимальном использовании, и нагревается при зарядке.А ещё не удобно что отпечаток с боку,но я это видела в описание,а на деле оказалось не очень.</p>",
+                "comment": "<p>Первый раз в жизни прогадала с этой фирмой, всегда все устраивало.</p>",
+                "usersCommentsCount": 19,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7c2f6966-77b4-487a-ba5b-d982bfb696e3",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "393ea636-c7fe-4215-9b46-02fd4efd0cf2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LV3337",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ef345a36edf08213e792a296452a501b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-19 13:51:42.60326",
+                "insertStampFormatted": "19.02.2024",
+                "updateStamp": "2024-02-19 13:57:47.842496",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Долго держит заряд на 1 сутки при активном использовании вам точно хватит! Динамик расположен снизу где гнездо для зарядки если брать телефон горизонтально руками, то можно перекрыть динамик! А вот на счёт звука...это жесть...какой он громкий та вообще ЖЕЕЕСТЬ!!! По звучанию норм на 4.</p>",
+                "minus": "<p>ОЧень много не нужных приложений, которые нужно удалять. Нет Гугл плея...нужно скачать ДжиБокс и уже оттуда гугл плей ну или плей маркет скачивать. Камера мылить картинку...хотя за такие деньги и сойдёт!</p>",
+                "comment": "<p>В целом на 4-ку телефон...ничем особенным он не выделяется...для меня была важно автономность и меня телефон устраивает в этом плане! Если есть какие то вопросы задавайте ребята...отвечу с радостью.</p>",
+                "usersCommentsCount": 36,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d9490304-61ee-434d-97f8-48c7f0aee3f7",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "a6b7b9ba-756b-fab7-8dfa-a6bc1e32568d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JB93146",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c3fe28509a34bba5ee1c2cef9919a323",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 21:27:40.620256",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-28 21:27:40.620256",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1f06d459-dfb2-4cbc-a44c-94732cb61ab8",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "368a56dc-256c-4c1e-a37e-5e65da9ce0ed",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QZ733141",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1396ef76675977368feb6cd636d28075",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 09:28:02.196905",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 09:28:02.196905",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "49aaa761-fe9a-4df4-80b8-0c720520d6dd",
+                "objectId": "54ce220b-b03a-11ee-919f-00155d8ed20b",
+                "objectUrl": "/product/54ce220bb03aed20/675-smartfon-huawei-nova-y72-128-gb-cernyj/",
+                "objectName": "6.75\" Смартфон HUAWEI nova Y72 128 ГБ черный",
+                "user": {
+                    "id": "9e133401-8148-3967-415c-cd6c1f8e0d14",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EO34958",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "794e6fbefec2d1ebeb4212d43fe2bdbc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 16:55:43.267055",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 16:55:43.267055",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 1,
+                "3": 5,
+                "4": 10,
+                "5": 74
+            }
+        },
+        "topId": "3dac5ac5-fee9-44b2-ae3e-4e1c93dbf533"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,733 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 189,
+        "opinions": [
+            {
+                "id": "a876da98-c1a2-4a4b-9dd8-fbc21f4e9a9e",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "deefcfa7-be33-42e5-826f-e18d6b50b18a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Great Cornholio",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "77ed63c843335c3495f61a170d315d7a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-15 09:07:38.03962",
+                "insertStampFormatted": "15.11.2024",
+                "updateStamp": "2024-11-15 09:42:00.102305",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Недорогой. Мощный, для своей ценовой категории, отличный экран. Простой, как топор.</p>",
+                "minus": "<p>Я не нашёл к чему прикопаться, за такие деньги...</p>",
+                "comment": "<p>Кондовая, прочная вещь, с хорошим экраном, нормальной батареей, быстрая для своей стоимости, с очень неплохим экраном.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "52561f02-312b-4d5a-8a19-656aed5c1dc6",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "2b297117-1fd1-1b9c-e680-fa836a4d6a15",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WW08758",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "463955b5b8c481d1f778ebb93627c4ea",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 16:20:35.88508",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 17:32:27.856319",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый и производительность хорошая плюс память👌))</p>",
+                "minus": "<p>Сам смартфон очень понравился, но вот камера желает лучшего, видео качество ужасное</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "357d1a93-8930-4997-ad9c-bf264cc94563",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "7cd54c88-e48c-47a3-bd16-09a90924f769",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RQ6106",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "add12dcfa47d955f98d2dd96ea51f30d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 05:38:00.195403",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-22 01:33:46.42531",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея долго держится</p>",
+                "minus": "<p>Самый худший телефон в моей жизни, даже редми 4 летней давности лучше него по всем характеристикам. Это 💩вообще с камерой не дружит, с начала покупки тупит со всеми приложениями, в сервисном центре сказали, что в нем никаких проблем нет, но проблемы **** есть. Качество видео 💩, качество звука 💩, постоянные вылеты из приложение, с тг вообще беда. А в последнее время вообще начал сам по приколу перезагружаться</p><p>Еще и нет включения по двойному тапу, как в телефонах даже предыдущих поколений, это что за прошлый век???</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ecc9d4b2-fa3a-4999-b3af-0c737d42b7a6",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "b801629d-0f87-460b-b59e-2a739bf6de2d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAE80206",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0b61e969b8e7f8ff9f132ef26d0d4e86",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-25 12:02:32.42748",
+                "insertStampFormatted": "25.09.2024",
+                "updateStamp": "2024-09-25 12:55:41.62116",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 2
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>При записи видео на улице звук как из бочки. Видео дергается</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "dacbf008-0e61-4917-be75-9a6ba469f894",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "9fd0a816-51d5-c8e4-840e-2ab43c420357",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PF39215",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7bff4fd5ed8e05c7434044864cb22710",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-25 01:19:28.572209",
+                "insertStampFormatted": "25.09.2024",
+                "updateStamp": "2024-09-25 01:30:04.451201",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Пока не нашел, экспериментировал почти все, что что можно было в пределах разумного! претензий не нашел!!!</p>",
+                "comment": "<p>Просто рекомендую!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0be7a495-341e-4dc5-a804-ca63556ba870",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "d13b4251-0860-4137-85fe-8782fe73aca4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CP3065",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "21ebf9b34e0602d2973f6085162438e9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 20:50:19.09549",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 20:55:19.731579",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон просто класс, динамики, звук шикарный, громкий, батарея емкая, памяти более чем достаточно, большой яркий экран, не тупит не тормозит, шустрый. Реально клёвый телефон, советую однозначно, не пожалеете!</p>",
+                "minus": "<p>Для меня их нет</p>",
+                "comment": "<p>Радости нет предела</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5125399a-803d-403b-99ff-133d4184cc79",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "15ac84c3-a3e5-4cf5-86dd-02daa472d90b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/78c6e4941ece23e130fad052ce878b3d/e56f57ee8e23bf882abdcfbbf6fc07c552d9b50be2aff5cd518587b7e996a280.jpg\">",
+                    "name": "vovan1084",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "761d28e5708d502a733e09c151abcb8c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 06:42:08.03468",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 06:45:23.325979",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Работает без тормозов!!!</p>",
+                "minus": "<p>Отсутствуют.</p>",
+                "comment": "<p>Сын очень доволен, игры летают !!!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4e81cf61-2257-4f2a-9c5a-2dbd8d6bcc22",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "a8fd6121-2781-43b9-9663-d4eb6c97f4fe",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "psv1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "057ac85a2ac8c4c3ba6a782e4fe94e66",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-24 18:12:24.43768",
+                "insertStampFormatted": "24.08.2024",
+                "updateStamp": "2024-08-24 19:05:55.233122",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Хороший телефон за свои деньги.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cd642b8b-d98d-4be1-a363-eeab63d0ae19",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "aafc863b-21da-3e68-bfbc-f02ed17853a3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2328835a29ff328bf5e0640ac7bd2862/97ef3e4bd62cc50904b5787d0f79803fe59c1dc86486a6588018ed84f502b397.jpeg\">",
+                    "name": "Sanchez1983-AM75962",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-17 13:07:34.78458",
+                "insertStampFormatted": "17.08.2024",
+                "updateStamp": "2024-08-17 13:20:38.055012",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Лёгкий и удобный корпус, рука не устаёт! Отличные показатели производительности. Не греется, и можно не переживать, что сгорит или треснет!!! Все в нем отлично, удобно, не дорого! Мне нравится! Рекомендую!</p>",
+                "minus": "<p>Не выявил</p>",
+                "comment": "<p>Покупайте! В рекомендациях не нуждается!!!</p>",
+                "usersCommentsCount": 4,
+                "images": [
+                    {
+                        "id": "bd3ee631-262d-4481-951e-e88bb77fab67",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/e85b98e39c0124b738a820a7d671dcdc/bf213fc6e3e7ff3497737801cf0534b9f1771498ebaac7b21cad4ac519ea97ba.jpeg"
+                    },
+                    {
+                        "id": "8be22e07-028b-4fe1-94a9-d19c9fcf6cb3",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/76408271abd241b4eea2268d61b56a42/5cd4da6f10d69f66a8f2bf7181cd6386adf3011ce559b5b5430b82ce5ae13ebb.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "87de3d8a-ce0b-477f-b1dc-ef62e2ac4b0c",
+                "objectId": "1ab92b31-9a32-11ee-918a-00155d8ed20b",
+                "objectUrl": "/product/1ab92b319a32ed20/68-smartfon-honor-x7b-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон HONOR X7b 128 ГБ черный",
+                "user": {
+                    "id": "a0931900-6139-a12f-2faa-b3ff11a63352",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OO45337",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "286d681d52574c79e49d7bf6de5baaba",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-15 10:21:17.160171",
+                "insertStampFormatted": "15.08.2024",
+                "updateStamp": "2024-08-15 10:38:35.393591",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>В игры не играю, в остальном прекрасно.</p><p>Удобный, шустрый, запись звонков сделать реально.</p>",
+                "minus": "<p>Нет записи звонков (поправимо)</p><p>Камеры выпирают (на них существуют стёкла, я купил чехол с задвижкой)</p><p>Больше нюансов для себя не нашёл.</p>",
+                "comment": "<p>Нраца )</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 5,
+                "2": 0,
+                "3": 1,
+                "4": 7,
+                "5": 130
+            }
+        },
+        "topId": "bf470b86-131f-47ff-80d9-1e7674df339d"
+    },
+    "message": "",
+    "errors": []
+}

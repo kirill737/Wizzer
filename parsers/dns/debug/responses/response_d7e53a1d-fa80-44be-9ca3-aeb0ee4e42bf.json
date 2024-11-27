@@ -1,0 +1,421 @@
+{
+    "assets": {
+        "inlineJs": {
+            "dee5cb11106eab7e30bb8d2deca23311": "window.avatarGenerator.generate('g-wt-owM', 'wt-owM', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 9,
+        "opinions": [
+            {
+                "id": "054e4b6b-4824-4583-914f-41cee07605a9",
+                "objectId": "d7e53a1d-fa80-44be-9ca3-aeb0ee4e42bf",
+                "objectUrl": "/product/d7e53a1dfa80e42b/66-smartfon-samsung-galaxy-a14-64-gb-zelenyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A14 64 ГБ зеленый",
+                "user": {
+                    "id": "32abe298-3cad-4cf7-b4c2-430f3145e523",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/9fa8bc4588f4bb6bd607d79d958525c1/d6bd21f1c61bb1abc762be1c8d05353d4e38f2508548f5a7d825457ef0060541.jpg\">",
+                    "name": "drv10",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b21fba6e0f55f6f2bd3c03c6aa029abd",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-17 06:10:22.210626",
+                "insertStampFormatted": "17.11.2023",
+                "updateStamp": "2023-11-17 06:10:22.210626",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ee04b326-8f9c-4e37-8181-c77e3d12dde5",
+                "objectId": "d7e53a1d-fa80-44be-9ca3-aeb0ee4e42bf",
+                "objectUrl": "/product/d7e53a1dfa80e42b/66-smartfon-samsung-galaxy-a14-64-gb-zelenyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A14 64 ГБ зеленый",
+                "user": {
+                    "id": "e78b8792-a7d7-9a19-7e6c-cb384bd6dfb1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LI37386",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "23177fa637dcafa1262a37edd5bdcf13",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-05 11:34:22.708855",
+                "insertStampFormatted": "05.11.2023",
+                "updateStamp": "2023-11-05 11:34:22.708855",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e71e2d22-173c-4994-b6d9-a3145edf73ed",
+                "objectId": "d7e53a1d-fa80-44be-9ca3-aeb0ee4e42bf",
+                "objectUrl": "/product/d7e53a1dfa80e42b/66-smartfon-samsung-galaxy-a14-64-gb-zelenyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A14 64 ГБ зеленый",
+                "user": {
+                    "id": "ea4b0208-995d-0512-a78e-8507f7351eaf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SN2484",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6d4c5ae12364d16c89f483429cc1e2d2",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-20 15:38:59.658918",
+                "insertStampFormatted": "20.10.2023",
+                "updateStamp": "2023-10-20 15:38:59.658918",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "253c2237-3191-4e3f-b5fa-ccd09eda48f3",
+                "objectId": "d7e53a1d-fa80-44be-9ca3-aeb0ee4e42bf",
+                "objectUrl": "/product/d7e53a1dfa80e42b/66-smartfon-samsung-galaxy-a14-64-gb-zelenyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A14 64 ГБ зеленый",
+                "user": {
+                    "id": "6999ccd0-627f-d944-da3a-e2281d20e24a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CN98316",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b69803cdf055ecd4f96a079021e8bfce",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-28 02:58:57.479181",
+                "insertStampFormatted": "28.08.2023",
+                "updateStamp": "2023-08-28 02:58:57.479181",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c0663f1f-1823-4ed7-989e-0e7bb900e4c6",
+                "objectId": "d7e53a1d-fa80-44be-9ca3-aeb0ee4e42bf",
+                "objectUrl": "/product/d7e53a1dfa80e42b/66-smartfon-samsung-galaxy-a14-64-gb-zelenyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A14 64 ГБ зеленый",
+                "user": {
+                    "id": "b8e391a9-b5c0-44a1-81a3-6acac802c55f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Удалых",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6794b3096c2da5524d5c12fef8100819",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-16 09:42:34.966272",
+                "insertStampFormatted": "16.07.2023",
+                "updateStamp": "2023-07-16 09:42:34.966272",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4ea1dfb3-4ed0-4c3f-a938-9407b0377a3c",
+                "objectId": "d7e53a1d-fa80-44be-9ca3-aeb0ee4e42bf",
+                "objectUrl": "/product/d7e53a1dfa80e42b/66-smartfon-samsung-galaxy-a14-64-gb-zelenyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A14 64 ГБ зеленый",
+                "user": {
+                    "id": "b8726216-07ab-4a79-90e8-24d0f1cc13b6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NG4334",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "aa860f7ac8b764bc99a5da6b9b4cd9c5",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-12 16:45:30.566005",
+                "insertStampFormatted": "12.07.2023",
+                "updateStamp": "2023-07-12 16:45:30.566005",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 5
+            }
+        },
+        "topId": "9f6607a9-74c1-4824-a3ba-532c685c629d"
+    },
+    "message": "",
+    "errors": []
+}

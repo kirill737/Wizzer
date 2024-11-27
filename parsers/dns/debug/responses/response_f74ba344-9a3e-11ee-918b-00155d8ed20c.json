@@ -1,0 +1,729 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 73,
+        "opinions": [
+            {
+                "id": "4823f7ec-da80-4765-8134-bf20c3b1518c",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "1da2f604-632b-09e6-7dc8-5ebdfbd78c81",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UU55880",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 15:28:41.32843",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 16:00:54.884655",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Красивый</p>",
+                "minus": "<p>Очень плохое качество записи звука</p>",
+                "comment": "<p>Смотрела обзоры, ни в одном не сказано что запись звука как из бочки. Очень не насыщенный, попробую его вернуть.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8624fa6b-9bf1-4be1-9f5e-e52f5697f648",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "d87e9996-5d9d-7f17-f4d2-36a4c74e6033",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VR93419",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0bfd9a410cd63e7765d854fc04873991",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-11 17:08:31.125697",
+                "insertStampFormatted": "11.10.2024",
+                "updateStamp": "2024-10-11 17:19:11.758025",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Размер, производительность, внешний вид, быстрая зарядка</p>",
+                "minus": "<p>Камера</p>",
+                "comment": "<p>Пользуюсь данным телефоном больше месяца, за свою цену телефон отличный, легкий, удобно лежит в руке. Очень красивый внешне, чем-то напоминает айфон. Хорошо держит заряд и быстро заряжается. Работает тоже шустро, не тормозит, основные задачи выполняет. Из минусов: камера, не самая лучшая,  но для меня не критично.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b3b795d8-4711-4d04-beb5-9be6aea7dfd9",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "fa9095e3-f521-4934-9a34-fe6f3db30e34",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ЮлияМН",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cdc76d56981c7970c5e26a1328edbbdc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-08 15:53:00.034945",
+                "insertStampFormatted": "08.09.2024",
+                "updateStamp": "2024-09-08 17:32:35.618383",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон, быстро грузится, не зависает.</p>",
+                "minus": "<p>Очень много времени занимает настройка телефона</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e048f79b-cf6c-40ec-9d28-119a7e5d931d",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "ba1042de-bc06-4fd9-ab5f-13d67a476506",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WJ10580",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9ab2c45692e9fbd3da3665b90d5b07c5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-05 17:20:27.892662",
+                "insertStampFormatted": "05.09.2024",
+                "updateStamp": "2024-09-05 17:39:13.124517",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>норм телефон, обычный</p>",
+                "minus": "<p>не нашел, немного реклама иногда расстраивает</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9798a4c2-ceb3-4e05-9451-3ab6dfb126cd",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "6169513f-2b6d-4e71-a3e2-bf9dcdcf43d3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "kotaro",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2462d116dafb65c5061fcc969f75e2ce",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-29 17:14:22.12844",
+                "insertStampFormatted": "29.07.2024",
+                "updateStamp": "2024-07-29 17:21:51.51435",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>- внешний вид смартфона</p><p>- достойный экран</p><p>- фронтальная камера</p><p>- оболочка смартфона (вкусовщина)</p>",
+                "minus": "<p>- аккумулятор (слабоват, но мне хватает)</p><p>- широкоугольная камера (лучше бы ее вообще не было)</p>",
+                "comment": "<p>Брал данный гаджет за 17 999. Существуют более производительные конкуренты, но выбрал пал именно на данный смартфон по причине внешнего вида. Для людей кто не живет мобильным геймингом это хороший вариант. Основная и фронтальная камера достойная, но ширик немного разочаровал. Несмотря на небольшую емкость аккумулятора, заряжаю его раз в два дня, т.к не провожу весь день в телефоне.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "89a8dc99-1f50-446b-bbe1-98d461eb037b",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "e9e604f0-4040-f925-e6a8-e642fdd6fa06",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ПрикалдэС",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "046daecc15d2170bb6da1e562468fa23",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-06 17:32:02.460596",
+                "insertStampFormatted": "06.07.2024",
+                "updateStamp": "2024-07-06 17:59:41.931642",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Довольно долго держит заряд, если не сидеть весь день в игрушках- спокойно хватит на сутки и более.</p>",
+                "minus": "<p>Экран, точнее стекло. Указано что стекло каленное, но чет сильно сомневаюсь. В сравнение с американским каленым стеклом, это просто за день стерлось об пластиковую карту банка.</p><p>Сразу берите накладку на стекло, оно сильно сшаркиваемое и его потом только под замену!!!</p>",
+                "comment": "<p>В целом доволен, но ситуация со стеклом экрана просто нечто.</p><p>Камера хорошая, но фракталка на многих моделях страдает и эта модель не исключение.</p><p>Батарея емкая и имеет функцию быстрой зарядки.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "26efc408-e9dd-4a8b-9311-54f990015af0",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "d5b80007-07ab-4062-8c37-bc0ee735707e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Вячеслав-32",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "32c0cf6c6811b297bd82ab6b758dbf29",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-04 09:38:31.75622",
+                "insertStampFormatted": "04.03.2024",
+                "updateStamp": "2024-03-04 14:33:26.50241",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Система просто летает , оперативная память 8+8.</p><p>Камера классная для своей ценовой категории.</p><p>Экран вообще пушка.</p><p>В руке лежит отлично.</p><p>Сканер пальца сбоку что очень удобно.</p><p>Защитная пленка с коробки.</p>",
+                "minus": "<p>нет слота для карты памяти , но для меня не критично. даже 128гб забить надо еще постараться</p>",
+                "comment": "<p>Перешел на него с honor 20lite . Разницу прям ощутил)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5e08e566-a3a2-4be0-8987-22a7b34ec36c",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "17293003-3bf6-b6b4-a8e9-5bd2c0994520",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZV07191",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-23 18:54:14.42877",
+                "insertStampFormatted": "23.11.2024",
+                "updateStamp": "2024-11-23 18:54:14.42877",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "36ff4d31-fa23-4a45-8445-ac8f7845778c",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "958bca87-80a5-4ae0-a2d4-97b9d3780e5a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец190272",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "623a4f1a2de84b84e7739984ada606ee",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 01:06:32.698544",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 01:06:32.698544",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2d8ef565-ab52-4297-8810-1ab90421ea2d",
+                "objectId": "f74ba344-9a3e-11ee-918b-00155d8ed20c",
+                "objectUrl": "/product/f74ba3449a3eed20/67-smartfon-honor-x8b-128-gb-serebristyj/",
+                "objectName": "6.7\" Смартфон HONOR X8b 128 ГБ серебристый",
+                "user": {
+                    "id": "096febd4-e153-5af6-2b5a-94e8be1c2249",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZR86679",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5b56edaf32ef62a5945bbee3dd3b8416",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 05:52:51.074805",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 05:52:51.074805",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 58
+            }
+        },
+        "topId": "7d2bc99c-1477-480d-b1d5-8a9697dce5e6"
+    },
+    "message": "",
+    "errors": []
+}

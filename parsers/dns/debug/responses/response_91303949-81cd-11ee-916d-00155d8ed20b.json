@@ -1,0 +1,736 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 114,
+        "opinions": [
+            {
+                "id": "bd8c7f82-1c39-498b-99cf-5bb6a47ba949",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "1e48ad41-4bf6-aa30-3011-55bc33c8a641",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/d8ed36db99d7c8aa0dce69820c040641/67a672d29a0b80c720806fc16a442b4da027d4448fc706b76e1821bf3144ba55.jpg\">",
+                    "name": "Частый гость-RW47944",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "744bd980f6ccc423dafac0f475094216",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 13:58:00.158262",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 14:18:02.390848",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный смартфон нареканий нет,👍</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "029e1032-abf9-4aa8-ad94-322ec566de97",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "17f9ead8-2e48-7ace-3c9a-5c5f2eb787ed",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UE23132",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e3d4c9b25630745d472d1febae6e17e7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-07 10:32:50.290968",
+                "insertStampFormatted": "07.09.2024",
+                "updateStamp": "2024-11-04 18:35:23.562665",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>В играх показывает себя очень хорошо, мощьный не нагреваеться вообще.</p>",
+                "minus": "<p>Камера иногда фоткает очень качественно , а иногда ужасно даже с фокусировкой</p>",
+                "comment": "<p>Для гейминга топ, есть брать камерофон то берите самсунг</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "af2225e4-f61e-4968-8c5d-be915e5bfdc5",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/efcb43f28bc3c2ddfff2a7e15df092a3/9c30e8941ec46d184fc3e5a7bf3f3fd49227874d608a3f383a2be14b7a3d89c6.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "459c1431-eed5-48ff-b8e8-181bf1471068",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "d80f1c02-4757-408b-ae5a-d932b8a59d4a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/fa0ad5a5862ce800adacd4f9d841cdd4/f1ee9b16742eab093d5195fc5292e1add9b1318c9bb98ca27efdef5de8de6a39.jpeg\">",
+                    "name": "Garnezbuh",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "65522b264460b189f9e15b598708b71e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-20 06:02:14.85101",
+                "insertStampFormatted": "20.08.2024",
+                "updateStamp": "2024-08-20 06:16:53.435276",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Для бюджетника в самый раз</p>",
+                "minus": null,
+                "comment": "<p>Хотелось бы экран ярче</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "495a3f6a-6e48-4655-9a09-294baf13dd78",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "e61f65c4-88f9-a917-9772-3eace4dc91ab",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LM93259",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d5147cad7b89aeede52ccf7c0ec3f156",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-15 13:53:48.217081",
+                "insertStampFormatted": "15.05.2024",
+                "updateStamp": "2024-05-15 14:52:08.78107",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Плавный в работе. Быстрый. Легко переключается с приложения на приложение</p>",
+                "minus": "<p>Звук динамика - низкое качество</p><p>Камера - низкое качество</p>",
+                "comment": "<p>Этот телефон - хорошая рабочая лошадка. Для соцсетей, Ютуба, заметок, мессенджеров и других приложений работает на 10 из 10. Телефон за свои деньги очень производительный.</p><p>Что касается игр - не знаю, не играю. Но если вы как и я - не играете в мобильные игры, то этот вариант думаю вам подойдёт.</p><p>Разочаровал он меня в трёх вещах, но для меня не критично:</p><p>1 - это звук. Видимо динамики некачественные. Слишком громко ставить и слишком тихо не рекомендую. На тихом начинает фонить, на громком слышится что ему не хватает частот. Хотя думаю вряд-ли это имеет значение для большинства. Просто сравниваю с мои предыдущим телефоном. Возможно просто не привык ко звуку и все тут. Но что на тихом фонит - это факт.</p><p>2 - камера. Она здесь существует будто для самых простых задач. Сфоткать текст, снять кружок в телегу. Если вы хотите пользоваться камерой более основательно чем просто быстро и легко что-то снять, то этот вариант вам не подойдёт. Максимальное разрешение тут кстати 1080. Как минимум на видео</p><p>3 - это дизайн. Чувствуется что это пластик. В настройках для персонализации рабочего стола мало функций. Ну и есть ещё пару нареканий. Но тут заострять внимание не вижу смысла. Вкусовщина это.</p><p>Несмотря на то что минусы я расписал больше чем плюсов - я телефоном доволен. У него много оперативки, достаточно памяти. Пленка сразу же наклеенная на экран. Работает прекрасно. Можно бесшовно переключаться между приложениями. Хороший телефон.</p><p>Лучшего определения чем \"рабочая лошадка\" я найти не могу. Он закрывает более 90% потребностей.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "fe0aab7f-830e-49c5-b1df-69c42da9dc16",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "9460afe4-3f18-4079-b63a-2001e592f49c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "yurch24",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "169d37b4d73f0dbe2a479fed49352079",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-14 07:51:39.42026",
+                "insertStampFormatted": "14.05.2024",
+                "updateStamp": "2024-05-14 08:30:40.462961",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Недорого</p>",
+                "minus": "<p>Не удалось полноценно заставить работать с фитнес-браслетами. Из двух браслетов (Xiaomi mi smart band 7 pro  и Huawei band 8) ни с олним работать не захотел. Уведомления приходят через раз, приложения вылетают из фонового режима. Автозагрузка не работает. В сервисном центре помочь не смогли.</p>",
+                "comment": "<p>Просто как смартфон, за такие деньги неплохо.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "af18a421-f8e1-4b81-a6b2-95efc8c1f1f5",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "de7226b2-63e5-0634-cfd9-d0596195181b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Zelimin",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dacabc396c3f193d276a95ff3613150b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-28 04:13:14.92238",
+                "insertStampFormatted": "28.03.2024",
+                "updateStamp": "2024-03-28 04:15:35.499826",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Очень удобный</p><p>Хорошая камера</p><p>Отличная производительность</p><p>Хороший звук</p>",
+                "minus": "<p>Иногда звук скачет то громче то меньше, не знаю с чем связано</p>",
+                "comment": "<p>В остальном телефон за свою сумму отличный вариант для тех у кого бюджет до 10000р</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "f9ce884f-8b7b-4838-87ee-3c42bed9f76a",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/c7f166db1a81647db90634b183a89ab8/76622492e31c2c24cfd676e01ba08b060e8ae42f86635f62720a9a715863e55d.jpeg"
+                    },
+                    {
+                        "id": "db9eabf6-b6b9-4c16-9135-a903db21f46a",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/c7b32971b602bf9f5e686b48fb93ebd7/a5eaddc80d6d035fade110755b82f9d05a1bf5490808f221aacde9fcffae013c.jpeg"
+                    },
+                    {
+                        "id": "a9cee3e3-e856-4f14-bde5-c08e0f39d895",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/586c073e0982a3a50e44554de6b60cc4/878904eb856829e06d81ac69d1b8fc7f5aeb00efaff59f629e025f2e3f4cd6c8.jpeg"
+                    },
+                    {
+                        "id": "56487ec3-ef4d-4644-846a-8d6a7b4722d5",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/a21853140fc8b3f50fe18afe2cfcc4d2/9ed027ebd5f160150ee20b2cc4a8cfb4721fc07204075b7dfcb65ef1002335b8.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2b0d2dea-6076-4c3f-8c73-fb97a027e3a5",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "4a743006-56b0-4317-ae69-fec6bdf6c727",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAM73495",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-19 10:54:50.02212",
+                "insertStampFormatted": "19.02.2024",
+                "updateStamp": "2024-02-19 11:03:43.941339",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Компактный.</p>",
+                "minus": "<p>Батарея садится за день, минимум использования соцсетей, думаю что батарея на данном аппарате меньше емкостью чем заявлено.</p><p>Периодически зависает при поступлении входящего звонка.</p>",
+                "comment": "<p>Бюджетный аппарат. Если вы  много пользуетесь интернетом в течении дня то  обратите внимание на какой нибудь другой аппарат.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3d4e94f6-15f3-4f8e-a719-d7c05f2f740a",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "65935cf5-a38a-095f-ccb6-6f49d87c0fb1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NP33399",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-01 19:25:09.03443",
+                "insertStampFormatted": "01.02.2024",
+                "updateStamp": "2024-02-01 19:49:28.791604",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид, камера , зарядка</p>",
+                "minus": "<p>Не обнаружено</p>",
+                "comment": "<p>Понять не могу, от куда такие плохие отзывы (. За такие деньги телефон просто бомба. Брала маме на Новый год, она любитель тик тока, обожает играть игры, кратко ( человек на пенсии). Зарядки при постоянном использовании хватает на два дня. Звук обалденный,  камера просто супер. Пишут что не проходит оплата сберпей, неправда всё работает отлично 👍 👍 👍.  Сейчас дочери купила тоже инфиникс , только нот 30 вип.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8827aa25-8010-4e9a-a535-dde535fb15d0",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "10ff0ea2-28ac-68cb-4bcd-bc371030138e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RE21150",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "00e7be88e4acfd27a658c34526186d22",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-06 05:31:01.870123",
+                "insertStampFormatted": "06.01.2024",
+                "updateStamp": "2024-01-06 05:36:34.579824",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>цена качество сборки операционная система</p>",
+                "minus": "<p>камера в помещении на 50 мп не тянет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cb2f733a-252a-41ec-a1c7-646ad602f521",
+                "objectId": "91303949-81cd-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/9130394981cded20/656-smartfon-infinix-hot-40i-128-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix HOT 40i 128 ГБ черный",
+                "user": {
+                    "id": "76155f61-713c-6b2a-62e4-10c14413635a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/b4358fac85b646898550654bc6f0be44/d47323dc1be61f36e5592ba52f1752c3eace7143d0a271cf92552941ff794594.jpeg\">",
+                    "name": "Gorelka",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-24 19:14:01.46534",
+                "insertStampFormatted": "24.12.2023",
+                "updateStamp": "2023-12-24 19:27:41.101548",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>90герц (90 ФПС)</p>",
+                "minus": "<p>Нету</p>",
+                "comment": "<p>Телефон лучше Айфона 11, 90гц подходит для игр</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 2,
+                "4": 11,
+                "5": 77
+            }
+        },
+        "topId": "f4c04627-47da-4936-961e-1a963089d22e"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,172 @@
+{
+    "assets": {
+        "inlineJs": {
+            "786970d40b002500adc3faf6167fdd1f": "window.avatarGenerator.generate('g-gf1HjY', 'gf1HjY', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 4,
+        "opinions": [
+            {
+                "id": "40ea6591-e3f4-48ff-8d19-b4a5a7e2cdfd",
+                "objectId": "eb09402f-776c-4bb6-b549-384d9d3d015a",
+                "objectUrl": "/product/eb09402f776cd015/67-smartfon-samsung-galaxy-z-flip3-128-gb-bezevyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy Z Flip3 128 ГБ бежевый",
+                "user": {
+                    "id": "e135c473-c2f5-46d4-a49b-bd805bed0709",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JX95077",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6899da5885c279649004f888a6fccde4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-17 07:04:29.077261",
+                "insertStampFormatted": "17.03.2024",
+                "updateStamp": "2024-03-17 07:04:29.077261",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "17998350-34fe-432c-846c-2b13cd0e28a3",
+                "objectId": "eb09402f-776c-4bb6-b549-384d9d3d015a",
+                "objectUrl": "/product/eb09402f776cd015/67-smartfon-samsung-galaxy-z-flip3-128-gb-bezevyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy Z Flip3 128 ГБ бежевый",
+                "user": {
+                    "id": "2459f639-223d-452b-ba7b-d2e8a3e4879c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "GamePlus",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "77bb60dfb4d4cfda143b33a770e6408a",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-10 05:55:25.753708",
+                "insertStampFormatted": "10.05.2023",
+                "updateStamp": "2023-05-10 05:55:25.753708",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 2
+            }
+        },
+        "topId": "b7502eb1-22bb-4eab-b690-63cf3d7f6283"
+    },
+    "message": "",
+    "errors": []
+}

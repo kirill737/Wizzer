@@ -1,0 +1,105 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 1,
+        "opinions": [
+            {
+                "id": "2827816d-70c5-41c3-9568-dbe77eb8ed20",
+                "objectId": "e344d141-70b6-11ef-9268-0050569d5825",
+                "objectUrl": "/product/e344d14170b6d582/667-smartfon-tecno-spark-go-1-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Tecno SPARK GO 1 128 ГБ зеленый",
+                "user": {
+                    "id": "cf96cf84-05f5-68cf-e63f-af3395611300",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DV89910",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eb92a341ca071b1a12f504c270a40d3c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-14 05:24:09.77596",
+                "insertStampFormatted": "14.11.2024",
+                "updateStamp": "2024-11-14 05:26:15.337164",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран все же приятный. Есть реверсивная зарядка.</p>",
+                "minus": "<p>По сравнению с предыдущей моделью (Spark Go2024) гораздо более тормознутый. После запуска ОООочень долго пытается разойтись и прям серьезно подвисает. 120гц нельзя выбрать принудительно как на предыдущей модели- только \"автоматическая регулировка частоты обновления экрана до 120гц\". Купил не из-за них,но тем не менее неприятно. Цвет \"зелёной\" модели светло бирюзовый и не совсем похож на фото на сайте. Вдруг кому-то критично.</p>",
+                "comment": "<p>Задняя стенка похожа по ощущениям на обои) при покупке рекомендую посмотреть на предыдущую модель и сравнить.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0
+            }
+        },
+        "topId": "bd3c9572-6940-446b-80d1-c084cf426c3c"
+    },
+    "message": "",
+    "errors": []
+}

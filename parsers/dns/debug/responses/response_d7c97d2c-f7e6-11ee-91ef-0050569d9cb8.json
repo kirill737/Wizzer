@@ -1,0 +1,743 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 37,
+        "opinions": [
+            {
+                "id": "8a0cfe40-ab92-4cae-8276-7f1d9e1f1aeb",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "b26d6726-f8b8-453a-b439-a79aad87dfc5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PQ3939",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ae34b0d839f81c6982c6c05068c147df",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-02 14:54:38.51284",
+                "insertStampFormatted": "02.11.2024",
+                "updateStamp": "2024-11-02 15:24:33.747822",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Большой экран, долго держит заряд, пока всё устраивает.</p>",
+                "minus": "<p>Пока не обнаружены.</p>",
+                "comment": "<p>Продавец внимательно отнёсся к моим запросам. Сделал всё возможное, чтобы я купила данный товар. Продавцу отдельное спасибо.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "877e445e-c6ce-431c-88df-1bd8a2b72505",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "c88d5e21-73b2-4332-9b60-6a2c97153c85",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZG2843",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "029d6b2e79459a133fe10d77b7e8dbac",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 15:41:26.123346",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 15:56:25.456506",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Достаточно по сравнению с предыдущим redmi 9t. Искал с характеристиками не хуже, но и в топ не гнался.</p>",
+                "minus": "<p>Сыроватое системное ПО. Световая индикация - ну не допилили функционал.</p>",
+                "comment": "<p>Редмик стал уставать. Батарея уже \"не та\", хотя еще может нагнуть многих. Да и внешне - поистаскался.  Хотелось чего-то по-новее и с световой индикацией, но как и сказал - не до пилили (надеюсь - пока).</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6e785490-3fb5-4395-919e-13753456bc3c",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "fec03e4c-0b74-4d24-afbc-3a3133ad24e0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ДеРуВ",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0e53246e69bd2e251208c2ff293f411c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-10 05:54:25.603035",
+                "insertStampFormatted": "10.10.2024",
+                "updateStamp": "2024-10-10 06:08:32.498212",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Аккумуляторная батарея, звук, быстрая зарядка.</p>",
+                "minus": "<p>Не выявлены.</p>",
+                "comment": "<p>Нормальная звонилка, длительность работы, хороший звук и быстрая зарядка - это то что мне было нужно. Пользуюсь меньше месяца, поэтому выявить недостатки не представляется возможным. Посмотрим как поведёт себя дальше. Брал по акции.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ac192dd1-84ff-41de-9bae-c89487c05688",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "6031480e-b56b-4ee6-b70b-3de9f9451c46",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9f80a4f09077799a1dd59c0c846c1d4a/ed59c3b24f18f8a57492c2373ee4d8b8358d8368edc75273fee5dbe7422165ff.jpg\">",
+                    "name": "Jack Fish",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9241b0461944dd67e421266a50aa2ff5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 10:17:48.899821",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-20 11:56:18.925456",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид, который вызывает эффект Вау, брал сестре на подарок, поэтому эмоций было куча! Фото с сайта, не передает той красоты.</p><p>Потрясающая скорость работы.</p><p>Достойная камера, многие тут пишут, что камера так себе, ну для начала это тел, а не проф камера и купили вы тел до 20т, нужно с камерой поработать и понять что и как работает, настроек там полно.</p><p>Звук отличный.</p><p>А т.к. настраивал и удалял все сам, то скажу пару слов по системе, да HIOS, но есть много прикольных фишек от Теchno, сам думал переходить на xiaomi redmi note 13, потому что, до покупки техно, как раз таки его настраивал, но после техно я понимаю, что буду брать себе Camon 30, просто из-за дизайна и как раз таки фишек в ОС, потому что Дизайн - Это то что отличает Техно от других однотипных смартов в этом бюджете.</p><p>Зарядка хорошая, даже не потому что быстро заряжает, а потому что умеет контролировать этот процесс, ну я и там есть у вас на выбор 3 уровня зарядки.</p>",
+                "minus": "<p>Пока нет, будут если, дополню.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "3c07dcca-49ed-4fe8-b36c-c49eff782566",
+                        "text": "<p>Взял же по итогу Camon 30, как и планировал, а клюнул на дизайн... Не повторяйте моих ошибок. Да, задняя крышка зеленая и приятная на ощупь, но на этом и все. Камера хороша, но она одна во всем блоке камер, остальные - круглые отверстия, это бутафория в угоду дизайна для тех, кто не понимает и берет из-за мимолетного \"вау\"... Я попал в их число. По-хорошему, камеру можно было перенести в угол с отступами по 2-3 мм и рядом вспышку организовать. Красный индикатор ни к чему там. Вот тогда бы получился хороший дизайн. Что насчет самой работы и функционала телефона, то все нормально. Обычно пользователю всего хватит с головой, но мне для моих задач, к сожалению, не хватило. Видео в 4K не воспроизвелось как положено, все шло с какими-то подлагами. Естественно, и отмонтировать я его тоже никак не смог, что странно для такого телефона. Далее не было поддержки нужных мне форматов в рабочей среде, хотя на этой же POVA 6 все то же самое делается отлично. Пробовал и разное ПО, и разные форматы. Сперва думал, что сама ОС как-то блочит все это, утверждать, конечно, не буду, но, вероятно, проблема была в ЦП - G99 проверенный временем, а там улучшенный Dimensity 930, стал 7020. Не исключаю того, что просто брак какой-то попался. Так же хочу отметить батарею. У Camon 30 она крайне слабая, а у POVA 6 - она прям хороша. Подведем итоги: я обменял Camon 30 на POVA 6, и проблем не знаю. Да, дизайн такое себе, но мне после Camon 30 плевать на дизайн, главное - функционал.</p>",
+                        "textInitial": "Взял же по итогу Camon 30, как и планировал, а клюнул на дизайн... Не повторяйте моих ошибок. Да, задняя крышка зеленая и приятная на ощупь, но на этом и все. Камера хороша, но она одна во всем блоке камер, остальные - круглые отверстия, это бутафория в угоду дизайна для тех, кто не понимает и берет из-за мимолетного \"вау\"... Я попал в их число. По-хорошему, камеру можно было перенести в угол с отступами по 2-3 мм и рядом вспышку организовать. Красный индикатор ни к чему там. Вот тогда бы получился хороший дизайн. Что насчет самой работы и функционала телефона, то все нормально. Обычно пользователю всего хватит с головой, но мне для моих задач, к сожалению, не хватило. Видео в 4K не воспроизвелось как положено, все шло с какими-то подлагами. Естественно, и отмонтировать я его тоже никак не смог, что странно для такого телефона. Далее не было поддержки нужных мне форматов в рабочей среде, хотя на этой же POVA 6 все то же самое делается отлично. Пробовал и разное ПО, и разные форматы. Сперва думал, что сама ОС как-то блочит все это, утверждать, конечно, не буду, но, вероятно, проблема была в ЦП - G99 проверенный временем, а там улучшенный Dimensity 930, стал 7020. Не исключаю того, что просто брак какой-то попался. Так же хочу отметить батарею. У Camon 30 она крайне слабая, а у POVA 6 - она прям хороша. Подведем итоги: я обменял Camon 30 на POVA 6, и проблем не знаю. Да, дизайн такое себе, но мне после Camon 30 плевать на дизайн, главное - функционал.",
+                        "insertStamp": "2024-10-20 11:42:46.955724",
+                        "insertStampFormatted": "20 октября 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e781c1ba-f052-4d8a-a175-36f625605e00",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "121208d4-6c8d-7c84-f679-e83cc02e76e1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LZ08518",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6415d59e4fc9fb36718d4cedfe206fbb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 13:11:11.831696",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 13:11:11.831696",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e41d85ff-d290-4eb9-95ac-94f123a83fba",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "327fadde-cae4-45c6-a977-44c06910679a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KI1254",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "50c4160bf51fb522e7e9645573ff504b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 03:35:01.046258",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 03:35:01.046258",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f2beeebe-d331-46f1-a76f-8071258808b2",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "c01c5f7c-e978-ee18-88a3-d1e2524414d2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Silphidae",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cb8da0ac3d85555910ddb7dbd692c779",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 12:46:54.878774",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 12:46:54.878774",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1a205b94-2f1c-4388-9fca-4d0e89108866",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "fb46a512-8131-bc58-7e00-3c180b28560e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/870643924806bd8b35d822b3fede87f3/b4aec39e810d2d8148dc60cb5a35febe3f44fa4224ed07e4d7c3429fbcd8d3f2.jpg\">",
+                    "name": "Пришелец-AV9474",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e9260e0a8f283b94dbbc25d25f4db5aa",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 06:05:54.011597",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 06:05:54.011597",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "880ebcd6-9738-45bf-b592-6ad4e4e2d593",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "03c4053f-a7b3-46c8-8d15-bcdfbbee4106",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "vovka_net",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c51456f230edfaa564612df06a1b820f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 09:42:27.362939",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 09:42:27.362939",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "da97f17a-b182-4125-85a9-e01342ec9035",
+                "objectId": "d7c97d2c-f7e6-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/d7c97d2cf7e6d9cb/68-smartfon-tecno-pova-6-256-gb-sinij/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 256 ГБ синий",
+                "user": {
+                    "id": "27abf8a2-2a96-c230-b6be-831535402d3c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UR81577",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9c4347cf2e0e15ca63b2a94a765e99ef",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 10:24:06.777357",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 10:24:06.777357",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Оперативная память (ГБ)": "8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 21
+            }
+        },
+        "topId": "b75390d0-df28-4ddb-91ba-c87eb53f7b1f"
+    },
+    "message": "",
+    "errors": []
+}

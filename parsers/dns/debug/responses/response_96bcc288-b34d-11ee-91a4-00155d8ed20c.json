@@ -1,0 +1,729 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 484,
+        "opinions": [
+            {
+                "id": "40af844d-233d-48cc-9813-43cd88d53ae2",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "75d8356a-3485-4656-8f95-5e06f9f77627",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PQ7203",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-17 20:42:43.47168",
+                "insertStampFormatted": "17.11.2024",
+                "updateStamp": "2024-11-17 20:49:07.554378",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>отличный смартфон!</p>",
+                "minus": "<p>бывают лаги не критично!</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "04274044-e434-4f0f-ad99-e39df95c7cf0",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "2090cb77-66fc-4845-88ee-e18de6983f12",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/8fb2b8c1d4e67e2fe1b7a2d827fb5739/abbdc1dbd16c2d1a873315fa0607007380f6e77054bb3bf42929456b16bb4a73.jpeg\">",
+                    "name": "Zoiseee",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f909552d45e1b98aa288fcacf58576c8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-31 21:20:11.09992",
+                "insertStampFormatted": "01.11.2024",
+                "updateStamp": "2024-11-01 00:14:51.455822",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Крутой</p>",
+                "minus": "<p>Классный</p>",
+                "comment": "<p>(:</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c9e9f2f7-1e60-484d-8940-ac285690ad28",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "225880b0-e6ae-44b4-ae12-177e161d623b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/f39f90ba3862f707acc5d85f0632ae24/eeecdad3c5b05051e6472140c0d9bbccd60af64d18141235e2ac6bb23b29117f.jpg\">",
+                    "name": "DKAnon",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "46afc4a4697b407e54e0481c4c21d959",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 08:11:36.320886",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-30 00:24:59.297687",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Адекватная затычка как второй телефон.</p><p>За свои деньги удивительно что относительно адекватно работает и выглядит.</p><p>После удаления 90% приложений предустановленных и настройки, батарея держит очень долго, что приятно.</p>",
+                "minus": "<p>Со временем, уже через пару дней начали выползать лаги, краши и т.д разных приложений, не смотря на полную отчистку системы от мусора предустановленного полностью.</p><p>Немного муторно залазить в систему глубоко в файлы, Android 13 этого не любит, но обойти можно, хоть и запарно.</p>",
+                "comment": "<p>Вывод:</p><p>Брать как основной телефон? - Точно Нет.</p><p>Брать как телефон на работу или тестить всякий мусор в плане приложений или просто как временный вариант на пару недель и т.д, подойдет вполне, хоть и не понятно сколько проживет.</p><p>Как мусорка 5 из 5, как полноценный смартфон на каждый день 2 из 5, поэтому пусть по итогу будет на 3.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "87e63c78-500c-4946-95b5-39a07dddf592",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "105e5803-2bb3-0611-7e2e-43f4ed372b0b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QD30116",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "be8bc2db15e7ee0670466bb787886499",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 09:40:56.871706",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 09:58:30.799218",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>внешний вид</p>",
+                "minus": "<p>трещит и свистит, виснет постоянно</p>",
+                "comment": "<p>разочарована, не советую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ceaf82b3-3f8c-4ee8-a8bf-f1c831c97f33",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "a6a2fcab-4635-4741-847c-663b61e5cc89",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/13e78a0f79448779bf559d84df25d547/6fda836b84d18550a9ea9b94203f09b093309ff0634f65a57de36d8a2918d786.jpg\">",
+                    "name": "Nell",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4218f3c47a48c7e962adc6f9e09f9475",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 16:07:02.623934",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 16:38:05.333588",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Неплохой, бюджетный смартфон. Для пожилых граждан самое то, остальное это уже излишки.</p>",
+                "minus": "<p>Пока работает - недостатков не вызывает.</p>",
+                "comment": "<p>Честно говоря не знаю чего сказать. Так как покупал смартфон матери. Ей понравился, ну значит мне тоже.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f0b5953a-59f4-4149-ac84-c7675a302001",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "57cb2147-ca2b-e749-2720-7fe74b5721b5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EW55163",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 11:57:24.22381",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 13:22:28.635155",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Покупали за 5 с небольшим тысяч , за эти деньги нормально.</p>",
+                "minus": "<p>Начал подвисать через месяц буквально.</p>",
+                "comment": "<p>За 5-6 тысяч нормально , но не дороже.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "df5a35d5-31a7-47de-8ef6-c3e33a55fb86",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "09f0a44f-94ae-40f2-a247-3ae0c934a193",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/6562ffcf0ca96dedc31f89d705ee5170/dbe78c31f3de1cc56092407070116918b2c48741501a6ff82953a644dbaf88a4.png\">",
+                    "name": "Dragon-FS02378",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fcaddfaf062c554a36a8baac8cd03231",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-30 20:22:24.8979",
+                "insertStampFormatted": "30.09.2024",
+                "updateStamp": "2024-09-30 20:54:17.540611",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все нормально, все гаджеты загружаются быстро, это отличный телефон, он меня устраивает по удобству, он у меня в руках.</p>",
+                "minus": "<p>У сбоя в работе этого приложения для Android есть один недостаток.</p>",
+                "comment": "<p>Удобный мобильный телефон, им можно пользоваться для работы, мне это нравится.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2f4ea59d-e39b-41b8-b71b-319e01101755",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "2933ddac-1662-1e55-af01-4a44bf6a6acf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Hellsy",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a8100476015061bdd18ef3e070503efa",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 17:39:09.906618",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 18:28:47.981598",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Покупал в подарок дочери. 9 лет. Довольна.</p>",
+                "minus": "<p>Очень часто звонит не по делу...</p>",
+                "comment": "<p>Любой андроид-смартфон за эту сумму будет примерно таким же по характеристикам.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b5a97dfd-b0e6-4b5d-89aa-f47653c2165b",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "d284ce7b-a528-47fa-9304-cf08d5918ad1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IR6200",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "31c06627724c8f7c94db7b7c05979e95",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 13:27:27.490865",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 13:30:24.209785",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Долго держит заряд</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2d3a19ef-7246-45c2-abfc-e308f60c7c18",
+                "objectId": "96bcc288-b34d-11ee-91a4-00155d8ed20c",
+                "objectUrl": "/product/96bcc288b34ded20/67-smartfon-realme-note-50-64-gb-goluboj/",
+                "objectName": "6.7\" Смартфон realme Note 50 64 ГБ голубой",
+                "user": {
+                    "id": "1da64bc6-b2ad-40d2-c2ea-9924fa697a50",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YAZ149983",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "584d66f2dd4a246934aadd39880f7999",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 06:35:22.670598",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 06:38:33.333064",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея, заряд держит очень хорошо</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 15,
+                "2": 3,
+                "3": 6,
+                "4": 34,
+                "5": 337
+            }
+        },
+        "topId": "fe94ea5e-f874-4c29-b526-9b831978bd8f"
+    },
+    "message": "",
+    "errors": []
+}

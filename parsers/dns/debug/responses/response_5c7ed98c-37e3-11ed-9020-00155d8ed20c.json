@@ -4,18 +4,18 @@
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 397,
+        "totalCount": 429,
         "opinions": [
             {
                 "id": "4c86f019-8c57-456f-9e73-bc43526d74d0",
@@ -36,7 +36,7 @@
                 },
                 "insertStamp": "2024-10-25 12:17:53.36765",
                 "insertStampFormatted": "25.10.2024",
-                "updateStamp": "2024-10-25 12:32:12.47394",
+                "updateStamp": "2024-10-26 18:12:56.924939",
                 "rating": 5,
                 "source": {
                     "id": 1,
@@ -80,12 +80,21 @@
                 "plus": "<p>Различается от смартфона камера супер.</p>",
                 "minus": "<p>Нет.</p>",
                 "comment": "<p>Меня всё устраивает от заказа до получение прошло очень мало времени всё вовремя рекомендую к покупке.</p>",
-                "usersCommentsCount": 0,
-                "images": [],
-                "hasNotApprovedImages": true,
-                "isEditable": true,
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "7510a300-bcb9-4d8c-9a44-7c249a2fe1f2",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/ed270bbd4be1cf8300b38a785284cb0c/6cff013151ae07a5bff0113885469397ebcf60fb75e8dbb6382b4f2511af6837.jpeg"
+                    },
+                    {
+                        "id": "382e3732-050e-4383-b8b5-7b17df4a73bb",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/10eba64edc49f08a7ff9852c39ff7d50/77e838165d24a644b3fbe41ea49dd261423d2d47f7a01e0e0ce09e6f906a3f93.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
                 "additions": [],
-                "isCanBeSupplemented": false,
+                "isCanBeSupplemented": true,
                 "videos": []
             },
             {
@@ -733,8 +742,8 @@
                 "1": 6,
                 "2": 1,
                 "3": 0,
-                "4": 10,
-                "5": 359
+                "4": 11,
+                "5": 362
             }
         },
         "topId": "cd1a83ae-8f95-4bf1-ba07-aa2ccace94d3"

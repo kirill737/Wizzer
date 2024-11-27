@@ -1,0 +1,718 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 73,
+        "opinions": [
+            {
+                "id": "c8b2249e-b377-48f0-a66b-0afba7e24c9b",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "1138deeb-ad2f-4e92-aa02-5db7617f40ea",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/793583c248c4052afbc2f53377a40584/28fe574aa91aaaf220bdad08b0c6f3be8f2ae1c58e2edbc7767779904c5444db.jpg\">",
+                    "name": "Zhannet",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-21 02:14:39.69784",
+                "insertStampFormatted": "21.09.2024",
+                "updateStamp": "2024-09-21 02:34:17.084973",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный,шустрый телефон.</p>",
+                "minus": "<p>Камера не очень.</p>",
+                "comment": "<p>Пользуюсь чуть больше года,никаких проблем не было.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9a9679c0-ff4d-44fe-9dc6-d6efd5c280a0",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "8c9219d3-872f-c62c-bd6b-f44eb2859b66",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XO81314",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8e791d4be570e886cc2c2519f35994fc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-19 12:46:08.205532",
+                "insertStampFormatted": "19.03.2024",
+                "updateStamp": "2024-03-19 14:38:09.081108",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Операционная система данного гаджета живет своей жизнью. Могут неожиданно пропасть в никуда установленные андроид-приложения или ярлыки с рабочего стола. При этом, опять же неожиданно, появляются новые установленные приложения, в основном игры или им подобная развлекуха, которые мне совершенно не интересны. Первая проблема уже не раз меня ставила в очень неудобную ситуацию</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f2fe1812-b919-47bf-aee8-803ced74998b",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "824d405c-348e-4288-87af-974d490c2421",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "MESSAR",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0ff97711e4d1182dfb5d0efa87b853fe",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-14 00:48:09.769373",
+                "insertStampFormatted": "14.10.2023",
+                "updateStamp": "2023-10-14 01:59:57.110246",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>из коробки уже немного подлагивает</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e86b854e-77d5-4658-abe6-608c304f9da6",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "4e6ed482-68cd-d9f3-79ac-e6967c2f8f2a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YX74297",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "15fc725100163c496a8416e79e67a763",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-30 17:03:41.565218",
+                "insertStampFormatted": "30.07.2023",
+                "updateStamp": "2023-07-30 22:24:33.275126",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Клёвый телефон по производительности:</p><p>Батарейка</p><p>Встроенная память, ОЗУ</p><p>Многофункционален, например, параллельно с игрушкой можно запустить мессенджер спокойно и даже вывести его в доп.окошко на одном экране</p>",
+                "minus": "<p>Небольшой недостаток заметил только в камере, но если вы не являетесь профессиональными фотографами, то более менее норм.</p>",
+                "comment": "<p>За 20к вполне на 2-4 года хватит</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1bf0cff0-6c0b-461a-af6e-1f1d3c97293b",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "392d82c3-c81a-4ece-ae41-ce292763bd8a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/4164b3996a7b7f27ddee7f5dd00f346d/1dc3b4e89e57e57aa833dce8425d9b1c919722f0058fca86520ba00423664608.jpg\">",
+                    "name": "Mechtatel777",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "91dadfb7b80a51a6880bf8294ff4bd36",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-06-14 22:46:37.38699",
+                "insertStampFormatted": "15.06.2023",
+                "updateStamp": "2024-03-11 09:08:59.443354",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Спустя два месяца отключился экран, отдали в сервис по гарантии, дали документ с номером, который нужно вывести на сайте, чтобы понять на каком этапе сейчас находится мой телефон, но похоже номер мой не зареган в сервисной системе. В общем надо ехать снова в магазин и искать концы. И отправили ли его вообще в центр.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "9fd868ef-c5f8-4e61-b5b6-798d8b6fca1f",
+                        "text": "<p>Смартфон сделали по гарантии. Поменяли тачскрин и всё работает</p>",
+                        "textInitial": "Смартфон сделали по гарантии. Поменяли тачскрин и всё работает",
+                        "insertStamp": "2024-03-11 08:52:31.046376",
+                        "insertStampFormatted": "11 марта 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ba1ce525-18b9-4070-bc0a-490e1f980068",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "705c0077-9c6e-4c54-a242-33aacf971f5a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "User127480476",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-10 15:01:35.896387",
+                "insertStampFormatted": "10.05.2023",
+                "updateStamp": "2023-05-11 10:19:22.574175",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Новинка ( приобретали в первый день продажи), приятный цвет, шустрый в работе</p>",
+                "minus": "<p>Не обнаружили</p>",
+                "comment": "<p>Рассматривали более дорогие модели, но приняли решение: новинка в два раза дешевле просто обязана быть лучше прошлогодних более дорогих аппаратов и не прогадали</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5fe54c29-2325-4719-8cab-f2233918f01a",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "2ca5d8aa-2661-494f-b9d3-7e4ce91d440f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "MichaelKlock",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "797372600538141fef716baba967f99d",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-04 13:10:36.648881",
+                "insertStampFormatted": "04.05.2023",
+                "updateStamp": "2023-05-08 03:02:40.065032",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Не высокая цена, за высокие характеристики.</p>",
+                "minus": "<p>Встроенная реклама.</p><p>Реклама встроена в каждое фирменное приложение на смартфоне, и даже в экран блокировки и обои!</p><p>Отключить рекламу можно, но стоит повозился.</p><p>Встроенные сервисы по умолчанию, которые сливают большой объем данных.</p>",
+                "comment": "<p>За такую цену, на момент покупки, не было другого достойного железа. Снимаю бал за встроенную рекламу, левые сервисы.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e651009e-7da1-48b6-aa31-e52c24b21e19",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "33b94d0b-7971-49fe-8de1-5d4adf1ab16f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/6963052d04846dc4d7ea2c8b30fa7f4e/6317cb405817727ff73d4e9027ba3d570e674a42a941d860301bcf2303ac09d3.jpg\">",
+                    "name": "vladud",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b59b42a6676032f9595b05f6b5aa42ac",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 00:39:42.828497",
+                "insertStampFormatted": "15.10.2024",
+                "updateStamp": "2024-10-15 00:39:42.828497",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "13435b0b-1055-4cfa-b7e1-7c203919ebd7",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "b36d40ee-2369-405d-a752-855c55ef0fb1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAK18306",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "01a4a817811f09d7c052b9e328b82c4b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-05 13:54:42.072714",
+                "insertStampFormatted": "05.10.2024",
+                "updateStamp": "2024-10-05 13:54:42.072714",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9b5dbf5c-b7bd-4e56-8348-463979d69a13",
+                "objectId": "ae57da74-7ce3-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/ae57da747ce3ed20/667-smartfon-poco-x5-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон POCO X5 128 ГБ зеленый",
+                "user": {
+                    "id": "509c95dd-acb3-5a2c-d559-38bc7ebbd0a0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FD83635",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c745c192ec932a6af0255aa845c41006",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-27 05:58:59.476405",
+                "insertStampFormatted": "27.07.2024",
+                "updateStamp": "2024-07-27 05:58:59.476405",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 13,
+                "5": 56
+            }
+        },
+        "topId": "6c03e522-c6a4-456b-ad74-bc134f4a3584"
+    },
+    "message": "",
+    "errors": []
+}

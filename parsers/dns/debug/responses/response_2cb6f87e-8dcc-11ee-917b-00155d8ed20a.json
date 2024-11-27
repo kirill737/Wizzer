@@ -1,0 +1,753 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 178,
+        "opinions": [
+            {
+                "id": "85ea9444-7117-4e9b-a0ee-2752edab53ce",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "590682be-32c7-92f6-d5c5-8a38e7098c2b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WN18150",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3292381dc6c2a1a242ce5dcf2783c097",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-16 10:09:24.5818",
+                "insertStampFormatted": "16.11.2024",
+                "updateStamp": "2024-11-16 11:33:23.860415",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Тонкий</p>",
+                "minus": "<p>Очень сильно зависает, живёт своей жизнью</p>",
+                "comment": "<p>Телефон мягко говоря не очень</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "02bba603-ff88-494a-929b-2363531720f9",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "fbf1d9d3-b253-4190-9d17-1de220e8edbd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Вячеслав 00000000046",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fa7c7edb37920ddebaad7f3071e770da",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-13 04:16:24.78336",
+                "insertStampFormatted": "13.11.2024",
+                "updateStamp": "2024-11-13 05:14:47.109716",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Новый из упаковки. После оплаты можно получать сразу в этот день</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Работает. Все хорошо. Порадовала цена по акции 17999 руб.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9d9307e7-c2f2-4016-8b9e-ba5afcb8a97b",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "f02006c4-30c3-9931-224c-a678de76b21b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZX97237",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-12 18:04:15.85254",
+                "insertStampFormatted": "12.11.2024",
+                "updateStamp": "2024-11-12 19:08:04.631964",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Новый</p>",
+                "minus": "<p>Томозтит</p>",
+                "comment": "<p>Сильно тормозит, даже простейшие приложения по типу Сбера, или в контакте вызывают тормоза , при просмотре ленты  тормозит сильно, брак попался похоже, обновление не помогло, понесу обратно очень жалкое, сброс до заводских настроек непомог</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "3aa840be-409f-4aba-b759-7044c4d1df93",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/8fc2122e33e801f6eb4732fc7310cba2/9d42da529fe42eb802166cf97042c8d946ad85a853500bb73734679e8c35598f.jpeg"
+                    },
+                    {
+                        "id": "0adc1c90-4ae8-4b9f-9d89-e042901ed163",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/13c6a619e9eb111e8b85bd7dbe84f66c/1a7a4f1d8a86d188445f64f2d3cab5e53ee5f0f2eae284b30cdeaf1bf346aab4.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "28e5d9af-9906-4279-b3a4-a7fbbd499304",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "10b9ea37-167c-4f1d-b42c-6da9c16a03a6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Balgarshik",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "477622e768d35ef376876c57bedcc748",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 09:24:47.583175",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-31 00:43:44.643277",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Первый раз в жизни купил китайца. Пока все нравится. Красивый, стильный, громкий, быстрый. Порадовала комплетация. Самсунги нынче выглядят бедновата на этом фоне. Короче, сказать то больше и нечего. Главное, чтобы он работал хотя бы пару лет.</p>",
+                "minus": "<p>Сразу отмечу недостаток для меня существенный. На экране блокировки не отображаются часы. Вернее они отображаются но всего 10 секунд, а для меня важно в любой момент, видеть или посмотреть время в темноте, чтобы ночью и спросонья не тыкать по экрану. Оказывается в системных настройках это не изменить. Да есть всякие способы, но я этим не пользуюсь.</p>",
+                "comment": "<p>Одним словом, вернее двумя)) Время покажет!!!</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c37a85d8-26cc-475a-9a81-effa143bc000",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "dc26a689-d315-68ff-2c37-64432f1eebf1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/f611c26a8093e1511baf4d6896905035/c826d4e41aae69e820d0df3df4b539b2ae6c2bd6a4589d880091bbbc8bfa3623.jpg\">",
+                    "name": "Evgeniy_nsk54",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "effd2e13b37f8bd859c90483b028d018",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 10:19:43.70637",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 11:21:18.350458",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный смартфон в своей ценовой категории с очень отличной начинкой внутри</p>",
+                "minus": "<p>Не обнаружил</p>",
+                "comment": "<p>Очень советую к приобретению</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3d553d19-cc51-486a-8b6c-ec0c5f623252",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "ff2a0aa9-751c-4e1c-9701-abe6b9c3a1a7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DQ42238",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4d8be10ac5b2d14b4ea472af53e9d979",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-10 01:42:05.19993",
+                "insertStampFormatted": "10.10.2024",
+                "updateStamp": "2024-10-10 01:57:28.322058",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>за 2 месяца постоянная перезагрузка. помогает сброс к зав уст</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "984f7a9a-4fb1-48d0-b697-eed7eb251069",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "9a5fd7f5-eb23-fe84-f97b-d3607fd6d842",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ON15723",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3b2be08a429f90eae34b84a2b974565e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 09:01:06.549582",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 09:10:42.952092",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена</p>",
+                "minus": "<p>не заметил</p>",
+                "comment": "<p>Приятный, быстрый смартфон. Для повседневки очень подходит. Но я не требователен к качеству фото, поэтому оценить камеру не могу. Меня устраивает.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "96c32c2e-c397-4c7a-b34a-cf0778fe8222",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "1567f3de-e286-42e1-b073-d5d157e4d0ca",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2d6379d2f41beb7b4e4840bdb3262cfe/29c229e72585e2d6b35960bb5ca272b6f7f719c2993af29be11289aa51e718ec.jpeg\">",
+                    "name": "Gorin_Sergey",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9063ed2ef962aa501ba277d2f2b0dce2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 17:21:17.733281",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 18:28:48.111937",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>одни плюсы.</p>",
+                "minus": "<p>не нашел</p>",
+                "comment": "<p>хватает на 5 дней когда звоню только. когда фильмы смотрю на максимум на 2 дня до полной разрядки. Заряжается быстро.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5586750d-56a1-4745-a344-6891011ea5a2",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "42d83531-cfd5-46fb-bc34-df5a2f09bf80",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KB20226",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "50e8bf0d29967d687595d28315c2792b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-21 23:31:20.278078",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 00:15:19.358468",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>купил со скидкой 3.5тр ДНС респект.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ad961bb5-f58c-4729-b5f4-090682e34dfd",
+                "objectId": "2cb6f87e-8dcc-11ee-917b-00155d8ed20a",
+                "objectUrl": "/product/2cb6f87e8dcced20/667-smartfon-xiaomi-redmi-note-13-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 256 ГБ зеленый",
+                "user": {
+                    "id": "9a6e51b9-b3f0-4836-ac0c-3cceb53fb8a8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ba413a4e9e071be53fa9c575c898cbd3/1f8b1ba448fb403a4aaddda0f5aa3d8556e3dad2a14f8160a6bb041d31ead121.jpg\">",
+                    "name": "since82",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bd6a817469e8d9d4f2b9419e45ec11ff",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-12 11:28:56.79456",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-13 00:14:17.765668",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая производительность,  отличная камера ( об этом подробнее в комментарии), красивый внешне, качественные связь и звук, хороший дисплей. Внешне красив и удобен.</p>",
+                "minus": "<p>Из недостатков, субьективно, отмечу отпечаток пальца под экраном. Мне это не нравится, для меня это неудобно и за три недели использования к нему так и не привык. Кому что, как говорится.</p>",
+                "comment": "<p>После четырех с половиной лет верной и безотказной службы, у моего Note 8T за одну ночь так вздулся аккумулятор, что аппарат просто расклеился в прямом смысле слова. Учитывая его возраст, а также надоевшие болячки, вроде выгорания экрана, кривой связки BT и Wi-Fi даже не стал заморачиваться с заменой батарейки, хоть и задняя крышка отклеилась полностью сама от вздутия. Долго не выбирал, почитал характеристики и поехал в магазин. Взял 8/256 зеленого цвета. Визуально, в прозрачном чехле, он просто шикарен, словно из стекла, как мой 8Т, хотя корпус пластиковый. Другие цвета так эффектно не выглядят, но это мелочи, по сути.  На экране, из коробки, наклеена пленка, очень гладкая, наклеена идеальнейше, так что если не особо боитесь грохнуть аппарат на пол - не оклеивайте ее, по возможности. Пленка классная, ее как и нет. Действительно качественный чехол в комплекте. Купили телефон и пользуетесь. Из коробки установлена Miui 14, сразу обновившаяся до HiperOS, мой аппарат выпуска июнь 2024г. Не знаю, что многие так ноют по этому поводу, кому обнова не пришла - ничего особенного я не заметил, ну Miui и Miui никакой разницы. Особо отмечу и это для меня очень важно - есть версия смартфона Global, есть Ru. Аппарат для России имеет звонилку Miui с автоматической записью разговора, без уведоиления собеседника, на Глобалке гугловская, со всеми вытекающими. Есть, конечно уже прошивки, разблокировать загрузчик и через TWRP все устранить не очень сложно, но... Про стереодинамики ничего не скажу, по мне так глупость, а так все прекрасно, звонок громкий, четкий, басовитый, хрипов и перегрузок нет. ИК порт это атавизм, но порой очень полезный, если поломался пульт от чего-то, а нового еще нет. Диода уведомлений нет, по мне он важнее ИК. Экран четкий, яркий, сочный, очень яркий. Очень сочный. Амолед потребляет энергии в десять раз меньше IPS. Про синтетику и всякие там антутышки - это не ко мне вопрос, на телефонах никогда не играл, не играю и играть не буду. Мусор быстро выпиливается при помощи ADB, любое системное приложение (с этим аккуратнее). Связь на уровне.  Сбоев и отвалов нет, прием хороший, собеседника слыно прекрасно и он меня слышит прекрасно, без переспрашиваний.  Камера более чем хорошая, софт, как и всегда, кривоват. Много мыла. Сторонних приложений, от вражеской комании, чтобы полностью адаптированы еще нет, но те что пробовал выдают потрясающие фото, только половина функций не работает и я оставил сток. Пока.  При интенсивном использовании мне хватает заряда с утра до вечера, плюс остается процентов 30-35.   Есть небольшое размытие при скроллинге, хоть и частота выставлена 120Гц, но к этому привык и не замечаю.   Темы в менеджере почти все платные, которые бесплатные - убогие. Да и платные недалеко ушли. Эх, где же вы Miui 10-11. Ждем патченый менеджер. Что еще? Работает быстро и без лагов, заряжается быстро, с турбозарядкой и потребности среднестатистического человека как я, в 40+лет , вполне удовлетворит. Более чем.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 121
+            }
+        },
+        "topId": "3f5cf33c-d1ab-444c-bb1b-19d5246256f6"
+    },
+    "message": "",
+    "errors": []
+}

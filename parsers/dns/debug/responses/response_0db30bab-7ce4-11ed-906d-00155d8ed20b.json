@@ -1,0 +1,727 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 113,
+        "opinions": [
+            {
+                "id": "81761eff-4c9a-4c06-9281-0753f8ea28b0",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "5254fd07-edf6-70c6-5054-9d76a75787a3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UZ55644",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c4635bef2185fa8938ef92add27fb3cb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-12 09:46:52.98444",
+                "insertStampFormatted": "12.03.2024",
+                "updateStamp": "2024-03-12 15:38:25.508771",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Нормально работает.</p>",
+                "minus": "<p>Камера.</p>",
+                "comment": "<p>В целом уже год работает.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "cec0475b-0ba4-4af8-a146-74d27f5cba31",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/a33a90d58373e28ea1c71828948328ea/edc42d3fac8a16c7f1daa294f5786a25b040fc58349c2c9799e4d9e73cc95216.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4e3a0b4a-4f82-4f95-be45-1eff7d62c82d",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "e20e111e-e19f-2155-b28c-4f75d9accd75",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "D4rkness",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3e3e398769a6fe558151381d86fd2ecb",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-23 10:59:41.768116",
+                "insertStampFormatted": "23.11.2023",
+                "updateStamp": "2024-02-15 08:37:44.896415",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран 120 Гц, достаточно шустрый телефон.</p><p>Если нужен телефон прям только для игр, вариант не ваш, хотя тут тоже, смотря во что играете, т.к. те же танки, думаю, потянет в лёгкую (Старый телефон с железом похуже тянул)</p>",
+                "minus": "<p>Периодически приходится перезагружать, т.к. не работает музыка при открытом навигаторе (100% проблема в телефоне, но что хотеть от китайца) лично для меня это не сильно критично.</p><p>Вес телефона, конечно, многоват, да и сам по себе он не маленький, но в этом ценовом сегменте по соотношению цена/качество ничего другого не приглянулось.</p>",
+                "comment": "<p>Своих денег стоит,  брал по акции за 22 тыс. Пока в использовании почти полгода, батарея держится хорошо (старуюсь не разряжать его ниже 20% и не заряжать выше 80-90%, но не всегда это получается контролировать)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "637ccc4c-841d-458f-b5b4-f6b2a15391c6",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "113b23d5-b267-000d-b286-5dbf3818ad11",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HS55821",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d2c7c9eb0704c67b7d10ffd086350359",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-26 05:40:37.52525",
+                "insertStampFormatted": "26.10.2023",
+                "updateStamp": "2023-10-26 06:55:28.120206",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Производительный, стильный и красивый смартфон. Хотя, это дело вкуса. Хороший дисплей, \"сочная\" цветопередача.</p>",
+                "minus": "<p>Недостаток телефона - не очень качественная камера. Снимки получаются посредственные.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "451e9491-887c-4ceb-9207-f0c316f1e02a",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "6a82e64f-9ded-4f0f-b8a1-1f17f87f464d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "DmitriyStEr",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "338f9f24c3ebe7278ad65b2d98851d10",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-23 15:58:46.374983",
+                "insertStampFormatted": "23.10.2023",
+                "updateStamp": "2024-05-23 19:57:00.45637",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Реально классный смартфон.</p>",
+                "minus": "<p>Не нашлось.</p>",
+                "comment": "<p>Цвета очень сочные, звук отличный. Сам смартфон очень шустрый. Очень впечатлён качеством.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "87b028be-0601-4e4a-9ef6-9c18627f9d74",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "a317da8e-43de-863d-d0ca-b3cbb77e669d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/884bceef91289029dc02fb1695bc3e41/41e6df2d201d7cd96d41cd861c0fa2e583229b2ac4a937d6b46d6c65957f61b4.jpg\">",
+                    "name": "Пришелец-KL5583",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "979a680e8114735339fb99993286852e",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-08 17:15:38.81157",
+                "insertStampFormatted": "08.10.2023",
+                "updateStamp": "2023-10-09 17:52:35.162213",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>120 герцовка прям вау.  Производительность пока радует, есть мощности поиграть в игры. Камера реагирует быстро, приятно лежит в руке, NFC да считаю что плюс, не считаю пока это стандартом для бюджетных смартфонов, многие в ё ещё используют пластик, а я попробовал и мне понравилось.  Многие говорят, что телефоны стали все как один похожи друг на друга, но я не считаю это минусом, после redmi note 10 лежит как родной, привыкать не пришлось и это круто, родная оболочка и возможность перенести данные затрат в немного времени делают переход на новый телефон максимально безболезненным</p>",
+                "minus": "<p>В моделях и более бюджетных например redmi note 10 было 2 стерео динамика и звук более объёмный, от моделей которая вдвое дороже ожидаешь такого расположения динамиков как само собой разумеющееся, но увы, динамик 1. Это момент я упустил при покупке, но это благо не определяющий фактор для меня.</p><p>Так же немного разочаровал гибридный слот для сим и микросд. Опять же в сравнении с моим прошлым это досадный момент, с другой стороны понятно, что когда у тебя 256 гб памяти встроенной тебе не нужна карта памяти и ты можешь спокойно использовать 2 сим, тем не менее тут сэкономили. В остальном пока недостатков не выявил.</p>",
+                "comment": "<p>В целом я бы порекомендовал этот смартфон всем тем, кто хочет перейти с совсем компромиссных решений на что-то более универсальное и беззаботное, это как раз про Poco X5.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "42e7fe8e-37bd-4159-8205-20d4a23dd415",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "a04087ab-fbf8-498c-b92a-24b8827964cc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ImLynx",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "48c0a602c943541fdc1a4e1450ed03cc",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-21 09:37:12.83956",
+                "insertStampFormatted": "21.08.2023",
+                "updateStamp": "2023-12-22 17:52:37.535526",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Не работает VoLTE, причем как пишут на форумах на всех прошивках.</p>",
+                "comment": "<p>VoLTE и VoWiFi завезли с прошивкой 14.0.4.0 RU Global</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "cdc67640-f805-4d7a-975b-d0e7ccaa479d",
+                        "text": "<p>Подвезли прошивку Pulse by Evolution, телефон стал нормально работать. Претензии наверное только к камере, она стоковая, но есть моды на GCam</p>",
+                        "textInitial": "Подвезли прошивку Pulse by Evolution, телефон стал нормально работать. Претензии наверное только к камере, она стоковая, но есть моды на GCam",
+                        "insertStamp": "2023-12-22 16:57:19.878339",
+                        "insertStampFormatted": "22 декабря 2023 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "09f3915a-7112-4053-8be1-94bbcecaea73",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "60f2f931-0414-edc3-dc6f-cc923ffaaf8f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Чики-Бамбони32",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-19 09:23:37.1653",
+                "insertStampFormatted": "19.08.2023",
+                "updateStamp": "2023-08-19 09:32:46.300959",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красочный экран, большая батарея, чехол в комплекте. Рекомендую к покупке.</p>",
+                "minus": "<p>Пока не выявил</p>",
+                "comment": "<p>Хороший телефон единственное нужно привыкнуть к размерам.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "f7e0c0bd-f91d-4979-83af-c7a83dd6bdcd",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/81e3cbfa0d760c9171f202685c5afbe6/a4f73feb9a2d7430f1bf1bbc08223d07e22079f2c96fc1012897203068244bb2.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e8c71edc-f58f-48ea-8cb9-8bad21ea3bfc",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "8096b166-b64a-207b-f31f-a893a613be88",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAI09079",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-21 13:35:34.75848",
+                "insertStampFormatted": "21.07.2023",
+                "updateStamp": "2023-07-21 20:29:26.80382",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый, с очень хорошей батареей.</p>",
+                "minus": "<p>Звук, динамик</p>",
+                "comment": "<p>Полетел 17 года Хонор 8Х , по отзывам и советам друзей , выбрала  РОСО х5 5g.  Всё хорошо, но звук это что то. Музыку вообще невозможно слушать, особенно на всей громкости, динамик скрипит , шипит на как на старом радио.Явно не вывозит,уши так и режет.Оочень  расстроил этот факт. За 26 тыс. не ожидала такого .</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b80b7e60-13b9-4420-b0c3-4e8adf00d150",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "7fde24e9-033e-44bf-b706-ff4190750948",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "I.S.V.",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3cfab956f4cd565864bafdae353edd16",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-27 17:10:45.309643",
+                "insertStampFormatted": "27.05.2023",
+                "updateStamp": "2023-08-26 22:56:37.244766",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран, батарея, производительность.</p>",
+                "minus": "<p>В сетях МТС и МегаФон не поддерживает VoLTE и WoWiFi.</p>",
+                "comment": "<p>Отсутствие поддержки функций VoLTE и WoWiFi конечно стало неприятным сюрпризом. Если эти функции нужны - проверяйте смартфоны по списку на сайтах операторов.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "5057d8e7-632d-4528-b6f3-a9f8edc72981",
+                        "text": "<p>Дополню отзыв. Прилетела обнова на телефон. Заработал WoLTE и WoWiFi. Вывод: телефон стал полноценным, с хорошими характеристиками. Можно брать.</p>",
+                        "textInitial": "Дополню отзыв. Прилетела обнова на телефон. Заработал WoLTE и WoWiFi. Вывод: телефон стал полноценным, с хорошими характеристиками. Можно брать.",
+                        "insertStamp": "2023-08-26 12:06:32.441515",
+                        "insertStampFormatted": "26 августа 2023 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7b968a35-7fc6-4927-9c7c-34c930d33f30",
+                "objectId": "0db30bab-7ce4-11ed-906d-00155d8ed20b",
+                "objectUrl": "/product/0db30bab7ce4ed20/667-smartfon-poco-x5-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон POCO X5 256 ГБ голубой",
+                "user": {
+                    "id": "e031c5c2-72a4-0392-bbb7-76db9c8b8f4e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UU89591",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a725e8f385db400e65037b4d3b2403f7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 03:24:16.810926",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 03:24:34.91408",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 11,
+                "5": 86
+            }
+        },
+        "topId": "6c03e522-c6a4-456b-ad74-bc134f4a3584"
+    },
+    "message": "",
+    "errors": []
+}

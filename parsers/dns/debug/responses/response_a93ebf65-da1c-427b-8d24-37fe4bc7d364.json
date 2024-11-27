@@ -1,0 +1,726 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 141,
+        "opinions": [
+            {
+                "id": "26c7a49f-1218-40ce-932d-aadeb98137c8",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "b4255eae-2f8f-4489-86c8-243b708d5020",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ёбырь",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-23 21:01:10.95041",
+                "insertStampFormatted": "24.11.2024",
+                "updateStamp": "2024-11-23 21:15:29.149374",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Вид</p>",
+                "minus": "<p>На зарядке телефон ведёт себя отдалённо от вас, так как нажимает все что не нужно прямо с коробки</p><p>Так же подключив любые наушники, звук в них будет прирываться так, будто они стали работать исключительно на интернете, при этом самом ужасном</p>",
+                "comment": "<p>Возможно у меня брак, хотя что странно, ведь телефон вроде как новый</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "609fdffa-88a0-472a-8764-8081b04ed2e0",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "e9efa9f0-fa11-6f43-b512-7d0fcc9d4735",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QR78966",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-18 21:26:42.54392",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-18 21:50:27.387211",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Провод который шел в комплекте, уже не работает спусте 2 недели использования, блок в комплекте не идет</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9f874bd2-07ae-4f7c-a695-97b2141e484a",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "6e224406-292c-4199-b010-4b480d50324f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Needls",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "38308b3414f50846d1756a372a5feff4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-20 10:14:23.31047",
+                "insertStampFormatted": "20.09.2024",
+                "updateStamp": "2024-10-11 00:02:11.838286",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Достаточно производительный смартфон для повседневных дел. Не прогадали с процессором поставив G99. Экран яркий, сочные цвета. ШИМа лично не заметил. Хотя читал в бюджетных устройствах где стоит AMOLED с этим беда. Батарею держит долго. Есть функция быстрой зарядки. Заряжать рекомендуют 25 Вт, т.к. устройство большей мощности будут давать всплески мощности и сама зарядка будет проходить как по синусоиде, что не очень хорошо для акумулятора.</p>",
+                "minus": "<p>Из недостатков можно выделить только, если скудный комплект поставки из провода. В китайских моделях с этим более прилично обстоят дела. Раздражают навязчивые сервисы Самсунг требующие входа в свою систему. Благо можно пропустить и происходит только при включении устройства.</p>",
+                "comment": "<p>В целом за свою цену, очень достойное устройство.  Купил ещё младшую модель, посмотрю как там обстоят дела.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2dd2932a-5a92-4efe-b781-614530521e4f",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "8ce36281-1da5-83aa-e1fe-30204b4ada44",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "Пришелец-EM26304",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "aea752f628f6ce4226c0a75bb92dc9c2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-18 07:23:30.823128",
+                "insertStampFormatted": "18.09.2024",
+                "updateStamp": "2024-09-18 09:52:03.91834",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>батарея держится 2 дня полной нагрузки</p>",
+                "minus": "<p>нет слота пот доп память  только комб слот</p>",
+                "comment": "<p>это лучше чем у тел редми у редми с 10 утра 22 вечера это мало по сравнению с тел самсунг</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0ab0d76c-7117-4342-81e8-91d63caf6edc",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "ee49fc3d-43b9-1c42-6f26-da71d15382b6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/c9cb9283ff1b657b165ede48ccf9917a/2a9439a7542b590a9b4c356069423b0f8afc509e673959d7c5c1f01a8ecf5144.jpeg\">",
+                    "name": "DevilCCCP",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "df530d8d7f16b07ba93f5db833bef9c4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 16:18:35.51423",
+                "insertStampFormatted": "16.09.2024",
+                "updateStamp": "2024-09-16 16:51:02.962578",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Смартфон как смартфон.</p>",
+                "minus": "<p>Повёлся на отзывы о хороших фото. Какое же разочарование в сравнении с моим старым Poco M3. Только в полной темноте они сравнимы.</p><p>Слева Самсунг, справа Сяоми.</p>",
+                "comment": "<p>Ни в жизнь бы не купил, если бы вот это сравнение фото увидел.</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "edf8461c-220d-49ee-b553-42318488d669",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d81b301eb6d7279eeb267473edc94eb4/3c8d651207447b053c1ce4b0fc566dc2b1b310706910f0be4ecc8914a80d4177.jpeg"
+                    },
+                    {
+                        "id": "e49e7891-15aa-4ebd-b369-9952cc486180",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2fff01844ab7494db830cc5458d0dd16/a6cb898bc599bec4a83e4055b7684f3810704283877b1a7d4117eb8464548f6d.jpeg"
+                    },
+                    {
+                        "id": "a7bd7e0b-27de-4ba2-a3d0-445df1b96b4c",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d9321e1924d300d479bd164d8b73cfb5/330962c90f024c7f51e1c3e15caaa26aad028428e6a096476ab8dc5c0ab5eba8.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5e403a3b-7c55-42b0-88f3-79b4bd285b72",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "edb45bca-e676-0117-c3e7-f4d005c925bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CB81648",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 16:13:47.6781",
+                "insertStampFormatted": "11.09.2024",
+                "updateStamp": "2024-09-11 16:18:07.469203",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Брал для ребёнка,аппарат вполне не плохой.у меня а34 особой разницы не увидел</p>",
+                "minus": "<p>Пришлось докупать зарядный блок в комплекте не идёт</p>",
+                "comment": null,
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "51cd0be9-4a4b-4343-b181-ca1d7ecc7287",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d7b8d5cc71a30ba0a9d98ed113b95428/fcf95a4f4de8d1826fa774832c1809db5c93505f13c3ec0701b8530ff09b413c.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "07c818a7-52d0-48ad-acbd-bc64cb29f0ed",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "4fd05833-52af-2cd1-3c02-fc3b397c1996",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZH19597",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4947658b71185f8c500fabc558dda985",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-08 11:21:02.036575",
+                "insertStampFormatted": "08.09.2024",
+                "updateStamp": "2024-09-08 11:43:57.589901",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея, экран.</p>",
+                "minus": "<p>Не обнаружены.</p>",
+                "comment": "<p>Афигенный телефон.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "00979108-000b-4135-bdf2-aec368c37c83",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "3fb76c2c-b04f-3090-c757-1e5a8be2ac4a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Виктор Пересадин",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-29 14:07:05.22848",
+                "insertStampFormatted": "29.08.2024",
+                "updateStamp": "2024-08-29 14:17:06.498176",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый стиль</p>",
+                "minus": "<p>Блочок не идет вкомплекте</p>",
+                "comment": "<p>Цена и качество соответствуют</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1ff6a873-4f79-4863-a517-49399275588b",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "f23058aa-1d93-262a-0bfb-af80eabdb048",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QW32813",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b5049a95c156f6dc591737c206490d27",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-25 10:15:25.50692",
+                "insertStampFormatted": "25.08.2024",
+                "updateStamp": "2024-08-25 10:41:10.841247",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень производительный, отличный внешний вид,  достаточно хорошая камера, долго держит заряд. Без быстрой зарядки заряжается довольно медленно. Коробка и комплектация были в надлежащем виде.</p>",
+                "minus": "<p>Не было выявлено(Если не считать что пришел брак)</p>",
+                "comment": "<p>Пришлось оформлять возврат из-за пятна на дисплее</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b6e3e925-eb41-42e4-8456-1b9e678459f9",
+                "objectId": "a93ebf65-da1c-427b-8d24-37fe4bc7d364",
+                "objectUrl": "/product/a93ebf65da1c7d36/65-smartfon-samsung-galaxy-a15-256-gb-sinij/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A15 256 ГБ синий",
+                "user": {
+                    "id": "567b8ab7-b19b-4921-8e54-607de8758bf1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "N1ko24",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2d979d837e492b158aa070f484da0f77",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-22 08:06:52.33275",
+                "insertStampFormatted": "22.06.2024",
+                "updateStamp": "2024-06-22 08:17:07.755547",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший бюджетный смарт.</p>",
+                "minus": "<p>Непонятно почему, но отсутствует функция показывать сообщения на заблокированном экране, даже на моем стареньком samsung m21 есть такая функция. Может конечно косяк в прошивке</p>",
+                "comment": "<p>Хороший бюджетник, за свои деньги. Посмотрим как покажет себя дальше.</p>",
+                "usersCommentsCount": 7,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 6,
+                "2": 2,
+                "3": 3,
+                "4": 3,
+                "5": 95
+            }
+        },
+        "topId": "029a7a75-c09e-456f-8041-2b6d6829b89a"
+    },
+    "message": "",
+    "errors": []
+}

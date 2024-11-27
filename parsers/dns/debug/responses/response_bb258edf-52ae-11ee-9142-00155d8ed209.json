@@ -1,0 +1,460 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 9,
+        "opinions": [
+            {
+                "id": "52e3cf21-eb90-46b2-969b-7be092c8447b",
+                "objectId": "bb258edf-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/bb258edf52aeed20/67-smartfon-apple-iphone-15-plus-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Plus 128 ГБ черный",
+                "user": {
+                    "id": "eae2ae46-60df-ddef-0587-340254a583ed",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WJ15276",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ca74550d80e069b4a158c9e537f115bb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-20 13:49:03.333053",
+                "insertStampFormatted": "20.10.2024",
+                "updateStamp": "2024-10-20 13:49:03.333053",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный",
+                    "Модель": "A3096(Dual SIM)"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "24040735-bb97-4034-beff-e40d7d73c76c",
+                "objectId": "bb258edf-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/bb258edf52aeed20/67-smartfon-apple-iphone-15-plus-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Plus 128 ГБ черный",
+                "user": {
+                    "id": "94ce1407-da98-4f61-8d6c-ca459ef7a244",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Ultra reality",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a7332a0a39b0b62d58c9e8828578e75e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-01 15:15:30.500378",
+                "insertStampFormatted": "01.08.2024",
+                "updateStamp": "2024-08-01 15:15:30.500378",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный",
+                    "Модель": "A3096(Dual SIM)"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5bda1e51-9fe9-4c31-8458-8587c14c329b",
+                "objectId": "bb258edf-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/bb258edf52aeed20/67-smartfon-apple-iphone-15-plus-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Plus 128 ГБ черный",
+                "user": {
+                    "id": "9fbc447b-ba51-445c-8ad3-cce325e40e55",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BB17177",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ebb56b6baafd4edcebab6ef3a5098fc7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-31 12:44:57.286106",
+                "insertStampFormatted": "31.07.2024",
+                "updateStamp": "2024-07-31 12:44:57.286106",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный",
+                    "Модель": "A3096(Dual SIM)"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e9057901-039a-42c8-8f23-c343e5cddabc",
+                "objectId": "bb258edf-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/bb258edf52aeed20/67-smartfon-apple-iphone-15-plus-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Plus 128 ГБ черный",
+                "user": {
+                    "id": "dcd27f3d-1a4a-d381-6d2b-ad2ddb24ef1d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JR54968",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "df88a2b341d4eab21fe1696508f67bcd",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-25 10:11:14.64287",
+                "insertStampFormatted": "25.06.2024",
+                "updateStamp": "2024-06-25 10:11:14.64287",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный",
+                    "Модель": "A3096(Dual SIM)"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b3524b47-0931-4a31-be08-8329935c4f3e",
+                "objectId": "bb258edf-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/bb258edf52aeed20/67-smartfon-apple-iphone-15-plus-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Plus 128 ГБ черный",
+                "user": {
+                    "id": "ff151081-3234-45e8-a06a-d3fcc6a3fa59",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Tenevichok",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8638809cae07777e5bba765f31b6ff61",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-17 06:15:36.10563",
+                "insertStampFormatted": "17.06.2024",
+                "updateStamp": "2024-06-17 06:15:36.10563",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный",
+                    "Модель": "A3096(Dual SIM)"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c1c52225-0c2d-433b-bf69-bd7c5717c20d",
+                "objectId": "bb258edf-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/bb258edf52aeed20/67-smartfon-apple-iphone-15-plus-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Plus 128 ГБ черный",
+                "user": {
+                    "id": "8a1a739b-b323-66a0-6690-0c6045697499",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/d781757e3791976f3710e43e9c446f66/ae5e15f458dc966df2b838cb99b6e299dfa8ed6364f3eb4be88d347aa4e6e2c4.jpg\">",
+                    "name": "Пришелец-AAA44027",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "40f4da7aa8f793425e23c24583f1ae49",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-07 05:52:03.10734",
+                "insertStampFormatted": "07.05.2024",
+                "updateStamp": "2024-05-07 05:52:03.10734",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный",
+                    "Модель": "A3096(Dual SIM)"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 6
+            }
+        },
+        "topId": "b1fbbac1-3b7f-4145-89f2-5ae1151c2484"
+    },
+    "message": "",
+    "errors": []
+}

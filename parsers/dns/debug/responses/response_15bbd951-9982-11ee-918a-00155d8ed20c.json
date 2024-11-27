@@ -1,0 +1,750 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 143,
+        "opinions": [
+            {
+                "id": "43a0e336-6fb2-44f3-8fd5-b9d52b0a3fa5",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "974997d1-394f-9fcb-25ad-73f2bf6b8d2f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QU43575",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-08 06:29:45.04324",
+                "insertStampFormatted": "08.11.2024",
+                "updateStamp": "2024-11-08 10:03:53.294094",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый, виброотклик как в айфоне, без каких-либо проблем перенесла данные. Яркость хорошая, размер как раз как и хотела средний, очень удобный, тяжеленький. Камера хорошего качества, зарядка 🔋⚡отличная и очень быстрая без нагрева.</p><p>В целом аппарат достойный.</p>",
+                "minus": "<p>РЕКЛАМА.... ОНА ПОВСЮДУ. до этого был К20 и никакой рекламы вообще нигде.</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "365eb29c-5296-4ac6-98f6-1df5019d7221",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "214b4cf1-3326-53c7-ca6d-b3d518d9e3fa",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CS14455",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8cceb198373c29100609543f2c4ff2ab",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-07 11:02:24.11501",
+                "insertStampFormatted": "07.11.2024",
+                "updateStamp": "2024-11-07 11:17:41.409919",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>После Redmi 9 просто супер ощущения</p>",
+                "minus": "<p>Их нет</p>",
+                "comment": "<p>Читал тут коменты что камера плохая, в итоге и камерой остался доволен.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e86defd0-6f24-4a11-a591-2ea99355c588",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "67ce84a7-6d21-8202-4120-d2ee344e6e7b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/b6f62c638ee533cb05c29f9754b805d1/025c5a66e5e827687b10953d3f1401f937e85c9b388f6b478fbea6e41a540057.png\">",
+                    "name": "V1XTEZz",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 16:37:19.31683",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 16:53:47.506946",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>У меня 512 гб так что одни плюсы</p><p>120гц плавно</p><p>Много памяти</p><p>12гб оперативы (кайф после 4гб)</p><p>Шустрый процессор</p><p>Камера конечно тоже класс</p><p>Видео в Full HD 60fps</p><p>Сравнивая с Poco M5s скиншоты моментальные</p>",
+                "minus": "<p>Без разблокировки всех функций не получится закинуть в android/data файлы</p><p>4k видео только 30fps</p>",
+                "comment": "<p>Мне как музыканту очень нравится этот телефон, но в data не закинуть нужные звуки и проекты</p><p>Итог: ЭТОТ ТЕЛЕФОН ПРОСТО ИМБА!</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "fea92d7f-51c1-4a57-bf66-074ae39cf502",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/6b7b2ba2e00ee59b7dba6f353c5196e2/909c5def0e77b05f68ca034fc19035726d7c3f3745e1dd470fd1b4ff13cab7d3.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b91583c7-a197-4eda-9eb4-75ba761b11ae",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "025d89c8-5e91-6fd7-3b82-83f6c2491a28",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/56fe225037ab1dec1fc73a94202a4e64/705d8581b2a2331f767b903bfa35b2e229a2d08d945047770581deceab589857.jpg\">",
+                    "name": "Dark-Myvvi",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 17:01:23.4986",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 18:35:25.105608",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Производительный</p><p>Начинка огонь</p><p>Внешний вид</p><p>Цена</p><p>Быстрая память</p>",
+                "minus": "<p>Быстро разряжается</p><p>Реклама, но убрать ее не проблема</p>",
+                "comment": "<p>Телефон \"зверь\", брал 12/512 и это первый POCO, камера для своей цены хорошая,но можно было и лучше. Для своей цены данный телефон уделывает многих в своем ценовом сегменте! Если вам важна производительность, то это ваш вариант, если хорошая камера то лучше поискать другой вариант</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e7a516b6-c85d-4d79-ab72-37df1ad97763",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "7e7f3f8a-6535-3aeb-18f7-ead16abf1cfd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NC73584",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-12 18:39:42.00542",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-12 18:44:46.279488",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Очень мощный телефон за свою цену, много памяти и хорошо лежит в руке.</p>",
+                "minus": "<p>Слабая батарея и при игре он греестя</p>",
+                "comment": "<p>Для пабгеров это то что надо тут 90 фпс и приятный гиро но телефон греется нужно покупать вентилятор</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "704a7899-58ee-4866-bd4c-44089775a61b",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "93ea69b1-9dec-4b05-67fc-fa379ac601f6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/b0ad04d6c5a48d7abdf6dba3bd041257/a81bc91d776f15e3b1b7364083c4f8e495ecf23b0ab18a437526261bcd5cebbe.jpeg\">",
+                    "name": "Пришелец-AC05555",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-07 12:48:28.44373",
+                "insertStampFormatted": "07.07.2024",
+                "updateStamp": "2024-07-07 14:35:19.345143",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Телефон отличный 👍 игры тянет на максималках , не греется вообще , те кто пишет что взорвётся итд . то это все глупости , взял на 12г оперативной , в общем всем советую не пожалеете</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "fd447508-84fe-475f-bd66-5424a5604751",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5774b38756ba2dfdef473b1f3bf8288e/239ccf8ce75f8cac325203805db58215ab1aab69fee215aeb67a771a46e824f3.jpeg"
+                    },
+                    {
+                        "id": "9250c5c0-6164-478b-ad7a-b57da950dcb3",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/09be432f80b4f97328f603d2991c5374/2b108966c74067f8a74e47dd1b73fed92b142acc577a5f9adc152b7c6bfd2475.jpeg"
+                    },
+                    {
+                        "id": "46aca359-e14a-4edb-ad51-46945fccb6cc",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/44c410b950887de33a6a7ce73e86430f/c07e2fd786557ceed5a088cd571a7dbfdcabc833b5fc61f16a739f8e4328d5de.jpeg"
+                    },
+                    {
+                        "id": "1969810b-64f4-4f38-a7b8-7c9d81a30fed",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/75c2171b9aadcff28ba6ba124a59839d/dc6458d1f5fef7d94423c7cedd4911c3eb804e5780f037dc3e8b2d45e1440b0a.jpeg"
+                    },
+                    {
+                        "id": "10d596e4-9c25-4731-8441-0fb07d6bc9fb",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/26737e94b106327036fd2328811c51df/a48e3b880302c0487af847b3d0bb22ea710b15af3b67f420572d79f773581d7f.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "47a7a7b5-8577-48d8-8879-c73c34da30fc",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "5bf54905-a50e-5c30-15a1-0e10e2393845",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TD34337",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9250be564875d5384e7ccc548d24f81a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-09 11:07:09.24797",
+                "insertStampFormatted": "09.06.2024",
+                "updateStamp": "2024-06-09 11:18:42.282044",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Спустя две недели использования перестал заряжаться. Зарядка рабочая, видимо что-то с самим телефоном. Не роняли, пользовались аккуратно. В общем расстроены сильно, так как дарили на день рождения сына.</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ce6c662b-4bf3-4047-a8f0-86643a23571a",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "452e0d60-8af4-42d7-a74f-417ed5030d13",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAI34738",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9a0500fe0a3d272c3de64517ac85fd85",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-03 22:41:31.927878",
+                "insertStampFormatted": "04.06.2024",
+                "updateStamp": "2024-06-04 01:22:54.346305",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>По сравнению с PoCo X3, конечно пушка)))</p>",
+                "minus": "<p>Батарейки бы побольше</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a57b240d-ed0c-4151-a37c-ed985510d099",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "1e68c34a-9515-48a4-8b6e-4dd98a2300c6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HF17185",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "47174a5893355857b9927223d4c9babc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-03 11:33:01.36783",
+                "insertStampFormatted": "03.06.2024",
+                "updateStamp": "2024-06-05 01:46:30.729612",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>хороший</p>",
+                "minus": "<p>нету</p>",
+                "comment": "<p>очень нравится</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5c9afb48-c097-4c44-a83e-c5cdc43ea92a",
+                "objectId": "15bbd951-9982-11ee-918a-00155d8ed20c",
+                "objectUrl": "/product/15bbd9519982ed20/667-smartfon-poco-x6-pro-512-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO X6 Pro 512 ГБ черный",
+                "user": {
+                    "id": "be998867-3e52-11ce-d8ff-29ecfdb71f4a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "AlerRus",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-13 16:28:10.59376",
+                "insertStampFormatted": "13.05.2024",
+                "updateStamp": "2024-05-13 16:44:03.668181",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Внешний вид, удобно лежит в руке, отлично ловит связь, в лифте и во многих местах где старый телефон не ловил.</p>",
+                "minus": "<p>Заявленная \"мощность\" процессора во многих даже не требовательных играх не вывозит, возможно вопрос в оптимизации, фпс в некоторых играх падает явно ниже 30, хотя показывает в \"ускорении игр\" больше 100 фпс. В CSR2 вся картинка в пикселях, иногда даже текст тяжело читать, хотя игре уже  около 5ти лет. Камера отвратительная, хоть от неё и не ожидал многого, но за эти деньги можно было и получше. Очень часто после изменения настроек или еще по неведомым мне причинам, перезагружается \"рабочий стол\" и перемещаются значки или вообще исчезают. Яркости экрана не хватает, на улице смотреть контент не комфортно. Цвета тоже среднего качества. Очень маркая задняя часть телефона. Слабая вибрация.</p>",
+                "comment": "<p>Этот смартфон под линейкой POCO которая является игровым решением в первую очередь, этих денег он точно не стоит, его можно использовать как звонилку и максимум соцсети, можно купить и дешевле. Покупкой я не доволен.</p>",
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 8,
+                "5": 88
+            }
+        },
+        "topId": "9f348a1e-c8c9-4a8e-a13d-721a85bb8641"
+    },
+    "message": "",
+    "errors": []
+}

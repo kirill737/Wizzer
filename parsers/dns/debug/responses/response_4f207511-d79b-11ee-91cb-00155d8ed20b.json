@@ -1,0 +1,743 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 19,
+        "opinions": [
+            {
+                "id": "85babf10-6bc0-4be1-a010-86ccfabe202d",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "f5b2cae8-2cf2-643f-edfa-023ced1fc471",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "SisteOfRock",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "293037bab2d63bf2463131a697cbbcaa",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-06 09:08:35.78133",
+                "insertStampFormatted": "06.11.2024",
+                "updateStamp": "2024-11-06 09:33:24.891909",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Брал телефон для личного пользования, понравился дизайн и объем памяти</p>",
+                "minus": "<p>Объема батареи при интенсивном использовании хватает почти на день</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7f5a9f60-4da5-4a94-b765-cd598b5d53a0",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "d6f97f1d-e486-6345-0883-e740f182f892",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EU98713",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0e1b9c7acc0bd973c0fb4e6b78cbf40c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 17:18:32.738294",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 18:02:18.653045",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>экран, быстрая зарядка ( мощный адаптер в комплекте), звук . ОБЪЁМ ПАМЯТИ.</p>",
+                "minus": "<p>Батарея, несмотря на ёмкость, не особо долго держит заряд. У моего старого телефона ёмкость меньше, а сын играет и видео смотрит почти целый день. А здесь, я не особо играю , в соцсетях не залипаю, но на весь день не хватает.  Большеват , производители всех брендов решили, что у женщин руки такие же как у мужчин 🤦‍♀️ Выпирает камера.</p>",
+                "comment": "<p>Для меня отличный вариант. Т.к. телефоны меняю редко, только по необходимости. До этого всегда были С-нг, но с функционалом, который мне необходим</p><p>- стоимость 😱  В целом покупкой довольна.</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "7ec32209-1315-4c65-a347-df83d82647ba",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/81d50e34b887decd7989667e798fe9e0/4276f10640cd755052d6c332f65ea040ab010462523ac64d26ff1e1b399e3689.jpeg"
+                    },
+                    {
+                        "id": "4bb538f2-00bc-4afa-9117-7d294c348531",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/cdef32709d9df24addc5f8c9ac4f7a25/cfcc2028758e30e9e5ceab495a272e05df4f910ea6a781aea650d8961ec376d2.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4935928f-243e-4ebc-a497-a9e18769e8be",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "a64a25e1-72af-4f0f-b966-bb8eae72629d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "yetialex",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-24 16:44:53.43637",
+                "insertStampFormatted": "24.08.2024",
+                "updateStamp": "2024-08-24 17:04:02.049958",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Все достоинства сводятся к нулю дохлым аккумулятором</p>",
+                "minus": "<p>Слабый или дохлый аккумулятор в новом телефоне. Возможно, мне так \"повезло\" с конкретным экземпляром, но днсовская проверка качества дефект не подвердила , поэтому возврат/обмен не возможен. В магазин с дефектом обратился на 7 день.</p>",
+                "comment": "<p>Заряд телефона тает на глазах. Приходится заряжать два раза в день при неактивном пользовании. Проверка качества дефект не подвердила 🤷</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ca1a8385-b4ac-40c7-a5f6-cf6115557ed5",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "a914dadf-7e9f-77a1-70cc-6df52dc42bfd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VA45718",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9ceeda5289b6559d23a2050741037d98",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 02:41:48.408882",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 02:41:48.408882",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9b26c571-a1a4-4e25-b6dc-4744b0753bc6",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "a0c96867-45af-a77e-85ac-32967cf1850d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IA15311",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ceb14bb9a3f90f5b8c3d628dbe08cf7e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 11:42:49.236696",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 11:42:49.236696",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "585eb6d1-0a81-4540-9ab2-dc8e18b365f5",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "247fdfdd-a3e9-5878-d4f9-d0c054d5319d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EA52542",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f5d9bfb25aa01eee4658e99ee4ccb7fe",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 08:55:48.747001",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 08:55:48.747001",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f7a0f559-3bff-40b8-94f1-a4e975f3a6a2",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "da097950-6584-3648-a814-b027e223a0aa",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZN4340",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "128373fe44e5d3e66c10aa8f7c86c2ee",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 03:43:47.951298",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 03:43:47.951298",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c88db3da-a7ef-46b7-8090-31b46ca9388d",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "cd21fe50-8a66-c1b6-5dd6-c861afb82187",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MP48036",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "128cf1d8a65b081a60b15b37b858af3c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-06 05:01:38.736596",
+                "insertStampFormatted": "06.09.2024",
+                "updateStamp": "2024-09-06 05:01:38.736596",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "73caa7a6-9a7d-4ee2-832f-488f245ed2ab",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "29cb1a42-2515-48b6-bdbe-1a695c34ac5e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "123з",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "32807244e3a1fe5554300d14447a2b17",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-01 05:29:00.506676",
+                "insertStampFormatted": "01.09.2024",
+                "updateStamp": "2024-09-01 05:29:00.506676",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "26e2e49a-e221-497f-a61d-ea756862f0ff",
+                "objectId": "4f207511-d79b-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/4f207511d79bed20/68-smartfon-tecno-camon-30-5g-512-gb-belyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 5G 512 ГБ белый",
+                "user": {
+                    "id": "f83c3b34-e207-440d-ad25-e8131b2e1a11",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HU3879",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "872326d810d2d374bc329ea706c7031f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-19 10:13:00.77112",
+                "insertStampFormatted": "19.08.2024",
+                "updateStamp": "2024-08-19 10:13:00.77112",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 11
+            }
+        },
+        "topId": "61e83ae1-e34d-428a-902b-cc1e8dd3956b"
+    },
+    "message": "",
+    "errors": []
+}

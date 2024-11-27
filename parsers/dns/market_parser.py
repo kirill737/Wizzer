@@ -36,6 +36,8 @@ def extract_data_from_raw_product_html(product) -> dict:
         return int(price)
     def extract_price(product) -> int:
         raw_price = product.find('div', class_='product-buy__price product-buy__price_active')
+        if raw_price == None:
+            raw_price = product.find('div', class_='product-buy__price')
         price = raw_price.contents[0].strip().replace(' ', '').replace('₽', '')
         return int(price)
     def extract_link(product) -> str:
@@ -56,13 +58,13 @@ def extract_data_from_raw_product_html(product) -> dict:
     }
     return json_content
 
-def parse_one_page(driver, url: str) -> None:
+def parse_one_page(driver, url: str, page_number: int = 0) -> None:
     """
         Парсит страницу товара по ссылке.
     """
     step_print("Waiting for page to load")
     driver.get(url)
-    pause(randint(7, 11))
+    pause(randint(10, 14))
     step_print("Start parsing page")
     soup = BeautifulSoup(driver.page_source, 'lxml')
 
@@ -83,7 +85,7 @@ def parse_one_page(driver, url: str) -> None:
         parsed_phones += 1
         # if parsed_phones > 18:
         #     break
-    save_json(f"parsers/dns/result/pages/parsed_pages/page_1.json", all_products_info_json)
+    save_json(f"parsers/dns/result/pages/page_{page_number}.json", all_products_info_json)
     step_print("End parsing page")
 
 def check_url(string):
@@ -93,15 +95,18 @@ def check_url(string):
     # Проверяем полное соответствие строки шаблону
     return bool(re.fullmatch(pattern, string))
 
-def switch_page_in_url(url):
-    def increment_page_num(url):
+"""
+def switch_page_in_url(url: str) -> str:
+    def increment_page_num(url: str) -> str:
+        debug_print(f"url before incrementing: {url} ")
         pattern = r"(p=)(\d+)"
         def replace(match):
             current_page_num = int(match.group(2))  # извлекаем текущее значение page_num
             new_page_num = current_page_num + 1  # увеличиваем на 1
             return f"p={new_page_num}"  # возвращаем строку с новым значением
-
+    
         new_page_url = re.sub(pattern, replace, url)
+        debug_print(f"url before incrementing: {new_page_url} ")
         return new_page_url
 
     first_page_pattern = r"^https://www\.dns-shop\.ru/catalog/.+/.+/$"
@@ -115,14 +120,44 @@ def switch_page_in_url(url):
 
     # patern = "https://www.dns-shop.ru/catalog/*/*/"
     # patern = "https://www.dns-shop.ru/catalog/*/*/?order=6&p=1"
+"""
 
-def parse_product(url, pages_amount=1):
+
+def switch_page_in_url(url: str) -> str:
+    """
+    Увеличивает значение p={число} на 1 в строке. 
+    Если p={число} отсутствует, добавляет ?p=1 в конец строки.
+    
+    :param url: Входная строка.
+    :return: Изменённая строка.
+    """
+    # Шаблон для поиска p={число}
+    pattern = r"p=(\d+)"
+    match = re.search(pattern, url)
+    
+    if match:
+        # Если найдено, увеличиваем число на 1
+        current_value = int(match.group(1))
+        updated_value = current_value + 1
+        return re.sub(pattern, f"p={updated_value}", url)
+    else:
+        # Если не найдено, добавляем ?p=1 или &p=1
+        if '?' in url:
+            return f"{url}&p=1"
+        else:
+            return f"{url}?p=1"
+
+def parse_product(url: str, from_page: int = 1, pages_amount: int = 2):
+    url_to_parse = url
     try:
         step_print("Open browser")
         driver = uc.Chrome()
-        for page_number in range(1, pages_amount + 1):
-            parse_one_page(driver, url=url)
-            switch_page_in_url(url=url)
-    finally:
+        for page_number in range(55, pages_amount + 1):
+            parse_one_page(driver=driver, url=url_to_parse, page_number=page_number)
+            debug_print(f"Parsing {url}")
+            url_to_parse = switch_page_in_url(url=url_to_parse)
+            # debug_print(f"\t\tNext page url: {url_to_parse}")
+
+    finally:    
         step_print("Close browser")
         # driver.quit()

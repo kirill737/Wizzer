@@ -1,0 +1,704 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 94,
+        "opinions": [
+            {
+                "id": "71819b1b-8f26-45ae-9434-39dfc81e8720",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "8f9a1531-3726-4303-b773-71884d48b53e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PU14577",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-08 06:17:38.59943",
+                "insertStampFormatted": "08.09.2024",
+                "updateStamp": "2024-09-08 06:19:17.662121",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый, мощный</p>",
+                "minus": "<p>Пол года пользуюсь, недостатков не заметил</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "56b57f81-0473-49ef-aade-1b1b18db47bf",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "ebfb9ff5-a327-29b1-c9c9-a8a5d6ef7534",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Алекс 39",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0adacdb80307f26a85729fd68c88eece",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-17 07:52:27.58101",
+                "insertStampFormatted": "17.01.2024",
+                "updateStamp": "2024-01-17 09:41:20.238677",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Камерами не пользуюсь от слова совсем,так иногда что то сфоткаю,ну или видяху небольшую сниму в 4к на 60фпс,видео пишется плавно,нормально,для работы иногда надо. Люблю поиграть в игрухи,в Tanks Blitz тащит на ультрах легко,в PBR картах немного там подтупливает,но это не критично,просто другие устройства я так понимаю в таких картах вообще не заведутся на ультрах,будет жесткое порно.Это при выключенным 2к разрешении,на дисплее,в 2к разрешении смотрю киношки,а вообще мне тел. очень нравится во всем,батарея огонь,в экономном режиме,но при нормальной подсветки,экран не темнеет в танках,играл по нескольку часов и ни чего не темнело, в эти же танки можно играть очень долго,сколько не проверял,но айфоны с их акуммом курят в сторонке)),но не буду сравнивать цены айфона и POCO.</p>",
+                "minus": "<p>Такая комплектация на ***** на червонец дешевле,но неохота было ждать,купил в ДНС.</p>",
+                "comment": "<p>Пока телефон все мои функции выполняет на ура.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "18e2040e-1ce9-4d70-9d04-5250eac73432",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "3b9fea7a-5b55-481b-8e09-792efcc6fb4f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Sergey1090",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fed3fc09b7977a4d6c50681928adbdb1",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-19 13:28:29.863663",
+                "insertStampFormatted": "19.11.2023",
+                "updateStamp": "2023-11-19 14:52:04.092501",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень шустрый телефон для повседневных задач.</p>",
+                "minus": "<p>Пока не обнаружил</p>",
+                "comment": "<p>Очень быстрая зарядка. Заряд держит очень хорошо.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2a9b9c2a-f841-4b24-9c63-988609140e7a",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "805fc746-a62f-320d-33e3-27178d6fce7c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "LeoTat",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cc35f142ce40455dbca4fe31e4349d3c",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-04 17:33:03.076348",
+                "insertStampFormatted": "04.10.2023",
+                "updateStamp": "2023-10-04 18:17:21.589428",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Отличный дисплей, высокая производительность, приятная внешность.</p>",
+                "minus": "<p>Аккумулятора всегда маловато...</p>",
+                "comment": "<p>Купил в подарок ребенку, собственно, он и выбирал. Перечитал тонну информации/тестов/обзоров и выбрал эту модель.  2 недели \"не вылазит\" из смартфона,  очень доволен!</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f6920a51-28f4-4229-9a83-ebe9c6e64536",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "f9ab0b1f-ab29-5a45-e2bf-c3a53eb7e54e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Маковейчук",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-05 07:48:09.24537",
+                "insertStampFormatted": "05.08.2023",
+                "updateStamp": "2023-08-05 08:28:15.144529",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>очень быстрый</p>",
+                "minus": "<p>нет полной влагозащиты</p>",
+                "comment": "<p>очень шустрый, хороший экран, за свои деньги очень хороший</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "fd8abe65-b03b-4b3f-a0ca-5c9f0a194824",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "e600cec8-e8d1-dd32-936c-602767cd55ca",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Igoreshka",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "26a39e9395fbfc7d4d68a1c4dd181227",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-15 11:58:00.73254",
+                "insertStampFormatted": "15.07.2023",
+                "updateStamp": "2023-07-15 13:26:44.706001",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Топовое железо.</p>",
+                "minus": "<p>Камера.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "598a45e4-0e91-4353-8f1f-6f241c383bcc",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "4ccac63b-7837-4120-19ec-3fefeb2e9d6c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QH40481",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e0fdfacbcfc03fed3cd577e42050be15",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-07 13:42:54.984488",
+                "insertStampFormatted": "07.07.2023",
+                "updateStamp": "2023-07-07 14:54:23.657763",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Шустрый, экран яркость и цветопередача, скорость зарядки</p>",
+                "minus": "<p>Автономность батареи, камера</p>",
+                "comment": "<p>Телефон очень шустрый, игры и приложения летают, зарядки хватает на день активного использования (фильмы, игры, серфинг) если не так активно пользоваться телефоном хватит на 2 дня, заряжается за 45 минут до 100% что скрашивает маленькую автономность батареи, камера в лучшем случае средняя, плохая стабилизация. телефоном доволен</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c125a646-1e55-4bb7-8508-698208db80cd",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "6ffcaf89-cba1-a3c7-869c-29770d9e7b9b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UM40133",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7a2538e40797f4fcd442c7fd046014ed",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-06-01 20:30:43.152649",
+                "insertStampFormatted": "01.06.2023",
+                "updateStamp": "2023-06-01 20:33:34.042854",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b8c21b99-07ff-4b6c-bc16-099160e44e37",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "df7b55a6-5731-4421-c4a5-2be4122afc4a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YQ5924",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "50127e9051e4f7be586966adfe7797ec",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-09 15:44:29.951372",
+                "insertStampFormatted": "09.09.2024",
+                "updateStamp": "2024-09-09 15:44:29.951372",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "12ee3075-12b8-490c-9a5b-1cd826837fbd",
+                "objectId": "674da2f5-da6a-11ed-90cc-00155d8ed20b",
+                "objectUrl": "/product/674da2f5da6aed20/667-smartfon-poco-f5-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон POCO F5 Pro 256 ГБ черный",
+                "user": {
+                    "id": "bc6ea81c-7553-b886-4edf-54efdacb3bca",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BD72875",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "773d3f9660f7fca30e2f6cdc84f7384f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-11 06:45:03.06634",
+                "insertStampFormatted": "11.07.2024",
+                "updateStamp": "2024-07-11 06:45:03.06634",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 4,
+                "5": 77
+            }
+        },
+        "topId": "acd2edd2-7d53-4d69-9669-7bf3466bb081"
+    },
+    "message": "",
+    "errors": []
+}

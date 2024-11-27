@@ -1,0 +1,714 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 315,
+        "opinions": [
+            {
+                "id": "40f92a57-1e55-4442-b654-f08258f1882f",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "f7268260-20d0-185f-942d-32ee07635ab1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/29306b33d01bbfd4294a638c87396756/97fff944c46c95c77f33d1925cd5fca4d11cb70b5c86f27fdac478dc28655531.jpeg\">",
+                    "name": "88SHTURMAN88",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-24 14:24:34.21487",
+                "insertStampFormatted": "24.11.2024",
+                "updateStamp": "2024-11-24 14:31:12.738022",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид, начинка, материалы, камера</p>",
+                "minus": "<p>Вроде их нет. По крайней мере пока что не обнаружены</p>",
+                "comment": "<p>После А32 этот аппарат кажется чем-то сверхестественным)) Сделан конечно очень качественно, действительно хочется назвать его флагманом</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "a1fd692d-f59c-421f-8f06-863b15e69833",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2b95b68fb5ceb9e1d8e999c4e2a5e5a3/75fc190d049e2dc123ebd9c1f1df0c91bdc9d55aa6243f12a4e061d0b529372e.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "57f3ec56-4e14-4706-88a4-73342a84c30a",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "af3183bc-4c3a-4a43-9e31-9ecb29aff36a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "EvgSha",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e5a158b078c09f0669dedec63a5b391f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-20 06:38:07.73713",
+                "insertStampFormatted": "20.11.2024",
+                "updateStamp": "2024-11-20 12:41:36.989248",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Работает отлично все, кроме мобильного интернета</p>",
+                "minus": "<p>С оператором Beeline не работает 4G</p>",
+                "comment": "<p>A55 в России с оператором Beeline не может работать с мобильным интернетом, все остальное у телефона работает отлично, как и положено.</p><p>Купил A55 на замену старого A52 и сразу столкнулся с проблемой - при перемещении по городу телефон теряет сеть 4G и переключается на EDGE (см. фото) и перестает работать мобильный интернет, остается только голосовая связь, ни мессенджеры, ни браузеры не могут соединиться. Для восстановления нужно или подождать минут 10-20, или перезагрузить телефон, или включить-выключить авиарежим. Таким образом, пользоваться телефоном в машине становится затруднительно: Яндекс.Карты не работают, Яндекс.Музыка не работает, сообщения в мессенджеры не приходят, нужно постоянно переключать в авиарежим и обратно (ну или встать на месте и подождать, в пробках все работает). Предположу, что проблема возникает при переходе от одной базовой станции к другой. SIM—карту переставил в другой слот – ничего не изменилось, заменил на новую – ничего не изменилось, заменил на ESIM – ничего не изменилось, сделал сброс телефона к заводским настройкам – не помогло. Взял с собой одновременно свой старый A52 и убедился, что у него нет таких проблем, он в этих же местах в это же время нормально работает с 4G, а A55 в это же время переключается на EDGE и не работает. Сменить оператора я не могу, т.к. у меня корпоративный оператор Beeline.</p><p>Сервисный центр с аппаратом работает стандартно – проверяет на одном месте, без перемещений, а находясь на одном месте проблем нет, соответственно, аппарат исправен и возврату не подлежит.</p><p>В целом, кроме этой проблемы, аппарат хорош и я решил, что это брак конкретного аппарата и, т.к. я очень привык к телефонам Samsung и пользуюсь ими уже давно, то я рискнул и купил еще один A55, но уже с другим индексом модели для другого рынка. Каково же было мое разочарование, когда и у второго аппарата оказались точно такие же проблемы!!! Теперь у меня два телефона, которые с моим оператором не работают и вернуть их невозможно.</p><p>Получается, что телефон Samsung A55 не может корректно работать в России в сетях Beeline и это не брак конкретного аппарата, а особенность всей модели.</p>",
+                "usersCommentsCount": 8,
+                "images": [
+                    {
+                        "id": "dd37e4f3-5d82-4c47-92c1-0d4a09207155",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/393ce29719ad9c5847cc6cf510bb26af/6ea3c1e14142aa63c2314dd81392e2d2b8e1c79b366793aed368c9aaa2626368.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0c04c8de-f792-49d1-85ce-e6a648b55ac6",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "4cccc601-d92e-f991-8220-3d89b89b7658",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZI0264",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-18 04:54:58.69321",
+                "insertStampFormatted": "18.11.2024",
+                "updateStamp": "2024-11-18 04:56:04.010155",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый,приятный на ощупь,камера</p>",
+                "minus": "<p>Отпечаток пальца,фейс айди</p>",
+                "comment": "<p>Отпечаток с фейсом ужасно работает,через раз</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "68f58576-0124-4641-bec2-d0e190f3e47e",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "ec353b6b-2bd6-cce6-f332-de1eb3de8e02",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9ac11bc2815a33e271d1757cc2b697e2/8f42b29eea7c586212b3885eddaf85cff7635f82deb42f293f23ec67e5d6d216.jpg\">",
+                    "name": "Avocados",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-17 08:19:21.91917",
+                "insertStampFormatted": "17.11.2024",
+                "updateStamp": "2024-11-17 10:01:07.629435",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Металлические рамки, стеклянная задняя крышка, 120гц, производительность, камера</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3fcae450-b87e-4b2e-96e6-327d84a9ab01",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "b46294f5-3bc9-4284-a346-492d66a9901d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OB3205",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3950b4549789586364723c455da8c75d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 19:05:36.59041",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 19:24:59.352336",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>у самсунг всегда много достоинств на фоне конкурентов, в первую очередь качество конечно же, ночной режим камеры порадовал и еще не знаю с какой модели но устранили мерцание экранов при их сьемке с изменением яркости</p>",
+                "minus": "<p>неудобный корпус (ребра острые прямоугольные, и есть непонятный бугорочек сбоку под кнопки громкости и включения), естественно хоть и банально - нет миниджека, и нет зарядного, и ладно что не положили, но обидно что даже ни скудная инструкция ни страница этого телефона на сайте самсунга не расскажет какую зарядку можно купить для этого телефона</p>",
+                "comment": null,
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "06416a4a-4a83-4235-98e9-7acc8b905d47",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "7211eb53-5a19-5668-d9f6-ab70f84cfa81",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IR65123",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cd1fb1e9a49762927e83af525936c38d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 18:51:03.68902",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 19:04:08.884874",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Могу судить лишь относительно прошлого телефона от xiaomi. В принципе все устраивает. Отсутствуют различные \"мусорные\" приложения с рекламой ,для меня это значимый плюс в пользу samsungb, ибо надоело вручную удалять всё это. Первоначально рассматривал \"китайцев\", но ничего не приглянулось</p>",
+                "minus": "<p>Батарея оставляет желать лучшего, по сравнению с моим прошлым Xiaomi,который прослужил мне больше четырех лет - это небо и земля. Приходится заряжать почти каждый день, если телефон активно используется</p>",
+                "comment": "<p>Лично меня телефон устраивает,  в игры не играю, для моих повседневных задач он полностью устраивает, спустя 2 месяца работает без нареканий. Камера в целом устраивает, многие жаловались на пост обработку, лично для мня не критично</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "05c8a1fc-f6ce-47a1-9e9d-f1ecdfece534",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "9edb409d-6ea0-267f-5899-dd413668ee3e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a172ab3a4dcac8646c1b3a918f612620/21dc4681945a26d38c25f6c92d784c11d912b460d0ad8b0c8291427620b8507b.jpg\">",
+                    "name": "Пришелец-TV25854",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 02:22:04.04528",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 02:29:58.742654",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>связь вот не ловит</p>",
+                "comment": "<p>не вздумайте брать это г…вно связь вот не ловит. сдал обратно кое как</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7413ef5e-b449-4e62-b5a4-103fa93228ac",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "372f55f6-bb17-5413-05f8-7592b613e95b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/a19315fdaf15355aac04a6fadeedc2d9/f827735253473a328dd3da7254b2d6f7b3c2072203778a0a6f8715d907c9ac28.jpg\">",
+                    "name": "turgeneww",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5d1bb2e5464e0ac917eb65a6e01c22e8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 15:43:51.347763",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-17 00:19:47.737934",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>они это сделали</p>",
+                "minus": "<p>оригинальные аксессуары слегка дороговаты в пересчёте на себестоимость</p>",
+                "comment": "<p>впервые в жизни решил приобрести Samsung и был восторг с первых же минут.</p><p>по сей день не покидает ощущение некой завершённости продукта, будь то исполнение снаружи и допиленности софта внутри. нахваливать излишне и не собираюсь...но вместе с тем желаю пояснить: старенький redmi note 8t и по сей день живой, но eMMC память деградировала так, что даже родной интерфейс отрисовывается, как слайдшоу и не приведи господи тыкнуть по иконке вкл. камеры(можно заваривать чай и устраиваться поудобней)...poco X3Pro я с удовольствием использовал бы и по сей день, но основная плата смартфона отъехала в мир иной просто лёжа экраном вниз на столе, возможно именно это повлияло на отвал))...описал поведение девайсов, которые оставили след в воспоминаниях. И, да - HTC Desire HD по сей день исправно работает и 8Mp камера делает своё дело, и не дохнет родной аккумулятор, разве что 4 android уже не поддерживается.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4b82f5f0-da3f-40c5-ac62-6d1e411d231b",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "7c09e9f0-df11-4e87-9430-f60552efe615",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2e9756972e47a740f39c76acc56a9e10/769f42aa09dd8e8b8d12c90717033ecc78134ba9bb1cadee59a1ab1dad327896.jpg\">",
+                    "name": "Пришелец-GW66464",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 16:02:58.09284",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 16:16:08.861847",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Не топовый но довольно шустрый. Всё как и полагается самсу. Отдельно радует возможность отрубить не нужные приложения из меню настроек.</p>",
+                "minus": "<p>Ценник лихой, покупал со скидкой за онлайн оплату.</p><p>Кабель в комплекте тайп си на тайп си. В старенькую ЗУ не вставить.</p>",
+                "comment": "<p>Для повседневного использования с перспективой на три года и более самое то. Наверное.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a8da2b80-65c6-4516-af53-13e27805d191",
+                "objectId": "a9a0c481-1f2e-40b4-af29-ae766dc0d5eb",
+                "objectUrl": "/product/a9a0c4811f2e0d5e/66-smartfon-samsung-galaxy-a55-5g-256-gb-sinij/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ синий",
+                "user": {
+                    "id": "d7fbe69d-8e21-0a11-6daa-c9c8b00b1173",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PP28549",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7d8f986c9ea39264fa6b60e4cca22fc6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-07 10:35:44.05664",
+                "insertStampFormatted": "07.10.2024",
+                "updateStamp": "2024-10-07 10:50:45.265886",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Как будто бы у тебя s24+)))</p><p>Ни кто не отличит даже вблизи.</p>",
+                "minus": "<p>На следующий день стал дешевле на 1000</p>",
+                "comment": "<p>Купил со скидкой по он-лайн оплате, версия 256 гб вышла дешевле чем 128))</p><p>Какая то чушь прям.</p><p>Разумеется все кинулись покупать и я в том числе))</p><p>Камеры крутые. Снимки и видео огонь.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 1,
+                "3": 5,
+                "4": 15,
+                "5": 201
+            }
+        },
+        "topId": "f4a3cddf-70f7-46ff-9d46-d56591fbfe4e"
+    },
+    "message": "",
+    "errors": []
+}

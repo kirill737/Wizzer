@@ -1,0 +1,724 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 126,
+        "opinions": [
+            {
+                "id": "255c35b2-0278-43d3-b64a-06787e4a757f",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "09f9af18-6bca-bf0f-4bbb-6f20781b9124",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JK56541",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d492f3b6f744c2a86eaa1db59f082f72",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-25 20:37:12.01634",
+                "insertStampFormatted": "25.11.2024",
+                "updateStamp": "2024-11-25 20:39:28.344873",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень быстрая зарядка. с нуля до 100 за час. Долгая работа. Стильный дизайн, нравится ситуативная подсветка. Функциональный, имеет возможности, которые отсутствуют у конкурентов. Ну и цена+качество.</p>",
+                "minus": "<p>Фотокамера. Она АИ, но посредственная. Собственно я не ее искала, так что нет.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d59edb38-4358-446b-8d90-c96141b1e53b",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "65cd8c46-b9dc-85fc-ea3f-531180642d39",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MD80771",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "25b09c0b56b6b2b97e1456995107e796",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-02 08:42:51.667713",
+                "insertStampFormatted": "02.09.2024",
+                "updateStamp": "2024-09-02 09:52:46.386328",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Для игр самый то что надо))</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2bcb3235-22a4-4f58-9cbc-218b5cf1abc7",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "f5998a4f-ad0e-9965-f85d-837f1c6f467c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RI75575",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7b2331354fac900ed19aafc59d7a0f5b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-26 17:57:38.041125",
+                "insertStampFormatted": "26.08.2024",
+                "updateStamp": "2024-08-26 18:03:42.786713",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>все</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>имба за деньги</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "68fe23d8-fdc4-4599-9b17-c964f475ba53",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "92efe4c5-b0fd-faa4-1ef8-ec417ba071a2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/da5de63c270f81e7dc0240176d19caff/46ecb6388a3c0392e79bfdfe191178b9ebdf0d42595b862dfe319fd2ac5d85e7.jpg\">",
+                    "name": "djakuzya",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2d1229ed63fdd2773addb5a836c983c7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-10 15:46:49.47867",
+                "insertStampFormatted": "10.08.2024",
+                "updateStamp": "2024-08-10 17:04:54.284399",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Неплохая камера</p>",
+                "minus": "<p>Отвратительный экран, сильные лаги даже в слабых играх, и даже в режиме 60-ти герц. Автономность нулевая.</p>",
+                "comment": "<p>Покупался как временная мера, пришлось в итоге использовать как основной, и ещё долго придётся. Изначально всё было неплохо, но я понимал что это ненадолго, учитывая марку модели. Да, всё так и оказалось, начал сильно лагать, нестабильно работать. На днях вышел андроид 14 на него, и... я обновился. Фатальная ошибка, теперь лагает даже интерфейс. Их пова 2 был куда лучше, не покупайте нынешнюю линейку бюджетников от текно.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "86444b76-3928-498d-a668-3e90b746f128",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "4f2d6d20-288d-45c4-a838-7796d35486ce",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/5c5d9cb729704cc954ed8a860a50fdde/aa8882f3ad73f63d1a98f4e65d90ab99ffcf3ecce6b44ed7aeff0ab63bf472cc.jpg\">",
+                    "name": "DemSuS",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d719adaefba463f5a8b4fc5d46986445",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-07 04:54:44.419093",
+                "insertStampFormatted": "07.05.2024",
+                "updateStamp": "2024-05-07 05:13:06.611825",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея</p>",
+                "minus": "<p>Не заметил</p>",
+                "comment": "<p>Телефоны покупал спонтанно, просто понравился внешний вид. Для моих нужд более чем достойный аппарат</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "869a0d57-216f-4b6b-aa6b-f6ecfbcf5173",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "57cd965b-59dc-eefd-f841-0562728f4d2e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9d6ce513dab401bb8bb21c4c1a4b49a5/a17959a440eb0fa057bfad5c5584fe9b7487ad9841a68c9874063029e9a129ca.jpeg\">",
+                    "name": "KtotovSibiri",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-24 11:04:44.34764",
+                "insertStampFormatted": "24.04.2024",
+                "updateStamp": "2024-04-24 11:42:45.129879",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый и современный вид, обалденная подсветка во время вызова , батарея хорошо держит заряд.</p>",
+                "minus": "<p>Не работает звук оповещения о разряде и окончание зарядки батареи , хотя настройки оповещения включены . Косяк , вероятно всего, в прошивке , а не в аппарате. На старенькой nokia 5.1 plus такая же петрушка. Ждём обновления и исправления.</p>",
+                "comment": "<p>Рекомендую. Можно брать.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4056a91d-6eb6-4ae1-a086-56dfd3355f05",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "e2f2c1f8-1043-f657-e94a-2bd52b0ac042",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Виктория2022",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-01 14:17:52.63809",
+                "insertStampFormatted": "01.01.2024",
+                "updateStamp": "2024-01-01 14:22:09.029889",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Купила в подарок своему парню, он в восторге после xiaomi, текно pova 5pro просто летает, внешний вид очень красивый, звук громкий и насыщенный, сзади подсветка при входящих звонках и уведомлениях, игры говорят тянет, но мы покупали для повседневного пользования, навигатор работает шустро, цвета экрана отличные, отличный подарок парням и мужчинам</p>",
+                "minus": "<p>возможно только размер</p>",
+                "comment": "<p>очень классный смартфон🥳</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7ca12ebc-704c-4485-9e53-5a5cd90759e4",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "34fdffa5-ba84-0ad9-b7a8-5cebc2b1280c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KC13224",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dbf2f292a0d4dee464556f455c4be424",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-28 21:36:05.73699",
+                "insertStampFormatted": "29.12.2023",
+                "updateStamp": "2023-12-29 02:11:23.487021",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>быстрый</p>",
+                "minus": "<p>пока не обнаружил</p>",
+                "comment": "<p>классный, стильный, не жалею</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c9cb6f45-46c0-4c6e-9f01-e8987954407b",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "899461d4-57c0-40cd-b799-6d8022c184bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Сёма.",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3293d80146c5af37c303904dc9a18eac",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-20 06:04:17.64994",
+                "insertStampFormatted": "20.12.2023",
+                "updateStamp": "2023-12-20 07:02:07.319556",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон крутой</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>Очень громкий динамик при разговоре)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "035af94e-cd47-4f53-b343-e87bcbd0387f",
+                "objectId": "0224927e-bb40-46cf-a980-5a0029d5a847",
+                "objectUrl": "/product/0224927ebb405a84/68-smartfon-tecno-pova-5-pro-5g-256-gb-serebristyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 5 Pro 5G 256 ГБ серебристый",
+                "user": {
+                    "id": "f627a695-0df1-cb90-1c44-c5b55b133ccc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/5ec7a42467e5d2bf0b553f5153c24e3c/90ba09c14e07938c2527487a82cc10c303b98cb75e625b46b167d39d80b0beca.jpg\">",
+                    "name": "Kenny1208",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9dd31a867b0f79b6b0299c6e511c486a",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-16 04:33:44.07153",
+                "insertStampFormatted": "16.12.2023",
+                "updateStamp": "2023-12-16 05:23:33.512823",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серебристый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный , мощный аппарат!</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>В целом аппаратом доволен, заряжается буквально за 10 мин. При активном использовании батарейки хватает до полутора суток.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 0,
+                "4": 8,
+                "5": 86
+            }
+        },
+        "topId": "1cfa5c65-be0d-485e-91cf-2a67d0073a67"
+    },
+    "message": "",
+    "errors": []
+}

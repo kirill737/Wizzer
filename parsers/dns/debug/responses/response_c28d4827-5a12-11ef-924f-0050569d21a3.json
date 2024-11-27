@@ -1,0 +1,756 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 17,
+        "opinions": [
+            {
+                "id": "5cca1331-570e-4aa9-9416-3d6f0aba8bf0",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "bb8d2fb8-5091-46cd-9371-a6a4cda35ddf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "zx555",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8cf0d01f918b439782023fa9ce0e428b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-18 05:30:38.93617",
+                "insertStampFormatted": "18.10.2024",
+                "updateStamp": "2024-10-19 11:00:31.912299",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Просто хороший телефон, классный экран, вау эффекта нет конечно.</p><p>Новый Mi9 5 лет назад доставил гораздо больше восторга, чем 14т в 2024-м. Производительность выросла конечно, но ничего революционного.</p>",
+                "minus": "<p>Медленно анимируются приложения перед тем как ты их хочешь свайпнуть в сторону для закрытия. До этого был Mi 9, привык что там отклик просто мгновенный, тут же с теми же таймингами я свайпаю а приложение не улетает в сторону, только со 2 раза. Происходит это потому, что после нажатия на квадрат, приложение дико долго шевелится и не реагирует на тач, нужно ждать конца анимации и ещё чуть чуть.  А свап со второго раза воспринимается как лаг тачскрина и никак иначе, дико бесит.</p><p>ПС: Даже после окончания анимации приложение не всегда смахивается для закрытия, нужно ещё подождать... Просто у вас будет каждый раз лагать при закрытии приложения. Учитывая что этот функционал используется ВСЕГДА, это провал!!!</p>",
+                "comment": "<p>Немного можно исправить в режиме разработчика, установить скорость анимации х0,5 (по умолчанию х1). Но всё равно лаг остаётся. Отключая анимацию перехода, приложение можно закрыть мгновенно, как и на старом Mi9, но тогда это выглядит очень рвано и неудобно без анимации.</p>",
+                "usersCommentsCount": 5,
+                "images": [
+                    {
+                        "id": "a526fe5d-4aea-45e2-b135-88e6fa62f703",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/1cdda8d36b6a9534b8785b52fa65c447/8af37d822f52fff02f5679cc79ab520d974e13b1f9e92448e0203f1d2955f308.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "dd349f75-9bdb-4ee5-9250-9dcd5385777f",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "33ad2a91-615a-441f-b361-ac7ba19da8d0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Denis2016",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7fd10effd570b9133289db2029123ada",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-14 05:04:02.36093",
+                "insertStampFormatted": "14.10.2024",
+                "updateStamp": "2024-10-14 05:05:08.225699",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстро, плавно, качественно, экран супер, камера огонь.</p>",
+                "minus": "<p>Отсутсвуют</p>",
+                "comment": "<p>Доброе утро. Телефон - нет слов!!!!Все таки есть разница смартфон Android за 10000, 20000 или 50000 рублей. Все работает, быстро и плавно. Камера супер, сравнивали с 13 Iphone у супруги - Iphone отдыхает)))</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1c18dd86-20db-457d-a085-d5c758e36f2b",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "b2683c09-f1a1-32b8-777b-201dfc0c8eed",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CD65037",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "744e6d8af50a615923bb14601c51b9bf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 11:43:23.29927",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-17 13:26:12.555365",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>По сравнению со старым телефоном все идеально экран супер камеры шикарные рамки на экране тонкие процессор мощный система hyper os и её экосистема (часы в комплекте с телефоном работают тоже топ) и к не новому Xiaomi pad 5 подключился комплектный чехол хорош</p>",
+                "minus": "<p>Пока не нашел но могу сказать что 144 герц тратят батарейку быстро</p>",
+                "comment": "<p>Старый телефон tecno pova 4 купил по и потом пожалел тупит и ТД потом вообще погнулся и отвалилась крышка но не об этом телефоне а о 14т по сравнению со старым новый просто шик комплект не самый лучший но и не как у эпл есть блок питания провод чехол(черный матовый отличного качества)</p><p>Со временем добавлю фотографии снятые на камеру телефона</p><p>Примеры фоток (ширик, основной, телефото, там где лист прям близко это 10х и 20х да я понимаю что фото через  комментарий в дом плохого качества ну как есть</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "e4a0ae34-51da-4aad-9ed1-009237d9a9cb",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/58757cee53ee96a67a7ea86a7ff1cc6c/7e28652917ef6d2c4172691f61a9c86d40c79eac5dae4bb5ed8d33777e135d0c.jpeg"
+                    },
+                    {
+                        "id": "a63724f2-a2cc-4b0b-8fb8-1b8132e5af31",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/608fbeb8272619a0c92c3ca159488519/2ce3572b57d6a10506cb90f13ef8d8ce1e7945da8db14fe0c8412344402b2638.jpeg"
+                    },
+                    {
+                        "id": "a2c598f3-82a1-46d7-9b51-975daee1dcbe",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/08a801f86307c426b77d1c061f267cec/3b66bc2b1d5898e8371bab957cb7df49a11d09efa53192cd018e52ca8aa5acb2.jpeg"
+                    },
+                    {
+                        "id": "7a863d8a-33c3-4386-95f2-b6f417c8428e",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9fdafc7bcd37db81cfcc962a3cec674a/d75f2cf0b39cdf1a61d596911c220d963e153cd62a3cde3a9e305aea3a132016.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f165e852-2c33-4df6-b227-da934cbea672",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "e2edda57-fcd6-e8dc-0f08-9c55656b85fc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UN8246",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9b5c687633a759a6e45ce106b1de5f63",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-03 10:36:33.61574",
+                "insertStampFormatted": "03.10.2024",
+                "updateStamp": "2024-10-03 11:28:46.08535",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>1. Пушечный экран;</p><p>2. Производительность вышка;</p><p>3. Качество звука при разговоре;</p><p>4. Большая емкость батареи и быстрая зарядка;</p><p>5. Простота в переносе настроек и файлов с предыдущего смартфона.</p>",
+                "minus": "<p>Жене не понравился большой размер торчащих камер.</p>",
+                "comment": "<p>Приобре два, жене и себе. Давно хотел обновить старые устройства на что-то посвежее. Не жалею ни минуты - чувствуется, что телефон с флагманских характером. Звук стереодинамиков просто не передать словами, смотреть видюшки за завтраком стало гораздо интереснее))) Слово тупить вообще не применимо к этому телефону - летает всё. Батарея держит 1,5 дня при интенсивном пользовании. Экран и ИИ к нему разрыв бошки, качество просто ппц, все плавное, никакой дергатни, битых пикселей и искажений. Отдельно хочу подчеркнуть виброотклик клавиш - ну оооочень приятно печатать, как будто массаж пальцев делают.</p><p>Но! Жене не понравились большие торчащие камеры. По мне так вполне все норм. Чуть позже через месяц-два отзыв дополню. Все таки два телефона, два человека, будет более чем объективно.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cb444e7e-1ff4-4336-b583-5e3a19b865b3",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "78cf8ff1-00e6-4fdf-b38e-26722bf33995",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2689769a1319897797aae2c237f467e5/0718c72a0aee13486141d4027756ec3d4bc5cb14ac8c4cf17e8830c5752fc1d0.jpg\">",
+                    "name": "Smelovmusic",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d45fdca613adb783ecf236b02fa82ea9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 03:04:18.773668",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 03:04:18.773668",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2bf564ec-827f-4130-9602-c9c477cb92d8",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "96bd57d1-0fc0-4c0f-abd5-29f62b5302cd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAN06783",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fd7e7b8a5500a1a5f8bedd64da8fc601",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 01:43:04.740087",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 01:43:04.740087",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1db099c8-e130-4861-8cce-5e2d0bfd2480",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "3ad44363-2cb9-d8bc-ae87-e3771ee4e3b4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AQY638894",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "41f5f971f7ad2956b5d304b11de3830e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 08:18:10.373718",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 08:18:10.373718",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "78152d23-6e8f-48d4-9e9b-a2c098202ef1",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "31fabd89-4741-4492-8d7e-ea9d83d9d1d9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GJ0030",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fb262cdece90accf424ebd623304a0a1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 09:06:16.308722",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 09:06:16.308722",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "278819ad-ebe8-4887-8ff3-f087cb05feac",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "c89faaa8-6021-4779-b2e8-6d110bd4b517",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "gan_STOP",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "513a7287ad8e867199d93e7b54ddd28a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 09:32:54.12018",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 09:32:54.12018",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "86f60054-0278-451e-bd6c-b9c5c2fe1a8d",
+                "objectId": "c28d4827-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/c28d48275a12d21a/667-smartfon-xiaomi-14t-256-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T 256 ГБ голубой",
+                "user": {
+                    "id": "01f4b522-194b-723c-c182-cf7ef30ae71d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-US48130",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e32f521018cc28bfe92988fcbf06bf1d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 07:31:26.461458",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 07:31:26.461458",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 12
+            }
+        },
+        "topId": "37ea2fb4-5a4c-4de4-b7af-d544151c3cd5"
+    },
+    "message": "",
+    "errors": []
+}

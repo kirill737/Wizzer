@@ -1,0 +1,724 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 17,
+        "opinions": [
+            {
+                "id": "cf82be6f-9c4b-4683-a466-3fe931b36a30",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "09b2f789-e51b-4d05-098d-96002ba66dfc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ED27154",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b03ca2354337ba1dbe8b3f990e4f02bc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-20 16:57:29.15146",
+                "insertStampFormatted": "20.11.2024",
+                "updateStamp": "2024-11-20 17:12:45.202616",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Работает</p>",
+                "minus": "<p>Быстро разряжается.</p>",
+                "comment": "<p>Телефон оказался хуже предыдущего престарелого Xiaomi Redmi 8A в период его молодости. При незначительной дневной нагрузки батарея разряжается на 70%. И это у нового телефона....В остальном всё как и ожидалось.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ae59abe7-8a85-4e16-856d-e669f1b430ca",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "a0690d51-9bbb-972b-1ca0-da050cd88984",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IM54454",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dc339604cd91b3ed253ef82a691a5fd9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 09:37:50.589895",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-29 02:52:57.511072",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>хорошая камера, может потому что у меня был Olympus 12Mp 2007 года,</p><p>50Mp это не цветные свето диоды, видео сьёмка крутая, потом просто сжимешь видео конвертером приложение скачаете. Всё работает без тормозов...только если много файлов 27 000  то 2 сек  ждёшь чтоб выбрать фото на отправку в телеграм канал например - это с внутренней паметью не фэшкарты.</p>",
+                "minus": "<p>Вирус может косить вас, если будут личные хакеры.</p><p>Подсказка, если при отрытия экрана Часы показывают старое время закрытия и через долю секунды Часы сново показывают нормальное время....</p><p>Значит у вас вирус.</p><p>И если с фэш карты невозможно ститать ни единого файла хоть и показывает 99% заполнения.</p>",
+                "comment": "<p>Хорошо если у вас нет личных хакеров</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0eae3848-bb47-4502-839e-3d6a4ba1a723",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "1543b6cf-4553-a83b-cf93-d418836aecd5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/838674aad1aac021a49d6b4454f16b91/1e0c9cd6f4686877730e408bedcbaf1fd0e610356f9e26f90325998d1a9cd8da.jpeg\">",
+                    "name": "Gigantic Dark",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-15 11:37:31.6114",
+                "insertStampFormatted": "15.06.2024",
+                "updateStamp": "2024-06-15 12:03:51.59996",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Это VIVO!!! Это Sony. Качество. Мой предыдущий смарт, виво, он ещё жив. Обычно через 2-3 года смарту финиш. Прошлому 4-й год. Работает, но много функций и софта уже почти не работает. Искал замену. Точнее современного \"молодого\" напарника. Ценю именно виво за одну функцию - запись звонков с завода. По роду своей деятельности помогает по жизни.  Не нужно ломать голову над сторонним софтом. Внешний вид.  Приятного шоколадного цвета. Достаточно компактный. Чехол в комплекте. Хорошая камера. Для своей категории. Отдельный разъем для \"звука\". Две симки и флеш. Работает шустро. Заряжается шустро. В игры не гоняю. Собеседника слышно нормально. Это вопрос к операторам скорее. Интернет работает тоже быстро.</p>",
+                "minus": "<p>К недостаткам это не отнесу, а скорее особенности. Если на любом другом смарте слот для симок и флеш можно открыть любым ключом, то здесь только родным или только канцелярской скрепкой. На старом было с этим проще. Сканер отпечатка пальца встроен в боковую кнопку включения телефона. Немного неудобно. Также неудобно выключать смарт. Чтобы его выключить нужно одновременно зажать кнопку увеличения громкости и питания. Немного лишнего софта. Но это вопрос небольшого промежутка времени. В остальном это старый добрый Vivo.</p>",
+                "comment": "<p>К покупке рекомендую. Сильно дорогой смарт не хотел брать. Не игроман. Да и топов наелся в свое время. Главное звонки, нет, чаты, диктофон звонков, иногда камера. Чему данная модель отвечает полностью. Своих денег стоит. Рискнул взять новую модель. Обычно беру все проверенное. Но пока не пожалел. Аппаратом доволен. Со временем дополню отзыв.</p>",
+                "usersCommentsCount": 33,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cf5cd281-c871-4bb1-a58f-e66b607a78ff",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "a321eba0-cce8-b5a9-4e09-b663aa8f1bef",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CV49368",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d4a4fbd90545ec355c3732d791870c42",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 19:36:16.05638",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 19:36:16.05638",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "54465a88-0ffa-4ca5-be85-181ad2824e66",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "9cc2c23e-b2e7-cb07-620a-e2a8764da337",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IJ06702",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d85cf0c099163dbaec391b990e3f24ed",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 04:39:00.362867",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 04:39:00.362867",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "51cc5d84-955d-4edc-8a11-d7df526aa43f",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "a8fc3dd0-ad93-4a4f-a9fc-6c6e3c73609f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/477392322171d4094e2940451393a1a9/adab878a9ba684b128df891c852171b32fba22329514bd71de58af1145fdd92b.jpg\">",
+                    "name": "Пришелец-AAM04828",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cd1ad3095b7dfeef877b4758841a7caf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 07:14:30.95529",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 07:14:30.95529",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8154720c-dc71-4572-8685-50ab397a20b6",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "8910a9ef-7216-88bd-4d76-1a1d13c96a23",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OF94987",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "95bd6cb65e21089a8a7ca31da49f272f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 02:38:01.399121",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 02:38:01.399121",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "357afd9c-03b4-4e04-b749-295ac020b4cb",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "fdbaf2e7-d3a4-405d-9feb-0216db49f1c2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AH53808",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "68672e2494aaad9004564c88ab3b0bd4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 09:03:08.334675",
+                "insertStampFormatted": "16.09.2024",
+                "updateStamp": "2024-09-16 09:03:08.334675",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0bffa915-ba73-4d01-8627-63bf63e8007d",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "6e829292-4d8e-e335-80d4-d1536c0d5b5d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GU67068",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "99ee3dc543c60826ad5c28b6994e90a8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-30 16:26:58.90475",
+                "insertStampFormatted": "30.08.2024",
+                "updateStamp": "2024-08-30 16:26:58.90475",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8f5d7c9b-a850-4b09-83d1-95e535c24319",
+                "objectId": "6fb2770f-fe28-11ee-91f8-0050569d5825",
+                "objectUrl": "/product/6fb2770ffe28d582/656-smartfon-vivo-y18-128-gb-koricnevyj/",
+                "objectName": "6.56\" Смартфон Vivo Y18 128 ГБ коричневый",
+                "user": {
+                    "id": "cf071486-1208-5383-9cf1-35f6dfb68e76",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAH57629",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "50af826d549e51567af950f7a6c01cbe",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-17 13:22:01.767239",
+                "insertStampFormatted": "17.08.2024",
+                "updateStamp": "2024-08-17 13:22:01.767239",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "коричневый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 9
+            }
+        },
+        "topId": "0eae3848-bb47-4502-839e-3d6a4ba1a723"
+    },
+    "message": "",
+    "errors": []
+}

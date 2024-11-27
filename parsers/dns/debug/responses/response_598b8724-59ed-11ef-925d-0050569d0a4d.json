@@ -1,0 +1,104 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 7,
+        "opinions": [
+            {
+                "id": "63fd09f5-a7bd-4026-8569-96e1d67a7097",
+                "objectId": "598b8724-59ed-11ef-925d-0050569d0a4d",
+                "objectUrl": "/product/598b872459edd0a4/678-smartfon-tecno-spark-30-128-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 30 128 ГБ черный",
+                "user": {
+                    "id": "be65c2e5-e090-4ace-83ef-b53040bda9c1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NI21028",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eacedd6a911b1997ac931d6e91bce5c8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-17 11:07:29.21348",
+                "insertStampFormatted": "17.11.2024",
+                "updateStamp": "2024-11-17 11:43:14.716362",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Купил взамен старого Huawei P Smart 2019, яркий и большой экран, шустрый сенсор для разблокировки, громкий звук (стерео), есть радио (с наушниками). Есть запись звонков, качество записи очень хорошее. На прошлом телефоне приходилось ставить стороннюю программу.</p>",
+                "minus": "<p>Не очень много чехлов-книжек к нему, все для модели Spark 30C. Но нашел и купил. По сравнению с предыдущим камеры выпирают, но это у всех сейчас.</p>",
+                "comment": "<p>Телефон качественный и относительно дешевый. Для неискушенного покупателя пойдет.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        },
+        "topId": "643b6921-a494-4316-ae3c-ce6a7fab25e7"
+    },
+    "message": "",
+    "errors": []
+}

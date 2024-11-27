@@ -1,0 +1,697 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 96,
+        "opinions": [
+            {
+                "id": "623d6587-8ed0-4e87-85d2-b65ec91c24eb",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "6ea0b3bf-2240-db4b-d666-3fe3799a57ab",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/649587f7ba2f845920eedafdd9f653c5/8487459eb06e3794dfa36b6e5f2032ee6f66cc3becb26a7141cf925deecec406.jpeg\">",
+                    "name": "Пришелец-RJ11323",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8e3b441099ddb5868aff3e234b0209b3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-23 19:47:56.99709",
+                "insertStampFormatted": "23.11.2024",
+                "updateStamp": "2024-11-23 20:37:03.45955",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Обнаружена царапина.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "0dd909f7-6e43-4640-9881-1e0eba58daba",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/3e1a1af955741e07681d43cf09beffa3/a7189689dd6d496e749d8ed5b7c2163d90afcc092db52f5bb9aeb8b51e576eef.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9ee64379-2e05-40b8-bf81-c361a3c011f9",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "fff30ad0-d7b0-66f0-9fe8-b706e96a54fc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GC17473",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-09 14:05:58.87584",
+                "insertStampFormatted": "09.11.2024",
+                "updateStamp": "2024-11-09 14:17:11.297572",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Не тупит</p>",
+                "minus": "<p>Не выявлеео</p>",
+                "comment": "<p>Прикольный телефон. Функции тоже не плохие, удобно.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d6ce9212-3371-4a4f-a725-b5b803391341",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "0c4e710b-2d90-79cc-3f2c-bea2f5d623f3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Master nvrsk",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-30 20:20:46.47987",
+                "insertStampFormatted": "30.09.2024",
+                "updateStamp": "2024-09-30 20:54:17.538767",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Нет</p>",
+                "minus": "<p>Камера. Отваливается слот сим-карты. И И реально тупит.</p>",
+                "comment": "<p>Жалею о покупке. Самсунг даже бюджетный гораздо выше уровнем.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0f7e8969-f56b-4b8b-887b-d29c8c510a89",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "29d09f40-a154-4dc5-b5fe-5d7b584817a5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "Vycheslav75",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 03:53:21.36647",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 04:38:34.308582",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Хороший телефон. Тонкий, лёгкий, экран большой, яркий. Камера хорошая. Телефон сам шустрый. В общем телефон вполне устраивает, покупкой доволен.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "aef8063f-ea08-4398-a589-b1a4ce3e2e62",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "7ee107be-3c10-0e99-afe2-6b69f694f9ef",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VK16321",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "53af74606fd2ae863f7ab01f42b3e90c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-29 13:59:56.568554",
+                "insertStampFormatted": "29.08.2024",
+                "updateStamp": "2024-08-30 00:13:07.791405",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>В руке лежит хорошо, выглядит современно. В зеленом цвете особенно + тактильные ощущения (Носите без чехла, если у вас зеленый смартфон и наклеено стекло на экран, в таком случае разбиться там нечему).</p><p>Изогнутый экран водопад добавляет вау эффект, он никак не мешает, лишних нажатий нет.</p><p>Чехол в комплекте не толстый, даже с ним телефон ощущается тонким и приятно лежит в руке.</p><p>Сам смартфон весьма шустрый.</p>",
+                "minus": "<p>Из-за особенностей экрана, чехол и защитное стекло конфликтуют друг с другом, чехол налезает на стекло, а иногда отклеивает его. Рано или поздно он у вас просто отклеится. Я спас ситуацию гель-плёнкой, которая специально укорочена для защиты от отклеивания чехлом.</p><p>Камера плохая. Без лишних слов, просто поверьте. Она очень темная, фото получаются мрачными даже в солнечный день. Ковыряться в настройках каждый раз не хочется.</p><p>Экраны водопад часто бьются, причем в самых неожиданных местах, так как чаще телефон падает ребром, а ребра тут на 50% состоят из экрана. В комплекте идет стекло хорошего качества, стоит клеить его сразу. Это не минус, просто особенность подобного экрана.</p><p>Иногда частота сама по себе падает до 60 герц. Но не критично</p>",
+                "comment": "<p>Рекомендую носить без чехла. Если у вас наклеено стекло, а сам телефон зеленый с кож.зам панелькой. Так как разбиваться в таком случае нечему, экран защищен, а задняя панель мягкая. Не стоит прятать такую красоту.</p><p>Покупал как подарок, вижу телефон каждый день. В целом ставлю 5 с минусом из за камеры.</p>",
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7fe1a978-b329-4ce4-a833-a6f1cecc1e41",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "d96a2511-e34b-c548-90f7-e050f2ac3207",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KX8312",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "444d2d91de8678089bbd08772c66e0d5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-27 14:35:01.00024",
+                "insertStampFormatted": "27.08.2024",
+                "updateStamp": "2024-08-27 15:10:32.288046",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Тел довольно мощный работает шустро</p>",
+                "minus": "<p>Без защитного стекла/плёнки царапается ну оооочень сильно поцарапал так весь экран(</p>",
+                "comment": "<p>Хотите берите, до для таких как я надо быть всегда со стеклом</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "df890e2b-1628-4ffe-bc85-3cb04394085c",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "99185ac1-6d0a-f530-3f4c-11698512fb84",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/65652f3f7aa96bf825de299bf08296a6/326bfb67303494d7622f47ed97c26367b08a67e8af047a10be338f5befdde9c3.jpeg\">",
+                    "name": "goncharovne",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-11 13:02:11.41524",
+                "insertStampFormatted": "11.08.2024",
+                "updateStamp": "2024-08-11 13:30:31.94964",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Идеально сбалансированный</p>",
+                "minus": "<p>Не выявлено</p>",
+                "comment": "<p>Лучший аппарат в своей ценовой категории</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2f2efb74-f1da-40d5-9ccc-6f7bb0372dd8",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "ce6f5db5-b5bd-4cdc-a171-f504591d5db6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ee1eb4deba4c5d22f34a6f0958d2cbbf/c9147a945e0e6df43500bcd3c9bd21bbbc2bb2488096647ef28cfb52bf8b71ac.jpg\">",
+                    "name": "rat4uha",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "998476460428c7a498275d615b26b9e7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-26 04:22:04.774393",
+                "insertStampFormatted": "26.06.2024",
+                "updateStamp": "2024-07-05 20:33:54.888645",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид!</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>В цену 20000 тысяч ₽ супер</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "623dc534-1764-4245-9190-15e0840b63c0",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "215dde24-6460-4612-0d5f-704ae1bf40db",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KR87850",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-07 11:37:52.80752",
+                "insertStampFormatted": "07.05.2024",
+                "updateStamp": "2024-05-07 11:44:31.06846",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Для ежедневного использования хорошо себя ведёт, в игры не играю. В комплекте было стекло, я приклеила, но оно отклеивается. Лучше купить другое.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "43788450-069e-4417-bac6-4436ba25e0a7",
+                "objectId": "1f3ed536-b5ae-11ee-91a4-00155d8ed20b",
+                "objectUrl": "/product/1f3ed536b5aeed20/678-smartfon-tecno-spark-20-pro-256-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон Tecno SPARK 20 Pro+ 256 ГБ зеленый",
+                "user": {
+                    "id": "271042fa-faae-0f56-73f7-078c94edf93d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WR56139",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-26 09:09:00.22495",
+                "insertStampFormatted": "26.04.2024",
+                "updateStamp": "2024-04-26 14:30:32.247723",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена</p>",
+                "minus": "<p>За 18 900 их нет!</p>",
+                "comment": "<p>Как для временной звонилки на год - полтора очень даже хорошо. Не ожидал от него такого. Обновился, работает, глюков, фризов нет., но пользуюсь правда только три дня, дальше время покажет.  Экран очень хороший, достаточно яркий, картинка качественная, ложных срабатываний пока нет. Пластмассовый, тактильно не раздражает. Лёгкий, за свои деньги очень достойный аппарат.  Есть RU Store, а из него и Сбербанк и Тинькофф и, и много чего ещё... Всё что нужно усановил, работает без проблем. Сеть ловит нормально, вай-фай бес проблем. Нормальное стерео. Единственное показалось что разговорный динамик тиховат, но это субъективно. Из комплекта чехол - так себе и защитное стекло не очень, но жаловаться вообще грех за эти  💷. Зарядка быстрая, аккумулятор как по мне так норм, я не игруля, звонки, немного контента, новостная лента. В общем моё мнение на сегодня своих денег 💰 стоит однозначно.</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "b0b40268-4a5d-45c0-8283-8268cebd9dcf",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5e60f2d0a1abd08644212162cac2b06e/f32eb090342373502e0151edc409f6bb309a72cb0c775f83cbe82c6f10147c28.jpeg"
+                    },
+                    {
+                        "id": "9d6674a3-c3ed-44b9-995b-c3e91440f4b5",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/81dc67d5e662a14355db9d6478ab5262/5689e8163d05b5c6105917cbf9365f60c0af9b4ab5b72b002417c8ba097ec4d3.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 5,
+                "5": 70
+            }
+        },
+        "topId": "1d10e465-9408-42e3-8e5c-7463d1845010"
+    },
+    "message": "",
+    "errors": []
+}

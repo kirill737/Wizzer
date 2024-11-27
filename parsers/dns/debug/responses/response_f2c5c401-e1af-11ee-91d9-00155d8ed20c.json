@@ -1,0 +1,752 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 55,
+        "opinions": [
+            {
+                "id": "ab76c872-c3da-4b85-b800-8a3a1d08fd1f",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "1f8dc3de-6dc3-994f-01b0-6d8ac63e18ec",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XL83023",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "89edaa0119bc5cf6e9d67be6a4b29da4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 05:05:34.503221",
+                "insertStampFormatted": "15.10.2024",
+                "updateStamp": "2024-10-15 22:51:59.557771",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Цена и качество</p>",
+                "minus": "<p>Купила телефон, сломался через неделю</p>",
+                "comment": "<p>Купила телефон, сломался через неделю, принесла в магазин, отправили в скюервисный центр на проверку, сказали до 10 дней, в итоге уже три недели прошло, ни телефона, ничего. Несколько раз ошибочно приходило оповещение, что телефон можно забрать, кошмар.. Б</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ca9289a5-9f6b-48bf-9a42-0cda6d86b7ec",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "ca340c0e-7207-4a49-b1fa-45e99157d2b7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "emo",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "328624498cda3f5f15850ed0023a629f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-07 13:24:59.32109",
+                "insertStampFormatted": "07.10.2024",
+                "updateStamp": "2024-10-07 14:32:52.468477",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>телефон отличный для своего сегмента. проблем с установкой приложений не было</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>после настроек нового телефона в конце с помощью phoneClone скопировал со старого телефона все.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "fc92037e-53f4-4a8d-9252-71ace092d473",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "9900017d-d22e-4c32-a36f-7952eae3f282",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a8eb791c7a87f2bd278207f354cde02a/3ed9f847e8805b673828bdb5189c581ea9131f493542e987d1dde5d0a1894fc0.png\">",
+                    "name": "Феб",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "208638b617aa75a3e90afb70e1ff2836",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 23:57:07.59665",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-12 01:36:22.070402",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Работает!</p>",
+                "minus": "<p>Лично я не выявил, кроме отсутствия аналогово выхода под наушники. Ах да, камеры большой плямбой круглой бесят! ну зачем???</p>",
+                "comment": "<p>Оно работает и радует меня!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3f45e562-f351-420d-9704-a376cbd6b7d3",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "742669fe-8d7c-4cf4-bb90-d959175c172e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "DVK-1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f0c87d02c752a9cef1e3f3621fb3e498",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-10 08:31:42.24203",
+                "insertStampFormatted": "10.07.2024",
+                "updateStamp": "2024-08-01 05:27:01.494931",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Внешний вид, хорошая камера. хорошее качество звука через блютуз (но громкость низкая)</p>",
+                "minus": "<p>Всё работает через \"костыли\" Вотсап тормозит, навигатор тупит и через каждую 1 - 2 минуты повторяет \"Вы вернулись на маршрут\". Завершить разговор весьма непросто. Надо разблокировать телефон, открыть активные вкладки и завершить вызов. Переслать файл из почты напрямую не получится, надо его сначала сохранить в память телефона. Сервисы Хуавей (облако, AppGalery, Кошелёк и др.) не отключаются и не удаляются, мотают Ваши нервы. Звук динамика тихий, сигнал Блютуз слабый (предупреждение о возможности повредить слух при подключении наушников выглядит издевательством). Громкость сигнала вызова недостаточная. Гугл сервисы недоступны (в том числе и восстановление резервной копии).</p>",
+                "comment": "<p>Купил, помучался, и - выбросил.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "3084723a-ab6a-45b5-9871-0558af490fde",
+                        "text": "<p>Адаптивный режим яркости - тёмный. экран видно плохо. Пользоваться можно только на максимальной яркости. Настройки громкости будильника по возрастающей нет. Нет индикации пропущенных вызовов и поступивших сообщений. Неудобный интерфейс установки будильника, секундомера и таймера. Таймер и секундомер тикают, звук не отключается. Календарь неудобный. Задачи на экране в режиме \"месяц\" не отображаются. Только отмечены точками. Чтобы увидеть задачи, надо открыть конкретный день. Пролистывая календарь,  не уведешь, что конкретно запланировано. Многие процессы притормаживают. Например при фотографировании снимок делается не сразу, а с 1-2 секундной задержкой. При записи в Ватсап аудио, при нажатии на иконку микрофона, запись включается не сразу, а с 1-2 секундной задержкой.</p>",
+                        "textInitial": "Адаптивный режим яркости - тёмный. экран видно плохо. Пользоваться можно только на максимальной яркости. Настройки громкости будильника по возрастающей нет. Нет индикации пропущенных вызовов и поступивших сообщений. Неудобный интерфейс установки будильника, секундомера и таймера. Таймер и секундомер тикают, звук не отключается. Календарь неудобный. Задачи на экране в режиме \"месяц\" не отображаются. Только отмечены точками. Чтобы увидеть задачи, надо открыть конкретный день. Пролистывая календарь,  не уведешь, что конкретно запланировано. Многие процессы притормаживают. Например при фотографировании снимок делается не сразу, а с 1-2 секундной задержкой. При записи в Ватсап аудио, при нажатии на иконку микрофона, запись включается не сразу, а с 1-2 секундной задержкой.",
+                        "insertStamp": "2024-08-01 05:25:06.241836",
+                        "insertStampFormatted": "1 августа 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4be41d49-4a3c-40fc-a6c0-b8cf9a091248",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "40ed5bad-a68e-41a1-b06a-dc4c60844007",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "wmkr",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ca07b303731be7e767524396bfd1660e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-13 19:28:10.73691",
+                "insertStampFormatted": "13.06.2024",
+                "updateStamp": "2024-07-29 16:37:40.658465",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон как телефон.</p>",
+                "minus": "<p>ПРЕДУСТАНОВЛЕННЫЕ ПРИЛОЖЕНИЯ. Это просто какой-то кошмар, если раньше всякого мусора было мало, то сейчас, покупая телефон, вынужден сносить заводскую ось и накатывать свежую. Как понимаю, это у всех смартов сейчас так, и это караул.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "15a7d858-9eda-4ac4-bbd9-74437545e277",
+                        "text": "<p>Есть проблемы по управлению частотами ЦПУ (при разблокировке после простоя начинает поднимать частоты запоздало, что даёт полсекундные тормоза в анимации).</p><p>Софт камеры сильно светлит. Фоткать документы и в яркий солнечный день - пойдёт, в остальных условиях цветопередача фотографий эйфории не вызывает.</p><p>Хорошо держит зарядку, в комплекте годный чехол (докупать ничего не надо).</p><p>За свои $200 сгодится, учитывая, что выбор среди телефонов с IPS (амолед имеют свойство быстро выгорать) крайне невелик.</p>",
+                        "textInitial": "Есть проблемы по управлению частотами ЦПУ (при разблокировке после простоя начинает поднимать частоты запоздало, что даёт полсекундные тормоза в анимации). \r\n\r\nСофт камеры сильно светлит. Фоткать документы и в яркий солнечный день - пойдёт, в остальных условиях цветопередача фотографий эйфории не вызывает.\r\n\r\nХорошо держит зарядку, в комплекте годный чехол (докупать ничего не надо).\r\n\r\nЗа свои $200 сгодится, учитывая, что выбор среди телефонов с IPS (амолед имеют свойство быстро выгорать) крайне невелик.",
+                        "insertStamp": "2024-07-29 16:36:03.47074",
+                        "insertStampFormatted": "29 июля 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ec55fb0f-f328-4458-a970-1275e28f38f8",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "8b27efb0-bbea-4612-afd5-abc76e6d827c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QP0975",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e67d5a709f5d9108202eb9d3923f4ab6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-02 09:09:09.49082",
+                "insertStampFormatted": "02.05.2024",
+                "updateStamp": "2024-05-08 19:26:32.177644",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Цена, производительность</p>",
+                "minus": "<p>ПО</p>",
+                "comment": "<p>Смартфон слишком смарт - сам решает, нужно мне, чтобы месенждеры работали в фоне или нет, нужна мне автонастройка яркости или нет. Ставлю яркость вручную, потому что авто слишком ярко для меня, так он сбивает на авто сразу, как только заряд падает до 20%, якобы для экономии заряда. Алле, в чем экономия, если авто - это слишком ярко?! Эти китайцы настолько упоролись по оптимизации, что оповещения от мессенджеров или вообще не приходят, или приходят и сразу исчезают куда-то или приходят, когда хотят. Я пропустила уже кучу важных сообщений по работе из-за этого недоустройства. Щас тут будут писать про настройки приложения - отключить экономию заряда, включить все оповещения. Ну камон, гуглить я тоже умею, я все это уже сделала, и приложения мессенджеров устанавливала из разных источников, толку 0. Создали обращение в Huawei, жду 4 день, ничего не решается. Похоже, пришла пора сдавать этот бесполезный агрегат обратно в магазин. Потому что смартфон, который только смс сразу показывает и звонки пропускает, а все остальное у него заглушено, мне нахрен не нужен. Какая там камера - хз, если честно, мне без разницы, ну снимает что-то и снимает, документы достаточно четко получаются. Что гугловых сервисов нет, да, не очень удобно с одной стороны, а с другой мне нехватает только гугл плэй, всем остальным я не пользовалась и оно просто занимало место. По производительности - все летает, еще бы, 8 гБ, у меня комп с 8Гб, а тут всего лишь телефон. С каждым годом приложения становятся все более требовательными к ресурсам, иначе я бы вообще никогда телефон не меняла.</p><p>Upd 07.05.2024 Сдала смартфон в сервисный центр, акт дефектовки готов. Вывод - модель с дефектом. Осталась главная головная боль - что взять на замену.</p><p>Upd 08.05.2024 Получила возврат денежных средств, хотя собиралась просто взять замену - модель другого производителя подороже с доплатой. А все потому, что на вопрос - а как вернуть всю сумму, если и этот смартфон окажется с дефектом, мне консультант в магазине, который делал возврат, посоветовал перед покупкой почитать отзывы, поспрашивать людей и посмотреть видео на ютубе, потому что \"в какой-то момент в возврате будет отказано\". Ну что, сервис - высший класс прямо. А вы в курсе, что это нарушение закона о защите прав потребителя? Я имею полное право сколько угодно возвращать вам неисправный товар, именно потому что он неисправный. Это ваша проблема, что вы продаете неисправные модели, а я не обязана тратить месяц на просмотр всех имеющихся видео на ютубе со всеми существующими моделями на рынке. Я прочитала отзывы на вашем же сайте, выбрала модель, она оказалась дефектной. И это моя вина? Ну уж нет, я свой вывод сделала - как много лет у вас ничего не покупала, так больше и не буду. К счастью, выбор магазине в нашем городе не ограничивается одним DNS'ом.</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "681f06c9-b733-46d9-abc3-d74cf2934c4b",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "cc588c3d-3545-4b07-8fcf-ce9ac4781672",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PS06085",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "98ce80999f56eb434ed0afc3bff2c420",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 01:31:31.006714",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 01:31:31.006714",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "be8c63ae-e613-4018-bd6f-c9826f82029b",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "3ff5d33e-a4f2-9ff1-edae-42bb8a503048",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CC04947",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b72bc52ea78fb18fa862ac6f620d3119",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 21:36:36.230676",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-28 21:36:36.230676",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d34243a8-8c7d-4269-9a09-431da99d090d",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "ce2c9647-ad8f-befc-b75a-942853eac127",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MF18960",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eb8b8d693ab1c3418cdfb4b5d6eab6ae",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 09:56:04.512358",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 09:56:04.512358",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e999818d-90e0-4074-a05a-34920cf85733",
+                "objectId": "f2c5c401-e1af-11ee-91d9-00155d8ed20c",
+                "objectUrl": "/product/f2c5c401e1afed20/67-smartfon-huawei-nova-12i-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 256 ГБ черный",
+                "user": {
+                    "id": "767c785e-26c3-ab7e-1b19-ab9d3cb518b4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EL28895",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "76ac37ea67b8ebb89e74edefb4ed28e1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 16:40:43.796033",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 16:40:43.796033",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 2,
+                "5": 29
+            }
+        },
+        "topId": "5cfd4857-1561-4775-981d-d7245f2bfc4d"
+    },
+    "message": "",
+    "errors": []
+}

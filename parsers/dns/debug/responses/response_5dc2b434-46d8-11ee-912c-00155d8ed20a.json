@@ -1,0 +1,748 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 415,
+        "opinions": [
+            {
+                "id": "cfbd6420-f968-4aff-97dd-50b1361c641d",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "e33b8f97-1ec1-4493-b7e0-73ab4e154a1a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QD4712",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8f478b6eac6696afd1eb589ad4b360e5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-21 02:43:55.66113",
+                "insertStampFormatted": "21.11.2024",
+                "updateStamp": "2024-11-21 02:52:10.581948",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший телефон</p>",
+                "minus": "<p>не нашла</p>",
+                "comment": "<p>Пользуюсь год, нареканий нет. Заряд держит,связь тоже, камера хорошая.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "dced02e9-72fe-47ac-9c37-1ea84f4c3083",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "1ebcd3af-5cb3-4c68-b0be-b12e2c3cfc30",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "AvtoInsrtruktor",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "61236bd9134850d7b096ef12eb6d72ca",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 00:06:51.828165",
+                "insertStampFormatted": "16.09.2024",
+                "updateStamp": "2024-09-16 01:47:48.803995",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Смартфон - супер</p>",
+                "minus": "<p>Аккумулятор держит заряд не долго.</p>",
+                "comment": "<p>Советую всем к покупке</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "922a1a0d-ced6-41fc-b5d9-82bc05e3669c",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "2c00f4d0-2a41-4b96-8550-89567ed890f4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "strannikmag",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "930d827d1d66ff8cf19080676df87463",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-10 05:41:05.87392",
+                "insertStampFormatted": "10.09.2024",
+                "updateStamp": "2024-09-10 22:21:49.784636",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид</p><p>Экран</p><p>Качество связи</p><p>Автономность</p>",
+                "minus": "<p>200 мпикс камера не нужна, потому что матрица меньше</p><p>Ширик и датчик глубины, как обычно, на сдачу</p><p>Телефон недешевый, номерной Онор, могли бы мощей побольше положить</p><p>Нагрев процессора даже не в тяжелых задачах.</p>",
+                "comment": "<p>Покупал жене в подарок. Не скажу, что он прям девчачий, но именно женскому полу такой вкатит на 100 %. Он тоненький, изящный, выглядит дорохо-бохато, но в то же время сдержанно и без цыганщины, присущей Рилми. Отличный экран, сочная цветопередача (на базовом цветовом профиле, без вырвиглазной перенасыщенности) баланс немного правили под себя. Заявлена очень высокая частота ШИМ, хотя жена по началу жаловалась на усталость глаз, возможно, с непривычки - первый АМОЛЕД у нее. Фреймрейт оставили в режиме Авто.</p><p>Как обычно у хуавеев/оноров, прекрасная приемистоть и качество связи, сам ушел в стан Сяоми, есть с чем сравнивать.</p><p>Основная камера неплохо снимает, но разрешение сенсора относительно матрицы излишнее, оттого никакой выгоды в режиме Hi-res камеры нет, можно кропать обычные снимки 12,5 Мпикс, разницы я не заметил. Фронталка тоже приличная, а вот ширик очень примитивный, пользоваться им не стоит.</p><p>Одиночный динамик условно отнесу к недостаткам, но мы люди взрослые, нам пофиг. Куда важнее, что он громкий, и в шуме города, когда телефон лежит в сумке, его будет слышно. Также не могу назвать недостатком отсутствие дырки под наушники. Наверное, все, кто хотел, уже обзавелись блюпуп-затычками.</p><p>Ну и напоследок про проц. Он здесь средненький, довольно старенький, хоть и подразогнанный. Тяжелые игры не потянет, ощутимо греется и троттлит. Еще смущает его нагрев даже в некоторых повседневных задачах, типа передачи файлов.</p><p>В заключение скажу, что несмотря на кучу писанины, смарт очень приличный, хотя и не без недостатков. Несмотря на то, что он подается, как сбалансированная модель, баланс здесь получился не совсем .</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ddd610e0-3699-4f36-b73d-2e17abc14b1b",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "ab15d274-67a7-4815-8082-5e744320c3e6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GF2223",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "25295e602a6f2d427e01f22e0f3aa2dd",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-30 02:56:53.21612",
+                "insertStampFormatted": "30.07.2024",
+                "updateStamp": "2024-07-30 03:02:41.460194",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Расскажу случай из жизни.</p><p>Так получилось что я его потеял на берегу. И так получилсь что погода ипортилась, пошел дождь, поднялись волны.</p><p>На следующий день в надежде найти хотя бы симки, обнаружил телефон в метре от берега в воде. И он оказался рабочим после шести часов нахождения в воде! Специально зашел на сайти прочитать какой IP у данной модели, а такой информации на сайте нет. Так что видимо IP68 присутсвует.</p>",
+                "minus": "<p>Батарея слабенькая, но для моих нужд хватает.</p>",
+                "comment": "<p>Правдивая чудесная история.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ddca3b0d-d752-41fa-8c1d-db8258b858fa",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "311dd487-5bec-ddcf-55c9-f97d64803d53",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GG23232",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bf7368e57f75539374fd0480f7066bb5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-28 12:10:17.63218",
+                "insertStampFormatted": "28.06.2024",
+                "updateStamp": "2024-06-28 12:49:40.676594",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Яркие фото, удобен в руке</p>",
+                "minus": "<p>Глючит с самого начала. Например, открыт ватсап и приходит ещё сообщение-это окно остаётся висеть, не убирается смахиванием, просто зависает , пока не выключишь экран. Нет съемки в движении-фото смазываются.  При плохом освещении также качество страдает.</p><p>Замечательно снимает в хорошую погоду и при хорошем освещении</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d57d3fdf-3551-43d3-883d-8edca466fd4a",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "f859a5d0-1fab-6e04-3725-8534f69cf5fb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TO87015",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-04 09:13:12.80245",
+                "insertStampFormatted": "04.06.2024",
+                "updateStamp": "2024-06-04 09:58:08.370379",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран-красота, камеры-супер,</p><p>Производительности хватает за глаза. Очень красивый, понастоящему безрамочный....</p>",
+                "minus": "<p>Не понял я, только на моём или на всех хонорах 90, нет вибрации при звонке. За это я понизил общюю оценку. И хотя эта вибрация мне и на фиг не нужна, но все же она должна быть...</p>",
+                "comment": "<p>Телефоном очень доволен, очень красивый и приятный в использовании девайс. После него, все другие смартфоны смотрятся и ощущаются, в руке, как кирпичи))). Советую к покупке, не пожалеете. А стерео на смартфоне, нужно только тем людям, которые ни чего не понимают в хорошей музыке. Слушайте красивую музыку на специальных устройствах, созданы для прослушивания красивой музыки))). Нашли где слушать стерео....</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "b8e1a7df-059f-4221-9e0b-d67364373c08",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/42d42588f6a82c84a6d96a135741da3e/40e8acdea20f307bc2670a18bab7d75f622df68f7e560b0b6dd6757088586811.jpeg"
+                    },
+                    {
+                        "id": "9fdfc191-6a3f-4b77-a9cb-64765745d648",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/17eab298ad75b77cbb0e6b17f02e16bc/555a0346eff6c9ee865ff8302b05f478001fc3bae930a405ca1d2606cd6d7d38.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0dcfb3f8-b3cc-4444-81ef-f3ef1a1dd968",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "4563d975-f703-bbbd-fb39-015c75763643",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CK20309",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-04 03:38:28.99256",
+                "insertStampFormatted": "04.05.2024",
+                "updateStamp": "2024-05-04 04:58:21.750373",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Я довольна👍</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Советую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5e9c84db-a8b4-4a62-bf6c-933711fea372",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "81ed6e4e-a1db-9813-ca8e-18ab56fefb9b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LO50810",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-20 07:46:33.14514",
+                "insertStampFormatted": "20.04.2024",
+                "updateStamp": "2024-04-20 08:33:20.407227",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая производительность,отличная картинка,камера супер</p>",
+                "minus": "<p>Не обнаружил</p>",
+                "comment": "<p>За эти деньги лучше смартфона не найти</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "e34a6058-136a-4ff3-b6fa-1931a4e14b02",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/02dc8a0da6b2fd6e9088e5e2648c695b/601d681765e3f5d60d4b489bc5631436bfc93b9db93f0cbf99607cc9eaab0c9f.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8b9ccc96-f727-4e55-b4ef-1b2e02bd3825",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "b9e90150-7f96-b45a-78ed-908c617caa58",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LS86777",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-18 08:57:43.301",
+                "insertStampFormatted": "18.04.2024",
+                "updateStamp": "2024-04-18 14:39:40.428044",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Пушка гонка а не телефон, камера топ, автономность топ, связь ловит почти везде, ооочень классный дизайн.</p>",
+                "minus": "<p>Да фиг знает, не заметил если честно.</p>",
+                "comment": "<p>Перешел с айфона 14 на это сие чудо и не жалею, очень хорошая автономность у телефона, качество связи, ловит там где волки с*ать бояться, камера в полное себе отличная, игрули тянет будь здоров, а внешний вид это просто космос, рекомендую к приобретению однозначно.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "acc9cac6-f255-4522-b711-d0fc38930233",
+                "objectId": "5dc2b434-46d8-11ee-912c-00155d8ed20a",
+                "objectUrl": "/product/5dc2b43446d8ed20/67-smartfon-honor-90-512-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HONOR 90 512 ГБ зеленый",
+                "user": {
+                    "id": "b27877ba-465f-4716-dd2a-ba1f409e40a2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BB42413",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "72a0f189f5f9f28f10c6ba214f0bf209",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-16 18:57:14.418979",
+                "insertStampFormatted": "16.04.2024",
+                "updateStamp": "2024-10-20 14:55:45.128983",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Удобный</p><p>Быстро летают все приложения</p><p>Очень шустрый.</p><p>Доволен.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 2,
+                "3": 4,
+                "4": 22,
+                "5": 331
+            }
+        },
+        "topId": "567b84ec-635e-4656-bc29-ae7a94544c2a"
+    },
+    "message": "",
+    "errors": []
+}

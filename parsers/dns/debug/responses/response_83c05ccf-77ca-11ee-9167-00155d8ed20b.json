@@ -1,0 +1,747 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 23,
+        "opinions": [
+            {
+                "id": "eb7e9222-b870-45c6-9035-fa0203b151fe",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "a66a86f1-8466-429a-ac0a-a3af60c758bb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SA6217",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a6d885171804a3851ab1b0b7a6fdabe8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-02 08:50:16.63866",
+                "insertStampFormatted": "02.04.2024",
+                "updateStamp": "2024-04-02 10:59:37.9284",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>В целом неплохой, но надоело перезагружать его ежедневно.</p>",
+                "minus": "<p>Каждый день виснет какое-то приложение и я вынуждена перезагружать телефон. Бывает несколько раз в день. Напрягает. Это брак? Что можно сделать?</p>",
+                "comment": null,
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f10b4894-f08d-4747-8b1e-5091da74025f",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "42c9c41a-123f-4292-ba07-45d86aa191f7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/9abc5fd65c0f54b750cd321976a53d97/2f218bfe42ffc9d720304c40a44ed7be1a25b0c5290521f852c68942c43ee67e.jpg\">",
+                    "name": "Глеб85",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-05 07:32:33.33478",
+                "insertStampFormatted": "05.03.2024",
+                "updateStamp": "2024-03-05 09:32:29.970032",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Супер</p>",
+                "minus": "<p>Нету</p>",
+                "comment": "<p>Супер телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "c640a43f-5a36-4bd0-8bb6-c64fbec394bf",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/b4a26190e9c9dab2c31c6d4eada96fa6/2da7b75d7a5d674a532759da452559bf4c2b4ee6bbf5d8261f1cf2235ef5c94f.jpeg"
+                    },
+                    {
+                        "id": "b7e8f9f3-9765-4168-b325-29296028dcfa",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/a003f7ca53c62f13441f5dd8e261c7ab/e689518f0b491c9867be7f2d4837b6e9d9fec27fe4bbc9affd9a8619118df849.jpeg"
+                    },
+                    {
+                        "id": "94652089-4416-496a-bfa4-ba6e42467fed",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/e8b428c6c4ed494e00c0f410b32a5a17/4e3fc70322a30744d6f9ab9506dd0cde0d9133e7d9ad5538f45de211738455af.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "95d00f2c-527f-412d-9e4c-bb1583bbea5f",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "8333da1c-7021-0371-00f5-64422c9a031e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "НеПришелец1989",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d3077a1cca368166ef7a340e44d808c9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-25 22:56:59.749675",
+                "insertStampFormatted": "26.09.2024",
+                "updateStamp": "2024-09-25 22:56:59.749675",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3becfef0-4ea4-4dcf-a409-72e507997018",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "621c5cff-c3d2-19a0-5c0a-387e6736eb61",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NX34077",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ff896b1fc949fc176d549aedb301c1be",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 13:46:56.186552",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 13:46:56.186552",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b1d76980-79ff-4b1b-8303-d297742cb8a5",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "2abbd382-2dc9-f7c7-12b9-961f2253b1f6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NF41822",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "56acee4e1d773f1ee115066dc07784cf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 08:54:54.556585",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 08:54:54.556585",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f0ab272b-12d7-4c08-b06b-d694e6c4d2b0",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "74fa59f1-1660-4eb6-a9d6-908825a58785",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MD1382",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6d87db11c9a5bd5e5bc116554f711940",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-22 05:23:33.687548",
+                "insertStampFormatted": "22.08.2024",
+                "updateStamp": "2024-08-22 05:23:33.687548",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e49de3ba-b1f9-4693-ba46-9436390ff078",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "f87d9bbd-d96b-3b6c-5380-aa707991867e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VQ6196",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ea472cdacd2757519135287995d4973a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-15 05:42:52.404671",
+                "insertStampFormatted": "15.08.2024",
+                "updateStamp": "2024-08-15 05:42:52.404671",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1e4e85af-2de9-4541-885b-f26ee23c29c2",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "53f5810c-35e3-48dc-accf-7d931eb4b26c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OQ74606",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f695c407f9f452ed01495d83e9ec3868",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-08 17:10:42.373618",
+                "insertStampFormatted": "08.08.2024",
+                "updateStamp": "2024-08-08 17:10:42.373618",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "589b8cf2-8a52-4aba-a950-0c1b78f6ba5f",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "b2899bfa-e2c6-e5d9-ee56-6175cd7b71a9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NN65013",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ef35de066194ebfde0a79cd094624728",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-05 18:02:56.387812",
+                "insertStampFormatted": "05.08.2024",
+                "updateStamp": "2024-08-05 18:02:56.387812",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b9498184-809e-4a0a-83f1-318cd7acf0fd",
+                "objectId": "83c05ccf-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/83c05ccf77caed20/674-smartfon-poco-c65-256-gb-fioletovyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ фиолетовый",
+                "user": {
+                    "id": "3da90f19-8ea0-c8bf-9bf9-2be19c4fe126",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VR64442",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b6cafc8113b71f6d280c2ef74be6f6d0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-04 19:31:14.411902",
+                "insertStampFormatted": "04.08.2024",
+                "updateStamp": "2024-08-04 19:31:14.411902",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 15
+            }
+        },
+        "topId": "43b5febb-ff26-46d2-9361-272b4b64f7c9"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,724 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 87,
+        "opinions": [
+            {
+                "id": "552ab08c-8115-4531-831f-b34799c1dc4c",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "afc5bba6-36cb-436f-8f50-55640ca3c2e8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "mkortez",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3ae70c6dd32e8bbbadaa005b146f3681",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-16 08:02:31.48676",
+                "insertStampFormatted": "16.07.2024",
+                "updateStamp": "2024-07-16 08:26:02.183158",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Камера</p>",
+                "minus": "<p>Очень \"сырая\" прошивка</p>",
+                "comment": "<p>Телефон явно не доработан. Ещё сырой. Постоянно слетают настройки,  были проблемы со связью. Регулярно полвисает на пару минут. Своих денег не стоит.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "03147d0a-281f-4d8b-8475-57e47fa6784b",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "b2a0d78f-27b6-42b5-86bd-cbfe8e273969",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "darima2402",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "96f86fa6aec4ef79077b0591f01fb016",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-03 16:26:25.55527",
+                "insertStampFormatted": "03.03.2024",
+                "updateStamp": "2024-03-03 16:41:23.837814",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Смартфон норм за такие деньги . Камера норм. Цена норм. 512 гб памяти. Экран 120 гц. Есть возможность записывать разговор.</p>",
+                "minus": "<p>Быстро садится батарея. Чехол в комплекте не очень. Заказала на маркетплейсе силиконовый. Пленка есть в комплекте, но не приклеена, пришлось клеить самой.</p>",
+                "comment": "<p>Смартфон куплен 4.01.2024. Пользуюсь 2 месяца</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "78e9c8a3-b7f6-4be8-9d5b-c75989fb1a9e",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "aeaa9317-2d35-4138-b2b1-ab46c2a93cc7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Darker1211",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-01 06:31:06.19904",
+                "insertStampFormatted": "01.03.2024",
+                "updateStamp": "2024-03-01 09:54:27.292763",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Его экран особенно без чехла очень впечатляет и контент на Ютюбе hdr10 hdr10+ да он поддерживает ,картинка очень сочная и красивая!</p><p>Ну естественно 📷 камера она изумительна, сравнение делал с honor 50 и 50 проигрывает во всём, единственный момент камера Tecno она мне напоминает вот в точь как на Huawei P30 pro был такой у меня флагман и она также отлично фоткает,жаль конечно что нету телевика!</p><p>Его дизайн и эргономика в целом очень впечатляет 👍 вызывает эффект вау😯</p>",
+                "minus": "<p>Бывает маленькие баги при распознавания лица,но это не критично, множество настроек их очень много,не нужных притом, особенно касается уведомления,которые не нужны,есть приложение встроенные которые тоже не к чему</p>",
+                "comment": "<p>Шикарный смартфон,мне очень понравился, кстати уже вышел Tecno camon 30 premier 5g и там есть телевик, но в продажу пока не поступил в России! У меня было множество смартфонов и скажу что именно этот впечатляет очень кстати, притом за такую цену,есть всё необходимое!</p><p>И да чуть не забыл сразу при подключении к wifi прилетело 2  большие обновы на android 14 с hiOS 13.6 и далее ещё поменьше,на оптимизации в целом 👍</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4870d395-5e87-4814-a8e0-41d351b32c29",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "78af1917-1145-4add-eb86-f044fd2735cb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BG05294",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "81af587f9ada6031cafdbd8a0468795d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-12 09:34:21.797388",
+                "insertStampFormatted": "12.02.2024",
+                "updateStamp": "2024-02-12 13:41:06.421214",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид отличный</p>",
+                "minus": "<p>Пока не нашли</p>",
+                "comment": "<p>Купил Жене в замен самсунг S20FE, производительность, экран, память и особенно камеры в сравнении со старым телефоном на высоте</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b09c388b-4bc6-4bbd-9833-b0fbdf9a8ac9",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "0372a66d-ede9-65d8-36fe-7d60f7750559",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/18fce2577d5565cddaf37101407e4a63/13bef65851fc0ceef1f01af54a208744256d0f9ce4ec1d360f14988210c5ba73.jpg\">",
+                    "name": "TaMoGaVK",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fbdb9f8c8a8fc5fff0bbebe7a43a73a2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-16 17:49:34.067995",
+                "insertStampFormatted": "16.01.2024",
+                "updateStamp": "2024-01-16 18:30:00.837053",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный дизайн</p>",
+                "minus": "<p>Плохо работают с mi band 8 уведомления и управление музыкой работает через раз</p>",
+                "comment": "<p>Смартфон на все деньги за его стоимость лучше не найти</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "517a6710-0609-4f22-b32f-9bee371ca10a",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "0124f7bf-83f1-67d1-9325-d0a6124a0e49",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AL58611",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2daca84123e4627e2d0cac615e93dead",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-13 05:21:13.274204",
+                "insertStampFormatted": "13.01.2024",
+                "updateStamp": "2024-01-13 05:32:32.997748",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>удобный в использовании</p>",
+                "minus": "<p>не могу подключить смарт часы, другой модели , к этому телефону(</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c3bc62fa-d8d5-4711-a386-6914c5d27e7c",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "6f552d3c-0234-426f-8c15-59d3b9af48bb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "User238089827",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8adcce9e37e5f0b324619f0539be72fd",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-22 11:53:03.353851",
+                "insertStampFormatted": "22.12.2023",
+                "updateStamp": "2023-12-22 13:43:48.355289",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Симпатичный. Экран приятный</p>",
+                "minus": "<p>Плохо работает датчик приближения. Экран часто не гаснет. Это очень раздражает</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f5a2fd71-d257-4c2f-882d-372f91136a99",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "aab43dfd-1d29-4148-b9bd-fe234ada4612",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "LunixSmith2022",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9605e18de301a69b7487f6e3204753a9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-07 16:20:59.127293",
+                "insertStampFormatted": "07.10.2024",
+                "updateStamp": "2024-10-07 16:20:59.127293",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3c1e8b37-979e-4f7e-a96d-0c76ec61aeef",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "d51578ca-2d1a-e68c-9bde-4a5ceaa5d1b5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VP00613",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e116328231f8c872226b25b0b632b49e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-04 12:58:47.955601",
+                "insertStampFormatted": "04.10.2024",
+                "updateStamp": "2024-10-04 12:58:47.955601",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "94f3a29b-c78e-48b1-8b73-c7fe1896dedf",
+                "objectId": "b1653435-684e-4a20-8e28-a8c960c559df",
+                "objectUrl": "/product/b1653435684e559d/67-smartfon-tecno-camon-20-premier-5g-512-gb-goluboj/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Premier 5G 512 ГБ голубой",
+                "user": {
+                    "id": "3fd5e627-20b3-b04e-5157-5c488dd2940a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "mrak68",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "76c47357111a036d6a743d4f7f331772",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-31 10:15:47.457668",
+                "insertStampFormatted": "31.08.2024",
+                "updateStamp": "2024-08-31 10:15:47.457668",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 3,
+                "4": 8,
+                "5": 57
+            }
+        },
+        "topId": "14d405f2-cfb6-47c8-a2aa-9937e1c63c59"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,759 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 17,
+        "opinions": [
+            {
+                "id": "e4711578-d66d-4f8f-8f6d-82f0cb3905e8",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "00334b9a-ad35-b75d-a01c-deffc817631a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UP91305",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "72cf616736f368585e91b5501073633e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-23 10:48:47.06613",
+                "insertStampFormatted": "23.11.2024",
+                "updateStamp": "2024-11-23 11:14:37.400871",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Идеальная производительность. Всё тянет на максимальных в 60фпс, больше не проверял.</p>",
+                "minus": "<p>Долго заряжается. ~1 час</p>",
+                "comment": "<p>В комплекте нет зарядного блока, так что придётся докупить, чтобы пользоваться 33W быстрой зарядкой</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0e9a9b23-873b-4cf4-9d19-480a744ad718",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "40b896b4-31b1-408f-6145-b691239976bd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HKA329644",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d0d31523c7a432bdb49d8d9c6099697d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-26 18:45:00.49426",
+                "insertStampFormatted": "26.08.2024",
+                "updateStamp": "2024-08-26 18:59:58.055678",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный стильный телефон.</p><p>Удобно сидит в руке.</p><p>Края телефона скруглённые.</p><p>Экран приятный.</p><p>В общем советую.</p>",
+                "minus": "<p>Нету</p>",
+                "comment": "<p>Не у каждого такой есть.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7c15d5c2-d041-49d6-88c1-fd47fc672ae3",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "090350dd-33fa-eee6-ef4a-a2b4066c773b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/b3cfcae6be74e4bffe762a34598bf3e6/9e230a114213bb5229cee4a8bf22cbf69e0a554a3c0096002655750b16d7ad65.jpg\">",
+                    "name": "Eixini",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e784a002cbd9c3d9705df7a8d76b4c52",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-31 17:02:35.71085",
+                "insertStampFormatted": "31.08.2023",
+                "updateStamp": "2023-11-20 06:22:56.391563",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>✅ Нетривиальный дизайн;</p><p>✅ Чистый Android (с некоторыми особенностями от самого производителя);</p><p>✅ Хорошая камера;</p><p>✅ Яркий дисплей;</p><p>✅ Беспроводная и реверсивная зарядка;</p><p>✅ Быстродействие;</p>",
+                "minus": "<p>❌ Пока не выявлено</p>",
+                "comment": "<p>Начну с того, что искал более-менее хороший телефон \"не как у всех\". Сначала думал брать OnePlus Ace 2V, однако хорошо, что передумал и выбор пал именно на Nothing Phone 2. Посмотрел не мало обзоров по нему, отечественных и зарубежных (включая от самой компании Nothing).</p><p>Решил, что Я ХОЧУ ЭТОТ ТЕЛЕФОН.</p><p>21 августа оформил предзаказ, ориентировочно должен был прийти как раз на начало продаж. Однако, сроки доставки переносили не один раз. Пришел 31 августа.</p><p>Хочу сразу сообщить, что телефон не для всех. Больше всего он для ценителей, эстетов, для гиков. Многие жалуются на то, что цена на телефон сильно завышена. Их право. Если человек хочет этот телефон, то он его купит. Однако в разных магазинах цена на него +- одинаковая.</p><p>Хочу сразу предупредить, лучше сразу обзавестись защитным чехлом. Читал отзывы и про Nothing Phone (1), и там тоже человек предупреждал об этом.</p><p>Жаль, конечно, такую красоту прятать, хоть и под прозрачный чехол, но лучше он пусть будет без царапин и трещин.</p>",
+                "usersCommentsCount": 14,
+                "images": [
+                    {
+                        "id": "e3c563bd-ef47-4e84-946c-e0771365c472",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2a918c88e412f935cbd83815aa11fe90/29790ffb667fd4d8b68dc8cbb3f2b90429ac7c6089d92692ae5f2b1e67d36e22.jpeg"
+                    },
+                    {
+                        "id": "c9b624c6-7de4-4e25-b791-7931429a434c",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/41ee058884b66f8a55208e1ab77d094c/4507fb340860803b21bf4293154a66b9fecd0d8e84c10b69d03404779ee415ad.jpeg"
+                    },
+                    {
+                        "id": "a11200e9-e142-4441-8607-2741e55ad267",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/4781648beee4e0ef359c30ca5efa62b0/6d51448f9933837068eb92e6947bf1bf524b4ebbaa95f1250b3e96412bdae040.jpeg"
+                    },
+                    {
+                        "id": "14674a4c-5b44-4699-8add-0e34f3cc684f",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/9b6157d2140c4a1697fd0e2a787b166c/d9428540c2cd9a5ddb77569b71d458be215b095268fbb415c9cec87d63ffe69c.jpeg"
+                    },
+                    {
+                        "id": "03777142-f496-4c91-811d-4aa005f50f94",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/0332a66b8c39e3eb8e54505e15bf4181/554fc15690240478669980b2ce8b3306a118826d1916106524e452f32d480fd1.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "c6c02d75-12c6-4436-a223-326eb4182237",
+                        "text": "<p>Спустя 2.5 месяца использования, впечатления остались такими же положительными.</p><p>Глифы уже так не удивляют, но все равно, приятно, что имеются. Иногда можно включить как часть окружения, иногда неплохо показывают себя в качестве фонаря.</p><p>📸   Качество фотографий и съемки радует.</p><p>🚀   Быстродействие так же на высоте (особенно когда приходится включать Redmi 9T, то чувствуется как \"небо и земля\").</p><p>🔋    Если не играть по несколько часов, то заряда хватает на долго (заряжаю раз в несколько дней).</p><p>📱📲Так же проверял беспроводную и заодно функцию реверсивного заряда. Работает без проблем.</p><p>Периодически выходят обновления оболочки. На данный момент Nothing OS 2.0.4</p><p>❗️ Есть некоторые моменты, но это скорее всего связано с прошивкой:</p><p>1. После включения некорректное значение подсветки. Настроена почти на максимум, но ощущение, что стоит почти минималка. После перенастройки (изменение положение ползунка) приходит в норму;</p><p>2. Иногда, после разблокирования экрана и переход во вторую вкладку происходит возврат на главную (первую). Но это не всегда и происходит один раз. Имеется второй Nothing Phone 2, у него нет данной проблемы.</p><p>Но, в целом, приобретением вполне доволен, в принципе, как и член семьи, который тоже приобрел данный смартфон.</p>",
+                        "textInitial": "Спустя 2.5 месяца использования, впечатления остались такими же положительными.\nГлифы уже так не удивляют, но все равно, приятно, что имеются. Иногда можно включить как часть окружения, иногда неплохо показывают себя в качестве фонаря.\n📸   Качество фотографий и съемки радует.\n🚀   Быстродействие так же на высоте (особенно когда приходится включать Redmi 9T, то чувствуется как \"небо и земля\").\n🔋    Если не играть по несколько часов, то заряда хватает на долго (заряжаю раз в несколько дней).\n📱📲Так же проверял беспроводную и заодно функцию реверсивного заряда. Работает без проблем.\nПериодически выходят обновления оболочки. На данный момент Nothing OS 2.0.4\n\n❗️ Есть некоторые моменты, но это скорее всего связано с прошивкой:\n   1. После включения некорректное значение подсветки. Настроена почти на максимум, но ощущение, что стоит почти минималка. После перенастройки (изменение положение ползунка) приходит в норму;\n   2. Иногда, после разблокирования экрана и переход во вторую вкладку происходит возврат на главную (первую). Но это не всегда и происходит один раз. Имеется второй Nothing Phone 2, у него нет данной проблемы. \n\nНо, в целом, приобретением вполне доволен, в принципе, как и член семьи, который тоже приобрел данный смартфон.",
+                        "insertStamp": "2023-11-17 20:00:46.279239",
+                        "insertStampFormatted": "17 ноября 2023 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "46c607e0-5f64-4460-8b6f-66772377bec4",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "85f3f7d6-52d2-a415-f165-f204c881beae",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/372b46af12a9151d47e9fc2948ea9c64/16f2952fe79220752d6d7fbed69370ebd3978f86735d3537f55ff2d7c0068131.jpeg\">",
+                    "name": "Пришелец-UL54725",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3c9dd4fac657672d60f359bdfee11694",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-14 17:41:04.254791",
+                "insertStampFormatted": "14.10.2024",
+                "updateStamp": "2024-10-14 17:41:04.254791",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5c6004fb-b773-40d5-9a07-91614c6304e6",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "d3b0687d-cc60-32a9-18ea-940749ac018d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CD88587",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0b089f3cad42181e5bcc9ae7946302ac",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 09:53:12.334642",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 09:53:12.334642",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a200e52d-ca55-45ac-8573-4f8b19990413",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "fb514954-860c-282c-607e-d8229d431e73",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KL01855",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a95349c8e62eaeb309f5f058b52d5c83",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-27 20:57:21.652392",
+                "insertStampFormatted": "27.08.2024",
+                "updateStamp": "2024-08-27 20:57:21.652392",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a19bc8d9-2d4a-480a-ab90-dfb4c5dd298a",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "6dda5548-ad63-46c5-8fe4-553d6c2df264",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAM31169",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a769543cf3c6153be7a957050d371bc7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-12 13:49:22.150407",
+                "insertStampFormatted": "12.08.2024",
+                "updateStamp": "2024-08-12 13:49:22.150407",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9ba5cdf0-a56a-435c-8a38-a355fee37034",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "1440295f-f7fe-04ee-298d-a76a9fe244c8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MP07170",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8368af7459a02ca74ea3036174f4952e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-15 22:24:28.786462",
+                "insertStampFormatted": "16.06.2024",
+                "updateStamp": "2024-06-15 22:24:28.786462",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8a2087a5-86a2-4e65-8278-f12ee8daea6b",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "6d5e5e51-1632-fae4-7664-cdcfd84e5fec",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAB87041",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9e20b591cd4a3da2cf308a376952676f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-20 07:26:34.603391",
+                "insertStampFormatted": "20.05.2024",
+                "updateStamp": "2024-05-20 07:26:34.603391",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "807e7e1d-5445-45e7-99f3-5851be39aa6d",
+                "objectId": "f64bd2bf-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2bf21eced20/67-smartfon-nothing-phone-2-512-gb-belyj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 512 ГБ белый",
+                "user": {
+                    "id": "278139f9-47d7-9283-ed1f-d224454719c5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XI60975",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "80f6957626cdc4c128894e4513481739",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-23 08:37:13.881006",
+                "insertStampFormatted": "23.04.2024",
+                "updateStamp": "2024-04-23 08:37:13.881006",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 16
+            }
+        },
+        "topId": "7c15d5c2-d041-49d6-88c1-fd47fc672ae3"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,709 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": null,
+        "opinions": [
+            {
+                "id": "bdec5801-6cc9-4b0a-84a3-216334003e0a",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "b1e52849-a598-9ab0-ad5d-1a43be574333",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KZ80123",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a14dc35976d726d17bebdb1c3638cd49",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-21 07:27:36.54476",
+                "insertStampFormatted": "21.11.2024",
+                "updateStamp": "2024-11-21 10:07:22.601116",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батареи хватает на неделю, мне нравится я доволен.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Классный телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6d03a810-0579-4520-975c-2fa45cc02a96",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "434a056d-3a97-4dd4-b408-256f72a8f222",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DQ7165",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-19 16:47:05.18258",
+                "insertStampFormatted": "19.11.2024",
+                "updateStamp": "2024-11-19 16:48:39.470867",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Работает до недели, громкий звук, рингтон, производительность, размер экрана</p>",
+                "minus": "<p>\"Никакая\" камера, шумит,  долго фокусируется, пока нажимаешь \"затвор\" - расфокусируется. Сфоткать QR код самоката не в солнечную погоду - нереально</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "01ca64e0-241d-42a5-9219-179657aaaac7",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "93999361-eca4-55da-e273-1266c78548ba",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/93482aaefa936fde7be454b316fb312b/2d6081cfe0df1f1b35a17eaa523ef4c7c3a32e2f63bd39e425c3a5dd80601af6.jpeg\">",
+                    "name": "Пришелец-HPW71686",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 19:07:51.02063",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 19:21:08.486434",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая батарея</p>",
+                "minus": "<p>Тупенький, блютуз слабый, дура спит надоела</p>",
+                "comment": "<p>Сломался, не прошло и года, глючит</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ab6e0f42-1813-4693-bd11-7b5020f611df",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "34a322e9-b9ae-483a-9228-569757a98000",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "Турег",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-07 09:32:59.14804",
+                "insertStampFormatted": "07.09.2024",
+                "updateStamp": "2024-09-07 09:41:11.996387",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Приобретено 3шт. себе и знакомым. Нареканий нет особенно по автономности.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1ccfa00f-318f-4b3e-b38a-9d4787e400d5",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "4ce9710b-3ae5-1833-aa46-3d3bf7af6364",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/c457af83174bd06693e1c25bf3dfbfeb/7809bb908d0541f00029fb695e9473a56df8064ff3137701c2f4865815344568.jpg\">",
+                    "name": "Пришелец-PO00699",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-11 07:42:33.75663",
+                "insertStampFormatted": "11.06.2024",
+                "updateStamp": "2024-06-13 01:07:16.32537",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный аппарат по всем характеристикам.</p>",
+                "minus": "<p>Выключается когда ему вздумается и включается с 24 го или с 41го раза наверное буду делать возврат</p>",
+                "comment": "<p>Возможно попался бракованный</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "efff451d-58ff-402f-915f-887fb3461cf1",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "d8bd644a-434a-6902-2a40-7f7c475e90a9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/c31f290dd509f42e0233b32c4e64fd4f/eb4d96e770bfeea60b3b0c8904605c2d964eb9685633b795b942690ea6eb8d01.jpeg\">",
+                    "name": "Пришелец-QD56335",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-13 06:25:15.95694",
+                "insertStampFormatted": "13.03.2024",
+                "updateStamp": "2024-03-13 10:07:34.151851",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>👍 огромный , после обычного телефона кажется что мотоциклетный аккум носишь 🤣, можно мыть под краном , летом попробую подводную съёмку, объём батареи такой что кажется в мороз камаз прикурить можно 🤣</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ac08ecac-16d0-4ff7-a6c7-2586efa5d5af",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "768128c7-5c54-8fe6-466f-2a83b6bda051",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/5e053e686c422dde4040a023024d70c2/88802737d4769885e8244d2c805317e16af1b4bdd4fd69a6db6a4da33730ec6a.jpeg\">",
+                    "name": "Venom899",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-29 20:45:58.05894",
+                "insertStampFormatted": "29.02.2024",
+                "updateStamp": "2024-03-01 01:41:45.470584",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Да телефон немного тяжеловат по носу не раз падал. Чехол книжку уже не оденешь, будет реально. Как барсетка большой заказал, но я его не одел лежит просто так...   Одел просто бампер силиконовый. Только так.</p>",
+                "minus": "<p>Самый плохой. Именно для меня недостаток-это блютуз. Почему-то он постоянно отключается, чтобы я не подключал какое-то время. Просто отключается и снова подключается. Но бывает и просто отключится, и всё, и надо самому заходить и заново подключать устройство-это блютуз. Гарнитуру в автомобиле магнитола.в общем.чтобы я не пробовал блютуз. Вообще постоянно прерывается, мне это не нравится, не знаю, что делать и как исправить единственная проблема в этом телефоне. Может, у меня такой попался, не знаю, как у других, пожалуйста, отпишитесь. По поводу блютуза, как он работает?</p>",
+                "comment": null,
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0f1da9c0-9072-4fb9-8964-01078a90e02c",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "d1132c10-9efb-7d58-e6c0-4cbdf1c7c51d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HD65636",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "310f9e72a3b08e7e4db7098d673af8ae",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-04 17:40:51.130146",
+                "insertStampFormatted": "04.02.2024",
+                "updateStamp": "2024-02-04 18:27:29.907616",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Достоинства этого телефона состоит в том что он сочетает в себе качества других телефонов: большой объем батареи, хорошая камера + камера ночного видения, хорошая производительность телефона. Также благодарен производителям и днсу за цену, у меня была цель за бюджет 20-25 купить хороший телефон и я нашёл это, очень хороший вариант.</p>",
+                "minus": "<p>про недостатки это вес. Тут он составляет почти 600 грамм это честно много, в руке сидит некомфортно. Если играть в игры в горизонтальном положении то сложно. Носить в кармане не получится ибо у вас штаны при беге просто упадут.</p>",
+                "comment": "<p>телефон на мой взгляд не для повседневного использования в городской среде. Такой объем батареи нужен в местах где нет возможности постоянно заряжаться - на природе. Телефон будет использоваться как планшет, положил в рюкзак и вытаскиваешь когда надо либо носить в сумочке. Ну что сказать для своего бюджетного сегмента в своей области то хорошо 👍 Также хочу упомянуть про ночной режим камеры раньше такого не видел и в таком телефоне он реально может помочь.</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "5158cd6d-5dba-4643-9f21-f7484c4bed44",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/442f6cb15c48f2547272e095a94581a7/3fa963d8ca84dcb353b7e9098573372563c0d4032c57d67032a398001c2c5b0d.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "456e6f0b-3969-4fa1-8efa-fd30ce2e7f86",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "5b612444-e47a-49f2-aa1a-a4653489f0d8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/723957115806fa5b82d8e78449b17e08/0704a07c22a6eae23758486de4383c205af359a9284848f4843449906a5b4a30.jpeg\">",
+                    "name": "Lakarov",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-16 20:54:31.47313",
+                "insertStampFormatted": "16.01.2024",
+                "updateStamp": "2024-01-16 23:50:42.588697",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>После полной зарядки, весь день пользоваться - навигатор, Ютюб, мессенджеры... Предыдущий телефон в день заряжал по 2-3 раза. У данного телефона осталось ещё 85% заряда. Значит хватит ещё минимум на пару-тройку дней. Для меня это самое главное достоинство этого аппарата. Хотя бы несколько дней не думать о зарядке. Так же телефон достаточно шустрый, ни лагов, ни фризов не было.</p>",
+                "minus": "<p>Экран, он дешёвый. Ну, скажем так, после s10+ экран кажется дешёвым. Голый андроид со специфическим управлением.</p>",
+                "comment": "<p>Не смотря на ОГРОМНЫЙ размер, телефоном я очень доволен.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c626a655-b571-4d5c-a104-59286fd33c58",
+                "objectId": "ac3bbaf2-534a-11ed-903e-00155d8ed209",
+                "objectUrl": "/product/ac3bbaf2534aed20/678-smartfon-oukitel-wp19-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Oukitel WP19 256 ГБ черный",
+                "user": {
+                    "id": "cf9aeb39-b2de-667a-a9ed-019753c00f47",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WS38377",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-05 01:38:03.8892",
+                "insertStampFormatted": "05.01.2024",
+                "updateStamp": "2024-01-05 02:13:08.385415",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Мощная батарея и защищённость от пыли. Для работы самое то</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Супер телефон. Батарею хорошо держит. Брала тел 3\\1\\24 было 96% сейчас 5\\1\\24 батареи и 62%</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 5,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 83
+            }
+        },
+        "topId": "19d01b10-be7c-4483-a487-bfae189157b9"
+    },
+    "message": "",
+    "errors": []
+}

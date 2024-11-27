@@ -1,0 +1,303 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 10,
+        "opinions": [
+            {
+                "id": "1b628c8b-aa19-4200-8e92-e60c500a9812",
+                "objectId": "a23d32c4-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a23d32c452aeed20/67-smartfon-apple-iphone-15-pro-max-1024-gb-sinij/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 1024 ГБ синий",
+                "user": {
+                    "id": "49cac229-2578-423a-aa8c-d1e5f71cb678",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/70390c83f65a2bbcc5f977cddabb329d/5f625c57261ee52d86e6ad52b3a973415a08e10d26fac30d38c1a8622d511891.jpg\">",
+                    "name": "Пришелец-TD9529",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fa5640bd0b9cc066a0c0bd422fc5fe91",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-18 00:59:10.435706",
+                "insertStampFormatted": "18.11.2023",
+                "updateStamp": "2023-11-18 02:25:48.472049",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3108 (Dual SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "1024"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>+</p>",
+                "minus": "<p>+</p>",
+                "comment": "<p>+</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "24d7e5c0-4518-433d-8419-362001c28f17",
+                "objectId": "a23d32c4-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a23d32c452aeed20/67-smartfon-apple-iphone-15-pro-max-1024-gb-sinij/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 1024 ГБ синий",
+                "user": {
+                    "id": "a97d0c60-f2ca-681d-067a-c30214700c0f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VO11753",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "603f4c38b5ed90dfbe7d2938df7b351d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-16 09:53:31.841472",
+                "insertStampFormatted": "16.08.2024",
+                "updateStamp": "2024-08-16 09:53:31.841472",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3108 (Dual SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "1024"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2d3d38fc-4f4e-45b7-9973-68df2bbb9d32",
+                "objectId": "a23d32c4-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a23d32c452aeed20/67-smartfon-apple-iphone-15-pro-max-1024-gb-sinij/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 1024 ГБ синий",
+                "user": {
+                    "id": "82acdbb1-c5e6-8423-044e-23dd0fc1ab65",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KL36491",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "519b6da98a07a8ec5803f13dae37794b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-03 07:39:55.460734",
+                "insertStampFormatted": "03.07.2024",
+                "updateStamp": "2024-07-03 07:39:55.460734",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3108 (Dual SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "1024"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f608a4ce-3cdf-480d-a8d5-50bf6d597a2d",
+                "objectId": "a23d32c4-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a23d32c452aeed20/67-smartfon-apple-iphone-15-pro-max-1024-gb-sinij/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 1024 ГБ синий",
+                "user": {
+                    "id": "ae92f530-305c-2ac6-1bd3-eda19fb6cb1e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AJR169157",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "aa194933dbf68d3fd45046d514976018",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-28 07:52:48.078013",
+                "insertStampFormatted": "28.10.2023",
+                "updateStamp": "2023-10-28 07:52:48.078013",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3108 (Dual SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "1024"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 4
+            }
+        },
+        "topId": "f25015fe-3322-4082-a85c-aa04ee78057c"
+    },
+    "message": "",
+    "errors": []
+}

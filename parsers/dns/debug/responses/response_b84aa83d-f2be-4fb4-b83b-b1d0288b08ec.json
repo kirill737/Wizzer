@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 25,
+        "opinions": [
+            {
+                "id": "eb805a94-4b2a-476c-b509-536d50267504",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "69bb3b26-b60f-b6f6-3f6e-6241da226ba7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TZ91762",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 14:33:49.55743",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 14:54:20.493162",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Мне нравится очень ,камера ,я ею  довольна  .Батарею держит не плохо ,если не пользоваться  активно телефоном. Лежит в руке отлично , стильный  ,броский  на вид .Вообщем  для меня - То самое .</p>",
+                "minus": "<p>Пока нет</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f70791b7-4266-4d45-90df-c7aa1576437c",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "3b5326fc-1921-ee2f-de8d-91416b6abb66",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OC92277",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-05 23:43:35.46547",
+                "insertStampFormatted": "06.04.2024",
+                "updateStamp": "2024-04-06 01:10:31.009595",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>10/10 СУПЕР!Перешла с а53,довольная,как удав.:)</p>",
+                "minus": "<p>Не нашла</p>",
+                "comment": null,
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "49f422be-89d5-4f3b-a14f-d4e7341f11d5",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "bb874e26-c62b-42bc-b8d8-7df91f0a4a0a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Seregas",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-03 17:39:48.14993",
+                "insertStampFormatted": "03.04.2024",
+                "updateStamp": "2024-04-05 02:16:12.182013",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Скорость работы, цветопередача камеры, аккумулятор, большой экран, свежий андройд.</p>",
+                "minus": "<p>Скорее программные — нет съемки видео в 4K 60FPS и нельзя в настройках камеры отключить звук затвора при съемке кадра.</p>",
+                "comment": "<p>Взял на замену старой уже Соньки на 10 андройде и снапе 845. Тот хоть и топ на момент покупки, но время идет и по тестам эксинос 1480 уделывает снап 845. Да и камера лучше кардинально, что по цветопередаче, что по качеству самих изображений (сранивал максимальные кропы). В игры не играю, а в целом как все работает — меня устраивает более чем. Для работы, общения и интернетов самое то.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cacdf0f9-998b-424d-bd99-06cbeef6427b",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "aba386d5-4132-410e-8cb3-77e33c0aec28",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SQ8746",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8eff4eefacdd53fae1d6f01eb62da885",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-26 14:20:59.0828",
+                "insertStampFormatted": "26.03.2024",
+                "updateStamp": "2024-03-26 14:52:22.028281",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший, быстрый по сравнению а А33. Дизайн отличный.</p>",
+                "minus": "<p>Подэкранный сканер отпечатка пальцев просто отвратителен. Не пойму, может мне брак попался или программная неисправность, но пользоваться невозможно по сравнению с А33. Причём то работает идеально, то вообще не считывает, пишет - отпечаток неосознан.</p>",
+                "comment": "<p>В целом телефон хорош, но что делать со сканером я не знаю. Это прям беда какая-то, включил пока как временную меру разблокировку по лицу, посмотрим что дальше будет, может с обновлением ПО исправят. Поддержка самасунг не помогла. Для телефона за почти 50тр я считаю неприемлемы такие косяки и должны отрабатывать сразу.</p>",
+                "usersCommentsCount": 10,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ead3d2bd-f728-4861-85e0-8a1a9a2c467b",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "98aef6ec-8034-9af8-6500-1e4dec56474f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a225b4905ebbc74906c80e8044fb9db8/f9e15ed7276a563762ca2c4a52bb829104433468ecbbbdce2212d510ac19fbab.jpeg\">",
+                    "name": "ArcKits",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e4074e18f0c48f8e9c05bebe3af6aba9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 20:17:16.622776",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 20:17:16.622776",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d871ca0f-ae2d-4ccf-9cc5-55889d13db3c",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "569a4742-6629-4b85-84a6-377f85f5f472",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAC56694",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7c960089472f87dbd3cd50ef517891ac",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 12:55:15.682489",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 12:55:15.682489",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "19237598-f886-495f-be42-00aa62142021",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "5c4b4e1d-7884-4016-4134-ce13d62addf5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NL61703",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "32e207b1e95a0a9978cb854ffeff941e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 17:51:50.795384",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 17:51:50.795384",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6933d5e0-aa13-45bc-a9f3-7c7fc1b4c790",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "755bdec6-c1ac-a079-b138-b8c572b67e6b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WZ18426",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d36b90deeaff544a9efc2649c10a5d59",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 12:23:46.989703",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 12:23:51.34682",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "50ef4a6f-ac10-4a52-b308-f85ce2dcea19",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "4ab0dff5-1b06-b88a-545e-961f1309e527",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GO56287",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "84d666c58a4477060060b1914a7507d6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 15:03:26.22921",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 15:03:26.22921",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "66b8b298-6b3b-4ccd-ad4d-1f5c4fdc0b0a",
+                "objectId": "b84aa83d-f2be-4fb4-b83b-b1d0288b08ec",
+                "objectUrl": "/product/b84aa83df2beb08e/66-smartfon-samsung-galaxy-a55-5g-256-gb-zeltyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A55 5G 256 ГБ желтый",
+                "user": {
+                    "id": "02ecae64-7da6-4a74-bbf1-bf3c026cf0a8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IP1231",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b9a0e14eb713f5637af87dcbce47e1c1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 09:28:38.309001",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 09:28:38.309001",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "желтый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 18
+            }
+        },
+        "topId": "f4a3cddf-70f7-46ff-9d46-d56591fbfe4e"
+    },
+    "message": "",
+    "errors": []
+}

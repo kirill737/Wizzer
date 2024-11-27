@@ -4,19 +4,90 @@
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 266,
+        "totalCount": 296,
         "opinions": [
+            {
+                "id": "a0b77b79-8836-4150-a52f-214264915dee",
+                "objectId": "db4a82ff-37e3-11ed-9020-00155d8ed20c",
+                "objectUrl": "/product/db4a82ff37e3ed20/61-smartfon-apple-iphone-13-128-gb-rozovyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ розовый",
+                "user": {
+                    "id": "56e5e2bc-0bab-7752-a193-d90cecc3971a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/08672f6629eefa297c7308fe0f614994/fe70e2c5731a707ba93641fadce080a5eaf7559cb506dfd7ff47011bf02c0bc9.jpeg\">",
+                    "name": "KapTaBblu",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-03 18:06:55.2386",
+                "insertStampFormatted": "03.11.2024",
+                "updateStamp": "2024-11-03 18:38:10.075887",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2633 (1eSIM + 1SIM)",
+                    "Цвет": "розовый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>вид, цвет, цена</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>огонь</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
             {
                 "id": "b752087a-d2d5-42fb-b31e-4f3f155a686b",
                 "objectId": "db4a82ff-37e3-11ed-9020-00155d8ed20c",
@@ -644,72 +715,6 @@
                 "additions": [],
                 "isCanBeSupplemented": true,
                 "videos": []
-            },
-            {
-                "id": "bf719d49-634f-4f68-9bec-35f7d2387adb",
-                "objectId": "db4a82ff-37e3-11ed-9020-00155d8ed20c",
-                "objectUrl": "/product/db4a82ff37e3ed20/61-smartfon-apple-iphone-13-128-gb-rozovyj/",
-                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ розовый",
-                "user": {
-                    "id": "c6bd912a-ebcd-4883-03d9-a718a9e20514",
-                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
-                    "name": "Пришелец-OB82988",
-                    "isReal": true,
-                    "isGuest": false,
-                    "level": 0,
-                    "administrativeStatus": null,
-                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
-                    "fingerPrint": "972220342ed10c2c6e4ccbc99e22a67d",
-                    "highlightName": false
-                },
-                "insertStamp": "2023-07-11 07:38:42.107153",
-                "insertStampFormatted": "11.07.2023",
-                "updateStamp": "2023-07-11 07:43:28.76586",
-                "rating": 5,
-                "source": {
-                    "id": 1,
-                    "title": "Dns-shop.ru",
-                    "url": null,
-                    "isExternal": false
-                },
-                "multiCardSpecs": {
-                    "Модель": "A2633 (1eSIM + 1SIM)",
-                    "Цвет": "розовый",
-                    "Память (ГБ)": "128"
-                },
-                "period": "Менее месяца",
-                "characteristicGrades": [
-                    {
-                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
-                        "title": "Внешний вид и размер",
-                        "value": 5
-                    },
-                    {
-                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
-                        "title": "Производительность",
-                        "value": 5
-                    },
-                    {
-                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
-                        "title": "Камера",
-                        "value": 5
-                    },
-                    {
-                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
-                        "title": "Батарея",
-                        "value": 5
-                    }
-                ],
-                "plus": "<p>Apple, добавить нечего</p>",
-                "minus": "<p>Нет</p>",
-                "comment": "<p>Гарантия производителя с момента покупки. Не вскрывался, не включался. Хотя предупреждали о такой возможности.</p>",
-                "usersCommentsCount": 0,
-                "images": [],
-                "hasNotApprovedImages": false,
-                "isEditable": false,
-                "additions": [],
-                "isCanBeSupplemented": true,
-                "videos": []
             }
         ],
         "filtersCounts": {
@@ -718,7 +723,7 @@
                 "2": 0,
                 "3": 1,
                 "4": 7,
-                "5": 254
+                "5": 256
             }
         },
         "topId": "cd1a83ae-8f95-4bf1-ba07-aa2ccace94d3"

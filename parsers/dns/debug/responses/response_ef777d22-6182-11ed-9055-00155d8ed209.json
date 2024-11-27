@@ -1,0 +1,728 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 33,
+        "opinions": [
+            {
+                "id": "d236f6b8-a9a5-4a7a-8beb-562f993ac747",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "59abc85f-1f0a-8d7d-1c49-4068c858022c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KJ13036",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-21 09:16:08.49896",
+                "insertStampFormatted": "21.11.2024",
+                "updateStamp": "2024-11-21 10:07:22.615078",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Телефон хороший удобный большой. Есть один большая минус это батарейка батарейки даже день не держит. После работы телефон возьмёшь смотришь зарядка нет</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e1019f3a-9134-4fa1-83e8-4de049ec4c67",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "5faced7d-284a-4cb3-82e5-218d11e168f4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AJ5997",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-27 18:02:00.07551",
+                "insertStampFormatted": "27.09.2024",
+                "updateStamp": "2024-09-27 19:31:18.812942",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Уголки прорезиненные, не тяжёлый, нет кучи лишнтх приложений, всё работает шустро. ИК-камера и вспышка отлично работают, диоды вокруг блока камер можно настроить. Сеть и GPS в пригороде ловит отлично.</p>",
+                "minus": "<p>Термометр средней точности, пришлось устанавливать сторонний лаунчер, батарею держит так же, как и обычный смартфон</p>",
+                "comment": "<p>За 13 тыс это лучшее, что нашлось. Прошел месяц, всё работает, никаких проблем.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "95823c05-3c84-462d-aa9a-3567a8fed385",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "4e5a910a-fbe5-496c-7ca9-63aff37541cc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JY39925",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "00c82d217abdacaa7a5990f88d8bc059",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-06 11:52:15.29305",
+                "insertStampFormatted": "06.09.2024",
+                "updateStamp": "2024-09-06 14:15:44.953542",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Отличный кирпич, производительный но тяжеловат в кармане, выдержал многократные удары ребром и плоскостью, был окончательно разбит раза с 15. Прочность высокая. Рекомендую для кого ноша будет нетяжела. Топить не пробовал, но изготовитель заявляет о водостойкости. На дождь экран реагирует.</p><p>Если кому надо на запчасти, Велком.</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "f9d162e0-d515-4c73-a4a5-d2dd24dbd906",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9b2750c7d09689e8b31d082fca00ad58/611d8399c67b853065f80e22197d77f349b6943f248548b614f86345ca1ba0db.jpeg"
+                    },
+                    {
+                        "id": "7d93a39a-754f-4e71-b4c7-b7b2284624fb",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/3313f64eb7c431da55c0a89d4ac26825/181659f82d8f65db36a5331c8dfeb65b53528b885004892b9c6d6bb660ee344f.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c4f3435e-77e0-463d-8076-3a551eb218b4",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "cdfb78dc-d8ad-49e0-86d7-844d78eb663a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TT32042",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d3d7960165eaab4af38cd09acb59a273",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-10 09:06:22.391181",
+                "insertStampFormatted": "10.08.2024",
+                "updateStamp": "2024-08-10 09:34:50.217096",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Попался бракованный телефон, а конкретно батарея, садится быстрее старого телефона которому 3 года</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5f7df02e-9fd0-4b47-b746-6c4bd9363703",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "9a4aade8-cbc1-6580-42b4-17a444055564",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAH87491",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-05 17:24:43.75635",
+                "insertStampFormatted": "05.08.2024",
+                "updateStamp": "2024-08-05 17:44:20.778119",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Тел отличный все проверил но пришло с поломаным экраном (на черном фоне синие точки) отнёс обратно по гарантии щас жду ответа</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "05b0e9f6-f032-4260-9ab7-748b6e333805",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "ace7ead3-d8da-491a-9ebd-74a74a5d655f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "PavelZZZ",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "35b1c15c19efd39d2f748291a964ed25",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-14 15:31:09.60761",
+                "insertStampFormatted": "14.07.2024",
+                "updateStamp": "2024-07-14 17:52:30.358827",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Камера реально достойно фотает, ночного видения работает, ничего не тормозит, экран 120 герц очень отзывчивый что ли, лёгкий для защищённого, стекло в комплекте изумительного качества, клеится тютя в тютю на весь экран. Дизайн имхо получился удачный.</p>",
+                "minus": "<p>Батарея на день, не более, два раза в день заряжать при активном использовании, но заряжается оооочень быстро, за час с нуля до 80-90%. На задней крышке наклейка имея - оттирал клей после неё час. Мой совет: средством для снятия лака с ногтей и ватными дисками, тряпкой не получалось.</p>",
+                "comment": "<p>После другой модели этой же фирмы я очень доволен аппаратом, для меня важна невысокая цена, отсутствие лагов, нормальная камера и хоть какая-то защищённость.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c5324598-9b90-49f0-a92e-9b90489fea43",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "678e770d-0010-4851-826c-10b12b211fa6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Scary Bogemya",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8b7ac7ab79e4b49723d54991a82cf76e",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-09-02 07:17:34.221434",
+                "insertStampFormatted": "02.09.2023",
+                "updateStamp": "2023-09-02 08:01:36.386809",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Не понятна работа батареи</p><p>Отключено практически все, тел в режиме ожидания - просаживает на 10% за3 часа.</p><p>в режиме \"просмотр новостей,, мессенджеры\" - с трудом хватает на 12 часов. и это без видео и игр.</p><p>пока по не понятной причине не могу раздать инет на ноут.</p><p>нет кнопок экрана \"возврат, свертывание\" - с ними мне было удобнее.</p><p>Кабель двухсторнний тайп С, без УСБ.</p><p>кабелем соединил со своим старым СС Галакси: за пару минут перенес ВСЁ на новый! Все контакты, смс,, приложения и сохраненные файлы. удобно.</p><p>Камера норм. снимает под водой и в полной темноте.</p><p>хороший тел, если розетка рядом</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "55303b45-9616-4fe1-afae-6d6be3ddc183",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "45ac7a3f-f5b0-c7f8-8486-e286b7404447",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PK67626",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e99fbc7e38a4fab8367ce04dea709201",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 13:33:06.608179",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 13:33:06.608179",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e0f6950e-4237-4831-939f-1a424009fd00",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "7887480d-6707-4d1e-84bc-0dfe7ba4c610",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ER02774",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5cbcdb96a7a083d6d6a8aaec5f30369b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 01:53:24.514481",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 01:53:24.514481",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e9cad06f-9f67-4e41-a3e2-6407a6e5a3f0",
+                "objectId": "ef777d22-6182-11ed-9055-00155d8ed209",
+                "objectUrl": "/product/ef777d226182ed20/68-smartfon-iiif150-air1-ultra-128-gb-cernyj/",
+                "objectName": "6.8\" Смартфон IIIF150 Air1 Ultra 128 ГБ черный",
+                "user": {
+                    "id": "17fd3d27-ea71-f986-d457-9d4a646d2bfb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GG98731",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "44d5b41870cc792b8eefd337d47fb9f4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-20 05:08:20.448287",
+                "insertStampFormatted": "20.10.2024",
+                "updateStamp": "2024-10-20 05:08:20.448287",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный, 128ГБ"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 2,
+                "4": 4,
+                "5": 13
+            }
+        },
+        "topId": "4ac91168-d4b9-49ab-9b15-5000c83b72e0"
+    },
+    "message": "",
+    "errors": []
+}

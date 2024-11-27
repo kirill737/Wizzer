@@ -1,0 +1,762 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 69,
+        "opinions": [
+            {
+                "id": "f3fe61dd-13a4-4cb2-b570-455b3194ff6f",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "6d17c10f-00f0-45cf-841c-13f1aefd15bb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "slavchik_nik",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a4fcfcc1edf09dfb0668d6f26911d02c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 16:33:42.691411",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 16:40:25.058709",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Производительный, занимает меньше места, чем ПК</p>",
+                "minus": "<p>Не работает встроенный микрофон</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "84bd37e9-6c6a-4c3a-9465-0f3d44cc773b",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "874bd909-bb8f-46a8-1165-90b431a9a5d2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OB81317",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f21ec7f67e6db9190cb9380d17bbf8bb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-26 05:02:06.51835",
+                "insertStampFormatted": "26.09.2024",
+                "updateStamp": "2024-10-19 06:54:01.151269",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>достоинств не много</p>",
+                "minus": "<p>постоянно перестаёт видеть карту памяти,приходиться перезагружать но через день всё повторяется. иногда при включении экрана не реагирует на касания.</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "d075738e-dca6-4b21-9d70-7b13bdfc55ec",
+                        "text": "<p>всё правильно поменял карту и тупить перестал</p>",
+                        "textInitial": "всё правильно поменял карту и тупить перестал",
+                        "insertStamp": "2024-10-19 05:55:28.397335",
+                        "insertStampFormatted": "19 октября 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1801b243-1cdd-474a-b64a-d4ab26816ab0",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "34019613-c733-c253-1913-62f2d73a87da",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/dfbfefee03f28e20220672c72d480cca/76e91eb7ecf092676d331919eb1433a62fe17eb079e1542b4b38f62a40a41124.jpg\">",
+                    "name": "GrandpaARP",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9fc944fcc86b7048a44f9e252986a3f9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-02 08:53:34.131664",
+                "insertStampFormatted": "02.05.2024",
+                "updateStamp": "2024-05-02 14:50:09.663804",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон за свою цену ! Xорошая производительность, качественно собран, приятный на ощупь, быстро заряжается, динамики и экран - отличные !</p>",
+                "minus": "<p>Пока не обнаружил.</p>",
+                "comment": "<p>Советую скорее приобрести пока не разобрали ! :)</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "dfd8915d-2cff-411e-bbf6-009f5d5f0dcf",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2d8de3b75579fb06990c1423ad02836f/1d7e4e60ff7c03ecd459ee55b9fc46dbf9d05435e1f27254b96e7b0586d965f9.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5bcc3146-8c69-46b6-82cf-11f3ade29b47",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "ce08bc49-6898-4906-a8fb-e60cf794a73f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VW9377",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "af5cef0b39c71c6fbd827a7eaf1b01cb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-01 23:00:12.689867",
+                "insertStampFormatted": "02.05.2024",
+                "updateStamp": "2024-05-02 02:23:00.53404",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена-</p>",
+                "minus": "<p>Пока не выявили.</p>",
+                "comment": "<p>Купила ребенку 7 лет. Работает норм, заряд держит, не нагревается. Используется месяц, надеюсь хоть год продержится. Купила чехол (в комплекте не шёл), теперь более спокойна. Камера хорошая.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c903046c-36a5-49d0-a240-d96a645faf32",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "ba87b1b1-a02d-41ae-a55d-ee675c402283",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Владимир СПб",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e5f395abe744207e8ecb8e6597e506e8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-03 08:35:00.911327",
+                "insertStampFormatted": "03.04.2024",
+                "updateStamp": "2024-04-03 09:50:25.953445",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Качество сборки</p><p>Батарея, автономность при отключении \"мусора\"</p><p>Дисплей не мерцает, яркость комфортная, цвета насыщенные.</p><p>Звук разговорного динамика чёткий 5, микрофон на 4,5 громкий 5 но качество 4</p><p>Есть VoLTE, VoWiFi, все диапазоны LTE</p><p>Оболочка (XOS Launcher) отзывчивая, плавная. Android 13.</p>",
+                "minus": "<p>Прошивка содержит много программ \"в нагрузку\", которые нужно замораживать - см. форум 4pda.to.</p><p>Фотокамера в темном помещении снимает на 3 балла - акварель и завышенная резкость.</p><p>Телефон с прямоугольными гранями, как сейчас модно.</p>",
+                "comment": "<p>После блокировки приложения-\"чистильщика\" Phone Master, смартфон живет неделями. Буквально, расход 3% в день. Раньше Phone Master не давало телефону засыпать, работал 2 дня. Самый долгоживущий из всех, что приходилось видеть! Используется для приёма звонков 2-5 минут в день. По отзывам, при использовании виджетов в XOS были проблемы, но у меня их нет, т.к. не ставил виджеты. Телефон категорически рекомендую, при условии заморозки \"мусорных\" приложений.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c7db4df0-a347-403f-bcee-5aa6782005b0",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "91a1f7d0-3397-48ab-93b6-39f4e8f87a97",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2adeed4b7461e99c99800eb8d1ec142f/9b8db3f40738eaf92ce0a1cc0cd1966dcbb4617907f0ab1e40cb3a492424ef6e.jpg\">",
+                    "name": "Tалибанщик",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4f13d1043571f36663d42ed78f0e2d2d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-02 07:22:52.73935",
+                "insertStampFormatted": "02.04.2024",
+                "updateStamp": "2024-04-05 02:16:12.225546",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Понравился внешний вид и наличие FM радио! Сравнивал между Realme Note 50 и С51 - пришёл к выводу что это выбор из сортов Г... Поэтому взял исходя - из нужд и цены именно Infinix Smart 8 в нём минимум установленных приложений которые можно удалить или отключить, отсутствует реклама это хорошо!</p>",
+                "minus": "<p>Батарейка Держит 2-3 дня нормально, но при условии Если вы отключите всякие НЕ нужные приложения и сделаете настройки аккумулятора в опциях! А для тех кто привык зависать в играх и часами в Ютубах то ищите более крутые смарты - только вот прикол в том что до 12 тыс. руб. Они все одинаковые по батарейке! Хотите дольше играться - тогда смарт от 17 тыс. ;)</p>",
+                "comment": "<p>Экран Хороший - сенсор отзывчивый! работает в целом шустро для Ватцапа и Телеграма самое то! Параллельно браузер и музыка - работает стабильно без тормозов... Камера текст фоткает хорошо мне хватает! В общем я взял себе как второй телефон для связи и не более! Покупался за 5900 - это тот самый предел за который ещё можно взять что-то более менее рабочее!</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "c236619e-73af-4d05-a50d-0baf939dd5c8",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/81cefc79e67319c60281f8022b70d9fd/aca126a6abebc8be96b30034af8ad37d44e728fc1adb4616efbb38b34fcc4070.jpeg"
+                    },
+                    {
+                        "id": "0752d7f4-2222-469b-9255-3e4cd80522d1",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/c6cebf55535e201488261148b9a62482/a5ed6f46c9dec1dd64448eb0151877c49501e4b52981ea303a2021c928ce008f.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "adfc2300-ebf4-459c-9ea9-85175866970e",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "f841513f-c2bd-204a-6adc-74a53bd0407e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/11c41d647ff379c17ebbc56a9b797bbc/ce29e0aa6ea67140e74fb771f49563c90118a42d63d71baa354034994a3deb92.jpeg\">",
+                    "name": "Cloudsss",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-24 05:31:40.80891",
+                "insertStampFormatted": "24.03.2024",
+                "updateStamp": "2024-03-24 05:48:17.949285",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>1) Довольно шустрый по отношению к цене</p><p>2) Четкий и яркий IPS экран</p><p>3) Неплохая батарея на 5000 мАч</p>",
+                "minus": "<p>1) Камера на мой взгляд слабовата, но за 6к сойдет</p><p>2) Звук невероятно ужасен, но он хотя бы есть)</p>",
+                "comment": "<p>В целом как телефон за 6 000 рублей он показал себя хорошо, к покупке рекомендую!</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "0a7ada0b-79ea-4ae0-9a2b-e628fee3fd32",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/0dad9fcd5e8e2b75b8a55046d5d5542b/c31e5e7fa7f4f80cbb6efb4a59bb68eac3096dc36a77596dfaf31e8e212ac186.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9c4f43e8-40f0-4e0b-8f5f-bb366ddf5fff",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "caa8b00a-6b2f-3a24-7fb1-7aff7d1228aa",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BU36661",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-01 05:35:31.70468",
+                "insertStampFormatted": "01.03.2024",
+                "updateStamp": "2024-03-01 05:40:33.883088",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Марка смартфона инфиникс отличная.Не виснит,не глючит,не тормозит.супер!!!</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Отличный телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f3e05c69-ecdd-4c46-aca9-0a8bf2b064c3",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "69d260f2-41a4-c492-bb49-5c03d1fef2cc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MN52739",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-10 12:19:25.45039",
+                "insertStampFormatted": "10.01.2024",
+                "updateStamp": "2024-01-10 14:18:12.312515",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Топ советую</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4db50115-6377-4180-8c44-36724581d2a4",
+                "objectId": "de28c7c2-7852-11ee-9168-00155d8ed20b",
+                "objectUrl": "/product/de28c7c27852ed20/656-smartfon-infinix-smart-8-64-gb-cernyj/",
+                "objectName": "6.56\" Смартфон Infinix SMART 8 64 ГБ черный",
+                "user": {
+                    "id": "ddd322ac-5dac-680f-5e92-52a37b949a61",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "grzhibovskaya",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-29 17:19:25.72022",
+                "insertStampFormatted": "29.12.2023",
+                "updateStamp": "2023-12-29 17:45:23.425288",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Марка хорошо держит батарею, даже на морозе. Удобный, стильный, красивый. Телефон не забивается, почистить лишнее легко и просто.</p>",
+                "minus": "<p>Слабая камера, но за свои деньги очень даже ничего.</p>",
+                "comment": "<p>Телефон стоит своих денег. Я бы сказала стоит даже дороже. Бюджетный, хороший аппарат.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 4,
+                "2": 0,
+                "3": 4,
+                "4": 4,
+                "5": 46
+            }
+        },
+        "topId": "831e3394-cded-4e12-ab21-f43b5cd9abc9"
+    },
+    "message": "",
+    "errors": []
+}

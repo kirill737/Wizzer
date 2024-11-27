@@ -1,0 +1,724 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 159,
+        "opinions": [
+            {
+                "id": "3488048e-bb92-4706-8798-8605568b3b82",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "88005fb5-b2f1-243a-08f2-99d44703ff07",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YI12940",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1b4318ba5be5442ddf13a45f40b7c862",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-23 11:30:46.98261",
+                "insertStampFormatted": "23.09.2024",
+                "updateStamp": "2024-09-23 11:42:04.384937",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Быстрый, большой</p>",
+                "minus": "<p>Тяжелый</p>",
+                "comment": "<p>При съемке далеко нет четкости. При обычной съемке - супер</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c7b63cdc-dad8-4398-890d-68923b4b64e8",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "8307107e-d858-cfff-9f15-7efe8189d5d4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DB67202",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2db82802d659161126c5f03448a8051f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 22:40:23.46941",
+                "insertStampFormatted": "17.09.2024",
+                "updateStamp": "2024-09-17 00:42:35.12669",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Покупали на подарок, пришел с браком по камере. Хорошо что сотрудники dns вошли в положение и согласились заменить на аналогичный товар</p>",
+                "comment": "<p>Хорошо что сотрудники dns вошли в положение и согласились заменить на аналогичный товар. Решили проблему за час.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "bbc8e1b6-71e8-4a3b-bf9b-f9c66c2ad974",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d21488641eaed99f6d5429db48a50877/037fc8f77203bf028d958ba65aa4f16739f869780b05905c8bacabbbd29c71a3.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "01af03d7-584f-484a-84fb-cefd2301895f",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "6f156d24-b2d1-4d21-a16b-c68d355f58eb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "7Алекс",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "48099466129dda4a84a2abfa25bc20f5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-27 11:09:33.69297",
+                "insertStampFormatted": "27.08.2024",
+                "updateStamp": "2024-08-27 11:19:10.253317",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Удобный, современный, технологичный, быстрый.</p>",
+                "minus": "<p>Нет Е-SIM.</p>",
+                "comment": "<p>Телефоном довольны, отличное цена/качество.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ea0040ff-a08d-48e1-842a-c80e7a4cfab0",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "7acd3998-fdfe-4a9b-8b6a-39ebadd3da59",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IG62018",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d990dc79a3b91c72884c0be78f2c772e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-12 13:23:16.642723",
+                "insertStampFormatted": "12.08.2024",
+                "updateStamp": "2024-08-12 22:46:14.301063",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Для такой цены у телефона огромное количество функций и всяких фишек, приколюх, шустрый, дисплей яркий, красивая яркая, чёткая передача изображения . Почти месяц пользуюсь, до сих пор еще не во всем разобралась. Куча функций и разных режимов у камеры, фотографии получаются отличные, селфи реалистичные, четкие. Хорошая стабилизация камеры. Ооочень быстрая зарядка. За полчаса заряжается на 100%. Заряд держит весь день, при активном использовании. Порой хватает почти на 2 дня. В комплекте были защитная пленка ( уже наклеяна на экран), зарядка, чехол. Телефон просто супер за такую цену!!!</p>",
+                "minus": "<p>В клавиатуре три языка. Английский, русский и за каким-то лядом украинский. Неудобно, так как русский и украинский постоянно сдвигаются,(переключение на одной клавише), каша из слов сразу на двух языках. Пока не нашла, как убрать.</p>",
+                "comment": "<p>В общем, рекомендую телефон! Я довольна!</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "74431cd5-c05a-4e3f-8406-3d6a99f6f6b2",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "d7f2546e-4565-662f-ca60-e3a48e494b19",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UG08282",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0a7eed54324289e0dfdc260916f51d48",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-19 09:22:11.772891",
+                "insertStampFormatted": "19.05.2024",
+                "updateStamp": "2024-05-19 09:39:56.308355",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон супер</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8f66a767-1ea5-4d3c-8780-20b42316aa31",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "b3e4c0db-a201-e7df-d574-b9cb26921d89",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/c0903f2250550a95a18521df30c35239/1e524a5c50f8b0cdb142c43641ca27259a678c599832b364807e4aa388a4d54e.jpg\">",
+                    "name": "Пришелец-EZ61021",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f8d6e9a425f13575433b6ba4c859ae90",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-27 20:12:53.56489",
+                "insertStampFormatted": "27.04.2024",
+                "updateStamp": "2024-04-28 01:19:48.640372",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Их нет</p>",
+                "minus": "<p>Телефон попался бракованный каждый день отключается</p>",
+                "comment": "<p>Не кому не советую данною модель</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5ba99160-c475-4781-8d4c-ca612e3ab54a",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "db2c588c-1d72-21ea-9271-4a574d80041b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BF11764",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a3f976802e5f9d574ed5f3287837498e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-28 16:58:36.450295",
+                "insertStampFormatted": "28.02.2024",
+                "updateStamp": "2024-02-28 18:01:32.579385",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Топ за свои деньги. Удобный. Шустрый. Батарея долго держит.</p>",
+                "minus": "<p>Жаль, что в темно-зеленом цвете нет.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cb7a575d-3472-4963-8bcf-4bd2ca9d1db3",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "ccacae0c-e62f-4eaf-83b9-aeb044c67833",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Андрей Нкз",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "199e97891a2ef5781a9c9b9693920032",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-26 09:37:36.76438",
+                "insertStampFormatted": "26.02.2024",
+                "updateStamp": "2024-02-26 11:01:32.332451",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый. Быстрый. Хорошая автономность.</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>Сразу скажу - в игры не играю. Используется в режиме  \"записная книжка, телеграмм, звонки, мессенджеры, браузер, онлайн-магазины, карты-навигатор, финансовые и тому подобные программы\". Батареи хватает на 2-3 дня. По скорости мне важно время отклика. До него был Redmi 9. Неприятно подлагивал в самых простых задачах. Infininix работает как швейцарские часы - быстро и точно. Все приложения открываются почти мгновенно. Яркости экрана мне хватает - использую 40-50% от максимальной яркости. Специально не хотел брать amoled-экран. У сына как раз amoled - ну реально вырвиглаз. Камера снимает на отлично.  Был не большой неприятный момент, который быстро решился. Мне нравится выключать экран нажатием виджета блокировки экрана (не механической кнопкой). Так вот ни один виджет нормально не работает. Оказалось решение элементарное - в настройках надо активировать опцию блокировки экрана двойным тапом на пустом месте экрана. То что надо. Ну и включатся также двойным тапом. В общем смарт суперский для моих задач.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1a713bef-3be8-4859-b1d1-46a5395505e2",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "cee9ffbe-02a5-b093-a119-26c641d47767",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Юрий 3333",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8da1fe610205791295ee32bc86324ed6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-25 14:10:44.458874",
+                "insertStampFormatted": "25.02.2024",
+                "updateStamp": "2024-02-25 14:20:54.661823",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Лучший</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "484e8c5e-8152-4a89-9e56-31740fb7e5a1",
+                "objectId": "f609ef39-81ce-11ee-916d-00155d8ed20b",
+                "objectUrl": "/product/f609ef3981ceed20/678-smartfon-infinix-hot-40-pro-256-gb-zolotistyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 40 Pro 256 ГБ золотистый",
+                "user": {
+                    "id": "2fc72165-c1bc-4ad9-92cb-a1b599623a3d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NI9557",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e2c75663f62e4c0418892496d0a6b523",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-23 09:48:52.084116",
+                "insertStampFormatted": "23.02.2024",
+                "updateStamp": "2024-02-23 10:01:40.989806",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Качественный, стильный девайс. Камеры достаточно качественные на сегодняшний день, есть передняя вспышка. Батареи хватает на пару дней при стандартном использовании</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 1,
+                "3": 4,
+                "4": 10,
+                "5": 130
+            }
+        },
+        "topId": "d00405bc-d26e-436d-a303-412338fab7ae"
+    },
+    "message": "",
+    "errors": []
+}

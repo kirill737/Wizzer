@@ -1,0 +1,103 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 6,
+        "opinions": [
+            {
+                "id": "3c140e6f-c987-4adf-944b-410ec7387f5a",
+                "objectId": "11f39757-5a0d-11ef-925d-0050569d0a4d",
+                "objectUrl": "/product/11f397575a0dd0a4/686-smartfon-xiaomi-mix-flip-512-gb-cernyj/",
+                "objectName": "6.86\" Смартфон Xiaomi Mix Flip 512 ГБ черный",
+                "user": {
+                    "id": "a4c85f8d-cb0b-464a-8a16-6c38b10593d5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/8c83b68d897235ca80fba8e9f2924dec/277c5e84904207c75f0b14384dff4e5578f7f7e8c529667aa9bee42de87077de.png\">",
+                    "name": "Пришелец-AAK24766",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-14 07:55:02.69085",
+                "insertStampFormatted": "14.11.2024",
+                "updateStamp": "2024-11-14 08:10:03.969009",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Камера хорошая, проц Снап 3, железо справляется со всеми задачами, хороший сенсор внешней камеры селфится можно не раскладывая телефон на основную камеру, телеграм, ватсап, ВК, тикток, Ютуб и много других приложений можно использовать на внешнем экране, на звонки и сообщения можно отвечать не раскладывая смартфон, возможно данная модель подойдёт любителям компактности и девушкам</p>",
+                "minus": "<p>По сравнению с моим старым  Xiaomi 12Т pro заряжается дольше, но это не критично, в игры долго не проиграешь, так как быстро нагревается и начинаются просадки фпс,  для игр не рекомендую, отсутствует защита от пыли и влаги</p>",
+                "comment": null,
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        },
+        "topId": "64c9184f-5780-486e-986d-2efeaf7867da"
+    },
+    "message": "",
+    "errors": []
+}

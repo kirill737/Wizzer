@@ -4,18 +4,18 @@
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 74,
+        "totalCount": 77,
         "opinions": [
             {
                 "id": "7e2be4ec-8916-4d63-a35b-88c2925a8946",
@@ -319,6 +319,77 @@
                 "isEditable": false,
                 "additions": [],
                 "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ac0e2579-3a0f-4d5d-95ce-1bc99893285d",
+                "objectId": "ba6e6a81-c1eb-11ec-8fac-00155d8ed20c",
+                "objectUrl": "/product/ba6e6a81c1ebed20/61-smartfon-apple-iphone-13-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ черный",
+                "user": {
+                    "id": "ed3f07f0-ba39-c34b-7e71-3f95f4f06e00",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "A1ex_sm",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b9a60a5c6652066e306ff6983307b0dc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 16:39:37.399865",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 16:39:37.399865",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2482 (1eSIM + 1SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
                 "videos": []
             },
             {
@@ -675,77 +746,6 @@
                 "additions": [],
                 "isCanBeSupplemented": false,
                 "videos": []
-            },
-            {
-                "id": "123f2b2a-4b9d-4c7b-b571-e589848e1fc6",
-                "objectId": "ba6e6a81-c1eb-11ec-8fac-00155d8ed20c",
-                "objectUrl": "/product/ba6e6a81c1ebed20/61-smartfon-apple-iphone-13-128-gb-cernyj/",
-                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ черный",
-                "user": {
-                    "id": "50f7a0b5-bb7d-458b-8905-070afcea4df9",
-                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
-                    "name": "Пришелец-KK4862",
-                    "isReal": true,
-                    "isGuest": false,
-                    "level": 0,
-                    "administrativeStatus": null,
-                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
-                    "fingerPrint": "dba475cccc4b2a4f5ab536245b914d2a",
-                    "highlightName": false
-                },
-                "insertStamp": "2024-07-26 12:53:40.967169",
-                "insertStampFormatted": "26.07.2024",
-                "updateStamp": "2024-07-26 12:53:40.967169",
-                "rating": 5,
-                "source": {
-                    "id": 1,
-                    "title": "Dns-shop.ru",
-                    "url": null,
-                    "isExternal": false
-                },
-                "multiCardSpecs": {
-                    "Модель": "A2482 (1eSIM + 1SIM)",
-                    "Цвет": "черный",
-                    "Память (ГБ)": "128"
-                },
-                "period": "Менее месяца",
-                "characteristicGrades": [
-                    {
-                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
-                        "title": "Внешний вид и размер",
-                        "value": 5
-                    },
-                    {
-                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
-                        "title": "Производительность",
-                        "value": 5
-                    },
-                    {
-                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
-                        "title": "Камера",
-                        "value": 4
-                    },
-                    {
-                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
-                        "title": "Качество связи",
-                        "value": 5
-                    },
-                    {
-                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
-                        "title": "Батарея",
-                        "value": 3
-                    }
-                ],
-                "plus": null,
-                "minus": null,
-                "comment": null,
-                "usersCommentsCount": 0,
-                "images": [],
-                "hasNotApprovedImages": false,
-                "isEditable": true,
-                "additions": [],
-                "isCanBeSupplemented": false,
-                "videos": []
             }
         ],
         "filtersCounts": {
@@ -754,7 +754,7 @@
                 "2": 0,
                 "3": 0,
                 "4": 1,
-                "5": 68
+                "5": 69
             }
         },
         "topId": "cd1a83ae-8f95-4bf1-ba07-aa2ccace94d3"

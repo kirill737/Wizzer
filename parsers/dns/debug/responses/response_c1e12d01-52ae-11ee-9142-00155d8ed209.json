@@ -1,0 +1,668 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 11,
+        "opinions": [
+            {
+                "id": "2e8d2ab3-5080-4997-ad24-54422357a85e",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "cfe32621-4a08-99dd-d5b0-8aa74cbe5304",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NJW292646",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "160af688d310383cf8cf6705d53f8c20",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 08:25:59.898083",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 08:25:59.898083",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "057a17d1-cf97-483d-8d56-f92cd56d616b",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "defcab32-12a3-a62d-9620-0158b455cb4c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PV36160",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "231b22f390bb03e21d4501892c269797",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-14 13:38:15.408066",
+                "insertStampFormatted": "14.10.2024",
+                "updateStamp": "2024-10-14 13:38:15.408066",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4a425e50-221a-4547-97fb-005171d59fb5",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "014f275e-1ba0-12bf-0028-003a0fd7296a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KV53685",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a8819b26373613e4ec0fec17502e430b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 12:31:24.559571",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 12:31:24.559571",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e6dfc29d-d817-40e1-8c9b-ce020956f602",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "83426431-a929-8598-9a00-967585da9982",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/4eaecab75f0ee8dc915ff9392513ae4d/288894512fe85414c36790666a59851c617a9d1fce3f0f4f39d6d4e64230cd81.jpg\">",
+                    "name": "MADARA555",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "45eaa39b537e00af8462f4bb5f55f907",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 19:52:16.458863",
+                "insertStampFormatted": "11.09.2024",
+                "updateStamp": "2024-09-11 19:52:16.458863",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5b7f2fb5-f63f-4b16-8266-5aef426aef54",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "c6d834de-c518-7805-e1ec-60a75adfa3df",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FJ02429",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "92c7a0f400f03ce5081b470315c02a1f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-05 02:36:46.92091",
+                "insertStampFormatted": "05.09.2024",
+                "updateStamp": "2024-09-05 02:36:46.92091",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "76d1bf31-7678-4533-8423-b9987c7e2351",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "32ec74fb-4ea0-f314-9454-3e84d2b75a47",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JG96552",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "802ca47c1baf808b1f70ed34ba947219",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-01 07:15:57.431598",
+                "insertStampFormatted": "01.09.2024",
+                "updateStamp": "2024-09-01 07:15:57.431598",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c5e7e83a-5c02-4fb2-b370-ad09a884f6ba",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "54fcce34-05fd-f269-8acb-2a085a9277bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WE01785",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d5a0ccdf43078ece14e165ddce3b97b0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-27 14:12:30.44079",
+                "insertStampFormatted": "27.08.2024",
+                "updateStamp": "2024-08-27 14:12:30.44079",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c7ea4c56-d8fb-4547-a5ae-390f96e1d34c",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "ce8ab27a-d2ee-47a2-8624-58aae80261ce",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/106a088d17e3f2f638d18eca76021933/f2ad198912607385f7a62536705d401a78d799b27103b57a8d285452d36660ee.jpg\">",
+                    "name": "Wadimus27",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8c0079aa8f9de24d84284ad7b440a5b4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-14 10:04:38.123429",
+                "insertStampFormatted": "14.08.2024",
+                "updateStamp": "2024-08-14 10:04:38.123429",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e4824f70-b713-4ac9-9ae5-d2e657c726a8",
+                "objectId": "c1e12d01-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/c1e12d0152aeed20/61-smartfon-apple-iphone-15-pro-512-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 512 ГБ черный",
+                "user": {
+                    "id": "6df42e48-94c7-bff6-4dd9-d4bd9e52cb90",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "DoryGF",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c849e858b03b1a139a6de18203ddf4c3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-08 08:38:34.359971",
+                "insertStampFormatted": "08.06.2024",
+                "updateStamp": "2024-06-08 08:38:34.359971",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3101 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 9
+            }
+        },
+        "topId": "3eeb5d82-80ec-4ced-927e-da30eba76cac"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 60,
+        "opinions": [
+            {
+                "id": "672dc444-b8ad-4c02-8f80-4ae06cfd31db",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "0d8ececd-2786-5b09-a3f5-9a3bdab020e1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/26cfb25833fb6f89463e7ea856dc51b6/f4e63c5687c06e741ca10e9ec392f3a3030f833d851311cd874718a5bad6cd03.jpg\">",
+                    "name": "yupsgeeeee",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8d8d7489f49cf496b490f7131f866bca",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-26 09:20:07.017714",
+                "insertStampFormatted": "26.08.2023",
+                "updateStamp": "2023-08-26 22:49:59.831696",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>камера, стереодинамики, процессор, экран</p>",
+                "minus": "<p>не выявил</p>",
+                "comment": "<p>отличный телефон за свои деньги, перешел с андроида, все устраивает. камера на высшем уровне, также удивили стереодинамики. в играх все работает без нареканий</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "da874e11-9d0d-4e99-a138-84b47bcf5c10",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "00dc4020-f320-4c10-8fb7-af73ae3509b1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FW9386",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7892345ee521597c7c10cd6a6c2f1489",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-03-24 10:40:51.92298",
+                "insertStampFormatted": "24.03.2023",
+                "updateStamp": "2023-03-25 10:58:55.124077",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Не крупный, удобно в руке</p>",
+                "minus": "<p>Не нашли</p>",
+                "comment": "<p>Спасибо за оперативную доставку в пункт</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ca6d3973-cba2-427a-8857-e74bbff1aa7d",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "e214401d-3d3d-6522-c915-2033da246d05",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LO74750",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "037bf54b4870c01fe6915e68c35b1e54",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-18 13:13:59.301175",
+                "insertStampFormatted": "18.10.2024",
+                "updateStamp": "2024-10-18 13:13:59.301175",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "55857b48-68bb-4992-9bff-96de46a5c470",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "e59638e1-3ae9-37a6-09c1-7815aa0cb20e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GB25376",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "34a915acffb56b06109866514c5bc35e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 06:55:05.934524",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 06:55:05.934524",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "da60165b-6f08-4ff2-bd40-dee3cc487a6c",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "1743b6ae-4823-46cf-86e3-67994889781d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OA67330",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "97265b03e1dc11c95f30d70b2171282f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-02 14:01:46.778037",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-02 14:01:46.778037",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8b4ec931-4ed9-41f5-abf8-b044103197a7",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "931526c4-4707-f833-a3a9-c2d4f9e2372d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QZ80543",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "14742f0645360bcbf073d9704cdf6ff5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-26 10:30:51.601294",
+                "insertStampFormatted": "26.03.2024",
+                "updateStamp": "2024-03-26 10:30:51.601294",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "84789a0c-d623-4dc9-be75-62528d07bd3b",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "c2e6d137-f033-646c-c2ae-a1f48e558f46",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WH27881",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9005b4004bdc43130e5e72d495d6cc74",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-15 02:58:20.063042",
+                "insertStampFormatted": "15.03.2024",
+                "updateStamp": "2024-03-15 02:58:20.063042",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f7b58fb7-fb4b-46e6-8fd4-06a6f8cbd90e",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "effd9b99-0e5e-4943-a590-552e9014204d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FR4596",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "49a75a522f59d5cc2977134f63523725",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-20 15:55:07.234135",
+                "insertStampFormatted": "20.01.2024",
+                "updateStamp": "2024-01-20 15:55:07.234135",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2997810d-855b-480b-a565-c9862d988226",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "90f2a811-a4f8-4cbe-b147-6e1ebffa6e77",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QH8553",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6cdd7824e10c528ca0b9367f5e900d05",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-12 14:15:13.222444",
+                "insertStampFormatted": "12.01.2024",
+                "updateStamp": "2024-01-12 14:15:13.222444",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ef6849f7-58b4-43de-960d-b07eb6f2e8e6",
+                "objectId": "c8fee140-2a7f-11ed-9013-00155d8ed20b",
+                "objectUrl": "/product/c8fee1402a7fed20/61-smartfon-apple-iphone-13-256-gb-sinij/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ синий",
+                "user": {
+                    "id": "331bd05e-5e4d-7b15-4cce-4e3044c0fb3d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/f3d77bda190ed09cfef6ad12286ea66d/48deb23905de759af88f1ef15a93488c41507bfb68f10cbfdc237f36b77b590e.jpeg\">",
+                    "name": "Korkina",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d45f55f6fe9154419b17c6948ecb5efc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-09 11:52:29.917579",
+                "insertStampFormatted": "09.01.2024",
+                "updateStamp": "2024-01-09 11:52:29.917579",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "синий",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 1,
+                "3": 0,
+                "4": 0,
+                "5": 55
+            }
+        },
+        "topId": "cd1a83ae-8f95-4bf1-ba07-aa2ccace94d3"
+    },
+    "message": "",
+    "errors": []
+}

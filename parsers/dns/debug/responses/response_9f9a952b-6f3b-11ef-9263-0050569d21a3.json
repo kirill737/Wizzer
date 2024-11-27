@@ -1,0 +1,101 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": null,
+        "opinions": [
+            {
+                "id": "fab51590-2121-4025-a2a5-0c13ed00698b",
+                "objectId": "9f9a952b-6f3b-11ef-9263-0050569d21a3",
+                "objectUrl": "/product/9f9a952b6f3bd21a/678-smartfon-infinix-hot-50-pro-256-gb-cernyj/",
+                "objectName": "6.78\" Смартфон Infinix HOT 50 Pro 256 ГБ черный",
+                "user": {
+                    "id": "45177824-77f3-f527-f794-6b26a2f663ef",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KM60297",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d02b54cc641ae8ebd5021ac856f60a9f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-14 17:26:05.18431",
+                "insertStampFormatted": "14.11.2024",
+                "updateStamp": "2024-11-14 18:25:54.576203",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Работает справно. Есть настройки планов зарядки. Поставляется с толковой зарядкой и шнуром.</p>",
+                "minus": "<p>Дисплей даёт радугу при минимальном отклонении от прямого угла. Блок камен выперает и торчит не по центру, а в углу, от того смартфон на столе лежит криво и невозможно нажимать на него не шатая.</p>",
+                "comment": "<p>Вместо того чтоб пользоваться не отвлекаясь, ловишь угол при котором экран е будет давать радугу, стекло не решает проблему.</p><p>Блок камер выпирает из корпуса и ещё не по центру, а в углу. Чтоб избавиться от этого недуга, нужен ого-го какой толстый и тяжкий кейс/бампер/чехол.</p><p>смысла в тонком корпусе нет при такой грыже.</p><p>В комплекте идёт плёнка, но вы ни поставить её сами нормально не сможете (не льстите себе), ни использовать. Я её нашлёпнул только чтоб через несколько секунд содрать и выбросить, тактильные ощущения отвратительны, палец не скользит, а напротив, тормозит. Тоесть не смысла тратить деньги чтоб её вам установили, сразу идите и ставьте нормальную плёнку из нормальных материалов и с маслофобным покрытием, ну или стекло.</p><p>Когда смотришь параметры, цена кажется привлекательной, когда оказывается в руках и начинаешь пользоваться, понимаешь что лучше доплатить, но чтоб было без таких косяков. Пользоваться можно, но они будут вечным укором напоминать о твоём выборе.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            }
+        },
+        "topId": null
+    },
+    "message": "",
+    "errors": []
+}

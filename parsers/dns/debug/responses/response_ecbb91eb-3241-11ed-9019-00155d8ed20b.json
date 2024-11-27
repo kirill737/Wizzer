@@ -1,0 +1,707 @@
+{
+    "assets": {
+        "inlineJs": {
+            "657245ca733105cd36901cb754e5ee6e": "window.avatarGenerator.generate('g-x_eP2j', 'x_eP2j', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 55,
+        "opinions": [
+            {
+                "id": "1ebd92f2-4caf-498d-b354-829e9f84f8ef",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "7e6df77d-5c25-41b0-ad1e-9b2b6408c32d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BZ7601",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2b6089c1d7cf097bc8a0a33c45b106e9",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-03-22 07:44:50.591798",
+                "insertStampFormatted": "22.03.2023",
+                "updateStamp": "2023-03-23 06:18:03.773957",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Стереозвук, дизаин, шустрый, быстрая зарядка</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>крута</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "de43b9fc-512f-4334-8384-f94e62187e2f",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "c5b1a06f-4c3b-d8a3-a0a9-e781b9a4fb06",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CR87476",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "985ca55940d30bdbc9a910bf78cc7db6",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-10-25 17:46:35.910354",
+                "insertStampFormatted": "25.10.2022",
+                "updateStamp": "2022-10-25 20:00:08.463062",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>К телефону пока претензий нет, нравится.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d208ccda-5e97-476c-a998-1bd36414679d",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "f58023ac-63a4-41e6-b421-188a092446af",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Казусс",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ee1cf9d466a603d58fb676f0b5056cd6",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-10-09 20:37:29.285099",
+                "insertStampFormatted": "09.10.2022",
+                "updateStamp": "2022-10-12 03:57:28.05889",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран, батарея, удачная компоновка кнопок, стерео, микро с шумоподавлением, физический а не программный датчик приближения, отсутствие рекламы и косяков локализации в оболочке производителя.</p>",
+                "minus": "<p>Возможно цена, но не в абсолюте, а в отношении аналогов. С момента покупки до написания отзыва (неделя)  подорожал на 2,2 рубля, стал дороже аналогов от Вива и Сяоми. Брал за 14700.</p>",
+                "comment": "<p>Более чем достойный аппарат для повседневных задач плюс игры без претензий на хардкор. Камера - работает, больше меня не интересует.</p><p>В руке лежит удобно, сканер отпечатка не тупит, разнесённые по сторонам клавиши громкости и блокировки позволяют с бо́льшим комфортом пользоваться телом одной рукой. Датчик приближения существует в железе, что исключает разблокирову экрана во время разговора и нажимание ухом всякого интересного, как на большинстве бюджетных телефонов. Оболочка шустрая, без лишнего мусора, рекламы и приветов из Китая. Присутствует запись разговора. Стерео реальное. Заряда батареи мне хватает на двое суток, с нуля до полного заряжает за час с небольшим. Заявлено стойкое к ударам и царапинам стекло, пока проверить не довелось. Из коробки наклеена защитная плёнка, есть силиконовый чехол, так и таскаю. Короче хорошая альтернатива всяким сяомям. Годно.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "32c5149e-9360-4590-a397-3216bf309a62",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "a85d8288-0ea8-dc06-7e86-07e32764c8a9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AZ56131",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "18a2dcbcb12d97fe30b7cc4382f04018",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-30 04:41:52.572145",
+                "insertStampFormatted": "30.01.2024",
+                "updateStamp": "2024-01-30 04:41:52.572145",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9acd2b81-00b9-4919-b67f-316b259df891",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "0d39930b-d3f5-1a62-2350-97226941f08c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NT40619",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "df9042fa0e35c02a50ae5c59d488edb7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-12 16:55:10.151221",
+                "insertStampFormatted": "12.01.2024",
+                "updateStamp": "2024-01-12 16:55:10.151221",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "74c1c8c1-a7c8-48e9-8558-ab6c2220d7c0",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "c5cf0450-85d4-c734-e3bc-d8446cf1f1f5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAI58846",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "499d55f5b415b8bee974b97a74b3d3b8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-10 21:03:38.224579",
+                "insertStampFormatted": "11.01.2024",
+                "updateStamp": "2024-01-10 21:03:38.224579",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "68b20e57-96d3-45b9-baee-a1c745cff065",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "dc139faf-7090-c22d-5567-e6b33c44b2cb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HV33502",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "849e744c701f4cf961ef010bc173bd92",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-22 03:05:01.639978",
+                "insertStampFormatted": "22.12.2023",
+                "updateStamp": "2023-12-22 03:05:01.639978",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "50a31207-1702-48c7-bdc3-9993316a69d4",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "281f6ddb-4246-6736-1e10-ac07a7471981",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QU42033",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e5942137e036b65466b065f92dbc190f",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-30 19:41:08.562668",
+                "insertStampFormatted": "30.10.2023",
+                "updateStamp": "2023-10-30 19:41:08.562668",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2861c911-2302-45ff-9851-4ba07fa7092b",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "ffba97bd-379a-43cd-a874-019578bc9c43",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZYAnTr",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-24 09:25:04.9359",
+                "insertStampFormatted": "24.10.2023",
+                "updateStamp": "2023-10-24 09:25:04.9359",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5737eb13-f247-4d4b-8fd5-71619c84dba3",
+                "objectId": "ecbb91eb-3241-11ed-9019-00155d8ed20b",
+                "objectUrl": "/product/ecbb91eb3241ed20/66-smartfon-realme-9i-64-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme 9i 64 ГБ черный",
+                "user": {
+                    "id": "152518c4-b0fb-9b18-b60f-cc856c3cabff",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/435f3be852a77b71823d5e8deca3d124/16c8b09ad26b4a95d52714e8497fed5995915f9deddd5c8536de39cae82fdf2f.png\">",
+                    "name": "Пришелец-DV30858",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5864b0e920d2d973aabbbdbfeb3de94a",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-15 14:03:24.384688",
+                "insertStampFormatted": "15.10.2023",
+                "updateStamp": "2023-10-15 14:03:24.384688",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 4,
+                "5": 44
+            }
+        },
+        "topId": "1e280414-0ada-40f8-9102-ac7c0eb0af74"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,756 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 81,
+        "opinions": [
+            {
+                "id": "d947a718-5963-4894-8a82-f7a4638086f8",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "3b5a7177-dd25-7c1c-7258-17cae9637687",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ET34649",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9c549b88c0aa0464b082d3fbdb9327d9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-14 18:29:08.362152",
+                "insertStampFormatted": "14.10.2024",
+                "updateStamp": "2024-11-19 21:16:07.897047",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>В использовании 2 месяца. Шустрый. Зарядки на сутки хватает.</p>",
+                "minus": "<p>Камера не о чем.,по сравнению с Хонор 70.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4e86827a-2a7d-4fd1-938e-def90e26320a",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "8ec00adb-aa92-4236-b346-cc5b2e2ca365",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ND41033",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ecf2ce4cb95893b828c6f815336b02da",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-30 05:39:03.792798",
+                "insertStampFormatted": "30.07.2024",
+                "updateStamp": "2024-07-30 05:43:07.037613",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный аппарат.</p>",
+                "minus": "<p>Не заметил.</p>",
+                "comment": "<p>Батарея реально держит. Связь ловит хорошо. Экран супер.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "61617977-7578-4a20-86e5-059537c37d55",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "eba830dd-f412-4c6d-a0e4-7bf0fb99196f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Cheshir Cat",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3dbac6b0334627e9aac36a8c0d9732ee",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-10 05:34:06.490382",
+                "insertStampFormatted": "10.07.2024",
+                "updateStamp": "2024-07-22 08:19:33.882403",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид. Дизайн симпатичный, материал задней крышки под экокожу. В оранжевом цвете прям бомба (на любителя, конечно, но мне понравился). Камера хорошая, правда на мой взгляд бьютификация несколько избыточна. Связь держит хорошо, в руке (женской) тоже лежит хорошо.</p>",
+                "minus": "<p>Да вроде нет никаких, владелица не жаловалась ))</p>",
+                "comment": "<p>Покупали в подарок. Немного поюзала перед вручением, понравился. Если бы была фанатом Андроида - себе взяла бы :)  Адресат в полном восторге, фоткает цветочки :)) Собственно от смартфона требуется обеспечивать хорошую связь, выход в интернет и достойное (в основном для соцсетей и мессенджеров) качество фото. Этот Honor такие потребности закрывает.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3fe71d9d-4ecd-45e2-97fa-a7224e45d123",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "3e4c0ddf-f2ef-9e7b-603b-ba0905d16cfe",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GH2692",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ce953e3134acbe82f80e457c028de9f5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-15 14:37:28.592669",
+                "insertStampFormatted": "15.06.2024",
+                "updateStamp": "2024-06-15 14:39:56.517301",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Класс!</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "99da2908-1ef0-497f-b6c4-c30e589e346c",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "a235eedc-f193-4a2a-b6fe-2c525d3eef98",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Shurick930",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4ae1ee9300563a2da430f5fb8059feb9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-10 21:28:49.364395",
+                "insertStampFormatted": "11.03.2024",
+                "updateStamp": "2024-03-11 02:34:38.904813",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Экран просто божественный! Памяти достаточно, процессор не тормозит, сделано очень качественно, софт хороший.</p>",
+                "minus": "<p>Крупноват, ощущение громоздкости, разочаровал по времени работы батареи, совсем мало по сравнению с X9a - пришлось вернуться, апгрейд не получился. На 2 дня никак не хватит его :(</p>",
+                "comment": null,
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "fa3bba80-cca3-423a-a1fa-ca2fb131d179",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "439eead8-9e86-62de-194b-4ad5bfbc25da",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/4621707049e2862c58a9cfbbf03dc5f1/86618c0839ed6db373d16e86ba27b2ef881edc25a12c9f6edfdf02c310c5d377.jpeg\">",
+                    "name": "Alexander154",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-03 13:40:02.60632",
+                "insertStampFormatted": "03.03.2024",
+                "updateStamp": "2024-06-22 06:38:02.179688",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея,экран, внешний вид</p>",
+                "minus": "<p>Звук,камера</p>",
+                "comment": "<p>Телефон не плохой работает хорошо,какие же минусы это звук он чуть громче среднего, звучание то же среднего качество ,но не дребежжить и каких-то помех в звуке нет,камера знаете камера я не скажу что за его цену плохая но и не хорошая , обычная нормальная камера ночные сьемки без шима и шума можно сказать почти нет можно зум увеличить до 3х.и фото выйдет или видео не плохо,селфи камера ну если приближать то конечно дефектов много увидишь а если смотреть так то нормально.в общем что я скажу , телефон не плохой всё работает снимает не плохо звук я думаю звонок точно не пропустить (не в шумном месте)я думаю он этих денег стоить так как за такую цену идеального смартфона на 100%не найдете.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "9e9187f0-c303-4c59-a95b-90a669ac627a",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/485b87e7ff465cb98d4f0a3b0e71ca4c/14491a41d11cab06e43eafeddfcbf78110a4bc8fce5e9b17e6ff9ce3404da845.jpg"
+                    },
+                    {
+                        "id": "236eebc2-ad07-4fbd-8d86-0de4d51d7b43",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/ff85574e245cb5cb6ea428b570874889/49211a6016086bcdbf9734229a4c883287f430f43e0530dc6cdd444a6795070a.jpg"
+                    },
+                    {
+                        "id": "012c63fa-3147-48e3-abfa-9709ecc12822",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/1ffdbaa3a41c7de58c9b3cae2f15428a/70cd3072fe32a53f9d6277545dfbd7142a45a69f4ad59417b36fb4e47ea5e968.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "d1efeb6f-57e3-4d27-bd8a-4207968a14ca",
+                        "text": "<p>За 4месяца всё нормально не каких глюков нет всё летает,а которые есть проблемы я писал выше они уже не куда не денутся.если на камеру и звук глаза закрыть то он за свои деньги супер</p>",
+                        "textInitial": "За 4месяца всё нормально не каких глюков нет всё летает,а которые есть проблемы я писал выше они уже не куда не денутся.если на камеру и звук глаза закрыть то он за свои деньги супер",
+                        "insertStamp": "2024-06-22 06:18:54.108453",
+                        "insertStampFormatted": "22 июня 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "836ab2ef-7f8f-4b11-8619-e9ee835b3d12",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "7446bcf9-d352-4067-45e5-0cf42d52be7b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LQ91954",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 19:39:01.549348",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 19:39:01.549348",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d081d140-f929-4e72-9c77-ea934ee38f53",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "307893cb-6f59-1a08-3e12-9b1de2121b76",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HY98881",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8537b8af5986f01db24acfb5922f761d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 20:07:12.661868",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 20:07:12.661868",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5bd79f0f-3586-41a9-9152-8f6a15883017",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "6b123a58-42cc-59b1-2343-f3c8b21e3951",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TL33707",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "79da6fab2df9a6bc6698ed0dee6db19e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 10:08:34.646321",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 10:08:34.646321",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "18802b13-7e0d-4b5f-94bd-7bfd45fc5fa6",
+                "objectId": "881d8230-95a6-4f60-a513-a7a447501f69",
+                "objectUrl": "/product/881d823095a601f6/678-smartfon-honor-x9b-256-gb-oranzevyj/",
+                "objectName": "6.78\" Смартфон HONOR X9b 256 ГБ оранжевый",
+                "user": {
+                    "id": "ac32dd73-33d7-7ab4-ca43-d598e725b9a6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FO42510",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d006a56d30da95c43ae3a4ba0203f631",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 12:30:48.640306",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 12:30:48.640306",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "оранжевый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 0,
+                "3": 1,
+                "4": 8,
+                "5": 61
+            }
+        },
+        "topId": "c7a2d8d1-0d4d-48b2-83b2-1988a092b004"
+    },
+    "message": "",
+    "errors": []
+}

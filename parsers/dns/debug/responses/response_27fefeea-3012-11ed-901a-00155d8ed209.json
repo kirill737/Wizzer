@@ -4,18 +4,18 @@
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 383,
+        "totalCount": 401,
         "opinions": [
             {
                 "id": "e7165996-2d02-4625-9c40-a615627bd7ad",
@@ -54,7 +54,7 @@
                 "plus": null,
                 "minus": "<p>я не могу никак понять,я покупала телефон специально под 2 сим карты,где отсек для 2 сим карты????</p>",
                 "comment": null,
-                "usersCommentsCount": 3,
+                "usersCommentsCount": 5,
                 "images": [],
                 "hasNotApprovedImages": false,
                 "isEditable": false,
@@ -691,8 +691,8 @@
                 "1": 10,
                 "2": 2,
                 "3": 2,
-                "4": 11,
-                "5": 334
+                "4": 12,
+                "5": 336
             }
         },
         "topId": "a2d39b55-8502-4afb-bf0e-bd5ca59dcd71"

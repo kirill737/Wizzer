@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 125,
+        "opinions": [
+            {
+                "id": "87e1cb43-6856-4f5c-bd2c-d3848062a278",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "d148e24a-9f95-c898-1a7b-25021f93057f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a288735b93a4eff1eb409e3ed4f33834/ce0a7013760c6ae110830a4c2ee12baab3c5231271dd79bb59749e892c36c2bc.jpeg\">",
+                    "name": "просто иж",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-18 05:27:29.18347",
+                "insertStampFormatted": "18.11.2024",
+                "updateStamp": "2024-11-18 05:38:00.737359",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший в играх</p>",
+                "minus": "<p>Баги в</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4ecadc03-2d35-409b-abc7-0ac38572e676",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "32a4337a-508b-4ab6-863b-d9751ce3a986",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KI2254",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fb3986e776514b3365262e5ebba7db39",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 08:30:56.459067",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 08:34:04.970618",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Отличный телефон. Удобный, шустрый, камера замечательная.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f1159b39-524c-403e-b6e0-aa10048e4557",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "dce17b7f-bb67-49e6-7a5d-2f72f7248bb2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2597bb5b65836a7c3d972fd40c9d8580/977fb2cd1b28a19d4932f4aefcb1e491934ce515148057bef5aac83497e2c473.jpeg\">",
+                    "name": "Пришелец-SY34738",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "166e57d67612e3a06e193c6bd10491d3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-30 15:07:36.44983",
+                "insertStampFormatted": "30.09.2024",
+                "updateStamp": "2024-09-30 15:40:49.734619",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстродействие телефона; Разряжается долго, заряжается быстро; Чехол в комплекте; Довольно таки яркий IPS экран; Стереозвук; Сканер отпечатков пальцев на кнопке питания.</p>",
+                "minus": "<p>Память типа еММС; Непостоянные 90 гц; Безумный ценник.</p>",
+                "comment": "<p>Выбрал этот смарт в основном из-за оболочки Realme UI. Она хорошо оптимизирована и не перегружена лишним софтом.</p><p>Про камеру в плюсах и минусах ничего писать не стал. Меня она, лично, устраивает, как тыльная, так и фронталка.</p><p>Процессор здесь добротный, вот только толку от него, когда тип памяти – устаревший еММС🤕, который не даст процу работать в полную силу.</p><p>Про частоту обновления: в автоматическом режиме телефон будет сам выставлять значения герцовки на свое усмотрение (на рабочем столе и в нетребовательных играх – 90 гц, но в остальных случаях будет 60 гц).</p><p>В общем и целом смартфон хороший. Он отлично подойдет для повседневных задач: мессенджеры, соц. сети и подобные приложения открывает моментально. В игры тоже можно. После Redmi 9A этот смарт для меня так вообще просто пушечный!</p><p>Ну и немного по поводу цены. Мне этот телефон даже по акции за 16.499₽ показался слегка с завышенной ценой, но за 18.999₽ я бы вам не рекомендовал его к покупке. Уж за 19 кусков можно найти что-нибудь лучше, чем Realme С67😶</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "89788d21-6677-4680-ab4f-faad0130cb58",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "116accf6-741a-9ca8-8f9d-0bd0b6795cdd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "PaulPiligrim",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ee1042f4287533fa65ac9fd618d7fcf2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-13 07:57:37.065865",
+                "insertStampFormatted": "13.09.2024",
+                "updateStamp": "2024-09-13 10:19:09.533689",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрый, хорошая камера (даже лучше, чем ожидалось по тестам и обзорам), много памяти, приятный дизайн, хорошо лежит в руке.</p>",
+                "minus": "<p>Не найдены</p>",
+                "comment": "<p>Хороший универсальный аппарат, особенно если купить со скидкой.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "aa7726fe-b59f-4873-a0c1-40b372783f89",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "ad4d02f0-3dfe-23f4-be35-abf471c6963f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OT03982",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-17 14:59:01.280818",
+                "insertStampFormatted": "17.07.2024",
+                "updateStamp": "2024-09-20 19:26:35.404585",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный аппарат, адекватная цена</p>",
+                "minus": "<p>пока нет</p>",
+                "comment": "<p>Купил супруге, пока молчит, значит пока не сломала)))</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "846ee4bd-d0f0-4b7f-b030-b25194a9600f",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "92fb8e92-a28a-4b9c-a53f-9d56232000ed",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/9e0b38166f315d7462e590bf116b3a9d/a543efe46d1e572ed5e956dc2a72d2b1965cb8f8b3a6402fb5df6b6b5e712dcd.png\">",
+                    "name": "Пришелец-CJ76110",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-15 11:35:42.39649",
+                "insertStampFormatted": "15.05.2024",
+                "updateStamp": "2024-05-16 02:41:54.489788",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран, глаза не устают, батарея долго держит заряд, качество связи хорошее, камера отлично фотографирует, почти голый андроид, без всяких заморочек. Красивый!</p>",
+                "minus": "<p>Для меня их нет.</p>",
+                "comment": "<p>Мой смартфон  реалми с67 8/256гб.</p><p>Есть люди, об.. рут любой телефон... Специально для тех, кто подумывает о покупке этого телефона, смело утверждаю - телефон отличный. Как я его использую: фотографирую много, очень много, часто на бегу; на кухне смартфон заменяет мне телевизор, а там я практически живу, мне так кажется 😅; соцсети все популярные с приложениями, магазины онлайн через приложения, чтение всякого через браузер, играю иногда с сыном и мужем в Call of duty mobile, но на каких настройках, не знаю, играю пр сети в нарды, ну и всякие игры типа 3 в ряд, маджонг, шарики-стрелялки. Ватсап пользую постоянно.</p><p>И что я могу сказать? Батарея держит в таком режиме около 10-12 часов, это при том, что связи у нас нет в доме, только на улице у всех ловит и смартфон постоянно ищет сеть.</p><p>Он у меня совершенно не греется, специально пыталась  заставить его греться, не получилось, не знаю, что с ним надо делать, чтоб он нагрелся.</p><p>Камера отличная, фотография обрабатывается мгновенно, если фото явно смазано, программа исправляет и все отлично!</p><p>Ночные снимки тоже вполне хорошие, если есть хоть какой-то источник освещения, в полной темноте на улице плохо фоткает, дома отлично.</p><p>У меня перестали болеть глаза, а со старым сильно болели, так как много пользую смарт.</p><p>Пишут, что внутренняя память старого типа, но тормозов мною не замечено. Мне кажется железо отлично сбалансированно в этом аппарате.</p><p>Перешла со старого  Хонор 8а Прайм 64гб и очень-очень довольна. Куплен смартфон этот 20 марта 2024 года. Примеры фото.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e15cfad1-47bc-45ef-bdde-434292bad3e4",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "8976e922-03a9-48c8-a47a-4c9db0a7c50f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UY7665",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "27e63b40d95c6339372732e741ad8ae2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-13 14:29:48.157467",
+                "insertStampFormatted": "13.05.2024",
+                "updateStamp": "2024-05-13 16:53:15.984941",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Да все отлично:</p><p>- Процессор отличный, оперативки хватает, чтоб ничего не тупило в играх и повседневке</p><p>- Экран большой, при этом сам телефон не лежит \"лопатой\" в руке, изображение четкое</p><p>- Наушники мини-джек</p><p>- Заряд нормально держит</p>",
+                "minus": "<p>Хозяйка не жаловалась</p>",
+                "comment": "<p>Покупался в подарок дочери на 14 лет. И я так считаю: если телефон устроил девочку в \"понтовом\" возрасте, значит это хороший телефон.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d0523520-9e48-4b70-ae3e-4800b57eed09",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "e091b6f1-2ff8-4867-bc46-96bc999fb305",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ALmighty_43",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f892ca35961e8e9b1c45dddefd0f9529",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-03 06:08:07.17626",
+                "insertStampFormatted": "03.05.2024",
+                "updateStamp": "2024-08-11 23:40:29.001729",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2bd622bc-f4eb-4812-bef6-bc660482d50b",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "735a3539-4a68-0248-1bbf-b06836ac743b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "svv1ft",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2ec9ce03938bb49b4644849a5cf39c41",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-11 00:23:04.689237",
+                "insertStampFormatted": "11.04.2024",
+                "updateStamp": "2024-06-10 16:31:17.028257",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея, скорость работы, экран, USB-C и быстрая зарядка на 33W. +Почти чистый андроид 14.</p><p>В комплекте идёт очень приятный прозрачный чехол. Купил ещё от Aceline ещё черный чехол-книгу, но родной больше нравится.</p>",
+                "minus": "<p>На 14-м дроиде появилась \"защита\" (якобы) от старых версий программ. Игры, которые требует ОС 6.0+ ставятся без проблем, 5.1 - почти всегда. 4.0 почти не ставятся. Про ниже - даже не стоит пытаться. Нужно было полежать неделю в больничке, не смог поставить HoMM3</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a2be4cfc-2184-4412-9f97-85ed12494f00",
+                "objectId": "8caab302-9ef7-11ee-9190-00155d8ed20c",
+                "objectUrl": "/product/8caab3029ef7ed20/672-smartfon-realme-c67-256-gb-zelenyj/",
+                "objectName": "6.72\" Смартфон realme C67 256 ГБ зеленый",
+                "user": {
+                    "id": "08265a2b-5ccd-1242-811a-c506fba7df43",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZH81314",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "44ee7ee383ff89f839c8dd977f663f3a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-10 11:51:36.981923",
+                "insertStampFormatted": "10.04.2024",
+                "updateStamp": "2024-04-10 12:05:33.019542",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>За такую цену вообще огонь</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Успел купить за 15999₽, сейчас уже 17999₽. Видимо спрос начался. Заряжается быстро. Не тормозит. Оперативки можно увеличить до 16Гб, но мне и 8 хватает. Рекомендую, кто не гонится за принтами, а выглядит стильно и красиво.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 0,
+                "3": 3,
+                "4": 11,
+                "5": 89
+            }
+        },
+        "topId": "3515d0b2-d2e2-4060-acb5-181857b12c22"
+    },
+    "message": "",
+    "errors": []
+}

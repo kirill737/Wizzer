@@ -1,0 +1,737 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 19,
+        "opinions": [
+            {
+                "id": "98b74b9b-18ff-4389-9705-3ada8a5f3a6d",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "903a1f26-a768-47c3-a15e-7134c6860c6f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Нинулька-1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-30 06:22:57.13837",
+                "insertStampFormatted": "30.09.2024",
+                "updateStamp": "2024-09-30 07:08:27.547694",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень хороший.</p>",
+                "minus": "<p>Не нашла.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "e7861ece-6c82-4ac1-95d0-ba648bd05af0",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/c4a546b77e317d50e416e4f37dab654a/5ad817892ad95baa0af3979f2bc6171a6fdfa85caa1990c2ebc01231035a3c3a.jpeg"
+                    },
+                    {
+                        "id": "41482165-c15d-41cf-8806-36733132acf0",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5441e394890758727f3be366177e0c07/dd4f69fad5a81acf3a339bfb5bb5f646fff560df43e55df299cbbd322f13db5a.jpeg"
+                    },
+                    {
+                        "id": "1d3368f0-b2a7-41fa-a161-5f492574e836",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/f1b9f63b025f5b3a2fa5df4a3cfec82d/4a3320fd382e9c42db218976c8b2403ba82e1d533f4cc7c0caafef4ddc1acca5.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "559d9e00-10d5-4403-98ae-00713d771e62",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "60c4ea9a-29d2-c73e-058b-39536fae1d90",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QU19962",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a22f6f70390ebd73042a998f475e0a53",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 23:35:56.118579",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-24 23:35:56.118579",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "44d3e3a4-360a-49a5-81c2-e2915d9313b0",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "b3685676-3c2f-40d3-a4a6-1d4a097f51a3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "matrica94",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bc1e83e199e7799ca1877b9c422d59a9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 09:59:47.404833",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 09:59:47.404833",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "fb4ecd20-a654-4859-943e-5155d0581baf",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "fc2c8ace-4f6f-4f85-a0e9-dbe7d3f3ed4d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/16f270313095f8ad5387d951fdb892cc/d315cdac0651f287a2bb3b1d0c062a47a6724d45616cd7ef622f0c35acfaac92.jpg\">",
+                    "name": "Mr.bobr1972",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "19864c2acfa678c8337d5dcd2f06d1c6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 10:27:42.590432",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 10:27:42.590432",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f4023011-f47c-426d-be5c-66420eda8f3b",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "1cdbf80a-0be1-470d-5bac-8b38742ee60e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XA05896",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "82358ab1d4cb53ac404800e1e78a37a7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-10 06:01:46.452011",
+                "insertStampFormatted": "10.10.2024",
+                "updateStamp": "2024-10-10 06:02:01.29358",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9a3dbb65-27d6-4eec-87c0-44d5a49b9c31",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "6eff9e85-b8dc-4f88-a959-ab3e99b66b13",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "dgus30",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "618bfe1b279d93076f4ea415c24f78bf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-25 11:52:53.463252",
+                "insertStampFormatted": "25.09.2024",
+                "updateStamp": "2024-09-25 11:52:53.463252",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a48b8e38-cdac-434c-93ce-63a452decf4e",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "ea6c1004-5d50-2193-c6fe-0862816af34c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CC13385",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e9771870070613254cc80eadd1c0c31e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-07 14:11:45.957459",
+                "insertStampFormatted": "07.09.2024",
+                "updateStamp": "2024-09-07 14:11:45.957459",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "32a9419e-eabf-4474-a83a-9ec0514d9e73",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "037370de-c6af-4068-d677-b4fcea161c91",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NJ22520",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e981e4f0d35bb6388738b1af212e09db",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-18 18:03:35.220066",
+                "insertStampFormatted": "18.08.2024",
+                "updateStamp": "2024-08-18 18:03:35.220066",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "59019cc1-b98e-4e7e-9ad2-cbac2ceec77d",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "d7cd1509-520f-4a9d-9936-6a49e9f8d096",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SM545483",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7d2618624368d45392d45a22f2870ed4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-17 04:39:38.855596",
+                "insertStampFormatted": "17.08.2024",
+                "updateStamp": "2024-08-17 04:39:38.855596",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0c0c7594-c70f-4a80-8c55-aec3cc6c9fe5",
+                "objectId": "ad76ed70-e7ee-11ee-91dd-00155d8ed20b",
+                "objectUrl": "/product/ad76ed70e7eeed20/667-smartfon-huawei-nova-12-se-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон HUAWEI nova 12 SE 256 ГБ зеленый",
+                "user": {
+                    "id": "8679ec2d-3786-4d0d-a63a-f9b63a093a4e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MP0182",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "77f129c61b09c134b0be8097688e3e32",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-07 03:30:51.54332",
+                "insertStampFormatted": "07.08.2024",
+                "updateStamp": "2024-08-07 03:30:51.54332",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 16
+            }
+        },
+        "topId": "115976d9-36d6-4494-8bb2-605b9ac7e1ce"
+    },
+    "message": "",
+    "errors": []
+}

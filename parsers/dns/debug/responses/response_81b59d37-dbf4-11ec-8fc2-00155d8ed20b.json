@@ -4,18 +4,18 @@
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 313,
+        "totalCount": 318,
         "opinions": [
             {
                 "id": "77c72d5a-5c88-4290-b673-fa53af03f878",
@@ -151,6 +151,72 @@
                 "plus": "<p>Запечатанный,Оригинальный, Не активированный,Качество соответствует.</p>",
                 "minus": "<p>Нет</p>",
                 "comment": "<p>Покупкой доволен.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "137ea94c-744f-48e5-a4cd-642d1c80285a",
+                "objectId": "81b59d37-dbf4-11ec-8fc2-00155d8ed20b",
+                "objectUrl": "/product/81b59d37dbf4ed20/61-smartfon-apple-iphone-13-128-gb-zelenyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ зеленый",
+                "user": {
+                    "id": "bf696bb8-abdc-75e7-c8c4-df490161622f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OX17883",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cdb6e3234f0c812ba4ade5b5f1989d6e",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-20 09:37:52.802374",
+                "insertStampFormatted": "20.07.2023",
+                "updateStamp": "2024-11-01 12:33:26.001983",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A2634 (2SIM)",
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все четко , лучший аппарат!</p>",
+                "minus": "<p>Кроме батареи но это вечная проблема айфона,недостатков нет</p>",
+                "comment": "<p>Хорошая трубка ! Покупке рад!</p>",
                 "usersCommentsCount": 0,
                 "images": [],
                 "hasNotApprovedImages": false,
@@ -619,86 +685,6 @@
                 "hasNotApprovedImages": false,
                 "isEditable": false,
                 "additions": [],
-                "isCanBeSupplemented": true,
-                "videos": []
-            },
-            {
-                "id": "7c6802ae-688b-43e6-9736-2f7c1b54d5fa",
-                "objectId": "81b59d37-dbf4-11ec-8fc2-00155d8ed20b",
-                "objectUrl": "/product/81b59d37dbf4ed20/61-smartfon-apple-iphone-13-128-gb-zelenyj/",
-                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ зеленый",
-                "user": {
-                    "id": "4ec57491-0c2f-421d-9c21-e5cbfd844488",
-                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/e78b8172a757144b6b30885119f4417b/cce7c3a18efb6328740e98bd31e3be7f1690210bd118a9418e9630a88c5e04ea.jpg\">",
-                    "name": "BobikProPvP",
-                    "isReal": true,
-                    "isGuest": false,
-                    "level": 1,
-                    "administrativeStatus": null,
-                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
-                    "fingerPrint": "5ad37dc2dc53bf6b954638a7e44b9ed3",
-                    "highlightName": false
-                },
-                "insertStamp": "2023-02-25 03:17:47.00114",
-                "insertStampFormatted": "25.02.2023",
-                "updateStamp": "2024-06-02 14:07:15.110138",
-                "rating": 5,
-                "source": {
-                    "id": 1,
-                    "title": "Dns-shop.ru",
-                    "url": null,
-                    "isExternal": false
-                },
-                "multiCardSpecs": {
-                    "Модель": "A2634 (2SIM)",
-                    "Цвет": "зеленый",
-                    "Память (ГБ)": "128"
-                },
-                "period": "Менее месяца",
-                "characteristicGrades": [
-                    {
-                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
-                        "title": "Внешний вид и размер",
-                        "value": 5
-                    },
-                    {
-                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
-                        "title": "Производительность",
-                        "value": 5
-                    },
-                    {
-                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
-                        "title": "Камера",
-                        "value": 5
-                    },
-                    {
-                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
-                        "title": "Батарея",
-                        "value": 5
-                    }
-                ],
-                "plus": "<p>Телефон топовый, производительность просто на высшем уровне, батарея садится очень долго но заряжается быстро</p>",
-                "minus": "<p>Их нет</p>",
-                "comment": "<p>Телефон топовый</p>",
-                "usersCommentsCount": 0,
-                "images": [
-                    {
-                        "id": "daead5f1-4fe5-4446-9745-20432dbe067a",
-                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/7f2f88655f871ebe4c40ff408d1b4a63/35bc91cc051d00616061a155699731ce98a9cd933f551e73d0c7a0f3fa426b64.jpg"
-                    }
-                ],
-                "hasNotApprovedImages": false,
-                "isEditable": false,
-                "additions": [
-                    {
-                        "guid": "5c8dc54a-38bd-4876-886a-92c8f633e31e",
-                        "text": "<p>Все еще доволен покупкой</p>",
-                        "textInitial": "Все еще доволен покупкой",
-                        "insertStamp": "2024-06-02 13:42:16.813323",
-                        "insertStampFormatted": "2 июня 2024 г.",
-                        "isEditable": false
-                    }
-                ],
                 "isCanBeSupplemented": true,
                 "videos": []
             }

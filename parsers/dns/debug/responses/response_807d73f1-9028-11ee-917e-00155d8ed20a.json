@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 56,
+        "opinions": [
+            {
+                "id": "3986dbea-ee7a-4bc0-9f7e-bb1bb8b798dd",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "88abf226-9610-e943-3189-cdfe7607157b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UO49542",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "29e9c72c7ce94c02414c1f64d8b929d9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-20 08:11:21.03638",
+                "insertStampFormatted": "20.11.2024",
+                "updateStamp": "2024-11-20 12:01:38.470088",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Быстрый, шустрый, модный</p>",
+                "minus": "<p>Камера могла бы быть и получше...</p>",
+                "comment": "<p>Рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1ea70bf9-8900-4016-a165-5f0215543e17",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "f9a118cc-b977-4beb-9f56-3d4f6d8fc33a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TJ6198",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "77f91203d181bab9e0681dc8255f0f16",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-19 11:45:43.980101",
+                "insertStampFormatted": "19.09.2024",
+                "updateStamp": "2024-09-19 12:28:48.167386",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрая зарядка</p><p>Небольшой вес</p><p>Камера - более менее</p>",
+                "minus": "<p>Датчик приближения во время звонка работает 7 раз из 10</p><p>Много рекламы</p><p>Слабый фонарик</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "43d25544-9604-42d9-a7d4-ea63e967eeed",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "9da9c528-04f1-b53e-bef0-fabd3e7cb421",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ST47049",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d9b52defed469d72792e9a55d03fa2fb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-23 05:36:35.77045",
+                "insertStampFormatted": "23.08.2024",
+                "updateStamp": "2024-08-23 05:45:28.001802",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Отличный, маневренный телефон, хорошо держит батарею, камера отличная , памяти достаточно.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e11bcd4e-cd48-4f53-a7d4-233b6cd70085",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "ff1c7ba5-5b92-22bd-a05b-7fc6f59dd16f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Andrey Polev",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-26 09:17:54.68936",
+                "insertStampFormatted": "26.02.2024",
+                "updateStamp": "2024-02-26 12:15:22.929824",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Обычный телефон. Неплохая камера.</p>",
+                "minus": "<p>2024 год!!! В телефоне за 34 тысячи НЕТ беспроводной зарядки!. Невозможно настроить автоматическое отключение Wi-Fi. Плохой процессор.  Вообще по меню это телефон тысяч за 15 максимум.</p>",
+                "comment": "<p>За 20 тысяч - был бы неплохой телефон. Не более того.</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5141dbdc-1b1f-4c26-b00d-eca5fd66cc0b",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "46f48bec-e5fd-5127-a976-8c433dc80b1d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TN93035",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a8693206c1d93855c8617169d0f56687",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 09:31:54.500572",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 09:31:54.500572",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e5a6a1e3-fafd-468b-86be-92747812f790",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "c7d4cfe2-4741-b6c6-bc19-5e77a7497a96",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/0dfc67524b41fc31dfa594717cdf2699/ca60a4ee631c05ddd89ff20c1f6816ad62cc4b5cec042a75435f1a577cc510ff.jpg\">",
+                    "name": "ghosts74",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "270b3f41a58c50e51752e131a8c6ed56",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 08:13:40.497904",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 08:13:40.497904",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "57c12d19-5a50-477c-a29d-476a64a4329f",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "9e67761a-afd3-ad42-69de-71dfe2e0eaf6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PQ54017",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "237b28fbbbee561196de5b12bf221778",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-14 15:19:20.765667",
+                "insertStampFormatted": "14.10.2024",
+                "updateStamp": "2024-10-14 15:19:20.765667",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a2ef96fa-bab6-442b-acb1-205ca86d3ae1",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "aca4ad97-6d6b-52ee-5e27-283ab4f68451",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LG83753",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1f896717b1aa7300a6926c01c12b6134",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-10 14:53:37.207254",
+                "insertStampFormatted": "10.10.2024",
+                "updateStamp": "2024-10-10 14:53:37.207254",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4fd00978-f87f-45a5-a843-7671060cf1df",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "2cdb3f06-fc66-decc-9d32-642908482b67",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YO2947",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d9b9628c124189c80a3d73bf3822db48",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 08:02:57.634851",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 08:02:57.634851",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b2232c03-7cca-4349-8073-e76a0371e1b1",
+                "objectId": "807d73f1-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d73f19028ed20/667-smartfon-xiaomi-redmi-note-13-pro-256-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 256 ГБ зеленый",
+                "user": {
+                    "id": "3c84fd51-f6a0-15b6-046a-9b6581c98908",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HC51333",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "802c2344f0d92c08486bcbec290c92bb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-29 09:20:25.741478",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-29 09:20:48.95272",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "256/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 32
+            }
+        },
+        "topId": "6f23a610-6e0c-4151-bf5c-73bc4020ddcb"
+    },
+    "message": "",
+    "errors": []
+}

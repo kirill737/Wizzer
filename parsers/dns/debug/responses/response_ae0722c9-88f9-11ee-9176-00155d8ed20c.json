@@ -1,0 +1,748 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 42,
+        "opinions": [
+            {
+                "id": "94ce3d51-4ad7-49e8-bbbb-20e0954c9447",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "25c342eb-719e-47cf-950a-749efe5879a2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/7a85c1c179e327011aca150f22b18986/4e0017a893579ea0aa60db5939be39412a9b806440eb52be49dfc078d3d358d8.png\">",
+                    "name": "Neneko",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e38603484bb35849239412b3b70cf690",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-03 04:01:42.30973",
+                "insertStampFormatted": "03.08.2024",
+                "updateStamp": "2024-08-03 04:39:16.676634",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шустрый, быстрый. Быстрая зарядка + блок 120W, экран 120Гц</p><p>Для игр и контента - топ за свои деньги.</p>",
+                "minus": "<p>Куча ненужной и бесполезной рекламы с коробки, нужно все удалять - отключать.</p>",
+                "comment": "<p>Приобретен как дополнительное устройство для игр/контента/nfc оплат.</p><p>Камера на 100500Мп рекламный ход, да, картинка на выходе с большим количествои пикселей, но качество на троечку.</p><p>В целом, используя основное устройство от Apple, данный аппарат не вызвал каких то негативных впечатлений, очень даже на уровне!</p>",
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "d248b604-27ea-43df-a84e-1e8365de8066",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/afed3d9c540edcc37d8e43228f39c085/fcb6ecb51b92b69371a9f06e780b2e670d1908dc987154993b4f980c3313fe3b.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3aa2ca5f-ace5-4455-a3b5-429ca7793a7a",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "16c86e3d-2ade-430c-bbc9-ed955b3a44b0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Nails_by_Aurika",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c19ea6aab6eb622a9b8d82f150607e66",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-01 07:45:06.68318",
+                "insertStampFormatted": "01.06.2024",
+                "updateStamp": "2024-06-01 08:09:01.715695",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Яркий экран</p>",
+                "minus": "<p>Тормозит , Через раз срабатывает датчик приближения, когда хочешь прослушать голосовое около уха или принять звонок . Когда открываешь меню , зависает , думает , потом открывает . И эти все прелести в первые дни покупки , что же с ним будет , когда будут заняты 512 гб. Сдала обратно</p>",
+                "comment": null,
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "60174af2-b1d0-4525-903b-23fa3fea3cea",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "451e9b40-95d6-e78c-2d6e-8d0825b618bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RW38384",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d5c2f14ea48f5f99a9e87680bf19ba63",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-19 03:09:45.63824",
+                "insertStampFormatted": "19.03.2024",
+                "updateStamp": "2024-04-03 08:55:31.684796",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Яркий экран, крутые цвета. Очень хорошая камера.</p><p>Зарядка от 0 до 100 буквально за полчаса.</p><p>По сравнению со старым телефоном, этот просто летает. Не скажу, что тут появилось больше каких-то необычных функций, но в целом производительность приятно впечатляет.</p>",
+                "minus": "<p>Чехол в комплекте крайне стремный, сразу заказывайте свой.</p><p>Шнур у зарядного устройства очень жесткие, но это все мелочи</p>",
+                "comment": "<p>К покупке рекомендую</p>",
+                "usersCommentsCount": 7,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "6d6d88c1-ba48-4a43-8d8a-c57ff22fae3a",
+                        "text": "<p>Разряжается быстро, но и заряжается с нуля до 100 буквально за полчаса</p>",
+                        "textInitial": "Разряжается быстро, но и заряжается с нуля до 100 буквально за полчаса",
+                        "insertStamp": "2024-04-03 08:27:52.594072",
+                        "insertStampFormatted": "3 апреля 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "29eea100-f672-4460-afb2-66ac2f808cc6",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "9316c35a-11c4-4d92-9336-6a7e30255372",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Resorock",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3c3cb56881fddfd34cd8f7c53c21a4c3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-24 10:51:16.86964",
+                "insertStampFormatted": "24.02.2024",
+                "updateStamp": "2024-02-24 11:37:02.249575",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>очень хороший, удобный, особенно мне как любителю ксяоми</p>",
+                "minus": "<p>цена</p>",
+                "comment": "<p>о покупке не пожалел</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8de85fb0-a4eb-4808-96c0-eb4f68692eba",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "5bb2b78f-2ae6-4b3c-3e9a-133009007fd3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Александр2024",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "78dd21da0be6eb51d257ead59a44deff",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 04:08:47.81012",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 04:08:47.81012",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ad80ae54-aff2-422b-8d05-421e3c5e0a54",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "9a224ff5-064d-8741-8929-271bcc081217",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EK55705",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fb9958804fed113ede24cd6683de747a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 19:11:53.745019",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 19:11:53.745019",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b2fdf57b-c54e-4cec-b959-3b81cc445eae",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "2353e7ee-043a-8c56-c9c8-028519787d0a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "GeForce 1900",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1f2a183f8142c9de756cf85fb9f82c1c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-03 20:08:51.76016",
+                "insertStampFormatted": "03.10.2024",
+                "updateStamp": "2024-10-03 20:08:51.76016",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a671ec90-5360-421f-8874-f409d97f317c",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "18ba57b6-881e-8c74-c858-7d831f25fc65",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UR39829",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fbfb77874ccf5a9ea3a5cd63def4ba7c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-02 06:49:36.342246",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-02 06:49:36.342246",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "59cfa680-b894-4d93-97a1-73b43dd36532",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "2ad6fd78-dff8-6913-f5a6-49ea0978e3a1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LV3256",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "002e66b6ff51536a3114a94220b9d706",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-02 01:23:14.252695",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-02 01:23:14.252695",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3b77ae13-cc47-4548-820d-b6fcca325c00",
+                "objectId": "ae0722c9-88f9-11ee-9176-00155d8ed20c",
+                "objectUrl": "/product/ae0722c988f9ed20/667-smartfon-xiaomi-redmi-note-13-pro-512-gb-belyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro+ 512 ГБ белый",
+                "user": {
+                    "id": "4acb6d81-aa91-4f3e-a3ee-f63eaa8fb3c1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Djaz",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2845c0eb0e4f77cbb2028d98bc5a9f94",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 18:26:51.282131",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 18:26:51.282131",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "512",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 1,
+                "5": 25
+            }
+        },
+        "topId": "2c538606-c7b0-4d7b-abc9-3382d51dec51"
+    },
+    "message": "",
+    "errors": []
+}

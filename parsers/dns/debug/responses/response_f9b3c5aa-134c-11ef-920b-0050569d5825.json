@@ -1,0 +1,104 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 2,
+        "opinions": [
+            {
+                "id": "99b34101-12de-494e-922a-492f638359d2",
+                "objectId": "f9b3c5aa-134c-11ef-920b-0050569d5825",
+                "objectUrl": "/product/f9b3c5aa134cd582/678-smartfon-asus-zenfone-11-ultra-256-gb-goluboj/",
+                "objectName": "6.78\" Смартфон ASUS Zenfone 11 Ultra 256 ГБ голубой",
+                "user": {
+                    "id": "93e4a545-da5d-4413-a910-700d8c19c1c7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "anastasiyamix",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "38bd33f61d5b07f54b3c9652d859a05a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-09 17:15:43.228848",
+                "insertStampFormatted": "09.09.2024",
+                "updateStamp": "2024-09-09 18:37:29.982684",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Что говорить это Asus! Для тех кто любит данный бренд телефон пушка 🤭.</p>",
+                "minus": "<p>Месяц использования - не обнаружено</p>",
+                "comment": "<p>Сотовые операторы России пока не знают конфигурации телефона и не могут прописать его настройки для VoLTE. Но это претензии конечно больше к операторам). Все остальное работает без проблем (NFC, Bluetooth, само качество сигнала отлично).</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        },
+        "topId": "aaf6415d-af70-44f3-a09e-a8d2a28061c9"
+    },
+    "message": "",
+    "errors": []
+}

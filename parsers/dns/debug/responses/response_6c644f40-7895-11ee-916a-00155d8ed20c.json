@@ -1,0 +1,713 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 146,
+        "opinions": [
+            {
+                "id": "cba0d255-2dca-4af1-be85-254091a27307",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "2c1d3a86-2368-4c8e-8f21-846fa4ce67b9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "DarckGameShow",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-07 16:38:18.396",
+                "insertStampFormatted": "07.11.2024",
+                "updateStamp": "2024-11-07 16:49:51.288127",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Их нету.</p>",
+                "minus": "<p>Производительность, связь и все кроме аккумулятора.</p>",
+                "comment": "<p>Если нет вариантов, то в крайнем  случае лучше найти Samsung на вторичке или купить новый.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b6347758-2bfe-4e98-8e54-2c0ad0518ee2",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "b4e77775-7006-024e-379a-cc9445c93b9d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EM88834",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "24cfa7e0acbdbd932292fb4632bd37dc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 08:03:12.795349",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 08:08:27.045299",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Минусы это звук при прослушивании музыки или фильмов. Остальное плюсы</p>",
+                "comment": "<p>У меня два таких смартфона, обоими довольна</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "642c5c15-951f-42e3-995e-51a051bc6680",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "5711db6b-60c3-4b5b-827a-222946dcae98",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/c5a94e38adb5000f9b2c1cfd93bad8b1/14f7594316522d89e7c188cf0dee96a2b356320d6a762a31eaf6c31d1c3a860a.png\">",
+                    "name": "Sergey63g",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 13:55:43.560052",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-23 02:36:53.781032",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>время работы . качество ...</p>",
+                "minus": "<p>для меня нет</p>",
+                "comment": "<p>супруга разбирается. у меня такой же только чёрный .</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "af85df04-8947-4a8b-a15d-f34cf81f1e86",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/0ef430771073062d10f7996d23ecf42d/1d3786231a9fd0fd4128eed84a9afd1658f890468e2e9b3ede17252398966e2b.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6795a921-e9cd-42f1-b71f-aecde78a29b6",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "47fd6ed1-07e9-18d0-c888-7742a216c8bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/7e260d9bd1c37f34c72997143cb54efb/ef3d0f9a07a389d5b268a241c40484ebe9bb0a7d53038829d3cb11c1ee890aa4.jpg\">",
+                    "name": "Abcenkova 223",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "aeff3160458cb818cf95f65b32a4bf4d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-03 09:27:26.356699",
+                "insertStampFormatted": "03.04.2024",
+                "updateStamp": "2024-04-03 10:02:58.104291",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Симпатичный, шустрый.</p>",
+                "minus": "<p>Нет за такую цену.</p>",
+                "comment": "<p>Дочь полностью довольна.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "80dba8a5-7691-4d86-bbcc-e55e4a41684f",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "1a0fde6d-5b76-4443-89d7-c242ff16721d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/57ce1f5488ede2511a65a60a770ed20d/1729e850b9963ca1558fa6f93defe40d7c78f5894d1926313e3daece6a66348e.jpg\">",
+                    "name": "Пришелец-AAI62238",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-15 02:44:25.59384",
+                "insertStampFormatted": "15.03.2024",
+                "updateStamp": "2024-03-15 02:55:35.606014",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Камера</p>",
+                "minus": "<p>В комментариях</p>",
+                "comment": "<p>Взяли маме телефон, когда начали перекидывать данные, то есть совершать синхронизацию то телефон погас. Разочарование. Подарок не удалсч</p>",
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6357055e-4843-471f-8b34-432480cf4b4c",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "604287dd-7310-6a50-fe26-fe0766209e88",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PZ18886",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a4d0bb4e226c93d58c9e99180aa1e821",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-11 09:29:52.74956",
+                "insertStampFormatted": "11.02.2024",
+                "updateStamp": "2024-02-11 10:14:31.956363",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный  бюджетный смартфон.</p>",
+                "minus": "<p>Нет.</p>",
+                "comment": "<p>После смартфона самсунг гелекси м01  2гб-32гб купленного тут же в днс жена в восторге. с</p><p>Смарт хороший. Буду брать такой же себе.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e4759650-071e-4c76-a9ec-6de3df3412e9",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "9e6bc984-d6ec-0602-767d-54ddc884bedf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GI01676",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-06 23:07:28.54893",
+                "insertStampFormatted": "07.02.2024",
+                "updateStamp": "2024-02-07 01:42:31.902668",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид, батарея, производительность</p>",
+                "minus": "<p>Нет их</p>",
+                "comment": "<p>Рекомендую к покупке!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "19a18abc-252b-4482-905f-764405cac372",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "778e780c-2f13-4e7a-bef8-7accd0298541",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/0fc7f320f1733e694a44245465e1c283/7acc4855fa0ec7956bcc871a21ef345a3534f5e84936c946c4a87fcb010b83ca.jpg\">",
+                    "name": "ramil360",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c84eafbf44f523eeb674fafa6f50ca7d",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-27 13:17:43.98629",
+                "insertStampFormatted": "27.12.2023",
+                "updateStamp": "2023-12-27 13:22:51.858648",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена + наушники, чехол и защитная плёнка в комплекте. Приятная мелочь.</p>",
+                "minus": "<p>За данную цену их нет</p>",
+                "comment": "<p>Брал в подарок, все довольны!!!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d02f84b1-96d2-4b1d-9f8b-0fa89b6d5ab1",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "619c646e-4d57-490e-bec2-3ada98f10906",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PU70254",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e0dc27fac0ebfe7b1c4002975073aab5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 07:14:30.976322",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 07:14:30.976322",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "15f9ace2-ba92-4a29-9479-a5f1ff200a81",
+                "objectId": "6c644f40-7895-11ee-916a-00155d8ed20c",
+                "objectUrl": "/product/6c644f407895ed20/656-smartfon-tecno-spark-20-256-gb-belyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK 20 256 ГБ белый",
+                "user": {
+                    "id": "751c7005-50e0-4a63-b55b-1cf29d8a27ba",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JP35838",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c49b7715ebf97411f6a1ac9cf94d2a72",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 07:38:03.724293",
+                "insertStampFormatted": "15.10.2024",
+                "updateStamp": "2024-10-15 07:38:03.724293",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "белый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 0,
+                "3": 0,
+                "4": 9,
+                "5": 112
+            }
+        },
+        "topId": "e0b2120c-2ece-4294-9e79-968a27160fbe"
+    },
+    "message": "",
+    "errors": []
+}

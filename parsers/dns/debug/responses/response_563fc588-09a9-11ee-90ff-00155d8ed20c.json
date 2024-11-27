@@ -1,0 +1,727 @@
+{
+    "assets": {
+        "inlineJs": {
+            "f469291d32c7349c613778fedcfb4008": "window.avatarGenerator.generate('g-Oz1gFc', 'Oz1gFc', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 67,
+        "opinions": [
+            {
+                "id": "de522f6a-ae01-4096-85d7-447b1a164cfc",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "b534889a-c864-bac6-3d1d-5481164c60e1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DE85435",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "766e5312e5525affac969b03495fcb48",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-23 04:55:12.36678",
+                "insertStampFormatted": "23.11.2024",
+                "updateStamp": "2024-11-23 05:19:17.170603",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Красивый телефон, быстрый, яркий. Быстро заряжает но...</p>",
+                "minus": "<p>Зарядка очень быстро садится</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f526a777-2255-4b44-861d-42074f55e565",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "0cb824ee-391c-4502-8ff7-d83d2d821cb7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Zuzaro",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "74e66764c7726308c125af9af8b14093",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-04 20:36:35.62214",
+                "insertStampFormatted": "04.11.2024",
+                "updateStamp": "2024-11-04 20:42:47.248837",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Мама счастлива - новый, зелёный, камера лучше чем когда либо</p>",
+                "minus": "<p>Я не смог настроить большой шрифт так, что бы на ярлыке программы все было аккуратно. Но это моя придирка, а маме все нравится.</p>",
+                "comment": "<p>Мама года с 2012, примерно, постигала мир новых технологий \"донашивая\" мои смартфоны.... То Samsung s8500 wave, то honor 8, потом Huawei p smart z....</p><p>В начале осени 2024 я чёт глянул на потрёпанный чехол смартфона мамы, почесал голову, поехал и купил этот смартфон. Почему этот? Это Huawei. И у жены такой же, мне нравится камера в смартфоне и оболочка и всё в целом. Хотел сменить свой на такой же, но мне надо минимум 320 Гб памяти 😅 а у nova 11 максимум 256</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cae9277a-0c32-4d16-89d4-d5ed802fa6bc",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "7771a1bc-e431-1bf2-982b-38f0cfdc1386",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CB37951",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-02 07:34:23.96768",
+                "insertStampFormatted": "02.11.2024",
+                "updateStamp": "2024-11-02 07:45:18.910066",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>внешний вид</p>",
+                "minus": "<p>глючность</p>",
+                "comment": "<p>очень спорный гаджет, с которым нужно придумывать велосипед или терпеть. отсутствие Гугл сервисов это не самое страшное. самое страшное – это Gbox, ибо в местном AppGallery нет не только гугловских приложух, но и обычных базовых, а некоторые из них не работают корректно. к примеру, стандартный Telegram из AppGallery не вывозит кружочки, они просто лагают, админы не фиксят баг уже пол года. если скачивать Тг из Gbox, то получаешь подтупливание и плюс пару секунд к загрузке приложения с заставкой Gbox, что вымораживает порой, и так не только с телегой, а со всеми приложениями из Gbox. ни один впн не работает на этом устройстве нормально, перестали работать спутся пару месяцев использования. я перепробовала уйму программ, скачивала их из браузера, а не через костыль Gbox, и все равно ничего не работает – тупо вылетает, не грузится, не отвечает. один рабочий Tiptop VPN, но и для него слово «работать» звучит очень громко. работает от силы минуту, потом приложение Нельзяграм просто вылетает, и так постоянно.</p><p>камера порой выдает достойные снимки, и выдавала бы их чаще, если бы не встроенная обработка, которую, как я поняла, отключить невозможно. она делает из фото вычурные картинки, которые как будто прогоняли через фильтры раз 5, складывается впечатление, что ты прежде чем отправить фото собеседнику, пол часа сидел в каком нибудь пресловутом граф. редакторе и отчаянно накладывал тонны фильтров. но стоит отметить, иногда это сходит на руку и получаются хорошие фото. чтобы фоткать без убогой обработки, приходится заходить в про режим, а это ещё лишняя трата времени и лишние свайпы и клики в приложении камера. батарея за 4 месяца пользования просела на 1 процент, то бишь ее производительность снизилась со 100 до 99 процентов. и это учитывая то, что я поставила по рекомендации смартфона зарядку не до упора, а до 90 процентов, якобы это сохранит жизнь батареи. пользуюсь устройством стабильно с 8 утра до 3х дня, батарея уже на исходе, остаётся процентов 30.  лаги, подтупливания имеются, приложения порой вылетали, однажды он просто выключился ни с того ни с сего. единственный колоссальный плюс для меня – съемка видео хоть и в 30 фпс, но все же 4к. в этом ценовом сегменте не нашла аналогов, которые снимали бы в 4к. покупала я его, к слову, за 22 тысячи в июле 2024 года. съемка видео после андроидов без какой либо стабилизации меня очень порадовала. снимаю до сих пор с удовольствием. такие видео не стыдно выложить в какую нибудь соц. сеть и не ловить стыд от трясущейся картинки, как это бывает на дефолтных андроидах.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "19552986-6b9c-404f-a76a-02e8971ef639",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "fe3d4daf-6aa1-45a9-af83-453dd63e9b40",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SA1656",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c9d68a78cbeb2d515676e64a6919d88a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 17:14:01.51054",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 19:28:51.360544",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Отличная камера, прогресс по сравнению с nova 5t виден, качества записи звука на видеосъёмку отличное для своего бюджета. Отличный экран с минимальными рамками, 120гц , отличная калибровка и чёткость изображения. Шим не ощущается. Звук стерео за свой бюджет очень хорош. Тонкий и лёгкий корпус. Быстрая зарядка. За счёт грецовки экрана и проца очень шустрый в повседневных задачах, игры не запускаю. Проблем с гуглом особо нет, кроме некоторых нюансов которые укажу ниже в недостатках. Обновления ПО приходят , 14.2 microG появился. Оболочка приятная как всегда huawei.</p>",
+                "minus": "<p>1. Батарея относительно средняя, по сравнению со старичком nova 5t конечно лучше, но ожидал большего( спасает только быстрая зарядка)</p><p>2. Проблемы с некоторыми приложениями отсутствующими в app gallery( whatsapp, instagram, youtube и все виды vpn).  Всё что можно перенёс со старого устройства, но как только потребовались обновления приложений и только gbox в помощь пришёл, пока что работает и обновляется. Правда пока, дальше посмотрим.</p><p>3. Сканер отпечатка пальцев такой себе, не особо чуткий. Лучше в боковую клавишу встроили.</p><p>4. Порт type-c перестал поддерживать \"аналоговый сигнал наушников\" через оригинальный переходник 3,5 на type-c. Придётся на беспроводные переходить если потребуются.</p>",
+                "comment": "<p>По итогу: телефон понравился за 24к хороший, как обновление удачное и на всё что нужно хватает. Из явных недостатков только батарея, всё остальное вполне решимо.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "385322d4-1068-4cae-b97e-b36f6e37cdff",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "ddfa8965-50f8-a181-db21-1a1ca3c5ef53",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YW00152",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d1b79aa61afdfec819ecf9dabf690bea",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-28 02:49:18.736631",
+                "insertStampFormatted": "28.08.2024",
+                "updateStamp": "2024-08-28 03:43:41.590256",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Довольно хороший телефон, процессор шустрый, камера отличная, звук у телефона хороший</p>",
+                "minus": "<p>Не хватает гугл сервисов, на полной громкости задняя крышка вибрирует</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9e90f858-30c8-4ee4-90d0-2ee7b4d16fd6",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "48995bb3-04c3-2e99-67b6-8fbde0456a98",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RK97864",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-27 04:35:21.91793",
+                "insertStampFormatted": "27.06.2024",
+                "updateStamp": "2024-06-27 04:36:48.832553",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Мощный, легкий, тонкий, красивый</p>",
+                "minus": "<p>Не нашла</p>",
+                "comment": "<p>Гугл устанавливается довольно просто. Скачивание g box через app gallery и все, все приложения становятся доступны для установки. Смартфон очень понравился, успела купить по акции за 22899 рублей. Экран шикарный, заряда батареи хватает на сутки, заряжается очень быстро. Рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ccd393f1-ed61-411f-8124-9909a8892da2",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "a75a237c-4366-0841-3c2b-9789c4da4ac7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/0c7e8cf18edaf7c51375156655e059dc/efc80e80ebc432ee3523f458dda10db475274ee0ccd6636af06e7d21e99e17d9.jpg\">",
+                    "name": "Konohoff",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-10 04:19:25.52761",
+                "insertStampFormatted": "10.04.2024",
+                "updateStamp": "2024-10-10 04:33:12.937897",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отсутствие Гугла, производительность, камеры</p>",
+                "minus": "<p>Нет их</p>",
+                "comment": "<p>Отличный смартфон, датчик отпечатков в экране, работает быстро и стабильно.</p><p>Покупал жене, она довольна, и производительностью, и камерой.</p><p>Отсутствие Гугла никаких проблем не принесло, даже плюсы. Никакого лишнего хлама. Нужные приложения (Ютуб, Инстаграм) встали очень легко через GBox. Все остальное отлично ищется в appgalery.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "55db8289-7263-4518-a9bb-ebef1e236117",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "0f8b431d-b5da-28bd-737c-6837d32d71cd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FHN44109",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a8860ae2343d55cff4b49a2b3611e558",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-29 15:02:32.45422",
+                "insertStampFormatted": "29.02.2024",
+                "updateStamp": "2024-02-29 15:04:30.206096",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>для постоянного пользования прекрасно подходит и батарея хорошая и качество связи хорошие и производительность прекрасное</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>внешний вид прекрасный советую приобретать.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "64651f40-4b13-4166-855f-1a89f271acb2",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "de5ff16b-9fd1-14f8-b481-1618d00251a0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BT16333",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7c3d4ffe70b1f13a44850b860c651648",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-23 03:27:52.96982",
+                "insertStampFormatted": "23.01.2024",
+                "updateStamp": "2024-01-23 04:09:44.508621",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон в полном порядке, за свои деньги функционирует отлично, местами сильно напоминает яблочную систему.</p>",
+                "minus": "<p>Покупал онлайн с доставкой - подсунули витринный образец без предупреждения. Коробка была вскрыта, телефон полапан, в галерее фотографии и видео каких-то странных детей от октября 23 года.  Это испортило впечатление от покупки.  К работе самого девайса претензий пока вроде нет.</p>",
+                "comment": "<p>Видимо только самовывозом)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "df270192-3515-499f-b9fe-1468ab4f131f",
+                "objectId": "563fc588-09a9-11ee-90ff-00155d8ed20c",
+                "objectUrl": "/product/563fc58809a9ed20/67-smartfon-huawei-nova-11-256-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 11 256 ГБ зеленый",
+                "user": {
+                    "id": "bcd5bd6c-d754-e681-1686-e35db944ae6b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RR18252",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4d923afdaa6b8cb3f16ea4590dab5f69",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-14 20:23:43.1764",
+                "insertStampFormatted": "14.01.2024",
+                "updateStamp": "2024-01-15 01:46:44.508582",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый, удобный, много памяти, очень хорошая фотокамера.</p>",
+                "minus": "<p>Не выявлено.</p>",
+                "comment": "<p>Покупал в подарок жене. Жена в восторге от телефона вообще и от качества фотографий в особенности! 👍👍👍</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 1,
+                "3": 3,
+                "4": 2,
+                "5": 47
+            }
+        },
+        "topId": "e7cfa23d-8733-4966-a878-0371b13947a7"
+    },
+    "message": "",
+    "errors": []
+}

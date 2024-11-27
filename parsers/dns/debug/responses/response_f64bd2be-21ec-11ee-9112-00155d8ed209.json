@@ -1,0 +1,719 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 35,
+        "opinions": [
+            {
+                "id": "07527282-a967-44a3-997c-dec9494a6c1b",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "cea9dcf5-da50-43b0-2400-c9dd33b58410",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CW93994",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-07 18:35:51.23259",
+                "insertStampFormatted": "07.03.2024",
+                "updateStamp": "2024-03-07 19:08:05.794205",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший</p>",
+                "minus": "<p>За 2 месяца эксплуатации недостатков не нашёл</p>",
+                "comment": "<p>Своих денег однозначно стоит</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "835de27c-f9ba-4dfb-aa1e-fc672496e56d",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "82622c3c-b1b7-41b7-5e51-5b8e37041315",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LW78763",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-02 08:25:31.82321",
+                "insertStampFormatted": "02.01.2024",
+                "updateStamp": "2024-01-02 09:06:36.656992",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Камера, операционная система, внешний вид</p>",
+                "minus": "<p>Сильно нагревается</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e8634eae-2e27-4f98-8870-7f8352f34482",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "c37c2a47-1908-1cd4-43ed-6f9cd8c71605",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SK1352",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eaef74a8c4d685a27e765d4bc23841d5",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-13 05:06:37.84886",
+                "insertStampFormatted": "13.12.2023",
+                "updateStamp": "2023-12-13 05:39:04.99685",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Дизайн, эргономика. Просто пушка.</p>",
+                "minus": "<p>Могут возникать мелкие баги в прошивке самого телефона, но это все фиксится разработчиками. Больше минусов я не нашел)))</p>",
+                "comment": "<p>Здорово, что такой в таком дизайне еще есть и глифы. В совокупности дает \"вау\" эффект, который заставит всех смотреть только на вас. Единственное, что ты сам очень быстро привыкаешь к подсветке и она перестает тебя удивлять, а ты перестаешь ее замечать)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e6b6eaed-89f6-4601-a8ff-1db1c40b8f34",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "fb078ccb-7987-473d-b607-f1940bbc30b9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LZ1702",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "09e27dae65cb20352743aa84bb221cd6",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-13 00:36:00.254825",
+                "insertStampFormatted": "13.11.2023",
+                "updateStamp": "2023-11-13 01:41:48.03202",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Дизайн, функционал, производительность, интерфейс.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Отличный харизматичный смартфон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "630f8b75-53d1-4fa7-81a2-074d04c6c4d5",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "a164bfc4-60cf-2ce3-a811-b18b99166f47",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "malou1337",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "113cbb98fc37c467b358cc3db2d31041",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-12 12:58:52.61772",
+                "insertStampFormatted": "12.10.2023",
+                "updateStamp": "2023-10-19 15:14:20.320112",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Броский дерзкий стильный громкий</p>",
+                "minus": "<p>Камеру всё также не починили. После 2х фоток начинает тормозить. Звук иногда хрипит, помогает перезаход в приложение, в котором это происходило</p>",
+                "comment": "<p>Ну что я могу сказать. Мы все знали, на что идём при покупке этого телефона. Ждём обновлений. Кто хочет этот телефон чисто из-за задний панели - уважаю) Но через время привыкается и такого вау эффекта уже нет))) Приколов с глифами мало для моего стиля использования телефона: поставил интересный глиф на звонок и сделал так, что при звонке экраном вниз у тебя только глиф светится, а рингтона нет, т.е. половина функционала не используется. Рингтон включать не хочу</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "434b69a5-31f6-4aaa-bf56-ad1214bc930d",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "b7a37af9-8159-4aa3-bd0d-975463a0a88b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WG2943",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a3c1d7dd2131ee0266d20ff48945fe82",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 11:50:23.910639",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 11:50:23.910639",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "60bfbd6a-155b-4563-bcca-82a96fa86f77",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "c92fe3a4-7665-49b0-9867-1dbb87dd7f70",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BF5293",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7f3e50762eddb77d704d1449f244b800",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 10:48:56.450504",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 10:48:56.450504",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3b24c68e-bb1e-474d-baf7-92cf0a4cf652",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "1f9544cd-7c9f-53d4-f6a5-80092792b006",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZA0501",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c3dc8792c9c733d3599beae43d5b2a22",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-03 10:09:27.108119",
+                "insertStampFormatted": "03.09.2024",
+                "updateStamp": "2024-09-03 10:09:27.108119",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c633a7e2-80ea-444f-bd66-7325c3bd1405",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "b6c1c5cc-4c3b-c72a-849a-466c506bea88",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SO07010",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1e7ee471678d0326a1149684f99f48ac",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-03 16:01:44.674378",
+                "insertStampFormatted": "03.07.2024",
+                "updateStamp": "2024-07-03 16:01:44.674378",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "1d2394af-1cb4-4548-abd5-b44d812cf465",
+                "objectId": "f64bd2be-21ec-11ee-9112-00155d8ed209",
+                "objectUrl": "/product/f64bd2be21eced20/67-smartfon-nothing-phone-2-256-gb-seryj/",
+                "objectName": "6.7\" Смартфон Nothing Phone 2 256 ГБ серый",
+                "user": {
+                    "id": "584ef78f-714f-d9a0-286a-9021778a77b3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BU36365",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d4035cefbff7dbd4b9a466c43dacc0f6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-20 14:26:05.100209",
+                "insertStampFormatted": "20.06.2024",
+                "updateStamp": "2024-06-20 14:26:05.100209",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "серый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 27
+            }
+        },
+        "topId": "7c15d5c2-d041-49d6-88c1-fd47fc672ae3"
+    },
+    "message": "",
+    "errors": []
+}

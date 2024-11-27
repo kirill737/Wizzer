@@ -1,0 +1,743 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 68,
+        "opinions": [
+            {
+                "id": "9edd135b-2225-452b-ae78-aee21c757955",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "99b9116c-ada5-fa3a-4f9c-10490fc2494a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAH90219",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "25c08765af6540a48c46f0cabea758a7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-19 09:30:33.36349",
+                "insertStampFormatted": "19.11.2024",
+                "updateStamp": "2024-11-19 10:00:58.121653",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>хороший телефон за свои деньги, приятный на ощупь.</p>",
+                "minus": "<p>за такую цену нет</p>",
+                "comment": "<p>Покупал отцу, он очень доволен, тьолько по размерам очень большой говорит)))</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "14a5bf0f-4abd-478e-864d-06a12848d323",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "6d428a58-451a-e243-929f-d979ae0f8eb5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DN85369",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0f0ea5fdad506ba4a085b71524baebb1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-26 04:10:18.945083",
+                "insertStampFormatted": "26.09.2024",
+                "updateStamp": "2024-09-26 04:24:23.98248",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Тех. характеристики хорошие, цена низкая</p>",
+                "minus": "<p>На следующий день после покупки полетел динамик</p>",
+                "comment": "<p>Телефон хреновенький, днс - молодцы, деньги вернули в тот же день...</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "39decc81-c82e-46ed-a1d4-94748809a57f",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "b4e49995-0311-33bf-e908-618cfe0facf0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VL06001",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-06 00:17:53.57669",
+                "insertStampFormatted": "06.09.2024",
+                "updateStamp": "2024-09-06 01:32:02.723138",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 2
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Дешёвый, хорошая батарея, слот сим+сим+карта. 4/128гб.</p>",
+                "minus": "<p>Динамик один и фонит из всех щелей. При этом качество звука такое, что чтобы понять нужно выкручивать громкость на 70-100%. Заклеил торец люминиевым скотчем(дырки динамика и 3.5 разъем) стало немного лучше при разговоре, но смотреть ролики и звуковые смс... такое себе удовольствие...</p><p>Система урезана вусмерть. При этом из коробки имеем забагованый лаунчер с прозрачными ярлыками и невозможность поставить виджеты, любые!</p>",
+                "comment": "<p>Лаунчер вылечил установкой стороннего. Попутно выпилил возможность обновления, все ларьки и гугл хлам. Приложения придется ставить и обновлять в рукопашную, но такой опыт есть со времён виндопс хр. А с куглем уже года 3 не дружу, до этого Хуавей был(утонул).</p><p>После перепиливания получилась вполне стабильная звонилка с функцией менеджеров и ползанья по инету.  В дальнейшем планирую его использовать как резерв, модем, торрент качалку и плеер.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "955d2942-b684-4b26-a4fd-18b5641d7022",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "7beb33f9-2989-4047-b2bd-48896a28793f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAB77637",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2788df20a53aa388f398c8ec2ad19641",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-26 09:30:05.09646",
+                "insertStampFormatted": "26.08.2024",
+                "updateStamp": "2024-08-26 17:57:00.244096",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Дешевый, дизигн присутствует, производительности достаточно для соцсетей, запись звонков.</p>",
+                "minus": "<p>Тусклый экран, проблема при воспроизведении видео 60к/с, камера, урезанный андрой сильно ограничивающий кастомизацию, не будут работать некоторые приложения использующие наложение окон. Развернуто напишу в комментарии.</p>",
+                "comment": "<p>Модель 4/128. Купил как временный телефон, тк свой основной разбил и коплю на флагман. Очень слабый процесор, это нужно понимать, подумайте заранее, что Вы хотите получить от телефона. По приложениям, ЯндексГо работает достаточно быстро, Тинкоф работает быстро, ВТБ тормозит, ТГ работает быстро, ВК работает достаточно быстро. Серфинг в интернете в Хром, Яндекс, Самсунг браузерах тянет хорошо. По поводу просмотра видео в Ютьюб, если видео 30к/с, будет без тормозов работать 1080р, если видео 60к/с, то будет тормозить даже 720р. Камера тут чтобы сфоткать документы и не более. Из коробки пишет звонки, что для меня важный плюс. Андройд 14го порезан максимально, кастомизации и виджетов здесь не будет, 90герц действительно есть при работе в системе, но если забить приложениями начинает лагать анимация, так что сомнительный бонус. Звук по проводу посредственный (проверил на AKG K361), по блютус сигнал не пропадает, динамик не хрипит но и не что-то сверх, помним о ценнике.</p><p>Отдельный пункт это экран. По цветам норм, НО очень тусклый. В помещении, в тени, когда облачно все более чем читабельно, в солнечную погоду уже очень тускло и ничего не видно. Причем в настройках есть некий пункт \"Режим На улице\", он действительно сильно увеличивает яркость, но режим глючный и практически никогда не работает. Скриншот я приложу, в 99% он у меня пишет ошибку \"перегрев устройства\". И это при том, что телефон мог лежать час дома, быть максимально холодным, но ОС будет считать устройство \"перегретым\". Что тут может быть перегретым с таким процессором решительно непонятно. А так, когда этот пункт активен, на улице можно нормально пользовался.</p><p>Еще из коробки нет приложений типо галереии и файлового менеджера, спокойно можно доставить из плеймаркета эти же приложения от гугла.</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "abd10a52-0810-49e6-8596-8a52811b1463",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/a0da3ef8c0b683c17cdb66bf69dceff7/063dc5fd6d0b95282a888825fd14038490b1a0f540a05f81d119f25fc67a493a.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ea609bd3-2d1d-4bf8-9058-36b135a4811b",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "104ea866-9f22-4894-9c6b-e1f27d166804",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/b8f5163de5c7b400bc988e5596831d3c/112383bde082741893089240deaa51c8f35c70717a26e01db4f235e6edeed6be.jpg\">",
+                    "name": "Пришелец-GK7637",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-23 06:27:11.54825",
+                "insertStampFormatted": "23.08.2024",
+                "updateStamp": "2024-08-23 06:29:39.135166",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 2
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея.</p>",
+                "minus": "<p>Медленный. Приложения открывает долго. При просмотре видео тупит.</p>",
+                "comment": "<p>Телефон для бабушек. Сковородка на месте камеры.</p><p>При разговоре, со слухового динамика вас слышат все вокруг.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "bc446210-edab-4900-8fcb-5c291e4923fd",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/cb3701a44f4bba7f45cd4fd17119d22c/9e14b3c24c571923b88ca9e153ab34610e9dc78dd4fde2602f85624e5471a8c9.jpeg"
+                    },
+                    {
+                        "id": "a2648986-27e1-455f-8670-766ae0b202ec",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/1d2902f2cf2c1ec8061bd841dc6bfe63/bf45c9e3bbcc3248631eadedff9eb7e9a39ce6b61ecdac96aecf648b5a24f421.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b96c5e3a-d491-4864-8ea2-ead27c435874",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "4ddef5bc-3f9f-4c5d-98f9-76d07aee1500",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/c5a94e38adb5000f9b2c1cfd93bad8b1/14f7594316522d89e7c188cf0dee96a2b356320d6a762a31eaf6c31d1c3a860a.png\">",
+                    "name": "Николаевич",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2a6496019a11c60d0c3f7c8a996fcb8e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-30 09:18:15.52904",
+                "insertStampFormatted": "30.05.2024",
+                "updateStamp": "2024-05-30 10:09:01.563287",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Пока не выявил</p>",
+                "minus": "<p>Нельзя установить разные мелодии на сим карты, может после обновления до 15 дройда появиться возможность, еще в телефонной книге имена нужно сокращать много символов не входит</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "be957bda-3de4-421a-a31a-3e9b1c008dd4",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "aa484e7c-9273-0156-f79e-6edb1f339ac4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JC03353",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "db4fc89c25558e04f1c902fb3516cfba",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 02:38:21.52534",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 02:38:21.52534",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f0806ede-59a7-43e1-8c07-33fc323e63a9",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "c6342b23-5f08-c5c1-2cfa-e7995242164c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YU91747",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "061ef87554ef27223a7fc3b6029880c0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 09:31:31.873205",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 09:31:31.873205",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "caf37561-9fc2-4989-b411-56e5c4a93318",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "2c829518-6fce-45b5-9a3b-e765af98222d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9d45b061ead06f6ac8ed955d1bcea8e3/1c169a81341c4c4fd6a836a4a282572e25704def7034d0921c285eb3f8be5e76.jpg\">",
+                    "name": "Pegas71",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0ca4b63bf452a57d26a3a625899b3762",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 14:33:36.605912",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 14:33:36.605912",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c35241ed-d9fd-469c-8940-1a111290b13d",
+                "objectId": "b0fbcf22-9d7c-11ee-919a-00155d8ed209",
+                "objectUrl": "/product/b0fbcf229d7ced20/671-smartfon-xiaomi-redmi-a3-128-gb-zelenyj/",
+                "objectName": "6.71\" Смартфон Xiaomi Redmi A3 128 ГБ зеленый",
+                "user": {
+                    "id": "02041733-6358-4d9c-b0e9-1eb9023aad5b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RW531674",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4dae7eb9e3f2ff44328751396e6dde26",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 22:58:21.995485",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-15 22:58:21.995485",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 1,
+                "3": 2,
+                "4": 8,
+                "5": 36
+            }
+        },
+        "topId": "d2be8f65-fb77-4e47-aeb1-bfdb8020d3ca"
+    },
+    "message": "",
+    "errors": []
+}

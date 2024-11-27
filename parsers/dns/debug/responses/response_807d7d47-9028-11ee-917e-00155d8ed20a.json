@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 50,
+        "opinions": [
+            {
+                "id": "4a1a3715-4e9a-45b8-a0c4-3873c8a23f62",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "c0639057-9887-ce52-0895-273659da5285",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DR46204",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-26 14:05:34.8427",
+                "insertStampFormatted": "26.11.2024",
+                "updateStamp": "2024-11-26 16:20:00.124419",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Телефон не плохой, камера и тд....</p><p>Но шумоподавления нет от слова совсем 😑...</p>",
+                "minus": "<p>Нет шумоподавления</p>",
+                "comment": "<p>Очень расстроило, что , как оказалось, нет абсолютно шумоподавления...(((</p><p>Когда идёшь по улице, собеседник чуть ли не глохнет от всех шумов, движения автомобилей и тд., в помещении, собеседник слышит чуть ли урчание в животе...</p><p>Никогда такого не было... Во всех прошлых телефонах и ниже рангом, даже при разговоре на улице, мне не верили, что нахожусь на улице...</p><p>Как как...? Телефон нужен для работы, и это , самое важное ,можно сказать, чтоб не было посторонних шумов....</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "01190326-4033-4edc-b117-1842011eb492",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "5401d16d-631c-290d-4a47-44f89d8e83ac",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HL1083",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ba250034345c07e5c25514eb02ea7e7d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-18 09:28:20.15587",
+                "insertStampFormatted": "18.11.2024",
+                "updateStamp": "2024-11-18 11:07:32.96948",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Лично для меня - практически все. Отличительно от других схожих брендов/моделей при прочих +/- равных основных параметрах (процессор, оперативная/постоянная память, емкость батареи, физический размер, наличие NFC) для меня имеет еще вес: наличие разъема для наушников 3.5 jack, операционная система MIUI с широким охватом настроек под собственные нужды. Кстати, очень хороший и, главное, - громкий звук на внешний стерео-динамиках</p>",
+                "minus": "<p>Относительно Redmi Note 10S жаль что датчик отпечатка пальца переехал на экран (был на кнопке). Также жаль что разъем для sd-карты совмещенный с сим-картой. Более выпуклая камера тоже такое себе, конечно, удовольствие, хотя видел и хуже.</p>",
+                "comment": "<p>Взял на замену Redmi Note 10S (2021г.в.), до него был Redmi Note 4X. Посмотрел другие бренды для понимания, есть ли теоретический смысл попробовать сменить бренд и при прочих равных параметрах снова выбрал линейку Redmi Note. Когда читал комментарии, то первое, на что обратил внимание - это жалобы на рекламу и большое количество левых предустановленных приложений. Очень странно, потому как именно ОС MIUI меня больше подкупает в этой линейке, потому как остальное физическое железо и технологии везде примерно одинаковые. В MIUI можно снести и отключить практически все лишнее (те же гугл сервисы в том числе), запретить приложениям доступ в интернет (привет рекламе), наконфигурировать шторку и уведомления, рабочий стол тоже вполне себе гибко настраивается, контроль активности приложений можно выставить. На двух других брендах, на мой взгляд, сильно переоцененных на андроиде такого не видел, но не берусь утверждать что лучше/хуже - каждому свое и не все в руках держал. К тому же, не все готовы в этом ковыряться либо ввиду времени, либо ввиду необходимости иметь соответствующие знания. Советую всем, на любых телефонах любых брендов - не лениться и больше уделять внимания настройкам типа \"синхронизация всего и вся в любое время с облаком\" и \"мы соберем вашу статистику, но никуда ее не отправим\" и отключать, если есть такая возможность, доступ к интернету у приложений, которым он очевидно не нужен (проигрыватель локальной музыки, калькулятор, редактор офисных документов, файловый менеджер...), выставлять соответствующий уровень активности (если рутуб не используется, разве нужно держать его процесс в фоне? Можно вычистить в первую очередь), запрещать фоновый запуск. Тогда и рекламы не будет и греться не будет и интернет-трафик не съест и тормозить будет меньше.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9feb2c52-31b8-48f4-bf5d-1e52e24ec6e5",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "bd119464-9c3b-c82d-283a-7737a23a52ac",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GC64054",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-17 14:21:05.98334",
+                "insertStampFormatted": "17.11.2024",
+                "updateStamp": "2024-11-17 14:44:35.793592",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Для меня нормальный аппарат по всем параметрам и функционалу. Будет работать так   же, как сейчас - вообще прекрасно!</p>",
+                "minus": "<p>Для этой цены - нет недостатков!</p>",
+                "comment": "<p>Брал по акции, по онлайн - оплате за 19999р. на следующий день стало 16999р. Повезло, но не совсем!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3d5e532b-9abc-4be1-a464-8e727b9346f7",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "cc1953ba-fdf7-aa70-6998-977eb2b8e169",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-II58248",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c6b31e8205089545cce7498d100210f7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-29 07:11:25.308318",
+                "insertStampFormatted": "29.06.2024",
+                "updateStamp": "2024-06-29 07:25:07.361677",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый, удобный в эксплуатации.</p>",
+                "minus": "<p>нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d512b8ff-1f31-4e0b-ac97-86c2061daa22",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "35afcb99-5bdd-3df4-0eb6-e105d0671c0a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YM24164",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d4fc9c139eb2befb027001f90501f875",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 06:42:38.204608",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 06:42:38.204608",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6c063fb1-8d2d-4e43-9fc0-0c7b8159cbfc",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "61529894-f5b0-4f6f-8571-b8ed14100acc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a96e848e2dcdab6f6c178f3b1b2ee4e7/b820a8521596716e5ba63b15291895c190e857ae14067602c874cf50ab2493ba.jpg\">",
+                    "name": "1tami",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "378945c5c3ac02dc966497db24a204f9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 00:05:35.395974",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 00:05:35.395974",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "61cdb738-a372-44ee-b9cf-0e311529bf20",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "a1de4294-84ce-54d0-ea5c-c2803822707e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "alenkarodnaya",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f1607b07cb2d7e3bbb21d50f650f6c51",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-20 05:54:04.663449",
+                "insertStampFormatted": "20.09.2024",
+                "updateStamp": "2024-09-20 05:54:04.663449",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "eb160e6e-e829-4458-b2cd-2337cc902b21",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "15cfa64b-0e80-4513-ab58-cc1f57aa1955",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HQ54853",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2b77078d27592180a6cab462f8c170d1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-19 08:51:16.757295",
+                "insertStampFormatted": "19.09.2024",
+                "updateStamp": "2024-09-19 08:51:16.757295",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "97f3e542-44ef-4a5a-9e13-5c26745887f5",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "47fec474-a4cf-9e2a-24f2-79b1adcf65ee",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BL72050",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2128b6657bf6a37f19e710568ee645cc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-12 14:16:06.094024",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-12 14:16:06.094024",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c80c9d28-be6b-454c-9cc6-731ed13a5ffa",
+                "objectId": "807d7d47-9028-11ee-917e-00155d8ed20a",
+                "objectUrl": "/product/807d7d479028ed20/667-smartfon-xiaomi-redmi-note-13-pro-128-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 13 Pro 128 ГБ фиолетовый",
+                "user": {
+                    "id": "ecda1084-cfbe-486a-a700-eff6c3525a7f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "InFamousGod",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f487f0607b9238bd369b71ed8eb5e0b5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-09 11:34:04.533597",
+                "insertStampFormatted": "09.09.2024",
+                "updateStamp": "2024-09-09 11:34:04.533597",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "фиолетовый",
+                    "Память (ГБ)": "128/8"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 30
+            }
+        },
+        "topId": "6f23a610-6e0c-4151-bf5c-73bc4020ddcb"
+    },
+    "message": "",
+    "errors": []
+}

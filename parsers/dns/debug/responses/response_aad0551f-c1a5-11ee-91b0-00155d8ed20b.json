@@ -1,0 +1,733 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 239,
+        "opinions": [
+            {
+                "id": "ab8099c3-24c6-466c-9be0-2a898df0c38a",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "11ce892a-29b5-19a5-41e4-47cbbd0c2034",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Lwjt",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d9d49c76417e4c8619dba912325093ba",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-25 10:45:31.80761",
+                "insertStampFormatted": "25.11.2024",
+                "updateStamp": "2024-11-25 11:39:11.458463",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Дизайн очень красивый (если что, подсветку линий на задней панели можно отключить)</p><p>Мощная батарея и быстрая зарядка (но 120 Гц жёстко съедает заряд, поэтому держу на 90 Гц)</p><p>Стереодинамики, только непонятно зачем делать 2 динамика в нижней части (где ещё USB), из-за чего звук справа оказывается громче, если можно было сделать просто 2 динамика на лицевой части, как, скажем, у смартфона Сони</p>",
+                "minus": "<p>Большой, в руке трудно помещается (куда же пропала мода на меньшие модели, которые удобно сидели в руке? А мы их ещё лопатами называли...)</p><p>Нельзя соединить шторку уведомлений и центр управления, как можно настроить на Поко, и как оно было по умолчанию на моём старом Самсунге, очень неулобно</p><p>Яркий эффект подсветки при разблокировке отпечатком, не знаю, можно ли выключить</p>",
+                "comment": "<p>Смешанные впечатления после покупки. Переходил с Poco M3 Pro, потому что надоела их оболочка MIUI со встроенной рекламой. И вроде как по всем характеристикам этот телефон лучше Поко, но как-то не очень удобно мне с ним. Может, привыкну, а может и подарю его.</p><p>Камеру ещё особо не тестировал, т.к. всё ещё хожу со старым Поко. А по поводу экрана ничего не могу сказать, Амолед, все дела, он не лучше и не хуже IPS, просто другой</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0c4c4fce-a3cd-4cfd-93d3-64389b40cab9",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "79064c23-2e97-0472-0629-82e296bc06eb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец - Peipy",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c08ae034065dce686a5e90fe6d82f7c2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-22 07:06:19.53904",
+                "insertStampFormatted": "22.11.2024",
+                "updateStamp": "2024-11-22 07:08:48.127341",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>- Батарея на 6000 мА*ч в совокупности с блоком питания на 70 ват и зарядкой в турбо режиме вы вскоре задубите что такое ожидание зарядки телефона</p><p>- Память, 256 хватает с головой (но может потому, я не фоткаю все подряд и не снимаю никакие видио)</p><p>- Оперативка 8+8, номинальна физически её там 8 gb а другие 8 gb берутся из памяти телефона, поэтому не советую добавлять ещё 8 gb, большинству купившим этот телефон не забить и это 8 gb, а добавляемые 8 gb из памяти телефона в несколько раз медленнее оперативной поэтому расширение оперативной памяти может наоборот замедлить телефон, а не ускорить</p><p>- Дизайн, он на любителя</p><p>- Есть трехголосная световая индикация уведомлений и звонков, но я пока не придумал как его использовать</p><p>- Комплектация, которой не меже позавидовать любой другой бюджетник, а именно: Чехол (Силикон твердый, и на всю заднюю панель плотный пластик, защитная плёнка, провод (довольно толстый), блок 70W</p><p>- 2 фонарика, спереди и сзади</p>",
+                "minus": "<p>- Дизайн, из за него необходимо покупать чехол имен такой же формы, из за блока камер и платформы на которой она выступает, платформа занимает треть от телефона и выступает на 1-2 миллиметра</p><p>- Со временем в районе камер при тряске слышен звук как будто там что-то отвалилось (это началось до того как я его несколько раз уронил)</p><p>- Очень, ОЧЕНЬ хорошо остаются отпечатки что на стекле с плёнкой что сзади на чехле</p><p>- Камера с самого момента покупки при семке в темном месте или тёмное время суток появляются вертикальные полосы на весть экран, но может это только у меня, поэтому проверяйте это при покупке</p>",
+                "comment": "<p>Хороший бюджетник, довольно прочный, раня 2 раза на дерево с высоты примерно в метр, нет ни царапин ни трещин</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "841734be-b8d7-4814-895b-03e7a5bc26ce",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "7ea71961-2420-9f50-f4fa-ea2a25c74edd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HE73820",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-20 10:43:04.35836",
+                "insertStampFormatted": "20.11.2024",
+                "updateStamp": "2024-11-20 11:10:53.873467",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень хороший телефон, во всех играх 120 ФПС стабильно, включая со2, пабг, бс, советую!!!</p>",
+                "minus": "<p>Нету!</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "fa9028ed-54bf-4dc9-ad14-d1f90f3413ed",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "19f54a60-f815-647f-64ae-2050627416b0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9d47742405998a4d7df53bb8777b252a/dd61b5572f3bc1517783752bc5ebda7118d72eab1e157a0458cd78351b48cb3b.jpeg\">",
+                    "name": "Зеленый Гибискус",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5fbd1a597fe6a0e00ee21691c05a4e03",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-19 07:54:43.75294",
+                "insertStampFormatted": "19.11.2024",
+                "updateStamp": "2024-11-19 07:55:53.104383",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший сенсор для камеры, сама камера; батарея при активном использовании у меня живет 2 дня (если смотреть время экрана то тяжелые приложения по несколько штук - от 9 до 11 часов на полной яркости и иногда музыкой в фоне); неплохие динамики и хороший звук на 3,5мм, связь стабильна здесь. Икпорт (встроенный софт к нему) смог найти мою модель кондиционера и мне не нужно использовать почти неживой пульт. Быстрая зарядка, за 50 минут с 6% зарядил до 100%.</p>",
+                "minus": "<p>Процессор не назовёшь игровым как его позиционируют, это отличный процессор для работы и повседневки, но никак не игровой. Верхний динамик более качественный нежели нижний. ВЕСЬ из глянца.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "79d6dff4-960d-4171-a1aa-565ec853f8b2",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "4263ae2c-0d44-7368-d469-a28b2cdbebf8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LA05741",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "121706e3a98d7a1b145e1466d8d2030a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-19 04:22:29.51575",
+                "insertStampFormatted": "19.11.2024",
+                "updateStamp": "2024-11-19 04:24:47.687198",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Камера неплохая. В отличие от КОЕ-КАКИХ китайских коллег здесь РАБОТАЮТ сервисы GOOGLE и это замечательно, а ещё здесь можно отключить абсолютно ублюдское \"УЛУЧШЕНИЕ\" фоток, как на хуавэях.</p>",
+                "minus": "<p>Смартфон используется менее пяти месяцев и он уже безбожно глючит временами и во время этого при прослушивании музыки через наушники трек начинает ужасно искажаться и \"скрежетать\".  Полгода не прошло, а разряжается уже довольно быстро. За 16000 рублей я бы такое стерпел, но не за 21000. Да, это не бог весть какое богатство, но для меня разница ощутимая.</p><p>Из мелочей - УЖАСНО неудобные заметки. Пока больше сразу не могу вспомнить, но таких вот косяков много и тем, кому важен комфорт и не обладает большими средствами я этот смартфон однозначно НЕ РЕКОМЕНДУЮ!</p>",
+                "comment": "<p>В целом телефон неплохой, но производительность так себе и очень много мелких неудобных моментов. Камера среднячок, даже хорошая можно сказать.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3a98a972-9a93-4b13-bb34-29ae8ad4e072",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "18be37a5-4bcc-4564-b236-20864de71e80",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/3b67cbfd53e8e912fd300890ad02ca3b/7ea38222f8ddb6100f2d6f6d27c251c9b5a976aac34b4c2128018c08b647edc5.jpeg\">",
+                    "name": "Халил-IV5412",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bd1d562dd17d5c5f224a5412c8d3cc05",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 18:07:26.772735",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 18:29:42.268879",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>на 5+</p>",
+                "minus": "<p>Разговорный динамик</p>",
+                "comment": "<p>плохо слышно собеседника,будильник работаеть</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "89e8a051-96b0-4904-898a-f458937be7d9",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "eada93d8-1bd1-685f-ee60-42e9379b4d29",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Ilyich13",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 10:00:02.55182",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 10:17:52.284461",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>• Высокая производительность:</p><p>!!! ПРОТЕСТИРОВАНО В РЕЖИМЕ \"ВЫСОКОПРОИЗВОДИТЕЛЬНЫЙ\" !!!</p><p>В Standoff 2 120fps на самых максимальных, во время стрельбы просадки (для комфорта снизил до средних).</p><p>В PUBG Mobile 60fps на \"Плавной\" графике (больше на этой и не поддерживается), доступна \"Высокая\", там режим 45fps, но не тестировал.</p><p>В Geometry Dash в большинство уровней (по типу Against The God) можно играть без LDM.</p><p>В более нагруженные (Ultra Violence) даже с LDM просадки, но играбильно (до момента со 2-м боссом на том же UV).</p><p>Какие-нибудь уровни с топовой графикой (WHAT, HOW) можно спокойно играть без LDM с fps в области 40-50, что вполне играбильно из-за их простоты.</p><p>В уровне BenchMarkGD тел набрал 6841 балл, что ОЧЕНЬ хорошо.</p><p>• Удобство (субъективно)</p><p>Прямые грани, чехол в комплекте (с ним есть и минус), фронтальная вспышка, ИК порт, старый добрый 3,5 jack для наушников (объясню в комментариях), отпечаток в экране (перешёл с отпечатка сзади, стало значительно удобнее пользоваться телефоном, когда тот, например, лежит на столе).</p><p>• Батарея</p><p>Очень приятно видеть на рынке телефон с вместительной батареей и быстрой зарядкой, это очень удобно. Конечно, из-за 120hz и AMOLED экрана 6000mAh ощущаются как 5000mAh на IPS 60hz, но с быстрой зарядкой проблема автономности пропадает, она реально заряжает телефон за час-полтора ДАЖЕ в режиме умной зарядки.</p>",
+                "minus": "<p>• Чехол...</p><p>К материалам и дизайну вопросов у меня нет – не сильно пачкается, подходит к цвету. Но выступ со стороны экрана (чтобы хоть как-то защитить от трещин после падения на экран) расчитан, как по мне, только на экран БЕЗ защитного стекла, т. к. после первого же падения угол защитки разбился. Теперь придётся носить осторожнее.</p><p>• Сенсор</p><p>С задержкой тут всё хорошо, она совсем не ощущается. Но иногда бывают ложные срабатывания или на короткое время сенсор засыпает.</p>",
+                "comment": "<p>Телефон очень понравился, перескочил на него с Redmi 9C, естественно, разница колоссальная.</p><p>Насчёт 3,5 jack. У звука есть небольшая, но ощутимая задержка, что можно заметить, к примеру, в Geometry Dash, где чётко ощущается некоторая задержка звука смерти после самой смерти, что огорчает, ведь я заучивал уровни по музыке. Но эта проблема решается подключением по проводу наушников. Само звучание из динамиков мне зашло, но опять же, ЗАДЕРЖКА.</p><p>Так же хочу подметить интересный случай с процессором. В других отзывах наблюдал претензии к тому, что его название не соответствует с указанным в характеристиках, что оказалось правдой. В телефоне стоит Dimensity 810. Думал, что он в версии на 8ГБ, но, после того, как друг купил тот же, но на 12ГБ, стало ясно, что такой процессор стоит во всех телефонах Pova 6 Pro 5g, что немного огорчает (доказательства на скриншотах).</p><p>Для всех, кто ищет относительно недорогой среднебюджетный телефон с упором в автономность этот – идеальный выбор</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "986c45a7-32be-4e47-852a-aa06cdc898ee",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/305d596051c1ae6ac102e9540373e7b6/3fac3b1d21c253e31b14313e3c08453c19e6a4515d768664422fd65441193978.jpeg"
+                    },
+                    {
+                        "id": "5b692aae-bcdf-4c09-b0e7-b2bc60ba8c62",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/f714f768b7b2604464b34e267b9ffcdc/ea3a31b5d5f83b7711b09434cf7c659008245601adab76c63ace6f8073244128.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "82eea2fe-82b9-418c-b662-49351e4c7325",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "2a319cf0-b04d-fbad-1795-c92d7dcbd5a1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "St802",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8d6e2ec6b91d73b254f7110df14224cd",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 09:05:28.306526",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-21 00:33:45.972986",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Зачёт, мне понравился</p>",
+                "minus": "<p>Если выставлять 120 герц то батарея быстро садится</p>",
+                "comment": "<p>Мне нравится, до этого пользовался техно пова 2, до сих пор жив и работает</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "98154632-8e7d-4e46-8dc8-735b9a6c992f",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "1ed6f4c6-d021-215b-1dd5-7e310c82fae8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2f1577b084bff19f51d7478fd6eec1f6/9733148b8771b50e38a9fd59151a0bc82f4a3049873b8ea28eaf6c5a4469d8e6.jpeg\">",
+                    "name": "asdf911",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9301ce567f2f6c88635e0c4023b95622",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 17:07:17.03363",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 17:18:09.363392",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Лучше всяких роко м6 это однозначно ! Пока есть скидка 3к берите . Купил за 20к</p>",
+                "minus": "<p>За 20к их нет и не может быть тут все хорошо это народный смартфон 2024 года</p>",
+                "comment": "<p>За 20к лучше не найти в ДНС . Звук в наушниках отличный если наушники более менее приличные я использую FIIO FH1s 2023 . сертификация Hi-Res audio аудиофилам начального уровня рекомендую а для меломанов вообще крутой звук будет</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2d1928b2-4f75-4f75-a654-494871e34742",
+                "objectId": "aad0551f-c1a5-11ee-91b0-00155d8ed20b",
+                "objectUrl": "/product/aad0551fc1a5ed20/68-smartfon-tecno-pova-6-pro-5g-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Pro 5G 256 ГБ серый",
+                "user": {
+                    "id": "293e9d95-55ba-a5fd-e1e5-50317af50968",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Chrome_1983",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-04 00:32:31.83172",
+                "insertStampFormatted": "04.09.2024",
+                "updateStamp": "2024-09-04 02:02:00.739101",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "8",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Весь телефон!</p>",
+                "minus": "<p>Wi-Fi фуфло!</p>",
+                "comment": "<p>В целом отличный бюджетный аппарат. Работает всё отлично без \"лагов\". Расстроил Wi-Fi, на 5ГГц сети выдает всего 370 мегабит, хотя на Samsung s10 (который древнее на много, судя по всему только годом древнее, а не железом) выдаёт 800 - 970 мегабит...</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 2,
+                "3": 5,
+                "4": 14,
+                "5": 139
+            }
+        },
+        "topId": "a4bc250b-b55c-442e-bc31-e35b35063db1"
+    },
+    "message": "",
+    "errors": []
+}

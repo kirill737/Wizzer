@@ -1,0 +1,450 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 13,
+        "opinions": [
+            {
+                "id": "e74388ae-4faa-4597-8e2f-f5bb62aafcbd",
+                "objectId": "677838f2-6bbb-11ed-905e-00155d8ed209",
+                "objectUrl": "/product/677838f26bbbed20/67-smartfon-apple-iphone-14-pro-max-1024-gb-zolotistyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 14 Pro Max 1024 ГБ золотистый",
+                "user": {
+                    "id": "f2f50cd5-9ed8-45e4-914e-7b0e0f635787",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HW1174",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "25213a4b02a9c1c2af4b2875aadee223",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-26 09:22:17.878459",
+                "insertStampFormatted": "26.09.2024",
+                "updateStamp": "2024-09-26 09:22:17.878459",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "1024",
+                    "Модель": "A2894 (1eSim+1SIM)",
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "18629856-77c9-4dc8-baa6-221ababafbe7",
+                "objectId": "677838f2-6bbb-11ed-905e-00155d8ed209",
+                "objectUrl": "/product/677838f26bbbed20/67-smartfon-apple-iphone-14-pro-max-1024-gb-zolotistyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 14 Pro Max 1024 ГБ золотистый",
+                "user": {
+                    "id": "8b232d59-6f67-4c78-a8d9-58e7845246d3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DF221891",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e069da79c52b65727b41bf531f4b2232",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-06 14:16:52.999811",
+                "insertStampFormatted": "06.03.2024",
+                "updateStamp": "2024-03-06 14:16:52.999811",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "1024",
+                    "Модель": "A2894 (1eSim+1SIM)",
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "87ad342c-3bad-44f8-91c2-fa6ea705d5cc",
+                "objectId": "677838f2-6bbb-11ed-905e-00155d8ed209",
+                "objectUrl": "/product/677838f26bbbed20/67-smartfon-apple-iphone-14-pro-max-1024-gb-zolotistyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 14 Pro Max 1024 ГБ золотистый",
+                "user": {
+                    "id": "94632209-9e56-ca7e-6b94-a704d6e45dad",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/f150c052240753b5ec75217636a8fe64/64a375c703dc4f1088b0505ab57120408e477f6e982beb2f6732f059093c7df1.jpg\">",
+                    "name": "Brencha",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8bafb4d960cab1e05372fc98b495ce24",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-26 09:07:09.630979",
+                "insertStampFormatted": "26.12.2023",
+                "updateStamp": "2023-12-26 09:07:09.630979",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "1024",
+                    "Модель": "A2894 (1eSim+1SIM)",
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6d2acc77-cc17-4650-bd17-5a65655be8e7",
+                "objectId": "677838f2-6bbb-11ed-905e-00155d8ed209",
+                "objectUrl": "/product/677838f26bbbed20/67-smartfon-apple-iphone-14-pro-max-1024-gb-zolotistyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 14 Pro Max 1024 ГБ золотистый",
+                "user": {
+                    "id": "adecb49e-3d82-10c4-2cbc-d18bfbf4b435",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TS20899",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-19 12:24:35.677727",
+                "insertStampFormatted": "19.12.2023",
+                "updateStamp": "2023-12-19 12:24:35.677727",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "1024",
+                    "Модель": "A2894 (1eSim+1SIM)",
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6da67377-38dc-4187-98f3-c3af18274047",
+                "objectId": "677838f2-6bbb-11ed-905e-00155d8ed209",
+                "objectUrl": "/product/677838f26bbbed20/67-smartfon-apple-iphone-14-pro-max-1024-gb-zolotistyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 14 Pro Max 1024 ГБ золотистый",
+                "user": {
+                    "id": "0760eb30-8d58-4c06-9d1f-032a1c53023a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "nick12m",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f8a308ce5191d44b3b075cda5087cb93",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-01 09:26:42.905198",
+                "insertStampFormatted": "01.12.2023",
+                "updateStamp": "2023-12-01 09:26:42.905198",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "1024",
+                    "Модель": "A2894 (1eSim+1SIM)",
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a4e635f8-5d4f-42d8-876f-07f312d5111a",
+                "objectId": "677838f2-6bbb-11ed-905e-00155d8ed209",
+                "objectUrl": "/product/677838f26bbbed20/67-smartfon-apple-iphone-14-pro-max-1024-gb-zolotistyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 14 Pro Max 1024 ГБ золотистый",
+                "user": {
+                    "id": "177636af-8fe9-3721-7da0-147ceaffc513",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Gelly8",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0fc619292b5542950b1fc93ecf96a641",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-18 18:06:05.068786",
+                "insertStampFormatted": "18.11.2023",
+                "updateStamp": "2023-11-18 18:06:05.068786",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "1024",
+                    "Модель": "A2894 (1eSim+1SIM)",
+                    "Цвет": "золотистый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 6
+            }
+        },
+        "topId": "0ef6c00b-daa7-4bba-a8c8-ee67ae81ec9f"
+    },
+    "message": "",
+    "errors": []
+}

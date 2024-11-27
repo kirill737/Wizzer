@@ -1,0 +1,739 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 102,
+        "opinions": [
+            {
+                "id": "de934984-99df-4b62-bb1b-216d94df3bd4",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "0dd95acc-6a80-f5ab-0e10-8915b71e23b9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MH93663",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "81db6fae213f9416644ad9771b588544",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 12:15:56.351558",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-30 00:28:14.634383",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Нет \"обязательных\" приложений китайских товарищей, которые нельзя удалить.</p>",
+                "minus": "<p>Цена.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "011bbc8a-67ae-4b58-8148-0ea1c25f5510",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "debb93ae-bbab-0689-87e5-4127c05be477",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/bdd0f401c892f1fd677ed2b91e36749d/89e364ebce5cebe580bfea67979edc5a268917075c59dd4a65518389bf35ce19.jpeg\">",
+                    "name": "Пришелец-IN74204",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d9d3cb255b7db8adbdf4afab0338546f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-01 21:57:06.98174",
+                "insertStampFormatted": "02.08.2024",
+                "updateStamp": "2024-08-02 01:08:22.670771",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Я не могу зайти на почту как только не пытался</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2e8292dc-9c1b-412e-8cf2-7e238736d82f",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "4922a67e-4ff2-fcdc-6307-699481c174f2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WS6284",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cf9da7cf15771ade61c5814f39821f1b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-16 18:00:08.204414",
+                "insertStampFormatted": "16.06.2024",
+                "updateStamp": "2024-06-16 19:22:33.495712",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все хорошо, кроме камеры</p>",
+                "minus": "<p>Камера не работает, зависает после первого снимка и больше не включается.</p><p>После отката приложения дает снять еще кадр и потом тоже самое.</p><p>Если прислушаться, то после зависания камеры в ней слышен повторяющийся механический звук.</p>",
+                "comment": "<p>Видимо брак, буду менять или возвращать деньги. Обратился в службу поддержки HONOR.</p>",
+                "usersCommentsCount": 8,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "77ff64f2-82e2-44a8-8c79-1a68a2ff6e2c",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "581e084e-3bb2-45cb-8aa0-a41e0e92c780",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAN26109",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f5eb9294491138909d28783ad96944ec",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-06 06:24:11.87983",
+                "insertStampFormatted": "06.06.2024",
+                "updateStamp": "2024-06-06 06:48:37.114573",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все хорошо. Брака нет.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7a178e15-7f25-4936-a946-ff0880f5bb32",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "255858a4-20c5-b672-59e4-3f6a636447ae",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RK68649",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "069e78f3b41e2b5dec495432c38df01c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 09:53:54.462711",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 09:53:54.462711",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "46e19548-a6ee-4985-b5f9-2c4faee5c043",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "37e37e3c-b6a8-b038-8e4d-34f4afc9e8f6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KH85396",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "976c27e0e57947bb4fe8643daf40badc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 07:35:16.838252",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 07:35:16.838252",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "cd8fc85c-5e73-406a-8822-49d044fc4c37",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "2e9e0a79-344f-acdd-a247-bfcf0bd2e71e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZU41905",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b1a011e94df525ad30cf88bd5d25a943",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 15:32:44.158119",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 15:32:44.158119",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b7fa3bf1-ed07-4f73-89b8-608232d459cd",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "b553507f-d5d6-f98e-b5c3-7dfea9547dea",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a56eddab98d839056daaddee8b4beb0e/e16adef78b0d5b4063614dd129699f3a4dc606486e91172cd305da750ec8f78c.jpeg\">",
+                    "name": "Пришелец-SW66803",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "96279150cec7f1c132d1d5d4acd11008",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 06:16:17.724189",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 06:16:17.724189",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "472f0f66-e13f-44eb-9c23-860a9ef1d6df",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "9b21d5ab-7e8e-4fb2-7ed1-1223dd17c0fb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PA36127",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "67cb220126ca0adcee375837051821e3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-05 10:41:10.514602",
+                "insertStampFormatted": "05.10.2024",
+                "updateStamp": "2024-10-05 10:41:10.514602",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3470af0f-f7b4-4765-b443-2e600baf5e22",
+                "objectId": "a42fb5c6-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/a42fb5c652aeed20/61-smartfon-apple-iphone-15-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 256 ГБ черный",
+                "user": {
+                    "id": "90b3dec4-2959-37cf-bfeb-fa35b7cfd0c5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BF65651",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "247386d46b28acb395003d28ecfae528",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-04 10:36:48.536071",
+                "insertStampFormatted": "04.10.2024",
+                "updateStamp": "2024-10-04 10:36:48.536071",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Модель": "A3092(Dual SIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 4,
+                "5": 75
+            }
+        },
+        "topId": "4b03ec3a-bd36-450e-ad2f-f89a46d8f2aa"
+    },
+    "message": "",
+    "errors": []
+}

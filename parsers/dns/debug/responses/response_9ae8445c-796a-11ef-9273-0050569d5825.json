@@ -1,0 +1,94 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 5,
+        "opinions": [
+            {
+                "id": "068ac020-27a4-474a-8d65-be909aa3e8d0",
+                "objectId": "9ae8445c-796a-11ef-9273-0050569d5825",
+                "objectUrl": "/product/9ae8445c796ad582/67-smartfon-samsung-galaxy-s24-fe-128-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy S24 FE 128 ГБ черный",
+                "user": {
+                    "id": "e0934728-b092-7a66-3c46-898b4edb763b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "catboi",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "928fbacd123cdf20f9f5b4185c38336c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-19 09:31:53.33879",
+                "insertStampFormatted": "19.11.2024",
+                "updateStamp": "2024-11-19 23:12:49.35985",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая задняя камера</p><p>Почти не греется (по крайней мере не в играх) не знаю, на что люди жалуются</p><p>Неплохо выглядит если без чехла носить(пока не разобьется) по функции что то типа пиджака или галстука</p>",
+                "minus": "<p>Тяжелый</p>",
+                "comment": "<p>Как человек который не играет в игры могу сказать что особого прогресса не видно в FE серии.</p><p>Был Galaxy FE 20 (мощный вариант) до этого, в итоге я его починил и сейчас хожу с двумя телефонами и не вижу разницы особо если теплоту экрана настроить, по сути такой же телефон только более тяжелый и более мощный, никакой миниатюризации - по ощущениям Samsung такой же телефон-планшетный компьютер мог выпустить со здоровым аккумулятором еще в 2020м году по той же цене, не видно прогресса. И вот сейчас мне больше нравится старый телефон, а новый скорее как его утяжеленная версия.</p><p>Да - камера больше (но почему то в настройках только замедленная есть а сверхзамедленной нет) - только если вы хотите снимать концерт, то лопату такую доставать палевно, ну и весит он намного больше.</p><p>Понятно что может быть там более мощная нейронная сеть для обработки фото и ресурсы процессора ушли туда,  и греется телефон меньше, но хотелось бы большего прогресса. Ощущение почивания на лаврах.</p><p>Заранее извините если вы купили уже этот телефон и для повышения самооценки зашли в эти отзывы :-)</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 0,
+                "5": 0
+            }
+        },
+        "topId": "f1ad40c6-7c63-432c-85b4-fbd5f5200d12"
+    },
+    "message": "",
+    "errors": []
+}

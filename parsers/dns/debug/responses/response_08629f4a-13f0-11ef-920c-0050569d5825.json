@@ -1,0 +1,594 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 20,
+        "opinions": [
+            {
+                "id": "5e40e828-dd1b-40d9-b8bb-d2e9ce3f3097",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "b4217240-2370-b936-6907-c9d629d95b40",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LU96104",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "39e8526b25f2f4e4b83a91e91e2068b4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-08 12:45:09.3233",
+                "insertStampFormatted": "08.08.2024",
+                "updateStamp": "2024-08-08 13:41:38.7301",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Мощный процессор и хорошая камера, также быстрая зарядка</p>",
+                "minus": "<p>Разряжаться быстро и сильно греется</p>",
+                "comment": "<p>Купил 3 дня назад на замену Doogee S86 Pro, так как он многие современные игры не тянул. Проблемы начались на моменте копирования файлов data со старого телефона. Оказалось что с версии андроид 11 доступ к этой папке заблокирован, добро пожаловать в современный мир. Потом когда я скачал приложение device into, я узнал что система на телефоне, то есть андроид 14 занимает до 4 или более гб оперативной памяти, это больше половины возможной. Итоги: по такой цене процессор годный + камера 106 мп работает хорошо. Дизайн интересный. Насчёт оперативной памяти, её хватает, а ограничение на папку data можно обойти, подключив телефон к пк.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "79533123-52cb-4f4a-bdb0-a2c086b2c64b",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "d3da7c29-6e96-2d7a-efbc-0706e7254aa9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "GalantAtlant",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4de1606e2661d68288962df3e9ada4bc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-04 16:23:42.682",
+                "insertStampFormatted": "04.07.2024",
+                "updateStamp": "2024-07-04 16:47:29.94967",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Игровой и хищный дизайн</p>",
+                "minus": "<p>не выявлено</p>",
+                "comment": "<p>Очень интересная новинка от INFINIX заточенная под игры. Дуговая подсветка на задней крышки придает смартфону шарм и изюминку.</p>",
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9583d486-985b-45d2-9df6-774d1b0adef3",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "095883c7-52fd-0d22-a74c-9dc3d901c04c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BH4991",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9a7cd18f49785b194779c380a0f48546",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 12:31:11.10903",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 12:31:11.10903",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ee17fd62-1fdd-490a-8767-b7d44a05eb5f",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "18eb5a4a-5e3a-48da-a389-0d1594fe342c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HM8953",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cd3567561af812f6ac6e267f33373ce4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 08:58:16.333842",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 08:58:16.333842",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c5beaa7e-3736-4bf3-a966-8ea12d8dabf9",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "27fd7023-8353-3673-db84-c26c4116b8ea",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/594d71b66158f8625c9b2fdec0d1c88b/cb9a0b4c1be6fb95ea073598ef0cc5da8f79f07308b18f8db08583ba5ba553ac.jpg\">",
+                    "name": "Пришелец-SY8178",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "348cd22ac16e1b10e0035ea48e01f4be",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 06:23:10.703903",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 06:23:10.703903",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2c5704e3-f78d-4b2b-bfce-23807ae39df6",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "eba4d7c8-221d-92a2-9f20-f3dace0f7a58",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Слабый компуктер",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1f4b524acad0db7bb9dec0af86cf8dd3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 02:58:51.214424",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 02:58:51.214424",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "93ad76e5-d666-43d2-a028-5d9cd06b8e72",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "860f42fb-d9ef-4268-961f-7d6dacc358f6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RT1284",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e82773c2c041892bf43991efb6a402e0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 17:01:42.631947",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 17:01:42.631947",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c80db213-c795-4d27-b07e-82bbaf799c99",
+                "objectId": "08629f4a-13f0-11ef-920c-0050569d5825",
+                "objectUrl": "/product/08629f4a13f0d582/678-smartfon-infinix-gt-20-pro-256-gb-serebristyj/",
+                "objectName": "6.78\" Смартфон Infinix GT 20 Pro 256 ГБ серебристый",
+                "user": {
+                    "id": "0f787429-5906-721d-585c-f65e05e57f8f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DT54199",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5b2cb18b2d5d681b5ea8da7bac6c18b4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-21 05:55:43.827318",
+                "insertStampFormatted": "21.08.2024",
+                "updateStamp": "2024-08-21 05:55:43.827318",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "серебристый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 7
+            }
+        },
+        "topId": "85000646-383b-4e72-85c3-8298e348370f"
+    },
+    "message": "",
+    "errors": []
+}

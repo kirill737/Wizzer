@@ -1,0 +1,454 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 9,
+        "opinions": [
+            {
+                "id": "78767573-6f8b-46f8-88d8-59db5d3e8ea5",
+                "objectId": "e262e529-4963-11ef-923d-0050569d9cb8",
+                "objectUrl": "/product/e262e5294963d9cb/667-smartfon-cmf-phone-1-128-gb-cernyj/",
+                "objectName": "6.67\" Смартфон CMF Phone 1 128 ГБ черный",
+                "user": {
+                    "id": "0d5ab1bf-f165-8e08-64fb-f1bb7744261a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAD52871",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "43e5fa1205e05d613dc22a85941876c3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 10:50:04.09906",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 11:00:31.940063",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Интересный дизайн и его функционал</p><p>Автономность</p><p>Экран</p><p>Производительность</p>",
+                "minus": "<p>За такую цену их нет.</p>",
+                "comment": "<p>Отличный смартфон и перспективный бренд.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "32394a4a-c288-4d65-b10c-46a0b01154f7",
+                "objectId": "e262e529-4963-11ef-923d-0050569d9cb8",
+                "objectUrl": "/product/e262e5294963d9cb/667-smartfon-cmf-phone-1-128-gb-cernyj/",
+                "objectName": "6.67\" Смартфон CMF Phone 1 128 ГБ черный",
+                "user": {
+                    "id": "8b1729ea-84d5-0dfa-75bc-38e18fba7049",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/78b485f88079969bd9754357e68a6893/c49ac020894f033c0d0be382b6384ccafca80c0dec613944bc5205d9681d858a.jpg\">",
+                    "name": "Hanks2",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1f1d17977f8074c30b0f3f195c8a4ee0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 18:21:25.850294",
+                "insertStampFormatted": "15.10.2024",
+                "updateStamp": "2024-10-15 22:47:42.217095",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Взял его после Iphone 11 и для меня он очень хороший, по всем параметрам он прекрасен, будь то батарея или ОС. Взял его для работы, звонков, просмотра/изменения файлов, а так же просто для серфинга интернета, в этом он справляется отлично, 120Гц меня очень сильно порадовали, оболочка у него отличная, множество функций, персонализация, а так же стилистика, всё это на высоте. Выбирал между Nothing Phone 1, и всё таки решил взять cmf phone 1, ни капли не пожалел. Так же он выглядит сам по себе очень красиво и необычно, винтики на задней части смартфона это что то с чем то)</p>",
+                "minus": "<p>В принципе прикопаться не к чему, всё отлично, камера только могла быть чуточку лучше и лично мне что не очень нравится - это размер, большеватый будто бы.</p>",
+                "comment": "<p>Если нужен смартфон шустрый, красивый и необычный, то брать нужно что то от Nothing :)</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "58319bd3-7586-4a87-aaa3-0bb8b675768a",
+                "objectId": "e262e529-4963-11ef-923d-0050569d9cb8",
+                "objectUrl": "/product/e262e5294963d9cb/667-smartfon-cmf-phone-1-128-gb-cernyj/",
+                "objectName": "6.67\" Смартфон CMF Phone 1 128 ГБ черный",
+                "user": {
+                    "id": "66010026-a548-87e3-07ff-145d09ee36b9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GIX53260",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "274ebe2cae56d8aa0fd60208c25f4dfc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-26 08:02:53.697487",
+                "insertStampFormatted": "26.09.2024",
+                "updateStamp": "2024-09-26 10:19:00.300682",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший экран, шустро работает, отличная батарея.</p>",
+                "minus": "<p>Посредственная камера уровня телефонов за 15к, отсутствие миниджека. Хотелось бы ещё стерео динамики за такую цену.</p>",
+                "comment": "<p>Очень приятно лежит в руке, быстро реагирует на все запросы. Батарея отлично держит заряд, даже при интенсивном использовании хватит на день. Если заряжать блоком на 33вт довольно шустро заряжается.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b3282152-86b4-4391-9be3-44e65dbc72bd",
+                "objectId": "e262e529-4963-11ef-923d-0050569d9cb8",
+                "objectUrl": "/product/e262e5294963d9cb/667-smartfon-cmf-phone-1-128-gb-cernyj/",
+                "objectName": "6.67\" Смартфон CMF Phone 1 128 ГБ черный",
+                "user": {
+                    "id": "d8304553-bec0-8263-47bc-8e04d4133c77",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ExOderWessi",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fc5b5a797a05acc3855ef67b5fd66c8a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 10:25:58.985291",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 10:25:58.985291",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c17a7421-2bc1-43d2-90e6-79aa38e35ced",
+                "objectId": "e262e529-4963-11ef-923d-0050569d9cb8",
+                "objectUrl": "/product/e262e5294963d9cb/667-smartfon-cmf-phone-1-128-gb-cernyj/",
+                "objectName": "6.67\" Смартфон CMF Phone 1 128 ГБ черный",
+                "user": {
+                    "id": "3bd43258-ffd9-48ea-a825-dbcf16b1d364",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XJ7501",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d2e0614e59cd5d5527b3947dcb47a3c5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-30 18:28:52.6564",
+                "insertStampFormatted": "30.09.2024",
+                "updateStamp": "2024-09-30 18:28:52.6564",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "dbc98993-842e-4abb-b36f-1aceded732aa",
+                "objectId": "e262e529-4963-11ef-923d-0050569d9cb8",
+                "objectUrl": "/product/e262e5294963d9cb/667-smartfon-cmf-phone-1-128-gb-cernyj/",
+                "objectName": "6.67\" Смартфон CMF Phone 1 128 ГБ черный",
+                "user": {
+                    "id": "d7f823df-6d35-bbbd-03e4-2961c8a6871d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KK79589",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b17de131366fe23c0165aa804616de1b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-23 08:04:19.171202",
+                "insertStampFormatted": "23.09.2024",
+                "updateStamp": "2024-09-23 08:04:19.171202",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 5
+            }
+        },
+        "topId": "7c80db1a-2906-479a-b390-1d1293acbfec"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,703 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 208,
+        "opinions": [
+            {
+                "id": "f1e640d2-c1fd-48e2-a1c7-feedfcb6fc39",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "25bdfec4-d6f7-42fa-8f18-ca0ae78643d8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "midzuoren",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bd344ac9128b1b04ae73c10130c19fec",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-09-12 12:57:42.635919",
+                "insertStampFormatted": "12.09.2022",
+                "updateStamp": "2022-09-13 07:02:22.668806",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Идеально ложится в руку.</p><p>Бренд</p>",
+                "minus": "<p>Цена (высокая)</p><p>Аккум (мог быть и лучше)</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6b9dfc0a-92ac-4549-8118-ae9fa82970bf",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "bd7082a5-837e-4ff9-8937-bed5f6172c76",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9201d003bdbaec7b0df55cce107fab5a/c3146a379aae9624c8177186fae93268837fdbfdc1f97bcf35e5aba2d50afb2e.jpg\">",
+                    "name": "DAMON23",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a782cd185c42cbe41011d6c603030254",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-08-01 13:20:34.730845",
+                "insertStampFormatted": "01.08.2022",
+                "updateStamp": "2022-08-01 14:24:26.932277",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон</p>",
+                "minus": "<p>Сейчас некоторые приложения не работают на ios</p>",
+                "comment": "<p>Немного изменился дизайн конечно, то есть цвет черный а на самом деле темно-синий и чехол даже такого же оттенка.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ca8aea7e-fbae-4c9f-98bf-bb3804b38e63",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "9f63e4cb-7893-b3a2-46a2-ba7a829039a7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ff2ce3931aaaf368192d7df97b62a165/7ff161692cde470e5417044083d5e1682d3ed903ec14293247d312b5aa2ab00b.jpg\">",
+                    "name": "Pal997",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b7e83284fc353301aa00c83b0c962c74",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-06-17 09:11:04.459888",
+                "insertStampFormatted": "17.06.2022",
+                "updateStamp": "2024-01-26 17:10:34.333662",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрый, крепкий, автономный.</p>",
+                "minus": "<p>Нету</p>",
+                "comment": "<p>Почти два года телефону - состояние идеальное, АКБ упал всего до 92%. Сколов и царапин от чехла нет.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "29bd02fd-1cf5-487a-af13-ed7a6dd71678",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "1ababff9-c531-dad3-1a87-7b5198c4b988",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Fitis",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d0a4bb010974b13eb4de7eac114e2acf",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-05-29 12:38:03.782271",
+                "insertStampFormatted": "29.05.2022",
+                "updateStamp": "2022-05-29 13:15:03.532979",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Качественный товар</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>Хороший Магазин, покупаю технику только тут.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "bf8529f2-d9f0-4fa2-8180-e0e86d620d13",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "39ec5567-85f3-a82e-6c28-10f2bf732a01",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KU80494",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c19569d6631c5451bd8d5afff4fa7bf4",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-05-25 04:25:50.287422",
+                "insertStampFormatted": "25.05.2022",
+                "updateStamp": "2023-06-22 22:31:52.369534",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Да в принципе никаких особо перед конкурентами.</p>",
+                "minus": "<p>Батарея. Камера. Батареи еле хватает с утра до вечера при неактивном использовании. Камера среднячок. При достаточном освещении в помещении и в ясную солнечную погоду на улице снимки ещё сносные,вечером а особенно ночью очень плохо,со вспышкой ещё ничего,а вот ночной режим совсем печальный.</p>",
+                "comment": "<p>Своих денег за которые продаётся конечно же не стоит и половину цены. За что были отдана такая сумма не могу понять. Это не первый айфон которым я пользуюсь, 15-й по счету начиная с 2G. Кто собирается приобретать могу посоветовать сэкономить и взять 12-й,разницы между 12 и 13 нет никакой абсолютно кроме дизайна расположения камер. А так же двенашка ощутимо тоньше и легче,в руках удобнее и приятнее.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "276d9be4-37ad-4c3c-9e19-7bbaf5a94389",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "20f8208e-3f92-4788-9090-80271f092e6d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "SHRAPNEL",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4ca76bc36ccf5477e5e2ac19685638a3",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-03-30 02:03:48.961457",
+                "insertStampFormatted": "30.03.2022",
+                "updateStamp": "2022-03-30 23:25:45.919446",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>- Быстродействие</p><p>- Качество звука</p><p>- Съемка видео (4К, 60fps, все дела). Режим «Киноэффект» хороший, при правильном использовании выходят неплохие видео</p><p>- Аккумулятор, на удивление, отлично держит (при условии разумного использования телефона в течении дня, разумеется)</p><p>- Фотокамера вполне достойная, много всяких «крутилок-вертелок», если уметь пользоваться - фото получаются отличные</p><p>- 60ГЦ экран вполне приятен для глаз, как и качество самого дисплея</p><p>- MagSafe. Фишка на любителя, но можно докупить PowerBark с MagSafe и использовать как второй аккумулятор.</p>",
+                "minus": "<p>- Оверпрайс, но успел купить ещё за 87к</p><p>- Корпус стекло, плюс ещё и маркий, отпечатки оставляет очень хорошо, носить приходится в чехле.</p><p>- На фоне происходящих событий вна Украине не работает ApplePay даже с картами МИР.</p>",
+                "comment": "<p>Первый полноценный iPhone в моём пользовании. Несколько лет назад был б/у SE первого поколения, но из-за неоригинальной батареи оставил осадок на технике Apple.</p><p>Всегда пользовался телефонами на Android, но после того, как разбил экран на Honor 20 Pro решил глянуть что там на рынке смартфонов, но был крайне разочарован ассортиментом, где новые стоят дорого, а характеристики хуже, чем у того же Honor 20 Pro. Это и сподвигло на покупку техники Apple. Тем более, любые модели этой фирмы вполне ликвидны, продать на вторичке проблем не составит😄</p><p>Решено было купить сразу этот флагман и не прогадал. Плюшек достаточно даже для обычной 13 версии.</p><p>Телевик на моделях постарше такой себе, LIDAR просто пару раз побаловаться, 120ГЦ экран для перфекционистов, мне не критично, ну а батарею держит хорошо и обычная 13 модель, если, конечно, целый день не сидеть в ТТ и не играть без остановки, так что платить ещё больший оверпрайс за не особо нужные плюшки не стал.</p><p>После 3х месяцев использования больше не могу пользоваться Android, неудобно 😄</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "6d240146-f61c-4c50-8cad-773612b3e44f",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2a8fe4717d67df80a5e958ee2f4faff9/d3e5c14231c1658a23d91dfb0960b01c0482b4fa15e4b6e3fffa3eb8b23eb62f.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "56af3a3b-bd74-41e7-9592-661b53b4bd17",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "6387f572-13c9-41d3-adb9-9cb7105e2b8a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WK8380",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "58c6992d961a7162b34bf647d10e6ac2",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-02-14 18:22:38.422599",
+                "insertStampFormatted": "14.02.2022",
+                "updateStamp": "2022-02-15 07:12:29.173652",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея, экран, камера. Удобный,  удобно лежит в руке. Быстрый. Долго держит батарея.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Лучший смартфон в моей практике</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "719e065b-0427-4de0-a049-df96436a0c2a",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "a6681ee4-3df5-cad9-3afe-62ef7926aadd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Bikti",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5b3f0aa41fd5520eacca6651774eb94a",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-02-08 19:23:42.66458",
+                "insertStampFormatted": "08.02.2022",
+                "updateStamp": "2022-02-09 08:02:42.722011",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Быстрее реагирует на Команды, чем 11-й</p>",
+                "minus": "<p>Все же зарядка садится быстро, хватает на 1 день, и то если не играть - а только звонки и соц сети</p>",
+                "comment": "<p>Задняя панель треснула при первом же падении из кармана на снеговую дорогу, хоть и был в чехле ( чехол хороший), жаль что не спас</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "66d79045-a45d-498e-88cf-169888e08db7",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "b3691ce1-985c-484d-aa06-91a97735ea1a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/3ea5b5bc22c4432a87a4cf22a031d94d/9483b5fc618a087ee34f66766c1be6ee23521e9f93e22e8fee633d7800f14fdc.jpg\">",
+                    "name": "rooffall",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6e8715a789e257d9ebb44d9712f5c3a6",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-02-08 09:38:02.908725",
+                "insertStampFormatted": "08.02.2022",
+                "updateStamp": "2022-02-08 10:00:39.797183",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Вроде как лучшая батарея из всей прошлой линейки iPhone.</p>",
+                "minus": "<p>-</p>",
+                "comment": "<p>Норм</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0746ec6e-3459-4de4-8f86-45b582143541",
+                "objectId": "a2b1a3cd-15cd-11ec-8eec-00155d8ed20c",
+                "objectUrl": "/product/a2b1a3cd15cded20/61-smartfon-apple-iphone-13-256-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 256 ГБ черный",
+                "user": {
+                    "id": "be70a36f-9765-b000-61e4-976c69aa49ae",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/bc059901891d310e5ec6b712e489c972/2b75b6e7a98678b8d3027aea89db1073bd97e4427311aba2ca6c466e42604177.jpg\">",
+                    "name": "Mizoil",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "47474d5bba76fd780886ba1551be4b81",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-01-25 12:34:55.918145",
+                "insertStampFormatted": "25.01.2022",
+                "updateStamp": "2023-01-03 11:34:26.178486",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отлично.</p>",
+                "minus": "<p>Не нашёл</p>",
+                "comment": "<p>Хороший товар и мне понравился, хотя дорогой стоит но спасибо за скидку, рекомендую всем</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "a61f2e74-d058-4424-ac53-b0f3da316019",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/535717ce160a5609a8100b0bf34085ce/68eab415acf82fcaffa83c131bddf4f223435296f0ceac6904bd25bac9e7d462.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "af12232f-6c1b-484a-aa23-a4ab7ef94621",
+                        "text": "<p>Круче еще топ)</p>",
+                        "textInitial": "Круче еще топ)",
+                        "insertStamp": "2023-01-01 07:05:13.465966",
+                        "insertStampFormatted": "1 января 2023 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 7,
+                "5": 195
+            }
+        },
+        "topId": "e2e9163f-3569-4ae5-b248-dc72c87880e1"
+    },
+    "message": "",
+    "errors": []
+}

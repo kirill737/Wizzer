@@ -1,25 +1,94 @@
 {
     "assets": {
         "inlineJs": {
-            "475b8b39b0c15aa38beb32615cbc1e09": "window.avatarGenerator.generate('g-Mmxnui', 'Mmxnui', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+            "96ae4e09ffdd7fa0e374497dc3658a5c": "window.avatarGenerator.generate('g--Yx_5Z', '-Yx_5Z', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
         },
         "inlineJsHead": [],
         "inlineCss": [],
         "jsFiles": [
-            "https://a.dns-shop.ru/static/10/1gqtvc4/guest-avatar.js",
-            "https://a.dns-shop.ru/static/10/1bwssq0/ajax-state.js"
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
         ],
         "cssFiles": [
             {
-                "url": "https://a.dns-shop.ru/static/10/1bwssq0/css/ajax-state.css",
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
                 "media": null
             }
         ]
     },
     "result": true,
     "data": {
-        "totalCount": 416,
+        "totalCount": 457,
         "opinions": [
+            {
+                "id": "3f3c676e-50a0-4194-a83d-e6f99657fff3",
+                "objectId": "71b5263d-37e2-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/71b5263d37e2ed20/61-smartfon-apple-iphone-13-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ черный",
+                "user": {
+                    "id": "f6dbd975-2fb5-6814-6867-eded3f6073e5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BYR377502",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f17d2a53e35ff6d96f25d9d2b702a47d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-14 06:11:10.94032",
+                "insertStampFormatted": "14.11.2024",
+                "updateStamp": "2024-11-15 03:10:45.114455",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>В целом качество норм</p>",
+                "minus": "<p>Экран 60 герц,</p><p>Батарея ниочем, разряжается даже когда не берешь в руки.</p><p>Датчик приближения к уху не работает как надо.</p><p>Бывают проблемы со связью, Железо могло быть и по мощнее.</p><p>Забудьте о всех платёжных системах и банковских приложениях.</p>",
+                "comment": "<p>Лучше взять другую модель.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
             {
                 "id": "85fea1c0-4dee-45ab-a6f0-118af357547c",
                 "objectId": "71b5263d-37e2-11ed-901f-00155d8ed20b",
@@ -640,80 +709,6 @@
                 "additions": [],
                 "isCanBeSupplemented": true,
                 "videos": []
-            },
-            {
-                "id": "a43297f3-13ab-466d-9c10-ae14fe4f1ae8",
-                "objectId": "71b5263d-37e2-11ed-901f-00155d8ed20b",
-                "objectUrl": "/product/71b5263d37e2ed20/61-smartfon-apple-iphone-13-128-gb-cernyj/",
-                "objectName": "6.1\" Смартфон Apple iPhone 13 128 ГБ черный",
-                "user": {
-                    "id": "5a8cbf80-3541-8266-3765-12616073f67e",
-                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
-                    "name": "Пришелец-ST14733",
-                    "isReal": true,
-                    "isGuest": false,
-                    "level": 0,
-                    "administrativeStatus": null,
-                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
-                    "fingerPrint": "",
-                    "highlightName": false
-                },
-                "insertStamp": "2024-06-24 18:50:30.41488",
-                "insertStampFormatted": "24.06.2024",
-                "updateStamp": "2024-06-24 18:59:24.130615",
-                "rating": 5,
-                "source": {
-                    "id": 1,
-                    "title": "Dns-shop.ru",
-                    "url": null,
-                    "isExternal": false
-                },
-                "multiCardSpecs": {
-                    "Память (ГБ)": "128"
-                },
-                "period": "Менее месяца",
-                "characteristicGrades": [
-                    {
-                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
-                        "title": "Внешний вид и размер",
-                        "value": 5
-                    },
-                    {
-                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
-                        "title": "Производительность",
-                        "value": 5
-                    },
-                    {
-                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
-                        "title": "Камера",
-                        "value": 5
-                    },
-                    {
-                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
-                        "title": "Качество связи",
-                        "value": 5
-                    },
-                    {
-                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
-                        "title": "Батарея",
-                        "value": 5
-                    }
-                ],
-                "plus": "<p>не греется, всегда холодный, батарея.</p>",
-                "minus": "<p>нет</p>",
-                "comment": "<p>целенаправленно взял именно эту модель. индия. у друга 13 iphone для англии, сильно греется и заряжает по 2-3 раза. мне хватает раз в день зарядить.  индийские айфоны самые холодные и я не знаю с чем это связано...</p>",
-                "usersCommentsCount": 0,
-                "images": [
-                    {
-                        "id": "752b2f23-0a63-42f0-b28c-3fea3762661e",
-                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/fc6128bb3d18715a0e00ac828c703da2/c63054297e9ef917ac060fa97429e4c953d6dddd2ab474bdab5095f5aea543d0.jpeg"
-                    }
-                ],
-                "hasNotApprovedImages": false,
-                "isEditable": false,
-                "additions": [],
-                "isCanBeSupplemented": true,
-                "videos": []
             }
         ],
         "filtersCounts": {
@@ -721,8 +716,8 @@
                 "1": 9,
                 "2": 1,
                 "3": 4,
-                "4": 5,
-                "5": 371
+                "4": 6,
+                "5": 376
             }
         },
         "topId": "998997ce-461e-4286-885a-a1a76fb0755d"

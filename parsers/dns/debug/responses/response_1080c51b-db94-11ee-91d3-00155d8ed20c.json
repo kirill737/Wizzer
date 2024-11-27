@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 44,
+        "opinions": [
+            {
+                "id": "a98179fa-1ac8-40c3-9efa-c66b67a37241",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "97c49fb8-8399-4b8c-a476-f173607d8255",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "li5",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "776ed80732a047d3f0109daf04f3c252",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 19:39:29.25464",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 20:13:11.424041",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена.</p><p>Связь.</p><p>Камера.</p><p>Хорошо держит батарею.</p><p>Шутстрый.</p><p>Отсутствие гуглсервисов.</p>",
+                "minus": "<p>Шайба сзади явно лишняя</p>",
+                "comment": "<p>Отличный телефон. Долго думала, брать или не брать, отзывы настораживали. Но все таки взяла. Не пожалела.</p><p>Брала за 12999р и для этой цены просто ТОП. Очень хорошая связь, живу за городом и раньше были проблемы со связью. Хорошая камера, как и фронтальная и так и основная.</p><p>Телефон шустрый, отсутствие гугл сервисов абсолютно не заметно.  Нужные приложения скачала из магазина Хуавей и  Русторе.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ccf4bf41-8381-4277-b85b-46366a2ceb1e",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "a8e6473e-fa8f-6b76-f94f-799b8b70a45f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QG36445",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a3eabecd5d6197c04522d3bd676fc8d0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 09:54:00.537542",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-10-10 09:37:46.652211",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Качественный экран. Стабильная работа системы.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "83e61c52-9195-456f-82ff-3a4cc326f07a",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "fc29731d-273d-4d20-880e-ad62e0d84ad5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAC05099",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "30bfd857aad2ac117ffd41e426d99b5d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 15:14:28.53369",
+                "insertStampFormatted": "11.09.2024",
+                "updateStamp": "2024-09-11 15:46:14.600805",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Внешний вид, громкость динамика внешнего и внутреннего, крепкий корпус. Увесистый - кому-то может недостаток.</p>",
+                "minus": "<p>1.Камера и близко не стоИт к заявленному, важна была именно камера. Даже в хорошую погоду при малейшем увеличении качество теряется в ноль. Долгая и не качественная фокусировка. Ночной режим тоже оставляет желать лучшего.  В общем, детей в динамике фотографировать не пойдёт.  Корректировки качества изображения минимальны.</p><p>С видео дела обстоят лучше.</p><p>2. ТОРМОЗИТ, при том, что на моем смартфоне игр не устанавливала, приложений в целом установлено не много, отключаю не нужные приложения. Т.е.теперь мне нужно учиться терпению!</p><p>3. Батареи хватает на 1 день, не сутки, ожидались лучшие показатели.</p>",
+                "comment": "<p>Если у Вас был Honor 10i, то в камере и быстрое работы этот экземпляр весомо проигрывает, увы.</p><p>Совет! При переносе контактов через PhoneClonе будут весомые потери. В старом телефоне необходимо контакты сохранить отдельным файлом, а потом через Блютуз загрузить Контакты со старого телефона, минуя вышеназванное приложение.</p><p>Всем удачи с выбором!</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4e39f734-bb5a-4ce2-b4c0-c8d4d88a440d",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "e4a67b2e-51a7-b338-f9f3-679999963e96",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GL56452",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8f0712ed2e8336b7e53e83661185e196",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-02 22:23:07.371704",
+                "insertStampFormatted": "03.08.2024",
+                "updateStamp": "2024-08-03 01:18:11.905597",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>предустановлены все нужные программы</p>",
+                "minus": "<p>не заметил</p>",
+                "comment": "<p>отличный и удобный смартфон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d596e376-1751-48a4-81cf-79535c393742",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "3cae8e40-a606-d9c5-b365-531b844d46d7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/1322a481b8e525e6e95be1d3f459deec/11eac38fc6b2d322051118e19a2eff6cfcc2df9f3ca8cc42b79f347fbc575289.jpg\">",
+                    "name": "Пришелец-CS95552",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0a93cf7a607f7208127b4654d84df72b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 08:05:56.096067",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 08:05:56.096067",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "704843ec-b150-4bbf-9795-740131b9d873",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "26a6f38b-0640-ad36-2b5b-affbd822afee",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AD03484",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b6ae069a1494ff4f1b4c921f65768dd9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-25 15:02:33.245377",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-25 15:02:33.245377",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "aa3d2083-54c3-4b99-8255-e4bbb6141f4a",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "5d1591eb-b1c2-4e6c-88f4-86e20822e8b2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RX6874",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eebbdbe284ae17b6b19d8bad827379dc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 22:02:52.355835",
+                "insertStampFormatted": "25.10.2024",
+                "updateStamp": "2024-10-24 22:02:52.355835",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "eea578a7-80d4-4274-896d-ea8a96bda449",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "c82d78ba-332e-4777-9d48-4411c2e91e19",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "timoha-1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "109daeca6ed18e34453e203a02106829",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 16:15:21.621374",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 16:15:21.621374",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "825abda3-7807-4b1e-944f-c9afbef52a98",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "30b92f84-c162-4a1b-9c3a-7edbfe348bfc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "prugov",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "876322a421be99f8344fa9a3227c12bb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 10:37:32.2987",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 10:37:32.2987",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4aa610e3-3670-486b-87f6-942d22204950",
+                "objectId": "1080c51b-db94-11ee-91d3-00155d8ed20c",
+                "objectUrl": "/product/1080c51bdb94ed20/67-smartfon-huawei-nova-12i-128-gb-zelenyj/",
+                "objectName": "6.7\" Смартфон HUAWEI nova 12i 128 ГБ зеленый",
+                "user": {
+                    "id": "3ef427a9-6d2d-498f-ba23-6ddbd074c658",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "pechinyshka",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4a2dbb0fd16ce21a028db63c52f20837",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 20:31:29.26352",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 20:31:29.26352",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 25
+            }
+        },
+        "topId": "5cfd4857-1561-4775-981d-d7245f2bfc4d"
+    },
+    "message": "",
+    "errors": []
+}

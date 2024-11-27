@@ -1,0 +1,707 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 214,
+        "opinions": [
+            {
+                "id": "b4e87e31-7910-4d64-bea2-6f5d9d538762",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "ca71a270-8059-cbe5-152d-31eb9843ff20",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/76d93eb337fdf6d4660c9c035b9763a2/825787b220e22b1011be49c0134948f850c414a3ca6ada655bdae61ca2dd7e9b.jpg\">",
+                    "name": "24zver",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "168305ddc30ded50ce597874d2d6283a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-20 15:45:32.62171",
+                "insertStampFormatted": "20.03.2024",
+                "updateStamp": "2024-03-20 15:53:03.219613",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>удобный</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "10f68627-3fcd-4b09-b351-bfa0fdaf959c",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "45b198ef-e219-fa9d-d3fd-79c49159ebf5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OI54630",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "392f3158f1ca5b86b1f6b3bdb312ec60",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-18 12:25:57.45704",
+                "insertStampFormatted": "18.02.2024",
+                "updateStamp": "2024-05-17 04:45:12.07069",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид</p>",
+                "minus": "<p>Поломка за поломкой. Глюки.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "f5797fdf-a238-4a8f-9d88-ae2950920804",
+                        "text": "<p>Спустя год растрескался экран, без ударов! Редкое г...</p>",
+                        "textInitial": "Спустя год растрескался экран, без ударов! Редкое г...",
+                        "insertStamp": "2024-05-17 04:24:41.146219",
+                        "insertStampFormatted": "17 мая 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d686cabd-70cb-45cc-b8ee-32082b79232f",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "3efc3f56-b1f8-95f9-65ac-e4e80a09d767",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NG10338",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4e1b34c117320493aa9d0d0f6d9e6669",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-27 08:54:14.433707",
+                "insertStampFormatted": "27.08.2023",
+                "updateStamp": "2023-08-27 09:27:46.469848",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Хороший звук</p>",
+                "minus": "<p>При видео звонках греется экран, если смотреть фильм в ютюбе тоже, очень конечно растроилась</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b5895dc5-bc72-416b-a19f-529e245dd69c",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "1750d100-db04-6429-8a93-bac5182f7211",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/8c8afafec9a60f22d46e1e5f9acfa8c6/f01d2ed4ee4326438b8b5a8ae1dd2443c03f4bfe1a45d9fb659cc156b5bd21e7.jpg\">",
+                    "name": "Пришелец-Орловский",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e5d79d7eca3d6234265419814c3b3098",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-07-04 08:58:21.024044",
+                "insertStampFormatted": "04.07.2023",
+                "updateStamp": "2023-07-19 08:13:19.831177",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрый, дешевле по начинке по сравнению с брендами, в комплекте чехол и наклеена плёнка на экран. Play Market есть, если кому интересно и важно)))</p>",
+                "minus": "<p>Из недостатков матрица не очень сочная (если сравнивать с amoled от самсунга)</p>",
+                "comment": "<p>Брали ребёнку на замену старого honor 9s. Игры тащит намного лучше, ребёнок доволен, проблем с телефоном никаких не наблюдалось. REDMI один из оправданных качественных китайских брендов.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ba6148f1-99e3-4af1-b2d5-5a53a0766f57",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "853f1072-52cb-56af-5b78-91d7cabe3eaf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YJ68952",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-23 07:44:43.94567",
+                "insertStampFormatted": "23.05.2023",
+                "updateStamp": "2023-05-23 19:45:09.30667",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>все</p>",
+                "comment": "<p>За такие деньги телефон ужасен, ходила с хуавеем 5 лет и пришло время нового, думала за это время технологии шагнули вперед.. Камера оказалась хуже, чем на телефоне 2018 года. Лагает, при впн греется, как печка, ютуб вообще что то с чем то, иногда экран зеленый, иногда черный и только звук. Вечно что то слетает, когда выходишь на рабочий стол, иконки прогружаютя, при этом игр на нем нет. Марается даже при чистых руках, так что красота его тоже не спасает... Глаза устают, цвета не яркие.. В общем разочарованна..буду менять</p>",
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8f2b66a0-929a-4367-9c21-931647a7858c",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "a2adce73-347d-aad0-288d-cb9d99b7a1d7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Проф Мерзавец",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "badd96742c834d74d0cc229d13457cfe",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-22 11:39:26.722812",
+                "insertStampFormatted": "22.05.2023",
+                "updateStamp": "2023-05-23 08:16:00.804353",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Ценовой диапазон, неплохой звук стерео. Для повседневного использования отличный вариант.</p>",
+                "minus": "<p>Играть в игрушки нам некогда, поэтому недостатков для себя не видим в данной модели.</p>",
+                "comment": "<p>Третий месяц используется данный смартфон. Ни каких нареканий. Настроили под себя, всё лишнее убрали. Кто говорит камера не очень, ответ вам такой покупайте фотоаппарат там камера очень.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b6a24de6-0eb2-48e3-b4cf-398bf3c7ce21",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "a2cbf5d5-bb3c-1f0e-8c5f-0b983c2ad187",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TM51467",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-19 10:05:30.38258",
+                "insertStampFormatted": "19.05.2023",
+                "updateStamp": "2023-05-19 10:15:09.046035",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Долго держит заряд</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Очень удобно пользоваться</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3de16b96-20a9-4289-992f-3a234cc4bc44",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "74b76f65-dbf6-234f-5261-ce70dd8fa960",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Дашики21",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9a93774cf092f99e037b56976737197c",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-17 08:42:48.200166",
+                "insertStampFormatted": "17.05.2023",
+                "updateStamp": "2023-06-28 05:39:41.400138",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>удобство использования</p>",
+                "minus": "<p>не обнаружено</p>",
+                "comment": "<p>отличный гаджет. приятный бонус в виде подарка</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a5f12ecb-d8c5-400b-b9a7-be71e4ddbb8d",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "5e5d9570-7771-fb69-fe30-05ebf0f24bc8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XK13400",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ee30a4608f5e69eb189755db10a4b7f8",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-03-28 11:14:15.910284",
+                "insertStampFormatted": "28.03.2023",
+                "updateStamp": "2024-03-17 16:18:48.719293",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Отличная камера, производительность устройства на уровне</p>",
+                "minus": "<p>Батарейки не очень хватает, в целом других минусов не нашёл</p>",
+                "comment": "<p>В целом доволен телефоном, ожидал меньшего чем получил</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "0dc3f8ab-a247-4403-b3f0-254f2ed34abe",
+                        "text": "<p>Спустя год(без 11 дней) использования могу наверняка сказать - устройство как бюджетник прекрасное. Батарейка всё еще держит на изначальном уровне. Всё супер</p>",
+                        "textInitial": "Спустя год(без 11 дней) использования могу наверняка сказать - устройство как бюджетник прекрасное. Батарейка всё еще держит на изначальном уровне. Всё супер",
+                        "insertStamp": "2024-03-17 13:42:29.013565",
+                        "insertStampFormatted": "17 марта 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4bd95f94-18e9-4d6d-94b4-8957ffc4eac8",
+                "objectId": "d88b4d39-c116-11ec-8faa-00155d8ed20b",
+                "objectUrl": "/product/d88b4d39c116ed20/65-smartfon-xiaomi-redmi-10-2022-128-gb-goluboj/",
+                "objectName": "6.5\" Смартфон Xiaomi Redmi 10 2022 128 ГБ голубой",
+                "user": {
+                    "id": "941e973b-0eb5-4a9f-8d09-26397a445f37",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/e0427a915fcac741214c1ea1240b9bfb/a49df8cdf7f12533538044f57f8b22eae807342a0a410b25653c10eeabe7251c.jpg\">",
+                    "name": "Барельевщик",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "73d67392106e939a9d12ea7b173b4d24",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-03-21 04:07:09.471663",
+                "insertStampFormatted": "21.03.2023",
+                "updateStamp": "2023-03-21 04:27:40.242594",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Цена</p><p>Качество</p><p>Дизайн</p>",
+                "minus": "<p>Заряжается целую вечность</p>",
+                "comment": "<p>За эту цену нормально. Но мне нужен такой, что бы не стоять возле розетки</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 7,
+                "2": 4,
+                "3": 4,
+                "4": 17,
+                "5": 167
+            }
+        },
+        "topId": "f5c20f12-1eda-4cee-8be9-f5d4db6d503c"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,763 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 30,
+        "opinions": [
+            {
+                "id": "797804a8-803e-4631-a410-d2b8a3787130",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "585b500e-a666-4039-994d-4294b73f76d4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Tzyu",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "014500637590bcea83dea65ab3aef185",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-03 01:54:36.90448",
+                "insertStampFormatted": "03.11.2024",
+                "updateStamp": "2024-11-03 02:22:10.23338",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Много настраиваемых функций, большой дисплей, ИК порт, звук, микрофон, камера, всё хорошего качества.</p>",
+                "minus": "<p>Батарея при не активном использовании на день хватит, но быстрая зарядка всё сглаживает, ну и яркость экрана на солнце  чуть не хватает для меня лично.</p>",
+                "comment": "<p>Общее впечатление от смартфон хорошее, если характеристики предыдущего смартфона были ниже, в этом вас устроит всё.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0a735bba-e328-4fc3-b965-0aba5c97a0fb",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "2d9e72ab-5359-ee0b-7043-8ece172709a1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Shady007",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 21:48:58.32949",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 01:31:28.565175",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>- Тонкий корпус и тонкие рамки;</p><p>- Производительность;</p><p>- Камера для своего бюджета хороша;</p><p>- 8гб и 256 Гб ПЗУ, плюс карты расширения;</p><p>- 3.5 мм Джек, часто слушаю песню и аудикодек тут качественный;</p><p>- Зарядка 70вт и в целом об умной зарядке, которая выключает зарядный блок на 100%, чтобы лишний раз не заряжался.</p>",
+                "minus": "<p>- Аккумулятор, который хватает на 1 день (8 часов экрана);</p><p>- Динамики слабоватые, лучше был бы моно, а не стерео (ибо были телефоны с очень качественными динамиками и басистыми), жаль что сейчас таких не делают.</p>",
+                "comment": "<p>Первое впечатление испорчено было, ибо новый телефон держал заряд 6 часов экрана. Думал аккумулятор проблема, отнес в сервисный центр, сказали что нету проблем. На второй раз использования сумел использовать 8 часов экрана, т.е. один день, не более может работать в стресс режиме, а средне хватает на 2 дня. Старый телефон сходу работал 12-13 часов экрана в стресс режиме, что было лучшим результатом.</p><p>Уже пользуюсь чуть более 2х недель, доволен телефоном, памяти хватает, да и в целом хорошо выглядит, но осадочек остался в виде слабого аккумулятора.</p><p>Скинул скриншоты использования экрана, чтобы убедились сколько работы экрана было.</p>",
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "bb3ec6fc-4a88-44b2-9a70-471249c9acdc",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/27a3b1d28d0565bf5c0e5304d48b9998/98530f13e4fb55291d93d849173a750208088026b09fcceafeee1ee9540d8e4d.jpeg"
+                    },
+                    {
+                        "id": "b76d4e50-a9e6-4553-ae8d-55eb379f3532",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/3632447003d5644e43d695f1e9edb1be/be9f8c4b733445692087933894abe484409b81d6094df349b04c25ef98bab893.jpeg"
+                    },
+                    {
+                        "id": "9cc0101b-94ad-47c3-aaa5-1c0da37787ed",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9bb8cc26759ed59a94d0db1e1dd0df17/9f91539e983aab6d096ae6d382fa596544d1569bd4d56e2f51500ca7b0541af6.jpeg"
+                    },
+                    {
+                        "id": "41cc5e15-c056-4a93-bed7-9c1b41f4bffe",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/a78a116e428f6d80b79c11f673d68d5b/71d54f8520104427d55a7d0eebd85ebaa9ea86b867a3abd46cc2f04b3d51562e.jpeg"
+                    },
+                    {
+                        "id": "33db7f32-bbeb-4f17-bdce-be03ff02d4a0",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/12b9c7e757ac7a0ef6205118ba3d37bc/668cfae7d33343186385b5187c4a6d8f18d93385d7fad31a6fd9068b5b8fb7e5.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "52dfa754-f6d8-4745-9445-4ad72978d8a5",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "f17d8b8c-80d1-33da-23d0-24fa96aaa495",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DT75001",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a8cb440d087611034d5aacf068b60424",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 08:02:36.436965",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 08:19:47.428378",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>аккумулятор</p>",
+                "minus": "<p>большой размер</p>",
+                "comment": "<p>В целом отличный телефон, банки, мессенджеры, оплата, все отлично. После оптимизации приложений, отключении лишнего  и установки нужных приложений. впечатления производит только положительные. Для моей руки немного боль.шой. Зарядка занимает 30 минут. телефоном пользуюсь умеренно, в игры не играю, заряжаю раз в 3-4 дня. Кому важно телефон громкий на полном звуке слышно почти как по громкой связи. В семье это третий телефон от компании Tecno,  пока всех все устраивает.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e98568cf-3a96-487a-b041-55a5005d1095",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "c9d5a309-8ddc-ca11-f445-76f814664da6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NU86366",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4f6395cf6bc00d934ea6f7ea2fd0bd38",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-02 15:06:00.555981",
+                "insertStampFormatted": "02.09.2024",
+                "updateStamp": "2024-09-02 16:09:18.04381",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон!!!</p>",
+                "minus": "<p>нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "37ca9283-2092-4ec5-b773-b575d21379af",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "1d88ece0-65c5-186d-ed65-c0d860d070cc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Бью модеров по жопе",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "62c77c4f662c07a6aafa8c2333cc2fa7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-01 01:31:30.785708",
+                "insertStampFormatted": "01.08.2024",
+                "updateStamp": "2024-08-10 17:04:54.268539",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>хорошая основная камера, 2 вспышки, хороший и чистый звук, качественный дисплей, блок на 70 W в комплекте, покупал за 17900 очень достойно</p>",
+                "minus": "<p>при всех плюсах в  кармане особо не поносишь дисплей легко поцарапать, по этому лучше сразу наклеить пленку или стекло,  родной чехол дубовый но хорошо что есть без него на боковых рамках остаються следы от пальцев</p>",
+                "comment": "<p>Купил взамен realmi c 33 в котором для меня 64 гб уже стало мало, в целом  после месяца использования только положительные эмоции от аппарата, камера неплохо снимает, не играю и при умеренном использовании мне хватает на 2 дня, но если из рук не выпускать сядет быстрее чем за день</p>",
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "9c3b9411-b6fd-483a-9289-6555b374e679",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9acf45ba6c322b989af7392a191c4a56/3f086869dc7c88f36f26ee8e6e27ca6e948d0ea0cdc499ef6257a8109b248a1a.jpeg"
+                    },
+                    {
+                        "id": "7608f9e7-3777-4145-9c91-07335de1a9ef",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/46d35c9646c204857f9f2b2624537624/d127623d1b2e7e080acf753968fa8871e62a870babd249ff9cba3228bc03a281.jpeg"
+                    },
+                    {
+                        "id": "6e3f12c1-6ee6-4e77-9813-30e837345caa",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/dd29a6f86ad20e9dece9b5786f632396/7d67dc3eff35f328e633ed2e4358f9f56de861c72bc3e277f635ee136cb84758.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6696edc7-fa2f-4232-904a-c2f4f96645b2",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "123ab10d-2571-d58b-c455-7ad2e8d12ba9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-Ж",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cbefeac6c5c69f1f4e8f935c614b8860",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-15 11:59:12.758206",
+                "insertStampFormatted": "15.07.2024",
+                "updateStamp": "2024-07-15 12:27:25.727983",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>икпорт, фронтальная  вспышка.</p>",
+                "minus": "<p>датчик приближения(походу отсутствует и его функции выполняет камера)</p>",
+                "comment": "<p>эа 20к топ, рекомендую.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b93c888b-fb0d-4ea2-9f2f-83b77b306ef4",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "fd85507e-43bc-496a-aaeb-2b28393b0386",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "хаттабыч",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cd2dc22bea27c6261ce372a4880b216a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 12:05:43.193359",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 12:05:43.193359",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d402634e-5e07-4556-aeb1-c1656136a29e",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "e5a66bb9-14b5-19b1-7001-5e072247f2b8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "PioneerDD",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d501ef2d4e6fc59914b997896467c0a6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 22:10:42.349851",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-26 22:10:42.349851",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "905c7581-829f-45f0-a4c9-dfe3175214fe",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "58de7a38-6511-4a42-a011-2ed1a0e747a6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FW8783",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bdbe1a032c70b6ad6cf2f91f36e02542",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 13:39:25.501215",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 13:39:25.501215",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2f503ef8-b1a2-42d8-8674-8e4587eb0b79",
+                "objectId": "8bc80f8b-d799-11ee-91cb-00155d8ed20b",
+                "objectUrl": "/product/8bc80f8bd799ed20/68-smartfon-tecno-camon-30-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno CAMON 30 256 ГБ черный",
+                "user": {
+                    "id": "f3227362-0c92-3d29-52a6-ff2c6b8f5fe0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MJ94336",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fd23617608962e1cc06f6857f1d85187",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 11:47:03.430895",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 11:47:03.430895",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "8/256",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 18
+            }
+        },
+        "topId": "63294be1-4182-464e-84d1-0e714ec62b86"
+    },
+    "message": "",
+    "errors": []
+}

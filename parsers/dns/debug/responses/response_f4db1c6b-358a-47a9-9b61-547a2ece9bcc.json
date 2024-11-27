@@ -1,0 +1,755 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 22,
+        "opinions": [
+            {
+                "id": "dc3fcd63-d7f8-4a6e-a218-9373e85f0e9b",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "c343ab9e-9f2a-b24d-3767-27b7eb8de7d9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AS85124",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cb903a58ff0e879c2d019e48bb79e2dc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 06:19:39.41435",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 06:29:27.01695",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Даже по сравнению с S23 Ultra, экран стал намного лучше (особенно заметно по ночному использованию);</p><p>Производительность выросла;</p><p>Качество фото стало не на много лучше</p>",
+                "minus": "<p>Дребезг при сильной вибрации (для меня не критично, сильной вибрацией не пользуюсь). Если вытащить стилус такого нет. Однако на S23 Ultra такого и близко не было</p>",
+                "comment": "<p>В целом телефоном доволен. Не жалею, что обновился. Хотя бы по части экрана заметное улучшение.</p><p>Из придирок: Новый серый цвет - на любителя. Зелёный на S23 Ultra был интереснее.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2462000a-0f0d-405e-b657-662dccc6d8f7",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "6386a30f-af73-d70c-da1f-a32d03643261",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "IПришелец-CC91974",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1095796555928f9e3e2acdbf8fc16b42",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-09 14:24:49.764501",
+                "insertStampFormatted": "09.03.2024",
+                "updateStamp": "2024-03-11 03:09:39.770382",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид, камера ,сенсор откликается очень быстро.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Покупкой очень  довольны</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9acd3112-f8ec-4a82-996d-ebb73c0845e5",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "0ee2d647-2485-6cae-138e-d0bb72358c9d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/93bbab7b977bc2e93c7b06fe5c0e4374/c76f03d73b4c9b4bc6d48163b72ba89c86446a03001dc2f03eb13b4cc9ef61f8.jpeg\">",
+                    "name": "Пришелец-CH66414",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fadf9c4b710def932f0dafe6ecf01f75",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-03 22:51:42.97994",
+                "insertStampFormatted": "04.03.2024",
+                "updateStamp": "2024-03-04 02:31:51.14609",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Отличная Камера, Хороший звук, Дисплей Насыщенный красочный приятный.</p>",
+                "minus": "<p>Пока что не обнаружил.</p>",
+                "comment": "<p>Впервые держу такой Качественный Смартфон Пока что не знаю что ещё написать, Смартфон мне понравился.</p>",
+                "usersCommentsCount": 5,
+                "images": [
+                    {
+                        "id": "e5363f04-2254-48f0-a818-cb2f70a330db",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/48f91b3d87a37a96fcb96cc13f0d6935/6ac9fcf9ba9984f09cf8eebb5947875cadb8f12ff9beece2e2e663b0e831c453.jpeg"
+                    },
+                    {
+                        "id": "da8421c0-72df-43f5-9bd3-0dda3ab25ded",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/688a6c43d209177a49e283dc29e6d085/78609c764127259375e8133420913e701722cdd001842648f35a2bc554eb8196.jpeg"
+                    },
+                    {
+                        "id": "ced928cc-ae66-4c38-a5b3-cea2b2d34fe4",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/43a7f97f6b47889017d57e166dc60edd/097999cfc8f76819af0a43d6fc7d3bcc70b677329943d70b3a8c9324f3008f0f.jpeg"
+                    },
+                    {
+                        "id": "a6adffce-724f-4fc8-ad94-53b1f982a242",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/54e998843c5a35962da37b31289f70d7/e0160a5a6dd5d60e14e1aac9017a9d517a20a55a890311d6787ca554b261b28e.jpeg"
+                    },
+                    {
+                        "id": "121f2f5e-9427-486d-bf83-381fafcb0694",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/23cc447322fb5395794457304dff331c/24c43a0de29380d4cbe6173b7394a05f261aa57beaabeaa3cbf39375cf985b6c.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9bce21bb-bc19-4c17-a695-02e4616fe6ed",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "63d8104f-1993-bd2c-7d05-37a8c64e3fb7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UK05813",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a6f6140973b76e8b620a9d39eadc3684",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 07:14:50.917899",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 07:14:50.917899",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4dbd1d16-362a-489f-83b6-a36a8faf1d52",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "73f6be64-2aa3-a488-35ed-1f63a3424dab",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OZ38815",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5f005fb68c131550406a73957ba0417b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 05:20:17.221367",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 05:20:17.221367",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d434c651-4d1c-434a-af96-ef13c01fd872",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "a35aa043-3527-e96c-1a71-a23c27a2324d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SU06094",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cea6791f45f86a567902c431cff5843c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 09:58:15.935462",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 09:58:15.935462",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ca987912-b04b-49c5-a505-a10cdd5ebc8c",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "450e6c45-718c-1c3b-4f99-34280ab1bf9d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RR73735",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "91294480f904163fb3bcb983baa0c2ab",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 08:04:38.051268",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 08:04:38.051268",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "fb6f6546-b7e1-4ec6-a922-6685a309be8a",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "0c38e32e-4f46-a5c7-b520-d80bd3b161f1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BB62843",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "841c5b6d4d57fddfe344c1a83b7857ec",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-11 09:07:46.162247",
+                "insertStampFormatted": "11.10.2024",
+                "updateStamp": "2024-10-11 09:07:46.162247",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "afb32d0d-a5b9-49ef-8271-aec3cdd34751",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "e15adf67-4bae-6ee6-ea0b-857c1472e7e9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DA99620",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "762d79f596394af23ff90f7cb2c11d08",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-09 14:43:30.485449",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-09 14:43:30.485449",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "94d9e5b2-c753-4d55-a8a8-ccf8d9cf0ccf",
+                "objectId": "f4db1c6b-358a-47a9-9b61-547a2ece9bcc",
+                "objectUrl": "/product/f4db1c6b358ae9bc/68-smartfon-samsung-galaxy-s24-ultra-256-gb-seryj/",
+                "objectName": "6.8\" Смартфон Samsung Galaxy S24 Ultra 256 ГБ серый",
+                "user": {
+                    "id": "a2ae3b69-1324-6e39-6875-3027d99f8335",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FY33410",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cb903a58ff0e879c2d019e48bb79e2dc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-02 01:07:50.458077",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-02 01:07:50.458077",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "256",
+                    "Цвет": "серый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 16
+            }
+        },
+        "topId": "7c242ec2-8796-447f-82f3-7eb45da627f4"
+    },
+    "message": "",
+    "errors": []
+}

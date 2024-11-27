@@ -1,0 +1,704 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 36,
+        "opinions": [
+            {
+                "id": "7fcac020-2876-4289-8f1c-957271f1d610",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "08ce9766-74a9-0ae0-daf3-471c218fdb07",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VQ99095",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f7510aacf1755ebfd3723e39d888b47d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-29 04:33:22.3385",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-29 04:53:38.385355",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон работает шустро,батарею держит отлично,внешне удобный и красивый!</p>",
+                "minus": "<p>Нет блока зарядки в комплекте,а только шнур Type C-Type C и иголка для вскрытия слота симки.</p>",
+                "comment": "<p>Рекомендую к приобретению этот телефон.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0d88a0b2-7363-481a-a4ac-53d7db7aee57",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "3fdf1f1c-f9c6-3dbb-8f1a-9e93000c3570",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EQ04815",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9ee3ed46365e2847685075f17a746605",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-29 19:43:11.134612",
+                "insertStampFormatted": "29.08.2024",
+                "updateStamp": "2024-10-26 09:27:26.567255",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Всё работает исправно</p>",
+                "minus": "<p>Не нашли</p>",
+                "comment": "<p>Пользуется дочь: не о какой чистке и речи быть не может,куча приложений постоянно открыты. Никаких лагов и тормозов, батарея держит гуд</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "10d5dc30-e8c5-4968-ad7c-4831a0e33cac",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "ff3fcb34-03a5-4b0c-b18e-927ef847d55e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "sergey2466",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ec3eaa19d8c3e40f52e39a0b3f49a5c2",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-22 09:42:08.830965",
+                "insertStampFormatted": "22.06.2024",
+                "updateStamp": "2024-07-22 23:16:17.89346",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Полностью устраивает</p>",
+                "minus": "<p>хотелось бы по дешевле</p>",
+                "comment": "<p>почти полный аналог по железу А54</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e1f4cdc3-c423-47c9-b903-e8848d7d6e94",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "c948bcbc-21e0-4af6-8cd2-ef3abc194f87",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAF99292",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7877ae581bbd155f08c8721d7ddffb30",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 17:20:07.185781",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 17:20:07.185781",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2be70c4b-d418-4756-a960-544ce249e3b8",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "83f95a54-96f3-81c2-b79c-0c2ff3504c68",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QT94011",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eac268cbf38e89e149cd82746fb0a270",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 05:21:18.866186",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 05:21:18.866186",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "d203ea74-292f-4323-9929-648515b53ff6",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "0053e157-d4f5-4340-8f77-50e396a80f29",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TO1212",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e76e1e3ffa765cf5993b9a90cc7adf16",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 12:51:11.493881",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 12:51:11.493881",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "85dc15f8-3257-49f6-a110-c831de215823",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "cfb30088-feca-ff6d-98d5-10468c8cb474",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TOP06357",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1eeeb979af6cee4529a3cae8ef78350b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 14:14:19.212493",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 14:14:19.212493",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "17b3eb79-233e-44d7-a307-3318b8919b0d",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "6ba3f11e-3133-1820-ef1f-dee0eb4e1290",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AU44693",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "956b4611f39c6b80cc033cabd6b9af10",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 08:50:07.735464",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 08:50:07.735464",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "864f43ca-c187-4b0e-8f9a-88d0dd8a2bf6",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "0bb1cba1-a904-bef9-d304-5152ad4011fe",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WU68810",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ed9dc25f0b8a5b235e4a861c7fb23d19",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-08 05:10:21.086595",
+                "insertStampFormatted": "08.10.2024",
+                "updateStamp": "2024-10-08 05:10:21.086595",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b46bc6ce-a847-4a94-9d76-b011c76c99dc",
+                "objectId": "2d38abe0-dcc5-44fe-8302-3a5523bfb032",
+                "objectUrl": "/product/2d38abe0dcc5fb03/66-smartfon-samsung-galaxy-a35-5g-256-gb-goluboj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A35 5G 256 ГБ голубой",
+                "user": {
+                    "id": "bcca9f49-b6c8-f1e6-b926-f46ac89e8ec3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VP53701",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "33bc5c33031bd0b20f808daa7748a54a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 19:43:21.626873",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 19:43:21.626873",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 2,
+                "5": 23
+            }
+        },
+        "topId": "bca152de-daea-4619-9dab-bfc1520b9d8f"
+    },
+    "message": "",
+    "errors": []
+}

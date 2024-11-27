@@ -1,0 +1,755 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 190,
+        "opinions": [
+            {
+                "id": "5db2a42b-9e29-4eb1-82c6-cfc559b84a3b",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "42b8a687-45f7-2fe3-d3f4-c7d107c8780a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/71a97b0ff23f1bc82c1aaf124ffc9c3c/a57fae28dd0c4447c684c48a14732321a4d1f4f6c5dd5fe614bad88f284d4f24.jpeg\">",
+                    "name": "Коллекционер88",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-02 19:37:52.15659",
+                "insertStampFormatted": "02.11.2024",
+                "updateStamp": "2024-11-02 20:50:30.744016",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Купил в подарок пожилой матери для видео звонков. Отзыв сразу никогда не пишу, лучше попользоваться и</p><p>здраво написать. Купили в конце марта, покупкой довольны. Камеры работают на отлично и звук тоже хорошо передает. маме нравится</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "533bf6f7-548b-42f3-bf6f-f99317eb5863",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "f1f1471b-63c4-41aa-805b-a53e6f823e93",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RT57663",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "de9983c18c71a89540799b46fe15e9a6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-31 17:47:10.79706",
+                "insertStampFormatted": "31.10.2024",
+                "updateStamp": "2024-10-31 17:53:06.774601",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный аппарат для людей которые знают что хотят от смартфона</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>реклама вырезается , памяти вагон , шустрый для повседневных задач</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6e20bdf0-215c-4528-9dc9-2cbeff0a01da",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "69348d13-3769-4090-a21a-73d3ff7a1af5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/4a0b03202c2626ce738f0815b5c50b96/13b75f2871f46592885eadcbf8e390adbcf4d97406a61a38944d88dea92af9e8.jpeg\">",
+                    "name": "Татьяна88",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "af199af2010af77c34215d504356eb71",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 07:21:25.82458",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 08:12:07.508114",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон, но хорошей цене</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Советую к покупке</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a16781fe-8234-416f-988f-1209a8a6fe60",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "20dbd809-73f3-4887-ab04-746933f3248b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MJ8114",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bfaf5c4735c49c4930f0d04d6baed3c0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 18:11:03.70583",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 18:31:58.879699",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>+</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Супер</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e58ebbd8-3895-4072-9aad-2900694afb52",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "44982ceb-3ecd-4437-db29-1aa60225be8d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YX9776",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7c0df8e40a9a8d656b0f059c14fa0eec",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-08 12:58:30.554942",
+                "insertStampFormatted": "08.10.2024",
+                "updateStamp": "2024-10-08 14:29:40.99234",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Их вопше нет!!! Не советую телефон виснит глючит!!!</p>",
+                "minus": "<p>Вопше отстой а не телефон!!!</p>",
+                "comment": "<p>С первых дней стал глушить виснит и не разблокируется!!!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6c9c689f-e572-4603-85bb-180e17bedd9f",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "6c0799ec-86db-3582-a00e-1ba990bbad90",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LV90965",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "296e84dcb5623dd8d82f9bb71d5b5854",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 05:44:28.382354",
+                "insertStampFormatted": "11.09.2024",
+                "updateStamp": "2024-09-11 05:53:02.277204",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Пользуюсь, нравится</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "218577f9-97ba-4b99-9478-e309e3970cf5",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "581a2831-113e-a464-055f-ae56765666e8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ZqwEKUZZK",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6c0d7a3217cafcb707529a30701c9eb9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-09 15:07:10.45382",
+                "insertStampFormatted": "09.09.2024",
+                "updateStamp": "2024-09-09 15:16:39.672603",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>За 12000р и ниже неплохой смартфон</p>",
+                "minus": "<p>За цену смартфона придраться особо не к чему.</p><p>Но стоит отметить что с коробки на экране нет защитной пленки, лишь рекламная с характеристиками и нет чехла. Надо докупать защитное стекло или гидрогелевую пленку и чехол сразу.</p>",
+                "comment": "<p>Брал как подарок на замену honor 8a который стал очень задумчивый даже в простых задачах для смартфона</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c9a291c6-5492-45ed-bdcd-f0ec370a82ea",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "3fb94ab3-dc49-4704-a778-b1dce0cfd366",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HN6781",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ad9b97608a960166b365e0c20aa07d00",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-04 02:35:47.165557",
+                "insertStampFormatted": "04.09.2024",
+                "updateStamp": "2024-09-04 02:42:32.159612",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Всё супер, но реклама невозможна, вылазит поямо во время вызова!</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4d76887b-3d67-4e8e-8539-35881e60181a",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "67d4de79-dfe1-bf42-0002-7a81e60b126e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MM69111",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-09 19:44:38.22162",
+                "insertStampFormatted": "09.06.2024",
+                "updateStamp": "2024-06-10 01:50:48.224292",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Ребëнку 9 лет нравится</p>",
+                "minus": "<p>Нету</p>",
+                "comment": "<p>Покупали ребëнку на день рождения всë нравится советую</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "fb014cb6-9fa7-49de-b31c-f61e70ccb8ac",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9a998b3db8e8fd00390c283d0dc33807/02c3aae72666ed7aa2eac82cbf651af9014b0c2070cba5bcffbcd6ae61b7d143.jpeg"
+                    },
+                    {
+                        "id": "ef7f39fc-e2a1-4755-b0ed-483e7a04c798",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/1707508a7d8956cabe786d5aacc63e9e/4ed6fe597c9855acc6f793a9d61e6b74af73965c4dd871aa439e2f8ed4124095.jpeg"
+                    },
+                    {
+                        "id": "eb885bc0-d91c-401f-8f54-3cc935ce8fb9",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/45bc60c20d844b725e6b4aa82f10789f/c6cbdafd4fac9f16bd4dd4e4080001c5318f28592c84e3f934a92262db1b7a99.jpeg"
+                    },
+                    {
+                        "id": "a90cacb4-473a-4204-858c-16d10e260f2f",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5bb70ee0cb0055dd0bd866b0a2f71ba7/fc3c479b43abfeae756f9579707af7701885ab636827c02e6219efb9b4c00bd6.jpeg"
+                    },
+                    {
+                        "id": "9305530d-2dfd-4c3d-afef-b018a18272ce",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9f3457c411c044d14dc40ae8cabfcf09/d5de136e599890cb8b3a8ad9fb2ca987aaea48b2123ce6782ae3fbabb842f235.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9d818615-cb21-45ca-8f09-a798c0601200",
+                "objectId": "45ecabfb-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/45ecabfb7478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-goluboj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ голубой",
+                "user": {
+                    "id": "5da9c7c2-57bd-42dd-a689-a8b7513bb7bc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XN9236",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2575141f304e6f7ab14aac07510ff0c7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-05 17:05:24.974539",
+                "insertStampFormatted": "05.06.2024",
+                "updateStamp": "2024-06-05 18:40:33.71401",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Нормальная звонилка и сёрфер соцсетей</p>",
+                "minus": "<p>Абсолютно не работают с проводными наушниками с микрофоном(имеющих 3 вывода на мини-джеке) Пример на фото.</p><p>Модуль связи хуже, по сравнению с Редми 10S, интернет дольше ищет при выходе из метро и помещений.</p>",
+                "comment": "<p>Всё хорошо, но из-за указанного недостатка хочется сдать по гарантии!</p><p>ПыСы для альтернативных: блютуз-наушники не использую из-за того, что в шумном помещеннии меня не слышно, а это происходит часто.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "10c1a53b-36a8-450e-85af-4b01f333a16b",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5e2984eee74ba562234e44abce0e8420/ece392386f01ec6db2f1891089f4a6c80bbbed25d03b8c84b5ba77f64b9f343c.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 5,
+                "2": 1,
+                "3": 3,
+                "4": 11,
+                "5": 131
+            }
+        },
+        "topId": "ce63abe9-1c2d-4533-bf16-6f8bc8c4c041"
+    },
+    "message": "",
+    "errors": []
+}

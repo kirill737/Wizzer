@@ -1,0 +1,719 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 12,
+        "opinions": [
+            {
+                "id": "147d8aa4-c0d0-4487-a5d1-8ec88bfa5118",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "7af706ef-03d6-4824-aa6a-4453af8d8810",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FX3141",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 20:38:13.95145",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 20:55:19.039521",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Красивый на этот всё</p>",
+                "minus": "<p>Сразу после включения начали настраивать гугл акаут стал выключятся и перезагружается сам по себе в итоге так нечего и не сделала будем делать возврат расстроена 😕</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "a19dda65-1062-4b36-b7e1-b841161ae121",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/7b524ac961d0ccb30a5a3511b3b5bc9b/a35eabdd3b0861dcafb0878b838c9e0f77a2169265317f1f3144114574423da4.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ee0ebd5a-a3a6-4950-88c2-be5d2ac52fdf",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "65bb46ac-8a35-4721-8b80-870955f1ea86",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAA24682",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d354000fe9900b9673b073a47fc503c0",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-18 11:06:59.327052",
+                "insertStampFormatted": "18.05.2024",
+                "updateStamp": "2024-05-18 12:49:05.786894",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Во всём идеал...НО</p>",
+                "minus": "<p>Просто наглухо виснет в браузерах, пришлось ставить Гугл хром и особо не серфить.</p><p>Если не вылазите из браузеров не вздумайте его брать, тут проц видать 2010 года, ОЧЕНЬ слабый!!!</p><p>Ещё на громкой связи хотелось бы погромче и очень не хватает датчика освещенности, а в остальном за свои деньги лучше не найти.</p>",
+                "comment": "<p>За 6990 рублей которые я за него отдал вообще идеал, если баг с зависанием устранят, то просто бомба.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "670ec4e6-11d2-4eba-b20b-7fd668464c70",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "30982627-1624-486b-8dc5-d49e03ce6938",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KD5318",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1c3e20910c4d47456f13e8df29436aa8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-06 06:18:40.38378",
+                "insertStampFormatted": "06.02.2024",
+                "updateStamp": "2024-02-06 10:22:09.413074",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Большой и яркий экран, большое количество встроенной памяти, есть слот для карты памяти и джек 3.5 для наушников, отличный чёрный бампер в комплекте.</p>",
+                "minus": "<p>Процессор! Блин, поставили бы вместо 603, 606 пусть на чуть дороже  по цене вышел бы, но было бы на порядок лучше</p>",
+                "comment": "<p>Когда брал телефон, я примерно представлял что получу, единственное что вызывало опасение, что экран будет тёмным, но нет,  дисплей яркий с приличной цветом передачей. Память обязательно виртуально расширяйте на полную, без этого даже при простом просмотре новостной ленты будет сильно тормозить, даже при включённой расширенной памяти все равно будут микро фризы, так и слышно как процессор про себя тихо шипит и матерится!:) За свои 8500 нормальный телефон для начального  уровня</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f83df100-459f-4017-9071-fd3b0eea5867",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "28adec74-9387-441a-b9bc-21745dc66c2a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAC57307",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5a1861f7003f6b4c790b54e204082133",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-03 07:15:46.824192",
+                "insertStampFormatted": "03.08.2024",
+                "updateStamp": "2024-08-03 07:15:46.824192",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "51f8f2a1-fbbd-427a-8668-60e1d56f7635",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "40009ff9-9af0-1bf6-fa8e-375ac72f082e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/08774dfd2316b8abf03171de78622cda/4b61f81b04f8b4b4d2e5d8cfd94998d414823e59e229462d3c8c31875d31a280.jpg\">",
+                    "name": "Пришелец-CB30636",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "44e1190da607825cf1b8cbfc2268d53e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-21 04:57:49.1534",
+                "insertStampFormatted": "21.06.2024",
+                "updateStamp": "2024-06-21 04:57:49.1534",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e5a2eb80-0336-47d3-8893-b0ecd4382ef0",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "4354c7f8-aa7a-212c-6356-33646fee2aca",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PDG40394",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b5b9ca2d537db1fc77efe8651610d518",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-10 15:20:43.46337",
+                "insertStampFormatted": "10.05.2024",
+                "updateStamp": "2024-05-10 15:20:43.46337",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3980b88d-5b33-4d93-a187-8c0cbe555fdb",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "57146c23-3627-88ff-02e5-ca5abea2c293",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YFZ99593",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4e9a4de4b1147349ce94a849dc34b811",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-09 06:46:43.993738",
+                "insertStampFormatted": "09.05.2024",
+                "updateStamp": "2024-05-09 06:46:43.993738",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "68c2c52b-9942-4c17-9ba3-63cd8da497f1",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "629020d0-8d2f-4c9f-a947-3151803089ec",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SY6008",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "70327e471edbf1675ececd94793bf4fc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-22 08:03:02.436318",
+                "insertStampFormatted": "22.04.2024",
+                "updateStamp": "2024-04-22 08:03:02.436318",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0d612168-3bd4-452f-8e91-56b54c607d7e",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "73642687-eb56-7425-6d4d-16ed04fa9323",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NP40202",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6e54868472c1b828b40ba1e6559c737d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-21 15:53:13.309526",
+                "insertStampFormatted": "21.04.2024",
+                "updateStamp": "2024-04-21 15:53:13.309526",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "63bcd2cb-c0b7-4170-93aa-2cfd072601e2",
+                "objectId": "c889f132-927a-11ee-9180-00155d8ed20b",
+                "objectUrl": "/product/c889f132927aed20/66-smartfon-itel-a70-256-gb-zolotistyj/",
+                "objectName": "6.6\" Смартфон Itel A70 256 ГБ золотистый",
+                "user": {
+                    "id": "e8d1eca3-cca8-6ed6-47a5-b94c5a47c13b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "TK50135",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8ebdce76b0f78b748ef70cab6c16e3c9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-16 04:39:12.848349",
+                "insertStampFormatted": "16.04.2024",
+                "updateStamp": "2024-04-16 04:39:12.848349",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "золотистый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 1,
+                "5": 7
+            }
+        },
+        "topId": "9d19af86-a1f8-4f5c-a352-be05da7b39f3"
+    },
+    "message": "",
+    "errors": []
+}

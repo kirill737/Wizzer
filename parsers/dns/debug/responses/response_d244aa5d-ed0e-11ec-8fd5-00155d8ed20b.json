@@ -1,0 +1,699 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 164,
+        "opinions": [
+            {
+                "id": "4caebc3f-353a-4cda-a691-18f46743d54a",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "f990a2db-3e56-d780-6e73-a740938153f8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IH94621",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "940d2d7e887b5e6f9321be9ac58cdb69",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-22 04:10:09.36245",
+                "insertStampFormatted": "22.11.2024",
+                "updateStamp": "2024-11-22 04:17:15.339011",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Удобно лежит в руке, приятен на ощупь, хорошая камера</p>",
+                "minus": "<p>Очень сильно греется из-за чего идут огромные фризы</p>",
+                "comment": "<p>Хлам</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5d5ab3fc-277a-49f9-ba7c-228bba49ee62",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "36c08023-ab5a-6e6c-00da-7937b1e268af",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZQ54072",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ba42260e2371c504a1d0fbe807635582",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-25 13:40:06.84142",
+                "insertStampFormatted": "25.06.2024",
+                "updateStamp": "2024-06-25 14:24:50.01777",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Никаких</p>",
+                "minus": "<p>После двух месяцев работы начал лагать конкретно</p>",
+                "comment": "<p>Никогда не за что не покупайте, это нечто, сто раз пожалела</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1d290cb1-ee84-4bcb-afb3-869dc87e422d",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "d75ddb94-16a8-c17c-5963-cd5dd7ec8a9b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/9060ce58d2530430e0162c206dd78259/9fe4d7a7a052918b0c755f5c84b9b101a23f009ca189e1e1871964c7d8182e67.jpg\">",
+                    "name": "Пришелец-ZJ3990",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "89ebad2176e219e8d6353cf4c3d417b1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-14 11:20:32.01867",
+                "insertStampFormatted": "14.02.2024",
+                "updateStamp": "2024-02-14 11:57:11.077503",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея (шустрый)</p>",
+                "minus": "<p>кнопки громкости с другой стороны (привык быстро)</p>",
+                "comment": "<p>Отличный аппарат.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6295eaec-641a-4193-975a-5aae6c1ad762",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "84a6408f-c6eb-af4f-e4df-6da9a5922f9d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FI84955",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-10 03:48:15.80713",
+                "insertStampFormatted": "10.02.2024",
+                "updateStamp": "2024-02-10 05:57:26.97207",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный, бюджетный телефон</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Отличное сочетание качество и цены. Покупал ребёнку первоклашке</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "231b5915-51d2-4a79-9329-04ee788eb705",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "5b8946d7-d438-2582-9b13-183de04c08b9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9e14f76d63ef951fbea57d34cc517163/afb5ded4f656c498be2bc92ca11474b8f829cc11dad3299522d548a018952924.jpg\">",
+                    "name": "Mylvik",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3a629e6393d48aa2ec3969c3f2affc73",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-04 01:07:09.487453",
+                "insertStampFormatted": "04.08.2023",
+                "updateStamp": "2023-08-04 04:22:21.33989",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>шустрый</p>",
+                "minus": "<p>тяжелый, если уронить на лицо когда засыпаешь с телефоном в руке</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b02ccb5b-c596-441d-b788-94ba38dd7763",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "d4068bd3-c60c-475d-8414-1202858ae99b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SC9100",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-04-12 11:15:51.25252",
+                "insertStampFormatted": "12.04.2023",
+                "updateStamp": "2023-04-12 11:15:51.25252",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Красивый дизайн, достаточно памяти,</p>",
+                "minus": "<p>Долгая зарядка батареи, один раз не видел сим карту(помогла перезагрузка устройства)</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c956d0d8-be80-48bd-b4f1-d0b8e8dad09e",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "20150da5-0c92-c9cc-aa59-bd7d4130fb6d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XV05835",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "eaaa6eba5980cb8cf3273bb355176426",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-04-05 05:36:26.529384",
+                "insertStampFormatted": "05.04.2023",
+                "updateStamp": "2023-04-05 06:27:00.062982",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошего качества</p>",
+                "minus": "<p>Маленький</p>",
+                "comment": "<p>Впринципе за свои деньги соит</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7b55c74b-b5bb-4c7d-b860-839ab098576e",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "a950dcc2-7eec-0be4-31a5-08493508c8dc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VU22727",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2023-02-03 19:32:50.9408",
+                "insertStampFormatted": "03.02.2023",
+                "updateStamp": "2023-02-03 19:45:51.432895",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Нету</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8cf8b2a6-e995-4758-9f30-9dd6f8feeda9",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "9fb8492f-ac81-4008-a5ed-b75f479fe360",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/2456f8fc12cf34f083f90528ab5c7ac1/7f1a6ade3bbd1333d666873df86761de96436767eb3b64b7b031381c583fe460.jpg\">",
+                    "name": "BR1000",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8cabcc8dfcb8eb3af1ae0bce881a4892",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-01-08 06:23:56.550044",
+                "insertStampFormatted": "08.01.2023",
+                "updateStamp": "2023-01-09 05:43:22.263695",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>За свою цену отличный телефон. Батарея заряд держит.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "640d6456-1ab8-49aa-88e7-7d1824e3e290",
+                "objectId": "d244aa5d-ed0e-11ec-8fd5-00155d8ed20b",
+                "objectUrl": "/product/d244aa5ded0eed20/66-smartfon-realme-c35-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон realme C35 128 ГБ черный",
+                "user": {
+                    "id": "51fe735d-4319-c199-9541-22bc7f9083c8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RG41558",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "474cf4138d62c1920e3ddd87d03a7149",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-12-03 10:38:54.669826",
+                "insertStampFormatted": "03.12.2022",
+                "updateStamp": "2022-12-03 11:15:07.000416",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея</p>",
+                "minus": "<p>Не нашел</p>",
+                "comment": "<p>Отличный</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 7,
+                "2": 1,
+                "3": 7,
+                "4": 12,
+                "5": 101
+            }
+        },
+        "topId": "3b65739f-e981-48f2-ade1-434ed502911f"
+    },
+    "message": "",
+    "errors": []
+}

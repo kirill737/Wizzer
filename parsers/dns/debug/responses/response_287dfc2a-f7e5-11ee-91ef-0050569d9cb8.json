@@ -1,0 +1,708 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 147,
+        "opinions": [
+            {
+                "id": "089de628-4d56-4e53-b346-9ff22155cc89",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "b2837469-5705-b5f6-1263-933c03064ef4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QH35046",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-25 05:39:14.88847",
+                "insertStampFormatted": "25.11.2024",
+                "updateStamp": "2024-11-25 05:48:44.594634",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший бюджетный телефон.</p><p>Ребенок доволен, все игрушки тянет</p>",
+                "minus": "<p>Не заметил</p>",
+                "comment": "<p>К покупке рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "34225c7a-0848-4f83-8f45-156d96d4f3f9",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "22872d5f-be90-6df1-b337-7c3a953f806b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пашук",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-04 18:16:07.94968",
+                "insertStampFormatted": "04.11.2024",
+                "updateStamp": "2024-11-04 18:27:41.404637",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Всё устраивает.</p>",
+                "minus": "<p>Не выявлено.</p>",
+                "comment": "<p>Хороший телефон.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e5785c9e-7b80-4dc0-9002-6bf802e0e758",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "c755f6d6-384c-d915-72c7-5ef94455b328",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TB19165",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-04 03:50:05.24314",
+                "insertStampFormatted": "04.11.2024",
+                "updateStamp": "2024-11-04 03:57:39.64764",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Добавить яркую матрицу и штоб при запуске не темнело</p>",
+                "minus": "<p>Матрица_ищизнавение яркости при запуске приложении</p>",
+                "comment": "<p>Ну кому как берите если хотите секономить</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "08be0273-dbcd-44be-b135-71f1d5989fac",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "e6c207a8-baba-feb0-8553-9a64d9626fb4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HV2278",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "68b30eba482e14c583a57cda2cb07e3d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-24 09:40:52.477489",
+                "insertStampFormatted": "24.10.2024",
+                "updateStamp": "2024-10-24 10:56:03.768378",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>производительность игровая</p>",
+                "minus": "<p>если сломался/разбился дисплей, достать замену нереально</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "55f2e86d-ae20-479d-959c-55369d4e5616",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "af87fc39-b385-dfd2-e0d8-7aca1c519ea5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GW53278",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-20 06:39:01.5989",
+                "insertStampFormatted": "20.10.2024",
+                "updateStamp": "2024-10-20 06:52:21.659335",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея держит хорошо спасибо большое продавцу рекомендую 👍</p>",
+                "minus": "<p>Пока не нашёл</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "bdbbaa5f-9cbe-4c36-ac21-5c1c92cda87f",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "15564106-6eac-c912-7690-fb3cfa689ede",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/e9f90bc45d121c3a2e7c363494058a86/95f5bccf03568b13bb58c3cc14c86438c9e6fceea5d1eee19ed8236993543a45.jpeg\">",
+                    "name": "krab1115",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-03 09:03:21.01847",
+                "insertStampFormatted": "03.10.2024",
+                "updateStamp": "2024-10-03 09:58:11.903175",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Все супер</p>",
+                "minus": "<p>Все супер</p>",
+                "comment": "<p>Все супер советую всем</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3f7714a4-d4bf-454a-aab4-7d2addfaa118",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "905986f7-f6e5-f6da-72d9-581abe4937f4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CT24343",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-18 16:00:05.38442",
+                "insertStampFormatted": "18.09.2024",
+                "updateStamp": "2024-09-18 16:04:23.846478",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>очень плохо работает вай-фай если скажите как починить то поставлю 5 звезд</p>",
+                "comment": null,
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d1ee9306-18e9-4232-b956-1a5d29efe883",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "33325bd5-e450-1c1a-ef6e-347f4cf162f2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QM29992",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f3e62c9a2af17225c6dcd8a7bd8f66e4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 15:31:03.440844",
+                "insertStampFormatted": "16.09.2024",
+                "updateStamp": "2024-09-16 15:38:46.404458",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Купила телефон месяц назад.</p><p>Что могу сказать:</p><p>1.Акамулятор просто пушка 2 дня без зарядки работает телефон в постоянном режиме.</p><p>2.Хороший сенсор.</p><p>3.Отличный звук.</p><p>4.Цена приемлемая.</p>",
+                "minus": "<p>Пока не выявлены.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "58103a54-8a14-4100-adfb-8c5cf1ef512e",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "8afe4ce8-4fb6-0289-0d44-b1f4b3417066",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/78541d4e538c3121f63fc62075b22956/b36854769f8087edd2a0c4f1e2e03981c6fef78d9a58d1bb4bc053a9cb5f2d6e.jpg\">",
+                    "name": "CyborgFM",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-10 14:29:01.35318",
+                "insertStampFormatted": "10.09.2024",
+                "updateStamp": "2024-09-10 14:38:44.494147",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>— Батарея</p><p>— Стереодинамики</p>",
+                "minus": "<p>Не выявил</p>",
+                "comment": "<p>Достойный аппарат</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f3287a4c-0a86-49e2-8613-9e5289c718ff",
+                "objectId": "287dfc2a-f7e5-11ee-91ef-0050569d9cb8",
+                "objectUrl": "/product/287dfc2af7e5d9cb/68-smartfon-tecno-pova-6-neo-256-gb-cernyj/",
+                "objectName": "6.8\" Смартфон Tecno POVA 6 Neo 256 ГБ черный",
+                "user": {
+                    "id": "a3b6a0ee-fa0b-00b3-19d6-6cbb659fbafc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "xtoqq",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-01 16:24:42.1365",
+                "insertStampFormatted": "01.09.2024",
+                "updateStamp": "2024-09-01 16:46:20.120947",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень хороший телефон, 120гц экран, 7000мАч акб</p>",
+                "minus": "<p>нету</p>",
+                "comment": "<p>советую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 4,
+                "2": 1,
+                "3": 2,
+                "4": 3,
+                "5": 84
+            }
+        },
+        "topId": "67df4e27-81a8-43fe-9df0-c26d48fafee7"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,733 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 112,
+        "opinions": [
+            {
+                "id": "7e80f3d5-e480-459b-8808-43730ab39729",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "075173c8-ae60-9125-2b26-355640747118",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WV38216",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7faa7700a2708a83d7e65bdeac092cab",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-18 09:09:10.48295",
+                "insertStampFormatted": "18.11.2024",
+                "updateStamp": "2024-11-18 09:30:40.120468",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Камера</p><p>Батарея</p><p>Стиль</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>4 месяца в использовании, пока нареканий нет</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2356beec-3036-4185-8923-da91fe353c3f",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "d97e3871-99dc-4a67-b438-441c774d6fbc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a45e50148c1a3ea823c268ae3d3b4df7/5fbff80ab773c8f1f7de2a6ff409fa2d463b7ce0a4c6cf7ace34162b823a5173.jpeg\">",
+                    "name": "Slava 28",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 12:58:11.41614",
+                "insertStampFormatted": "11.09.2024",
+                "updateStamp": "2024-09-11 13:01:10.269712",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>все нормально роботает, первый попался брак камера не фотала! На следующий день пошол зделал замену бес проблем заменили на новый и робочий в использовании 4 месяца полёт нормалный!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "647c6b26-8ff3-4560-88ab-6157c5b80f3d",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "f0f8fb8b-858c-4388-9191-b5a7b071155e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAE70083",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e203c4a373ec52678173c0b0d5e0dfea",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-21 08:44:04.96434",
+                "insertStampFormatted": "21.07.2024",
+                "updateStamp": "2024-07-21 08:45:33.075755",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Камера (особенно видеосъемка) просто пушка ,аккумулятор живет долго ,хватает на день с лихвой ,классный дизайн ,балансировка смартфона и материалы все это ощущается просто отлично ! А ну и экран 120 герц</p>",
+                "minus": "<p>Цена ,ограниченные возможности в ру регионе ,дорогой ремонт если вдруг что-то произойдет</p>",
+                "comment": "<p>Ну что-ж ,перешел на этот смарт с poco f5 pro ,по ощущениям не сказал бы что это что-то прям невероятное \"ВАУ!\" но если это ваш первый айфон то вы будете явно довольны. Естественно таких огромных денег он вряд-ли стоит ,особенно если вы берете его чисто для просмотра контента .В целом остался доволен ,думаю следующие лет 5 смартфон точно вряд-ли придется обновлять</p>",
+                "usersCommentsCount": 10,
+                "images": [
+                    {
+                        "id": "470a06b4-03bf-43e6-97ac-abdca6e1d545",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/6d24ba9c8389ffae4d3ed3bf3a88f559/8f8bf17eb82613044aa70524e197c488befde6f9bcb44d86239596e8e2bd0d9d.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b1e83742-3ae4-430d-b0ca-8669101d0014",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "19668cc1-72b2-4b91-8468-14fe0ae5f533",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GI3860",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6cc785203f718bbab628bbcf2dee2765",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-05 16:31:55.91407",
+                "insertStampFormatted": "05.07.2024",
+                "updateStamp": "2024-07-05 17:56:49.729809",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Флагман</p>",
+                "minus": "<p>Цена</p>",
+                "comment": "<p>Чисто панторезить в деревне</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4492b87a-e904-456a-a5e6-83df88781717",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "69749928-441b-4205-b656-b033082e5e53",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a8eb791c7a87f2bd278207f354cde02a/3ed9f847e8805b673828bdb5189c581ea9131f493542e987d1dde5d0a1894fc0.png\">",
+                    "name": "SABOKASHI TO YOU",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9dc1028b4f2cac0898199dbb3914104d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-21 12:01:04.06068",
+                "insertStampFormatted": "21.06.2024",
+                "updateStamp": "2024-06-21 12:34:40.826455",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Нет слов</p>",
+                "minus": "<p>Без коментариев</p>",
+                "comment": "<p>Топ</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "37e6aa24-c2db-466e-a449-a52cc213f988",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "90f283e1-5785-2539-c8b4-779fbbf7c8b4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PU85911",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-03 20:41:02.8354",
+                "insertStampFormatted": "03.03.2024",
+                "updateStamp": "2024-03-04 01:48:29.965283",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>он идеален</p>",
+                "minus": "<p>нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "aa44247e-ebee-48ef-bb5c-11ff35ee98bb",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "34cb56d0-1c3f-46c4-b806-b00c2266f0e9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TQ57824",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "44992148bcc6aad8cdfe11b725c618a1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-23 10:38:07.942834",
+                "insertStampFormatted": "23.02.2024",
+                "updateStamp": "2024-02-23 11:04:57.048246",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Расскажу по порядку. 1) Батарея - выше всяких похвал. Телефон использую интенсивно на работе, очень часто также всякие тимсы/зумы, музыку слушаю - хватает стабильно на сутки, а то и больше. 2) Камера восхитительная. Фото настолько четкие, что даже фронтальная камера позволяет рассмотреть неоднородность нанесенного тонального крема :)) Увы и ах, оказалось, что я иногда крашусь не очень-то и красиво... 3) Производительность - телефон летает, без преувеличений. Связь также отлично работает, звук при разговоре замечательный. 4) Внешний вид, титановый корпус - в руке держать оооочень приятно. Достаточно увесистый, при этом не гипертяжелый. 5) Качество дисплея - яркий, в меру блестящий. 6) Размер - лично мне после дисплея 6.1 этот кажется очень удобным. Думала сначала, что будет громоздкий, но в ручку ложится здорово и не вызывает трудностей при использовании.</p>",
+                "minus": "<p>Недостатков, как бы пафосно это ни звучало, нет. Телефон оправдывает свою стоимость полностью и безоговорочно.</p>",
+                "comment": "<p>Довольна аппаратом. За месяц привыкла настолько, что уже и не хочется ничего другого в руке держать.</p>",
+                "usersCommentsCount": 7,
+                "images": [
+                    {
+                        "id": "093f08e8-5edf-4123-91b6-1d1bbe01435e",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/6256fbcd98147336069ea24ac8386b53/965de67011db40bf336239f5a5403d7e4179a687b85e7c0929ad95bbd0c09492.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "57ac4b05-ff08-4817-9a93-20fd0310e057",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "7bdbeea8-b115-5d38-4bc9-74839c671f78",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FK98323",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-29 16:15:00.98456",
+                "insertStampFormatted": "29.01.2024",
+                "updateStamp": "2024-01-29 16:32:27.994985",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>- Батарея держит чётко весь день на 120гц + периодически пользование камерой, играми.</p><p>- Камера. Можно было и лучше конечно, но для универсального устройства(позвонить, поиграть, поснимать, посмотреть) сойдет.</p><p>-Производительность(на 5-10 минут игр, далее - тротлить начинает).</p><p>-Внешний вид. Ну бомба, да)</p><p>- Звук. На предельной громкости хрипов не слышно, громко, почти чётко,  от смартфона требовать больше думаю глупо в наши года.</p><p>-Экран насыщенный, цвета яркие, на солнце всё видно, претензий нет.</p><p>-Удобно лежит в руке.</p><p>-Заряжается довольно быстро, для меня не вызвало неудобств.</p>",
+                "minus": "<p>- Производительность.</p><p>WoT Blitz в 60 fps на максималках через 5 минут игры начинает подскакивать вниз до 55ти фпс, периодические фризы. 120 фпс на максималках - скидывает до 80-100.</p><p>Для такой мощи - полный бред, просто ниже некуда)</p><p>Возможна плохая оптимизация конечно для айос устройств, но такого я точно не ожидал.</p><p>Resident великий тянет кое как только на низко-средних, о высоких забудьте. Явно не игровой смартфон.</p><p>Нагрев градусов до 45ти примерно, в руках держать можно, но вот то, что скидывает производительность как и пишут люди до 25-30ти% в момент нагрева - для такой цены это дичь.</p><p>-Плавность 120ти Гц… Настройки, меню, скролл сафари, ютуба - да, даже фризы редко бывают, но микрофризы есть, и их очень много.</p><p>Повторюсь, в играх 120гц использовать смысла нет, ибо скидывает сам через время, начинает фризить.</p><p>-Динамический остров мало для чего годен, да, когда музыку слушаешь и переходишь в сафари - быстро нажал на остров и вот тебе музыка, но ограничивать остров звонками и музыкой - пфф..</p>",
+                "comment": "<p>Явно не для игр. Возможно фото-видео съемка, но тоже думаю притянуто за уши, может и я сильно придираюсь ко всему. Возможно слишком мало времени прошло с момента появления телефонов до момента появления каких то реальных сверхчипов, сверхкамер и тп, везде какие то микробаги, постоянно что то криво работает, что то вылетает и тому подобное. В общем порекомендовал бы я его за 100 тысяч? - Да, думаю стабильная(в каком то понимании) система и относительно безопасная стоит этих денег.(Говорю именно про 15 Pro Max). Стоит ли брать за 130-150? Нет. Точно не рекомендовал бы. Ждать 16е, 17е, посмотрим что будет там.</p><p>Пока лучше взять 14 Pro Max, не промах, брать Это ради Резидента и x5 зума это абсурд)(Тем более всё работает криво)</p>",
+                "usersCommentsCount": 7,
+                "images": [
+                    {
+                        "id": "b3e8f93c-06a2-44c9-9c62-49502eb0c31f",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/bdd48b1c29834f69afa0d7ac7c10f734/041635bd32e651f04dd8c78ff2700042184829399a632b05fb90df8fac39a4ce.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1627666d-21dc-4fa1-ab41-ebb09bd93c25",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "701d7b80-cf7b-9932-c5ac-b66ffa24bc9d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZQ63144",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "39ec565313e1f713544abf59012883f9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-22 03:36:27.456652",
+                "insertStampFormatted": "22.01.2024",
+                "updateStamp": "2024-01-22 04:14:50.45715",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Камера топ, никакой, даже топовый андроид, близко не сравнится.</p>",
+                "minus": "<p>Есть проблемы с Есим.</p><p>Нет альтернативных магазинов приложений, пришлось идти в офис сбера, чтобы просто банкинг поставить.</p>",
+                "comment": "<p>Брал девушке, она просто в восторге.</p><p>Меня особо не впечатлил, но вроде норм.</p>",
+                "usersCommentsCount": 10,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c32a5f60-926b-4c6e-9e59-00c3a857deae",
+                "objectId": "cd4c0b3f-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/cd4c0b3f52aeed20/67-smartfon-apple-iphone-15-pro-max-256-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Apple iPhone 15 Pro Max 256 ГБ черный",
+                "user": {
+                    "id": "1f9070ca-0663-a6bf-87a4-7f7076512f1e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CL31105",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "80003681585d90a69077c8592e7c9251",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-12 21:32:23.54784",
+                "insertStampFormatted": "13.01.2024",
+                "updateStamp": "2024-02-20 19:51:56.808272",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3105 (nano-SIM + eSIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все отлично.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 1,
+                "4": 2,
+                "5": 98
+            }
+        },
+        "topId": "f25015fe-3322-4082-a85c-aa04ee78057c"
+    },
+    "message": "",
+    "errors": []
+}

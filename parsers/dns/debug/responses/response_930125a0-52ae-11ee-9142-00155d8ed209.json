@@ -1,0 +1,774 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 99,
+        "opinions": [
+            {
+                "id": "b20f921d-c934-4a6f-89b7-18ad033b844f",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "35b0103d-725c-53e6-6d53-6867b80ae9c5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DV52327",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1b5a22b1fdea0b8d01d8fd57e71b1c8e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-21 19:43:35.58512",
+                "insertStampFormatted": "21.11.2024",
+                "updateStamp": "2024-11-21 20:09:28.685614",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Крутой телефон че</p>",
+                "minus": "<p>Садится быстро, думаю проблема в ios 18, приходится заряжать пару раз в день</p>",
+                "comment": "<p>В целом, телефон своих денег не стоит, если есть кайф купить ради внешнего вида-то ваш вариант</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "7f91160f-8451-468b-a8fc-f07212bfb290",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "a2e4754d-b40c-4447-92a2-c8e4cb92e9bb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/cb341b4a5b955942a9443fe04feaed8e/bce92d83f7872dcf8ed3fc4e95a84e99bc932ff7f51327eb2dcc1937158a715a.jpeg\">",
+                    "name": "Maxon3",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "379df7cfc961659ac98281c5277bef88",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-09 18:56:22.27491",
+                "insertStampFormatted": "09.11.2024",
+                "updateStamp": "2024-11-09 19:11:13.498326",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Очень хорошая камера, что фронтальная, что основная. На фронталке видно каждый усик на лице. Стаб на видео хороший. Дизайн топовый , очень красивый телефон. Быстро заряжается</p>",
+                "minus": "<p>Батарея как будто бы маленькая. При долгом использовании греется</p>",
+                "comment": "<p>Если не смотреть на недостатки , то телефон топовый</p>",
+                "usersCommentsCount": 1,
+                "images": [
+                    {
+                        "id": "e1437620-1e66-4934-a26e-e7307f8e76e4",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/756abe46f522a26d3c192aa5d6b1e02b/84d6ae1a310df0a3f88394cbf9681eb903e32435947ed69ba94d92ee5ae6e123.jpeg"
+                    },
+                    {
+                        "id": "a3215f81-0024-44cb-b5aa-dc32138cc66b",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/e79dd13ae1f20ed4838a515e3bd843bf/b6ad401a8c64399fc25046232ac7fde477451ff4ba840b576d82e0bec57cfe70.jpeg"
+                    },
+                    {
+                        "id": "8efabc62-4dd2-4e71-b5d8-5530979e737f",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/5278bbbff59afb143a63ce350ce71e24/bdf676c9c8b59eb1ca49ae563e30613b53c223cda97fb43bbe94020dac53c636.jpeg"
+                    },
+                    {
+                        "id": "4069c98a-da41-41bb-a1da-a8f448e399e5",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/1d24a5b053f1a1231ecb1f4e341d54f7/da619168f17db89b44095e832d49e6684d6fbe61340a0bd9ba316b0f1d60d0b5.jpeg"
+                    },
+                    {
+                        "id": "0afee0c3-d227-4ebc-a111-698f8961aa41",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/7801d7432272fca272cd38e1f8ed76f3/7846a5d50bca0fd55289ee8a2f2f8ff5cb8c3304bbd63566656a7b0ac8ea63cd.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "984b3f6c-b7b2-464d-bff7-88367cc07e37",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "2d06a719-921c-96ee-7dd9-9c82b9ff50de",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Manfredisc",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "89180b35e5f926414abe00af6f8f2259",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-05 11:56:50.81044",
+                "insertStampFormatted": "05.11.2024",
+                "updateStamp": "2024-11-05 12:02:40.852123",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошее качество фото и видео, быстрая работа системы, небольшой вес</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Переходил с 13 Pro, могу сказать, что заметно улучшение качества фото и видео, рамки поменьше, и работает шустрее, весит легче. В остальном типичный айфон со своей приятной системой и с её неприятными ограничениями на данный момент. Пока держит заряд 1 день при активном использовании, но и если особо не трогать, хватает на 2 дня.  Приложений, которых нет в App Store, устанавливал со старого телефона через iMazing. Тактильно намного более приятный, чем 13 Pro, грани скруглили и поменяли материал, что положительно сказалось на эргономике.</p><p>Резюмируя, хочу сказать, что улучшения однозначно есть, по сравнению со старым устройством и их замечаешь, особенно dynamic island. Action button, как по мне вообще лишнее, лучше было бы как раньше.</p><p>На вопрос стоило переходить с 13 Pro, я бы сказал, что нет. Все изменения очень минорные даже если учесть, что телефон покупался через поколение.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4227e360-ff19-4e8e-84cf-edbabee823e0",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "baebaa2d-5bd1-41de-b4f7-6e46aac58097",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "User30rus",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6b470017883b5de91b65d8cef5f5cf50",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 05:28:49.063861",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 05:38:40.976648",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Во всём что нужно в повседневной жизни он идеален и более!</p>",
+                "minus": "<p>Единственным недостатком цены айфона можно разве что цену назвать. А так по факту их нет.</p>",
+                "comment": "<p>Самая главная фишка айфонов это операционная система. Кто бы что не говорил, из андроидоводов, айфон всё равно топовый аппарат. Единственный его минус, повторюсь, это возможно цена и именно из-за этого его все андроидоводы хаят. Но! Как только у 90, если не больше, процентов этих хейтеров появляются деньги на них, они сразу их берут.</p>",
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7c4527f8-3e4b-461e-98bd-2f8bdc6b68c0",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "1c1c2f08-5c50-4b38-8aa1-aa4f5a038007",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ЯТ",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9fb5efa394109bdc74422b118a47bc3a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 22:58:19.1608",
+                "insertStampFormatted": "20.10.2024",
+                "updateStamp": "2024-10-20 01:45:14.511116",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Вид</p>",
+                "minus": "<p>Плохо ловит сеть. Частенько Ешка. Хотя везде LTE. Нет esim.</p>",
+                "comment": "<p>Пожалел о такой покупке. Мой старый 12 намного был качественнее, если бы не батарея, не поменял бы на это👆</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "33d09c87-cf1a-433d-8657-0ea32f883329",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "fc2d64ca-fcc3-4f6c-aec2-8f8d1fced8ed",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Дмитрий.С",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "823b955624dcc020a526d62dd1bb9e99",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-08 12:00:50.99946",
+                "insertStampFormatted": "08.10.2024",
+                "updateStamp": "2024-10-08 12:06:36.641675",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>1. Экран. Не вижу смысла писать какой качественный экран, 120 герц, яркость, always on displey и прочее.</p><p>2. Камера. Она просто отличная. Я не пользовался S24 Ultra и китайскими флагманы, не могу сказать что камера iPhone \"лучшая\", так как не видел другие.</p><p>3. Габариты. Телефон той формы и размера, что нужен был мне. Идеален для современного мира. Не люблю \"лопаты\".</p><p>4. iOS</p><p>5. Внешний вид. Все и всегда знают, от какой фирмы у тебя телефон.</p>",
+                "minus": "<p>1. iOS (ограничения, отсутствие многих приложений, nfc и п.р)</p><p>2. Аккумулятор наверное(я не заядлый любитель 24/7 в телефоне, меня устраивает)</p><p>3. Цена? Хотелось бы дешевле, но стоил бы он 80 т.р написал бы тоже самое.</p><p>4. Цена оригинальных аксессуаров. Блоки зарядки, провода, наушники, часы магсейф - это всё то, что уж точно не стоит своих денег. Но имея iPhone всё заставляет пользоваться только оригиналом.</p><p>Купил китайскую подделку в виде зарядки? На тебе 85% через месяц. (условно).</p><p>5. Связь. Пока мой старый (5 лет) Realme XT ловил в квартире 5 палок (мегафон), iphone ловит 2-3... Но скорость вроде в порядке.</p>",
+                "comment": "<p>Сидел всю жизнь на Android. Никогда не пользовался iPhone. Вау эффект на данный момент присутствует. Трудностей от ограничений не испытываю. Банки ставятся от друзей с Shareit или с ПК. 10-15 минут. NFC никогда не пользовался.</p><p>В игры не играю толком. APK файлы не качаю. Фильмы, сериалы, музыку всё по подпискам. Советую тем, кто устал от android и не пользуется теми функциями, что ограничены или отсутствуют в iPhone.</p><p>Конечно, что то ниже чем pro версию не советую. 60 герц у младшей версии ну прям уж совсем смешно.</p><p>Выбирал сначала между iPhone 15 и s24/fe. Пришёл к выводу что iPhone выглядит бедновато. Решил посмотреть iPhone 15 pro и s23/24ultra. Пришёл к выводу, что если и корейское, то только морковь)) (простите Samsung'оводы, лопату я в руке держать не готов).</p><p>А вот что лучше, уже мне и не важно.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "46aad863-c30c-497a-af73-7712fc4215f3",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "e61a606c-f5c7-e377-b829-9545a26b1d6f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LP95505",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c52b6456b55af81c28595902298e3dca",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-03 06:10:02.584815",
+                "insertStampFormatted": "03.09.2024",
+                "updateStamp": "2024-09-27 09:25:02.979466",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Функционал</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Всё четко</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "0d612005-e20f-40e8-b63b-2c322cc3804a",
+                        "text": "<p>Всё здорово работает</p>",
+                        "textInitial": "Всё здорово работает",
+                        "insertStamp": "2024-09-27 08:39:54.302581",
+                        "insertStampFormatted": "27 сентября 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8ae7a5d0-a914-42be-91c1-1dae7b5511b7",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "f005cb06-69ea-41c8-8f13-cd4b8ef154fd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/163ea82f4426a94e366435c4e71db3b2/8f832c58765bdbd87d991e413efef7db5ef8f108d2c3149a20393172a99e325c.jpeg\">",
+                    "name": "deffiwee",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c0b54c12111852b83d2ca6220dac7e06",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-25 17:26:06.216744",
+                "insertStampFormatted": "25.07.2024",
+                "updateStamp": "2024-07-25 23:24:49.0014",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Красивый, 120 гц экран, удобный в использовании</p>",
+                "minus": "<p>Особо ничем не изменился от 13 про, 14 про и его братьев, только чуть уменьшился и камеры стали больше</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6e61ec99-e0c0-4b9f-9b31-9c89709e3f63",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "651fa36e-a4e6-e5ce-9a43-0a3a45d96f99",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ea058dec5f8dca4185ace7169e9fcaf1/1c8a374c83643e1ee5c549e720fbda4954d8e15c88edfe5c3826b22048e5e554.jpeg\">",
+                    "name": "Boom_andreevna",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-14 06:09:45.78307",
+                "insertStampFormatted": "14.07.2024",
+                "updateStamp": "2024-07-15 00:48:40.968252",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>титановый это огромный плюс</p>",
+                "minus": "<p>не выявила</p>",
+                "comment": "<p>отличный телефон суммы конечно заоблачные , но спрос рождает предложение как говорится</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cef1fc61-6e9c-4428-9af5-adc131ed3802",
+                "objectId": "930125a0-52ae-11ee-9142-00155d8ed209",
+                "objectUrl": "/product/930125a052aeed20/61-smartfon-apple-iphone-15-pro-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 Pro 128 ГБ черный",
+                "user": {
+                    "id": "729ae8f4-2e3a-4e95-b621-8d22b093dabc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BM7735",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c63789ae09b4c37a3be65e1f8202135a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-14 06:09:21.54144",
+                "insertStampFormatted": "14.03.2024",
+                "updateStamp": "2024-03-15 01:54:58.816484",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Модель": "A3104 (Dual SIM)",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Более долгое время работы по сравнению с прошлыми версиями, быстрый процессор, камера - в целом перечислять нет смысла то что все и так знают</p>",
+                "minus": "<p>Стагнация как в сфере инноваций, так и в сфере дизайна.</p>",
+                "comment": "<p>Перешел с X на эту модель, беру телефоны эпл раз в 5-6 лет примерно, хватает с головой. Помню когда переходил с 5 айфона на X - тогда это был прям восторг, начиная от дизайна заканчивая новыми технологиями. Тогда я почувствовал ощутимый апргрейд.  X как по мне до сих пор остается одним из самых крутых и легендарных телефонов в серии, его просто приятно держать в руках и он до сих пор выглядит не стыдно.</p><p>Сейчас же перейдя на 15 - вау эффекта не было никакого. Да есть пару фишек: приятный плавный экран, более хорошая камера в целом на этом все - это стандартный айфон со всеми его плюсами и минусами. Дизайн как по мне стал более грубым что ли. После тоненького Iphone X, 15-тый ощущается кирпичом, причем как по габаритам так и по весу.</p><p>\"Тяжесть — это хорошо. Тяжесть — это надежно. Даже если не позвонит, таким всегда можно дать по голове...\"</p><p>Над восторженными отзывами людей, которые переходили с 14 на 15 еще если и в какой-нибудь кредит поржал - могу пожелать только здоровья и не болеть. Потому что если даже я разницы сильной не почувствовал, то они и подавно.</p>",
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 5,
+                "2": 0,
+                "3": 0,
+                "4": 4,
+                "5": 78
+            }
+        },
+        "topId": "3eeb5d82-80ec-4ced-927e-da30eba76cac"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,505 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 20,
+        "opinions": [
+            {
+                "id": "9784aaa7-d525-4e3c-8c55-d4b4d12aaf8a",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "b0eb27dd-fce4-360c-89c2-ea090f489465",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "DP-ARTEM",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "88abc59d82c0adde772a6fa37a1602b9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-25 06:39:24.70154",
+                "insertStampFormatted": "25.11.2024",
+                "updateStamp": "2024-11-25 10:06:43.134639",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Качество Samsung</p>",
+                "minus": "<p>В своем бюджете их нет</p>",
+                "comment": "<p>Хороший аппарат для офисной связи. В старом Honor сделал резервное копирование, в этом восстановил - ничего особенного. В своем сегменте камера лучше, чем на китайских моделях.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ddcae5d9-b801-47eb-a9b7-d2fcbad67faf",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "e78a16c9-bba1-4be2-af15-dd0c12de1b70",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAF76885",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6c17a179c33ea5171c1f2382d2f98909",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-20 07:57:51.81492",
+                "insertStampFormatted": "20.11.2024",
+                "updateStamp": "2024-11-20 12:01:38.549747",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>работает</p>",
+                "minus": "<p>в комплекте провод tipe c - tipe c, вместо заявленного USB - tipe c. Теперь срочно покупать провод.</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "c12c013b-aa26-4a0d-b8b7-30ce160b2da3",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "4b83f518-39ea-c337-3962-ce3de6288d26",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PQ65980",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "856343b6d3535b43426239a3bccb9922",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 08:41:05.366998",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 09:20:24.763124",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>цена качество</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>отличное бюджетное решение от самсунг</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "aa69eb5e-71b5-4807-b532-9250914786d9",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "e46115be-0db4-9731-ee2d-ffaeed62c7c3",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DW84075",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-21 19:13:28.99617",
+                "insertStampFormatted": "21.11.2024",
+                "updateStamp": "2024-11-21 19:13:28.99617",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e45cc62c-f893-4a8d-bdcf-5f5b5ac1a9c7",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "fd303eff-02f0-4a57-9d7c-399b9bedf829",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец с Завода",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8bbd085b7c96ddf402fc56f42143a56c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 02:43:13.740148",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 02:43:13.740148",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a6df7eb4-96e2-4b5e-b60c-baf1a0f0f516",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "460a6042-1cec-4e67-9a57-1c168366a4a0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DJ7241",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c2dd06b854d28809a0a34a2ba71005a5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 23:39:27.826885",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-21 23:39:27.826885",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f472adc3-ac86-414f-8188-544b4241257c",
+                "objectId": "016b7644-6a56-11ef-9262-0050569d5825",
+                "objectUrl": "/product/016b76446a56d582/67-smartfon-samsung-galaxy-a06-64-gb-cernyj/",
+                "objectName": "6.7\" Смартфон Samsung Galaxy A06 64 ГБ черный",
+                "user": {
+                    "id": "f6b2c622-17da-421f-97db-6bf59f9f3225",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Alex.Unknown",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 16:57:26.27193",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 16:57:26.27193",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Оперативная память (ГБ)": "4",
+                    "Цвет": "черный",
+                    "Память (ГБ)": "64"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 6
+            }
+        },
+        "topId": "7a41975e-6266-417a-9b40-f4c87980a0d6"
+    },
+    "message": "",
+    "errors": []
+}

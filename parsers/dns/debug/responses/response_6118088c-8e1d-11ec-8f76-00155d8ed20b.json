@@ -1,0 +1,712 @@
+{
+    "assets": {
+        "inlineJs": {
+            "4b238a8203d774535ad6aadc1fc58b45": "window.avatarGenerator.generate('g-p7TDCK', 'p7TDCK', {\"colors\":[\"grey\"],\"primaryColorLevel\":300,\"textureChance\":0});"
+        },
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1gqtvc4/guest-avatar.js",
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 97,
+        "opinions": [
+            {
+                "id": "c63e5156-bfa8-4be9-8b45-a46c38c18d22",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "d8830570-f182-48ae-94c2-c25b76e9a042",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/5ace7bff051cc0e32188434cbad9051a/b532d620281ac95901fd89aaa5550645886cabbfa7d069aec96b1c321e37cdfe.jpg\">",
+                    "name": "Rossi22",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "866ba8fd333d5e6cb8ef51beb6a35d7f",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-10 04:56:48.19357",
+                "insertStampFormatted": "10.11.2023",
+                "updateStamp": "2023-11-10 05:08:10.868372",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший телефон за свои деньги</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Полёт нормальный</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2bbbbbed-6786-489b-9f7c-b4a5660b2de3",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "ab3cfe38-3f49-7a9a-a7f4-a1d5f23ab25e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/1ab92d70fda5fb44bacb32b5e73f816b/eff4200b6d5596e30befe272c20f266aff85bb8c340cbb299e190d76ed4031f9.jpg\">",
+                    "name": "Пришелец-MBL01341",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-13 02:18:16.31724",
+                "insertStampFormatted": "13.05.2023",
+                "updateStamp": "2023-05-13 06:50:32.137092",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший смартфон, быстрый, не тупит, ёмкая батарея, очень быстрая зарядка (67w) с 0 до 100% 56 минут (первая зарядка). Камера нормальная фото получаются отличные, цвета яркие, сочные. Большой плюс в комплектации идёт бампер, хорошо закрывает края экрана и камеры, на нём заглушка для Type C.</p>",
+                "minus": "<p>Пока не выявил.</p>",
+                "comment": "<p>Брал жене в подарок, рада как ребёнок. До этого был Redmi Note 9 разница ощутима в лучшую сторону соответственно. В общем всё нравится.</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "47dda26c-3d1d-48c9-980d-02c4a50f6e77",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/c4e4b314d5e06ae0057320bb8c879520/486d45f210d8746211b7534b5dabba984381f138adce4d3b0d669ff4c4e7ac09.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "05dcb5fd-c1ff-4027-8749-dcd7c21326dc",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "0f84722b-b5f9-4951-8907-200e6a3cc508",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "тимон-1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3437cde99d4f1d75e964bbfe24f7284e",
+                    "highlightName": false
+                },
+                "insertStamp": "2022-10-20 17:17:02.571141",
+                "insertStampFormatted": "20.10.2022",
+                "updateStamp": "2022-10-21 05:19:29.107035",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень достойный внешний вид! Батарейка просто Агонь! От 0 до 100 40минут- это достойно уважения!! Сам телефон ведет себя выше всех похвал- ни тормозов ни зависаний ни лагов!!!</p><p>Все супер!!!</p>",
+                "minus": "<p>Можно было бы на пару тысяч дешевле!!! Покупался за 24тысячи.</p>",
+                "comment": "<p>Отличный смартфон на данный момент за свои деньги!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0f4f7ed7-7ba2-44a1-bb50-7fd3429494d6",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "d28a3369-a4c5-000a-9545-b2fd71ca79d9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AW58299",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "39bb11227cd35a0112ef5c0be68cbb96",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-21 12:51:02.932737",
+                "insertStampFormatted": "21.08.2024",
+                "updateStamp": "2024-08-21 12:51:02.932737",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "11072f67-1131-4cef-b7e1-07fa0e2cd4e0",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "45965519-3da5-7bea-6a74-0e45b261d368",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Sopfiee",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a01757c72944f49d32d551a29ec41d68",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-19 06:22:04.601319",
+                "insertStampFormatted": "19.06.2024",
+                "updateStamp": "2024-06-19 06:22:04.601319",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "bf16b637-deff-47b4-9cd9-024186a0bcd1",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "5f7e7af0-01c8-640e-bfcb-4374e0cf19f1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZV96520",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e45e8294d2f5c9847d47a56acb7df3b4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-12 18:45:30.451153",
+                "insertStampFormatted": "12.04.2024",
+                "updateStamp": "2024-04-12 18:45:30.451153",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "aba1086b-7871-4c7e-983a-befdf2da46c1",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "d482a1fc-afe1-f6af-277e-d438b2f30782",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FE56693",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b50af7dd073792b159268a1e87c7b25c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-20 12:27:27.036955",
+                "insertStampFormatted": "20.01.2024",
+                "updateStamp": "2024-01-20 12:27:27.036955",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4ff59c32-8104-47db-b677-7ad256d63d95",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "92f49914-8e63-a58e-0b5c-592afebd5412",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TD8765",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dabd6a78f46d61727b52e84b4879935f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-19 03:26:49.503634",
+                "insertStampFormatted": "19.01.2024",
+                "updateStamp": "2024-01-19 03:26:49.503634",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a230e9ab-1729-4642-bfd3-0db867a1ee5c",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "fae4049c-0828-f3ab-be1a-fa96ff1cf03f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GP28322",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "427750646916f20457ef462f73c14418",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-08 12:20:29.581642",
+                "insertStampFormatted": "08.01.2024",
+                "updateStamp": "2024-01-08 12:20:29.581642",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9831237e-6d62-49ce-896d-05998b4636f5",
+                "objectId": "6118088c-8e1d-11ec-8f76-00155d8ed20b",
+                "objectUrl": "/product/6118088c8e1ded20/667-smartfon-xiaomi-redmi-note-11-pro-4g-128-gb-goluboj/",
+                "objectName": "6.67\" Смартфон Xiaomi Redmi Note 11 Pro 4G 128 ГБ голубой",
+                "user": {
+                    "id": "595e1316-d454-eb6a-f779-e899d3db8a6d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Mr.Rat84",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": null,
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-01 23:58:14.962215",
+                "insertStampFormatted": "02.01.2024",
+                "updateStamp": "2024-01-01 23:58:14.962215",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 11,
+                "5": 76
+            }
+        },
+        "topId": "54531f67-a192-4ea5-81db-3cc8bcab85cd"
+    },
+    "message": "",
+    "errors": []
+}

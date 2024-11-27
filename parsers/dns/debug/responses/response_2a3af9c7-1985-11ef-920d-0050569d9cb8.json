@@ -1,0 +1,772 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 27,
+        "opinions": [
+            {
+                "id": "dfaeee17-2d5c-4526-aa7d-17593cb70abe",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "708bc738-5fc6-4efc-8a14-2d0bd649cdd2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Kashtanov",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3e3e48387805feeb671e14ab09c6f837",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 07:41:00.948951",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 07:51:17.358512",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Смартфон как смартфон ни чего не обычного</p>",
+                "minus": "<p>Звук плохой, много приложений которые стояли на прежнем этот не потдерживает, глючит уже пару раз сам перезагружался.</p>",
+                "comment": "<p>Не стоит он тех денег за которые его продают, максимум 30т но не 70, он этих денег не стоит.</p>",
+                "usersCommentsCount": 7,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d3d1e25a-09ea-4614-81c7-da8419e1d237",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "c73d612e-2256-7bfe-3409-0164d0bcefd2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ONEDAF",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-13 19:57:29.98797",
+                "insertStampFormatted": "13.09.2024",
+                "updateStamp": "2024-09-13 20:42:52.441861",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Мощный процессор, софт, экран, акб</p>",
+                "minus": "<p>Комплектный чехол так себе, но это вряд ли можно считать недостатком.</p><p>Для такого ценника камеры хотелось бы лучше, но они все равно хорошо отрабатывают.</p><p>Влагозащита слабовата.</p>",
+                "comment": "<p>Брал за 56к версию на 512гб, остался доволен</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2a6638ca-76b8-4439-85a4-1dd383afe66f",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "b897637a-5f0c-688b-9493-ec7f2b06fc8e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/3b05099a79a8204af92142e38e2bd152/0d00b7c9a56369761df200025509508cd92a4b8eab7fa781986aa4d076fa2528.jpg\">",
+                    "name": "one watcher",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 5,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "871bc633f9c6c6b28ded1cdf56a4d13e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-10 15:23:04.2634",
+                "insertStampFormatted": "10.09.2024",
+                "updateStamp": "2024-10-19 13:11:38.037977",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>При такой цене, увы нет.</p><p>А так смарт норм, основная камера норм, а телевик средняк.</p>",
+                "minus": "<p>цена</p>",
+                "comment": "<p>ОГРОМНОЕ СПАСИБО ДНС!!! Говорю это уже второй раз :D (первый за 4080 за 92тр)</p><p>Смарт стоит 45тр, но не 69.990р и тем более 79.990р (неадекватность полная от реалми РФ).</p><p>-Экран-</p><p>Экран прикольный, водопад не смущает особенно с чехлом, смотрится лучше плоских. Яркость нормальная, днем видно, но вот 6000 нит я не заметил)))) тупо маркетинг явный. А еще присутствует зеленый перелив под углом. После IPS экрана не привычно :/</p><p>-Сканер отпечатков пальцев-</p><p>Сканер отпечатков туповат, палец с первого раза не распознается, сканировал раз пять. Видимо дело в оболочке. Так как сбер палец сразу разблокирует. В итоге смарт проще по лицу разблокировать.</p><p>-Оперативка-</p><p>16 гигов чувствуются после 4 в realme 5pro) и если отключить виртуальные 4, то по мне еще быстрее система работает (дополнительные гиги почему-то по умолчанию сразу включены).</p><p>-Зарядка быстрая, вот так зарядился в первый раз, я прям зафиксировал</p><p>Время Проценты</p><p>9:10 – 0%</p><p>9:14 – 10%</p><p>9:18 – 33%</p><p>9:24 – 50%</p><p>9:30 – 75%</p><p>9:43 – 100%</p><p>-Камеры -</p><p>Основная норм снимает, а вот \"телевик\" не очень, причем программно урезан в выдержке и ограничен на 0,3секунды. У фишая 0,5. То есть с большой выдержкой не снять, например, ночной город или звездное небо.  В том же Realme 5PRO из 2020 года сенсор мог снимать на всех фокусных 1х,2х,4х с выдержкой 16 секунд!!!! в режиме ПРО.</p><p>При съемке видео 4К/60 !иногда! появляются фризы (картинка ломается), которые видно только уже после съемки. Возможно я слишком быстро поворачивался))</p><p>Фронталка норм, но блин она почти фишай. Выгибает изображение даже на 1х, а не только на 0,6х</p><p>Мобильный интернет стал грузить ппц как быстро) появилась надпись 4G+ на t2.</p>",
+                "usersCommentsCount": 7,
+                "images": [
+                    {
+                        "id": "d8a01086-e564-4e33-867a-5a9a4165d638",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/6886e606c380e6a8f10fa859083c468d/57eb887ebf3475ef2f16ff3ff5a802d98289a630861d9444dddee9fcc90ae2cd.jpeg"
+                    },
+                    {
+                        "id": "99c605d1-c20b-4576-9b86-a75d23262815",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/0f284e3834c1bdefa02b6e19d5c01a45/0080008413aba28d5b225f17adc2ccd6a27652e8240a49deb5a6211e86fa8bec.jpeg"
+                    },
+                    {
+                        "id": "6acc9ba5-f485-4cc2-b784-7501001a6bf1",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/ddba847808d7d15caa6e53c799b94690/156de909fcdf6411c0c473deadbdc464ab72019e386ae1d11da87774988d7f10.jpeg"
+                    },
+                    {
+                        "id": "15a84097-2a04-45d0-b3fa-2e2d1e5e1b0e",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/453c1dc2476c972326b6b763eeb6cee9/c1c2eb108348391844f90fc587a300d6a8345115bc97acee423b1661d3b177ea.jpeg"
+                    },
+                    {
+                        "id": "093f0fc8-4058-47a9-9593-cb049d8cf457",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/b8c142553a01bb639e99acd8eb616558/5d9057f27ed487cee43d330b5889a150c374f5d76381e4a05dc1559798f21b31.jpg"
+                    },
+                    {
+                        "id": "093b7ee8-f53b-42a4-a4da-8dffe88635ff",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/d0d8f0211f509365c8636c8e9274c0a6/e983d6eabe0f7311b33bb535ccc561c98108ed1778e5d015fe448da89bed12a8.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [
+                    {
+                        "guid": "bd9c1d63-6fa1-4602-9f9d-d2c721f0deb2",
+                        "text": "<p>добавлю по прошествии полутора месяцев.</p><p>+Плюсы</p><p>/Звук. Динамики приятно играют любые жанры. Причем играют оба верхний/нижний в стерео.</p><p>/Батарея. Держит хорошо. Мне хватает на 2 дня (Инет, месенджеры, фото/видео по работе). Везде темные темы, яркость на 50% не больше.</p><p>/Фронталка норм, прям нравится. И режим «картинка в картинке</p><p>-Минусы</p><p>/Кривой ИИ.</p><p>Фотки обрабатывает коряво, хотя я не просил и все отключил. (прикрепляю пример уривости ИИ) мало того, что какие-то \"текстуры/артефакты\"(синим) так еще и закат зачем-то порезал на блоки(белым), про провода вообще молчу (красным), бредбредовый, лучше бы вообще не обрабатывал. Нет возможности сьемки в RAW, все бы косяки камеры можно было бы поправить, но увы нет. Реалми виднее, что нужно пользователю! Ему нужен кривой ИИ)))</p><p>/Сканер отпечатков</p><p>Ну реально недоразумение. (глючить в 2024 году и в смарте за 80 тыщ. Аплодисменты Реалми.!.) Ультразвуковой в реалми5про2020года был куда шустрее. Тоже самое с распознаванием лица. Ну ёма-Ё! На реалми5про работает шустрее и в полутьме, и в очках, и с щетиной все распознает, этот глючит! Смартфон за 80тр на старте напомню.</p><p>/Камеры</p><p>Реально средняк, только в больных мозгах маркетологов из реалми в смартфоне за 40тыщ может стоять телескоп с 100 кратным увеличением, а во «флагмане за 80 тыщ» глючный телевик на 4х от самсунг, который еле дышит.</p><p>Тоже самое про «динамический остров» есть в смартфонах за 15 тысяч, но нет во «флагмане за 80 тыщ»! Браво!!!!</p><p>-------------------</p><p>Подытожу.</p><p>Это не флагман точно, и честно говоря я ничего особого не получил в сравнении с моим реалми5про2020 года, да этот шустрее работает, 16 гигов и новая память UFS4.0 дают прирост, но в удобстве никаких новшеств за 4 года. Итог: как в известной рекламе – «Зачем платить больше, если нет разницы?».</p><p>ВАУ эффекта не получилось (хорошо, что взял его за пол РФ цены, а то разочарования было бы больше.)</p>",
+                        "textInitial": "добавлю по прошествии полутора месяцев. \r\n+Плюсы\r\n/Звук. Динамики приятно играют любые жанры. Причем играют оба верхний/нижний в стерео.\r\n/Батарея. Держит хорошо. Мне хватает на 2 дня (Инет, месенджеры, фото/видео по работе). Везде темные темы, яркость на 50% не больше. \r\n/Фронталка норм, прям нравится. И режим «картинка в картинке\r\n\r\n-Минусы\r\n/Кривой ИИ. \r\nФотки обрабатывает коряво, хотя я не просил и все отключил. (прикрепляю пример уривости ИИ) мало того, что какие-то \"текстуры/артефакты\"(синим) так еще и закат зачем-то порезал на блоки(белым), про провода вообще молчу (красным), бредбредовый, лучше бы вообще не обрабатывал. Нет возможности сьемки в RAW, все бы косяки камеры можно было бы поправить, но увы нет. Реалми виднее, что нужно пользователю! Ему нужен кривой ИИ)))\r\n/Сканер отпечатков\r\nНу реально недоразумение. (глючить в 2024 году и в смарте за 80 тыщ. Аплодисменты Реалми.!.) Ультразвуковой в реалми5про2020года был куда шустрее. Тоже самое с распознаванием лица. Ну ёма-Ё! На реалми5про работает шустрее и в полутьме, и в очках, и с щетиной все распознает, этот глючит! Смартфон за 80тр на старте напомню.  \r\n/Камеры \r\nРеально средняк, только в больных мозгах маркетологов из реалми в смартфоне за 40тыщ может стоять телескоп с 100 кратным увеличением, а во «флагмане за 80 тыщ» глючный телевик на 4х от самсунг, который еле дышит. \r\nТоже самое про «динамический остров» есть в смартфонах за 15 тысяч, но нет во «флагмане за 80 тыщ»! Браво!!!! \r\n-------------------\r\nПодытожу. \r\nЭто не флагман точно, и честно говоря я ничего особого не получил в сравнении с моим реалми5про2020 года, да этот шустрее работает, 16 гигов и новая память UFS4.0 дают прирост, но в удобстве никаких новшеств за 4 года. Итог: как в известной рекламе – «Зачем платить больше, если нет разницы?».  \r\nВАУ эффекта не получилось (хорошо, что взял его за пол РФ цены, а то разочарования было бы больше.)",
+                        "insertStamp": "2024-10-19 12:48:24.764239",
+                        "insertStampFormatted": "19 октября 2024 г.",
+                        "isEditable": false
+                    }
+                ],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cb154cc6-2c20-4a41-a541-6bab97a227af",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "264b4a98-3d5a-409b-82e0-0999123f5a9b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец- Max",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "73dcdee2f281092973f3aab2861a796d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-18 06:06:38.493167",
+                "insertStampFormatted": "18.07.2024",
+                "updateStamp": "2024-07-18 06:42:42.833372",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>+Экран. Качество картинки и яркость на высоком уровне</p><p>+Батарея</p><p>+Время зарядки и мощный блок</p><p>+Камеры. Отличная основная камера, ну и остальные нормальные. Фото выглядят шикарно.  Видео пишу редко.</p><p>+Производительность - тянет игры. Впервые поиграл в PUBG на нормальных натройках</p><p>+Быстрая внутренняя память</p><p>+Приятная оболочка Realme - после ряда моделей сяоми понравилась не перегруженность и понятность интерфейса!</p><p>+Комплектность из коробки- плёнка на экране наклеена, зарядка 120w +кабель ,  чехол.</p><p>+Автономность!</p><p>+Дизайн задней стенки - симпатичный.</p><p>+Качество связи</p><p>+Качество навигации</p><p>+ Звук динамика после моих xaiomi лучше, гораздо лучше. Музыка уже не вызывает кровь из ушей</p><p>+ Переезд на новый телефон и перенос приложений прошёл безболезненно!</p>",
+                "minus": "<p>USB 2.0,но если не передавать большие объёмы именно по кабелю, то особых проблем нет.</p><p>Цена немалая в местных сетях</p>",
+                "comment": "<p>Экран \"водопад\" можно оценить как плюс и как минус - зависит от оценщика!  Одно верно -Управлять удобно, лежит в руке.</p><p>А вот возможность повредить экран, конечно, выше.</p><p>Прикольные штучки обработки фото - фото и результат обработки в одно движение (как это можно ИИ)</p><p>Отсутствие установки флешки недостатком не считаю, т. К.  предыдущие телефоны с SD флешкой через время начинали лагать и приходилось убирать флешку.</p><p>Всё летает!</p><p>Мне зашёл телефон.</p>",
+                "usersCommentsCount": 5,
+                "images": [
+                    {
+                        "id": "fe919fb1-1291-4ede-b0d6-13efe8628754",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/69474002f12949b3e402c439f3ff9bd1/918adf869038c3c45abfe8fd7b81aaaa22b90dfda00b4054cc1ab9779a9d8273.jpeg"
+                    },
+                    {
+                        "id": "2960c98f-69b0-44ea-a0a0-765483dbb98f",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/0f256352d419400de2f7a32bc3212cde/19f78e90ad4d346f6b264c4167f95d03452d9cafe4db91b936a7a25ab205f946.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2ca22fbe-ea32-4587-915a-d19a4cc89950",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "5feb72fd-45d1-49fb-bf7e-f851e940efcb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "fog347",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ce6d667531ea2e3508edfc37921a11cf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-06 04:18:04.55949",
+                "insertStampFormatted": "06.07.2024",
+                "updateStamp": "2024-07-22 08:33:33.459437",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>яркий экран, хорошая батарея, звук, быстрая зарядка, неплохое фото. хороший телефон, дисбалансом выступает лишь цена.</p>",
+                "minus": "<p>комплектный кабель питания жесткий, как кол. Связь по сравнению с 9Po+ держит похуже. Экран водопад, уже столкнулся пару раз, когда невозможно ухватить ползунок, если телефон в чехле. Высокая цена аппарата. Нескромный вид бинокуляров блока камер, но эти хоть выглядят чуть привычнее, чем огромные шайбы на пол телефона в других линейках.</p>",
+                "comment": "<p>Перешел с 9Po+, в принципе, тоже самое добро, только здравый рассудок возобладал и кнопки громкости перенесли на старое место с блокировкой. к чему были все эти эксперименты? Звук у них почти одинаковый, разве что 9Po+ громче орет, а GT6 звук хоть потише, но он приятнее, более выразительный. Комплектный чехол на ощупь неприятный, словно старая бумага, но зато не скользит и грязь не собирает, как это ощущалось на силиконовом. Фотает чуть получше, попугаев набирает 1.4кк в антуту. Приятный телефон, хорошая и привычная мне оболочка. Кстати, сравнивая эти два телефона во время переноса данных, я был удивлен, что работая на одной и той же платформе и ОС, у них немного отличаются настройки.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a82bea3a-60b9-4a58-bd7a-1ea4cf5a2380",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "4c686c77-7345-8d10-8e03-bbf228c84c2f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ED76072",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7145fe7b3f37388732a194f4d3a94663",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-08 21:45:18.51653",
+                "insertStampFormatted": "09.10.2024",
+                "updateStamp": "2024-10-08 21:45:18.51653",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "eb3d6688-c21e-49a9-9846-f2019804b56f",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "c7bb202b-2eed-db9d-4b44-53690e488feb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Max_95",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "459ef8abf29083977b359dc5dcf9ee6c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 08:27:27.503308",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 08:27:27.503308",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "84642ef9-9719-4f9c-9c01-f67d0655ed36",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "d0f661d5-6396-4e9f-9b6e-3c540d3f62d2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAH41579",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "feb4be2c07eec8116df5a4b33acf7b1a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 06:03:20.001157",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 06:03:20.001157",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "29412e6f-7bfb-4bb2-accf-eaf45e359e6c",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "1171f5a7-4810-fe86-9b42-f61a30705038",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RM0199",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "35aa5ca604e7ff2cfdf9c64c35f405af",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 01:51:14.506674",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 01:51:14.506674",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e14e59f4-59ed-44c0-9d6f-f12e6c6c35d4",
+                "objectId": "2a3af9c7-1985-11ef-920d-0050569d9cb8",
+                "objectUrl": "/product/2a3af9c71985d9cb/678-smartfon-realme-gt-6-512-gb-zelenyj/",
+                "objectName": "6.78\" Смартфон realme GT 6 512 ГБ зеленый",
+                "user": {
+                    "id": "a8278f58-f414-3be9-9692-ff760e416feb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LS85889",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6e2e269bc3096597bec5b5b1b46cd5ce",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 08:43:00.548139",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 08:43:00.548139",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "16/512",
+                    "Цвет": "зеленый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 1,
+                "5": 18
+            }
+        },
+        "topId": "01582052-c242-431d-a138-c073888861ec"
+    },
+    "message": "",
+    "errors": []
+}

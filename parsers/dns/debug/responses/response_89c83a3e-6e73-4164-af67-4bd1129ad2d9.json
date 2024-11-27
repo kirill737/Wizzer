@@ -1,0 +1,379 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 9,
+        "opinions": [
+            {
+                "id": "03fdc4ae-19bf-46c6-aca2-f01566c9c8f1",
+                "objectId": "89c83a3e-6e73-4164-af67-4bd1129ad2d9",
+                "objectUrl": "/product/89c83a3e6e73ad2d/65-smartfon-samsung-galaxy-a25-5g-128-gb-zeltyj/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A25 5G 128 ГБ желтый",
+                "user": {
+                    "id": "51f5ff63-5a66-4a9f-ba2f-e30db358cecd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAK45577",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2199e2979ac5ad58cde2e89f2898e5f4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 06:46:27.376252",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 06:51:41.486596",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "желтый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный телефон за свои деньги,с мощной батареей.</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "768d5056-3637-48ff-81fe-a8b2541e718a",
+                "objectId": "89c83a3e-6e73-4164-af67-4bd1129ad2d9",
+                "objectUrl": "/product/89c83a3e6e73ad2d/65-smartfon-samsung-galaxy-a25-5g-128-gb-zeltyj/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A25 5G 128 ГБ желтый",
+                "user": {
+                    "id": "ba4ee791-c1e8-40d5-b280-660f4f8fad22",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "Пришелец-UP3602",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "706cee71efbe2c9b70b6e6f5de7e092d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-12 06:36:18.045573",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-12 06:42:21.655398",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "желтый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший бюджетный смартфон, яркий экран, при этом не тяжёлый</p>",
+                "minus": "<p>Немного завышенная цена</p>",
+                "comment": "<p>Покупался родителям, для замены а32 который за 2 года стал ужасно тормозить</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c00efe74-f45e-4e5b-9240-f365cd53957e",
+                "objectId": "89c83a3e-6e73-4164-af67-4bd1129ad2d9",
+                "objectUrl": "/product/89c83a3e6e73ad2d/65-smartfon-samsung-galaxy-a25-5g-128-gb-zeltyj/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A25 5G 128 ГБ желтый",
+                "user": {
+                    "id": "a3b37bb8-af97-40e9-8e49-48c13eaea102",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GA20128",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a14ef628203834c846d45d753c64ff75",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-04 12:31:49.59713",
+                "insertStampFormatted": "04.09.2024",
+                "updateStamp": "2024-09-04 12:33:53.797975",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "желтый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Свои функции выполняет</p>",
+                "minus": "<p>1. Это не супер амолед, цвета блеклые даже в режиме высокой цветности, также отдаёт синевой. Есть с чем сравнивать, т.к. брал взамен усопшему Galaxy S8. Хуже даже, чем у А15, что довольно странно.</p><p>2. Камера средненькая, фотографировать документы сойдёт</p><p>3. Батарея. Антуту показал износ</p><p>4. При использовании в качестве точки доступа очень сильно греется и начинает глючить, зарядка перестаёт идти.</p><p>5. Связь до обновления системы была ужасная</p>",
+                "comment": "<p>Взял в качестве временного, повёлся на скидку за способ оплаты, и, по-моему, нарвался на \"восстановленный\", экран очень разочаровал. Рутировать пока не получается, думаю подкрутить насыщенность цвета. Совет поклонникам самсунга, брать всё-таки S серию.</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9d37dc32-50e1-4acd-9ec4-1cb5d0d048d6",
+                "objectId": "89c83a3e-6e73-4164-af67-4bd1129ad2d9",
+                "objectUrl": "/product/89c83a3e6e73ad2d/65-smartfon-samsung-galaxy-a25-5g-128-gb-zeltyj/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A25 5G 128 ГБ желтый",
+                "user": {
+                    "id": "fcabc3c7-6005-59e8-46fb-13f893fe6a4b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YKV983515",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "052f25e409a3b955553759530a8ea485",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 13:32:48.96585",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 13:32:48.96585",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "желтый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b75a464e-72db-49b6-bdf8-68159873c661",
+                "objectId": "89c83a3e-6e73-4164-af67-4bd1129ad2d9",
+                "objectUrl": "/product/89c83a3e6e73ad2d/65-smartfon-samsung-galaxy-a25-5g-128-gb-zeltyj/",
+                "objectName": "6.5\" Смартфон Samsung Galaxy A25 5G 128 ГБ желтый",
+                "user": {
+                    "id": "e07157d0-ebb9-446c-897a-6e0d98aafc37",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "vskvskvsk",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e21922e2f8bd351c8bb164d4e606894a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 21:45:58.687609",
+                "insertStampFormatted": "02.10.2024",
+                "updateStamp": "2024-10-01 21:45:58.687609",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "желтый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 0,
+                "5": 3
+            }
+        },
+        "topId": "c241fea9-d716-4e80-a430-123a584acf4a"
+    },
+    "message": "",
+    "errors": []
+}

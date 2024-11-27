@@ -1,0 +1,734 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 56,
+        "opinions": [
+            {
+                "id": "a62834a4-b735-49da-ba27-4730c25821f7",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "025d89c8-5e91-6fd7-3b82-83f6c2491a28",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/56fe225037ab1dec1fc73a94202a4e64/705d8581b2a2331f767b903bfa35b2e229a2d08d945047770581deceab589857.jpg\">",
+                    "name": "Dark-Myvvi",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-24 13:03:13.375",
+                "insertStampFormatted": "24.11.2024",
+                "updateStamp": "2024-11-24 14:09:48.127609",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Внешний вид</p><p>Сочный экран</p><p>Неплохая камера</p><p>Хорошая производительность</p><p>Оболочка</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Отличный телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "4fab321f-8746-4732-8934-bd07eb4d2245",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "807f8788-0291-fa9f-6eb2-e6f17e6f4518",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LF85299",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-22 06:43:12.68463",
+                "insertStampFormatted": "22.11.2024",
+                "updateStamp": "2024-11-22 06:55:19.246955",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Кроме изложеных недостатков все остальное в порядке.</p><p>Понравилось, что когда остаётся 1 % батареи, телефон работает еще минут 20-30.</p>",
+                "minus": "<p>Внешний вид не очень. Острые грани плохо смотрятся и ощущаются.</p><p>Очень неудобно лежит в руке из-за квадратных острых форм.</p><p>Батарею держит плохо (что странно, учитывая её объем), по времени значительно меньше чем четырехлетний Хуавей p40 lite.</p><p>Ужасное и крайне неудобное внутреннее приложение контактов. Можно ли его поменять не понятно, вроде нет. Когда тебе звонят не видно полного наименования контакта  (обрезается по длинне). Когда добавляешь дни рождения в контакты, в календарь они не добавляются. Через стороннее приложение такой проблемы нет.</p><p>Нет собственного календаря.</p><p>Проблемы с уведомлениями возникающие внезапно и уходящие после  перезагрузки телефона. Особенно проблема с ватсап. Тебе звонят, а телефон не реагирует, только через пару минут приходит уведомление, что у вас неотвеченный. Временно лечится перезагрузкой.</p><p>В итоге решил поменять на Самсунг с23.</p>",
+                "comment": "<p>Покупал на замену Хуавей p40 lite. Также есть второй телефон релме. Оба телефона абсолютно безпроблемные. В целом покупкой не доволен. Основные проблем в плохом софте, батарее и крайне топорном внешнем виде.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "8abf3a2e-e650-421f-950c-8647368fac7b",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "1a6bbe09-bfc5-429f-8a4a-70590372b9dc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Gazelist344",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c790e16864bf6243b0ce957c25fb3abb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-01 01:47:14.59383",
+                "insertStampFormatted": "01.11.2024",
+                "updateStamp": "2024-11-01 02:12:28.600468",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>в целом не плох</p>",
+                "minus": "<p>вибро</p>",
+                "comment": "<p>не плохой телефон.все что надо есть,в принципе все устраивает,но вибрация на нем полное разочарование,даже сравнить такое Г не с чем</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "bb0b1415-4215-4233-b4da-bf3f75539dcb",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "984bfca4-ec31-9ce8-c991-78ca527934ac",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SX50249",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "de79c3fa5168e1152b1406b42ab4db29",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 09:15:57.60014",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 10:01:18.904033",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Сочетание цена-качество.</p>",
+                "minus": "<p>Полоска сзади не нравится, но чехол решение)</p>",
+                "comment": "<p>Выбирал телефон для комфортной работы приложений типа навигатора, соцсетей, чтобы без тормозов и глюков с нормальной камерой, этот оказался подошел идеально. До него был realme c25s, начало отличный телефон с приятной оболочкой, но иногда подтупливал, 12+ летает по сравнению с ним, памяти почти бесконечность) очень доволен.</p><p>Выбирал между Realme 12, 12+ и Poco, M6 pro, X6 и X6 pro. Realme 12 побоялся что будет слабоват и подтупливать со временем из-за слабого процессора, Poco понравились , но белый цвет у них синеват, стоят подороже плюс отключать рекламу и привыкать к новой оболочке не захотелось)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6451287e-f1d5-4d94-8620-23c519ad118e",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "8655fbed-84db-97d8-baf3-38be7eb02928",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NX45051",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4077340181a71c144c9caaeccc46994b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 17:37:16.80028",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 17:38:02.798361",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Достойная камера, фото получаются яркие и красивые, очень шустрый процессор, игры тянет на ура, стильный и современный дизайн</p>",
+                "minus": "<p>Для меня их нет, конечно хотелось бы цену немного меньше, но за качество и мощность надо платить</p>",
+                "comment": "<p>Стильный, современный, мощный смартфон с хорошей камерой</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4dd59a7f-66c6-4dda-81b9-f90617bdf10e",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "930f3405-2ebb-0a29-1e8d-c741c0bb4714",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/2e83e6ce717bccc05bf311e55a9d516a/d0016b7d83cb3a515c62cc95a57b1713699ceb61423da08f61041ea79618756b.jpg\">",
+                    "name": "Алексей 1975",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "30e0e6c67a5987a97e03078b62173fdf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-16 15:03:44.33528",
+                "insertStampFormatted": "16.09.2024",
+                "updateStamp": "2024-10-06 17:09:26.12881",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный телефон</p>",
+                "minus": "<p>За такую цену их просто нет</p>",
+                "comment": "<p>Рекомендую к покупке</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "667b30f1-f1b3-4e51-903c-f63f3bfa2e3a",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "73678c98-e96b-e7bf-3262-d23294cf5b4f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XV45924",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-30 12:43:41.83299",
+                "insertStampFormatted": "30.06.2024",
+                "updateStamp": "2024-06-30 13:03:20.183349",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Шикарный дизайн, камера , куча оперативной и основной памяти</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Второй телефон реалии , все четко, первый разбил через 2 года</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "06c7594e-5207-456d-b35b-5c8cdc7aab6b",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "3490aa5d-c23c-8847-ec19-b7d0c2b30b5d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AC81501",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-11 18:32:09.93652",
+                "insertStampFormatted": "11.11.2024",
+                "updateStamp": "2024-11-11 18:32:09.93652",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "81aa2ba2-31d0-46c3-a46a-c0f692b1ad0f",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "f4888659-0b7f-429e-9b1c-307481925638",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YF3527",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d41f30b412b468f0fb2af4aac5b08481",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 13:17:44.822795",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 13:17:44.822795",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "a2bb9b2c-5120-4d83-9c17-1039409eaf84",
+                "objectId": "85861f02-02a8-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/85861f0202a8d9cb/667-smartfon-realme-12-5g-512-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 512 ГБ зеленый",
+                "user": {
+                    "id": "3911dd72-339e-4360-a3a5-c3f568bf08d1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GL9979",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8e15e777efe90ea9a0f67b44a4e4a90f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-28 08:01:00.755834",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-28 08:01:00.755834",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 1,
+                "5": 28
+            }
+        },
+        "topId": "7a5f64a9-9367-424c-9a41-9da3a07dc2b0"
+    },
+    "message": "",
+    "errors": []
+}

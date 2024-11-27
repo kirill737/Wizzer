@@ -1,0 +1,113 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": null,
+        "opinions": [
+            {
+                "id": "1e1eef5a-f545-48ea-a6a7-7bc24874cc20",
+                "objectId": "7121bf33-6a93-11ef-926d-0050569d0a4d",
+                "objectUrl": "/product/7121bf336a93d0a4/688-smartfon-xiaomi-redmi-14c-128-gb-sinij/",
+                "objectName": "6.88\" Смартфон Xiaomi Redmi 14C 128 ГБ синий",
+                "user": {
+                    "id": "7f0295a5-f34c-3759-5d47-bf82018e2e8b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAD03562",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 08:29:34.09489",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 08:34:27.719595",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Комплектация, включил все работает, камеру не проверял, но обязательно собщу</p>",
+                "minus": "<p>2 дня в неполной работе, пока нет</p>",
+                "comment": "<p>Телефон для тех кто, Работал с Redmi (..C) все норм</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "ee51a161-f685-4a48-845b-684bd737ea00",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/404d4d45a93dfbb03c5e1de9aeb45fb7/175bdcce3c19d23032b743401bc250bdb5eab34d53cf5694532cd554214c6424.jpeg"
+                    },
+                    {
+                        "id": "e45d783d-9370-4af6-96dd-baabf35318b5",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2f3f97a267f6ca8661c55a634bed54cc/893169b2241d9d1b9a497c6e0eae769305cb5ee587551520fa2780dd1dcbe2af.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 0
+            }
+        },
+        "topId": "1e1eef5a-f545-48ea-a6a7-7bc24874cc20"
+    },
+    "message": "",
+    "errors": []
+}

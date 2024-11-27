@@ -1,0 +1,739 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 34,
+        "opinions": [
+            {
+                "id": "50fa3a7b-dcd3-4133-81c8-c381c312cba6",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "2175dbf9-6b0d-42c7-aadd-56bde19495c4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "Men_Tolik",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3791687db29c315d5b95e1c69406a145",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 15:55:56.19155",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 18:05:03.43786",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Долго держит батарею, хорошая камера, хорошая производительность</p>",
+                "minus": "<p>Не нашел</p>",
+                "comment": "<p>Телефон очень понравился жене в качестве подарка</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "eb24e177-67be-49fc-a41f-c7fee53e36c7",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "ed3f4aa6-66f8-4841-8be3-0dd99d96ca31",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FA27680",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "28ecec3a3b2912757ce9c09db535037f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-08 09:08:19.825773",
+                "insertStampFormatted": "08.10.2024",
+                "updateStamp": "2024-10-09 00:58:28.233665",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Внешний вид, белый просто топ, габариты - по ширине как 20ка. Качество фото. Интересный портретный режим.</p>",
+                "minus": "<p>Хонор 20 (Антуту 550) - Хонор 200 (Антуту 670-770)... Пять лет развития, +20% прибавка в производительности в тестах  И МИНУС 20% в реале. Разочарование пятилетки. Ждал этот телефон, даже успел Риалми за пять тысяч попользоваться, когда стекло разбил на 20. Как он меня раздражал затупами после молниеносного Хонора20. И вот, встречайте!!! ... Хонор 200 - король фризов и затупов. Сказать , что это Вау эффект, ничего не сказать. Ведь основной комфорт на Хоноре 20 был от отзывчивости и быстроты телефона. Запуск камеры двойным нажатием кнопки громкости - через 0.3 сек фото готово. Мое минирасследование привело меня к основной причине ужасного Хонора200 - накопитель с очень медленным чтением (именно чтением). ЭПИКФЭЙЛ. Уже несколько раз я просто позорно не мог сделать фотки и видео в ситуациях когда люди просто недоуменно смотрели на мой новый телефон и пожимали плечами, доставая свои редми и техно и фотографируя что нужно без проблем. КАК?! Как Гонор смог допустить вообще эту ситуацию? Им наплевать на потребителя? Или у них завелся крот диверсант?</p>",
+                "comment": null,
+                "usersCommentsCount": 10,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9c4e90ec-8b0a-4415-953d-b89cf5696c90",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "932b7d09-ea98-5d35-6090-cc34ce0cf589",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EB18894",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "59e519e56c54531a47ebcfbab9518e5e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 04:37:54.257191",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 04:40:16.923511",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Просто супер телефон</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "4e8ddb3c-1b36-4f84-b8a2-f8a00a74d122",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "6b43f900-7276-4e86-a5ae-393dcc31cb46",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QY3888",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-23 10:30:26.79855",
+                "insertStampFormatted": "23.08.2024",
+                "updateStamp": "2024-08-23 10:44:52.727019",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Классный во всех отношениях</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Довольна</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3a25cf57-ae31-4c83-be87-27cb8062ecc4",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "3d03e957-f0dc-494c-bc43-45820d5cd5b2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/267e1d175a66d6155c8d38cb771b3d7a/b74e0dd88339cb82ddc7bc72800a7bfa138250e32ef9e4bf67a95da1ed909d71.jpg\">",
+                    "name": "MrDywar",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "12dcfa38dd885c6cfd2a356f47188f8f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-19 19:11:26.87416",
+                "insertStampFormatted": "19.08.2024",
+                "updateStamp": "2024-08-19 19:56:31.302977",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Такой же классный как и Honor 90</p><p>Стерео звук</p>",
+                "minus": "<p>Мало чехлов :)</p>",
+                "comment": "<p>Покупал Honor 70, 90 и теперь 200.</p><p>Нравится мне эта серия, относительно доступная, производительная, красивая.</p><p>Купил по акции вместе с часами.</p><p>Честно говоря сам не понимаю до конца зачем 90 на 200 обновил, просто скидка была большая, не удержался :)</p>",
+                "usersCommentsCount": 3,
+                "images": [
+                    {
+                        "id": "303698e9-d485-4684-90c8-1432d04fff54",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2475d1fed8dae21123ab8f74d0d5bc8c/1ee31b0be9979181207cacd0e01e4d4efb135b8278a7236a512cf7026937a0f9.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "185165c1-587d-4a3e-8154-fe974408329e",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "cad0b1a6-e9c4-48df-9102-5a6741b92ecd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Одиссей М.З.",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bced1d80319e2513d0e33bac36607695",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-29 08:55:21.1977",
+                "insertStampFormatted": "29.10.2024",
+                "updateStamp": "2024-10-29 08:55:21.1977",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "00ce8ffb-18c5-4e33-8a76-5ba78b9981fd",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "0f88fc54-8d5e-ec79-00f0-fd5123f7d158",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AH67471",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "bc0198732180b007b295ad80583a0226",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 15:31:13.1314",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 15:31:13.1314",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "32de4087-91a3-4bfc-8cc4-6e276284df2e",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "0ffd34fa-0100-c413-851b-f055038427dd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-MU83275",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d947f976c29b5621957046aa54a9dc8d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-29 16:23:24.369224",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-29 16:23:24.369224",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e7a277e4-18af-45ae-8e50-b5280e192ca7",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "42b40e79-299b-90eb-56b7-f312ad2440ee",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BP96062",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "42f17e31579b553b4570b1fc024736c8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-27 06:35:34.144387",
+                "insertStampFormatted": "27.09.2024",
+                "updateStamp": "2024-09-27 06:35:34.144387",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f84924b2-ab22-4290-ba11-43448dae7d2d",
+                "objectId": "b72467ce-1973-11ef-920d-0050569d21a3",
+                "objectUrl": "/product/b72467ce1973d21a/67-smartfon-honor-200-256-gb-belyj/",
+                "objectName": "6.7\" Смартфон HONOR 200 256 ГБ белый",
+                "user": {
+                    "id": "f97bbd2f-f787-f7f1-0ea5-ef6342184f03",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RP5855",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c1a94ec4a07dbf7c764b9022a6b2759a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-15 05:53:55.288866",
+                "insertStampFormatted": "15.09.2024",
+                "updateStamp": "2024-09-15 05:53:55.288866",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "белый",
+                    "Память (ГБ)": "8/256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 2,
+                "4": 0,
+                "5": 23
+            }
+        },
+        "topId": "4f6c63ed-369d-4b32-b53f-a49da761ef2e"
+    },
+    "message": "",
+    "errors": []
+}

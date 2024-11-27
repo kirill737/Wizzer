@@ -1,0 +1,704 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 38,
+        "opinions": [
+            {
+                "id": "74d7272f-0974-45d1-99f1-3935afc174ef",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "b26997b0-e470-4b1f-bd99-af94bfebb777",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RY8928",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-12 21:29:22.53697",
+                "insertStampFormatted": "13.11.2023",
+                "updateStamp": "2023-11-13 01:41:47.982906",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Дисплей , камера</p>",
+                "minus": "<p>Батарея , зарядка</p>",
+                "comment": "<p>Сам телефон нормальный но спустя пару месяцев после покупки выскочило сообщение что влага в разъёме зарядки хотя телефон не намокал ( даже мокрыми руками не брал ) , через пару дней престал реагировать на быструю зарядку ( стало от неё заряжать в три раза дольше чем от обычной ) , не подключается к компу по проводу .</p>",
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "d6c560ea-1fa3-48e6-9287-b3b9387cd8a0",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "2413d5c0-fc3f-6d4c-e3dc-0d34c655877f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PG27412",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "02ea757f001a88e24b233d59f61f84ad",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-11-09 16:00:51.87584",
+                "insertStampFormatted": "09.11.2023",
+                "updateStamp": "2023-11-10 14:30:23.092643",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Батарея</p><p>Экран неплохой</p><p>Относительно шустрый, почти без лагов</p><p>Вибро неплохое (точно лучше POCO, Redmi, Relme, той же ценовой категории)</p><p>Влагозащита IP67</p>",
+                "minus": "<p>Странный вырез под камеру в 2023 году</p><p>Фирменная оболочка OneUI</p>",
+                "comment": "<p>Подробнее по пунктам (частично в сравнении с предыдущим телом POCO X3 Pro)</p><p>1. Производительность: относительно неплохо для свое класса, почти без лагов. В отличие от китайцев, которые убивают фоновые процессы через 10-15 мин максимум, как не настраивай, здесь всё значительно лучше. Единственно, стал замечать, что если телефоном долгое время не пользоваться (примерно час +-), то при включении он первые несколько секунд тупит и лагает, потом всё нормально.</p><p>2. Фирменная оболочка, в общем бы была и неплоха, НО мелкие значки  приложений - это дико непривычно и увеличить их никак нельзя, и форму поменять тоже нельзя, даже если скачать неофициальное приложение для тонкой настройки. В общем не смог это пережить, поставил Pixel Launcher 2-го поколения.</p><p>3. Камера: если оценивать серьезно, то \"3-\", ночью всё мылит, \"ночной режим\" мёртвый. Ширик, само собой, еще хуже. Хорошо снимает только днем. И, главное, нельзя поставить Гуглкамеру, чтобы всё это исправить (((</p><p>Хотя, в камере есть 2 неоспоримых плюса для этого класса: во-первых 4к на фронталке, и во-вторых, при видеосъемке можно переключать объективы, правда только в режиме 1080р30.</p><p>4. Экран хороший, ШИМ я не ощущаю. Под углами, если смотреть, цвет меняет - это, конечно, минус (</p><p>5. Звук, для своего класса, отличный, может не самый громкий, но с басами, объемный, если сравнивать с POCO X3 Pro,  то у POCO звук полное г..но, по сравнению с самсунгом</p>",
+                "usersCommentsCount": 11,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a970fdfa-74af-4ee3-bb57-a05ef2e7cdf2",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "42bb916e-a47d-4b80-b7b4-89078a8f8fbf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "MakeMake",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fd6e63a30de7426a1b0b3baea0fb3160",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-09-29 00:20:12.360528",
+                "insertStampFormatted": "29.09.2023",
+                "updateStamp": "2024-06-14 08:37:41.775973",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Брал жене.</p><p>Сравниваю со своим бывшим Huawei Nova 5t.</p><p>Очень яркий и красочный экран, видно на солнце отлично.</p><p>Звук достаточно громкий, скорость работы хорошая, нигде не увидел тормозов.</p><p>Камеры отличные, фотки то, что надо (днём).</p><p>Батарея супер, хватает надолго.</p>",
+                "minus": "<p>за время пользования не увидел</p>",
+                "comment": "<p>Жене очень нравится, недостатков не обнаружил.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a8bfc864-0311-4649-b941-fc3492665f79",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "0d9c3e81-f3b4-7c89-cbf5-aa6f47ec0cdd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/aa43db4bc2450263b4b715ed0097f754/508df441a1bb1a16509b563ee2b51adbf26385411095a47dbdb8c72c71c25959.jpg\">",
+                    "name": "ilya41970",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8483775bfeeeb92a908a72bba576e710",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 14:59:31.023536",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 14:59:31.023536",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f2dc30b0-c44d-4e27-a272-e32281c81d0b",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "0ece622a-cd88-4569-a12b-6ef83fd8e25b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XR53312",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "795fc388e370b27e50fb4abc7b0d314c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 02:30:11.743794",
+                "insertStampFormatted": "15.10.2024",
+                "updateStamp": "2024-10-15 02:30:11.743794",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0da36619-297e-43c2-bd75-bc1b67201312",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "9fe924b1-3b77-d44b-5674-689646819075",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ML27627",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "81e1d8f839806ec3272652119bbdcde1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-14 08:25:05.145644",
+                "insertStampFormatted": "14.10.2024",
+                "updateStamp": "2024-10-14 08:25:05.145644",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "0eb3adea-9e1e-48c5-9c9f-6b18c75f7ef7",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "3f4cc465-f8d7-4318-8f3a-b7fb0dbfd4b2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AL0290",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f22ec9bca3d18e0d52bceb79c47a006c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-13 15:16:54.469674",
+                "insertStampFormatted": "13.10.2024",
+                "updateStamp": "2024-10-13 15:16:54.469674",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "6ab460a8-20b2-4a6d-8c89-4205dc7a21bd",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "961c6bd9-5c46-26b8-3375-4c0a65e641e5",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UQ09873",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "083ed5ac45a78ef087e11658ab333c13",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-29 04:54:44.648218",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-29 04:54:44.648218",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "71f382f3-6c69-4ca4-9939-9ac539a424b5",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "60b71503-9312-1a4c-6b09-76fc17eb7824",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "РГО",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "854cae6a5173358a76319c405766c94d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-23 19:23:07.630286",
+                "insertStampFormatted": "23.08.2024",
+                "updateStamp": "2024-08-23 19:23:07.630286",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "08f79632-5b55-4286-8e24-d3c045661f09",
+                "objectId": "d901a785-7c0e-422b-8543-063fbb1a7db4",
+                "objectUrl": "/product/d901a7857c0ea7db/66-smartfon-samsung-galaxy-a34-5g-128-gb-cernyj/",
+                "objectName": "6.6\" Смартфон Samsung Galaxy A34 5G 128 ГБ черный",
+                "user": {
+                    "id": "34ed316b-93a3-3d21-2aa1-c0f9b353b935",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RB68638",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8e663a3d2f6caa09725a9057920eb823",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-11 17:49:32.859499",
+                "insertStampFormatted": "11.08.2024",
+                "updateStamp": "2024-08-11 17:49:32.859499",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 1,
+                "3": 1,
+                "4": 2,
+                "5": 28
+            }
+        },
+        "topId": "d6c560ea-1fa3-48e6-9287-b3b9387cd8a0"
+    },
+    "message": "",
+    "errors": []
+}

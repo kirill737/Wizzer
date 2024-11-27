@@ -1,0 +1,744 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 50,
+        "opinions": [
+            {
+                "id": "c479a928-c8f9-4760-acce-6e5e26b45734",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "87efb0de-1bb5-4726-9732-52c2b0c173eb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/8c83b68d897235ca80fba8e9f2924dec/277c5e84904207c75f0b14384dff4e5578f7f7e8c529667aa9bee42de87077de.png\">",
+                    "name": "Пихота",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "101eff942098ebaf704e9108b1b76bfe",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-30 13:41:06.755438",
+                "insertStampFormatted": "30.06.2024",
+                "updateStamp": "2024-06-30 14:02:16.362238",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Большой экран, скорость, большой объём памяти, хорошая камера и звук просто супер! Предустановлена RuStore. Два динамика.</p>",
+                "minus": "<p>Пока нет</p>",
+                "comment": "<p>Иногда даже подпрыгиваешь когда звонит (такой громкий).</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c57927dc-7ece-4611-9f19-3be1397e51b2",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "5cf4d1ed-0994-b8ad-eec4-ec94bf569438",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PM66605",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-18 02:30:41.77976",
+                "insertStampFormatted": "18.06.2024",
+                "updateStamp": "2024-06-18 02:51:38.431308",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красиво выглядит, удобный</p>",
+                "minus": "<p>Не обнаружено</p>",
+                "comment": "<p>Покупайте норм</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b99960c3-0526-4e6a-bc31-7f29b322516d",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "361019b9-2141-bc7f-8a70-efadbaa0436b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XF60769",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-14 10:05:33.37202",
+                "insertStampFormatted": "14.06.2024",
+                "updateStamp": "2024-06-14 10:26:44.310197",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Топ за свою цену</p>",
+                "minus": "<p>Пока не выявлено</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "aac6716e-f583-4eb1-ae33-36b875a61af4",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "95249254-7602-a0e6-f1d9-b6e53cf1f538",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZD87585",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4fb76ca98ab4ef91d8fa87fbf230711e",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 02:45:32.292065",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 02:45:32.292065",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "73f98da7-9f7e-4d60-96d4-b2053333cf21",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "ffaba7e5-962d-7f8c-bfe5-8f2cd94d29d6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PW18238",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "af5cf9c90bf19272a782d25483741ce6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-06 03:18:21.052347",
+                "insertStampFormatted": "06.10.2024",
+                "updateStamp": "2024-10-06 03:18:21.052347",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "b8a1633a-a8cd-4185-bb46-e872ff4b15c2",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "f547bbb0-8b25-5fa8-cf2d-9804eaa69a79",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Кирилл Буторин",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "de2c719cb180fc3357bef4e8537b9a80",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 14:49:50.909846",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 14:49:50.909846",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9808ff28-ccd8-4026-8441-fd635159705d",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "46554519-8258-7070-dae4-519215b49dcb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EQ76321",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4d9d424d6448b665c4cec5c7cc0761c9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-28 10:59:17.202789",
+                "insertStampFormatted": "28.09.2024",
+                "updateStamp": "2024-09-28 10:59:17.202789",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "316cdb1c-4e39-429e-80d2-e8dfcff2e019",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "5a051ca1-e3d7-441d-9fa3-8f6f817c59ae",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LJ8770",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "52277a88cd946eea0d69f034ab15fdb4",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-17 08:33:27.042683",
+                "insertStampFormatted": "17.09.2024",
+                "updateStamp": "2024-09-17 08:33:27.042683",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ff3a299f-bb4f-462a-9c63-f560649eefc0",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "e1b0e614-0819-1c48-739e-4985d8404e88",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TW69505",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e6e5f879aaeb06399afd03d8df1cb611",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 18:25:30.753302",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 18:25:30.753302",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3a4aaa31-3e78-480a-80c9-dcd5581beaac",
+                "objectId": "32e0b911-b690-11ee-91a5-00155d8ed20b",
+                "objectUrl": "/product/32e0b911b690ed20/656-smartfon-tecno-spark-go-2024-64-gb-zolotistyj/",
+                "objectName": "6.56\" Смартфон Tecno SPARK GO 2024 64 ГБ золотистый",
+                "user": {
+                    "id": "e2b69ea2-ce1b-4be3-b49c-c3928c4765c8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QC6408",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d97814a90dfcbd0f3bf132486c73b6c1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-29 17:23:57.641346",
+                "insertStampFormatted": "29.08.2024",
+                "updateStamp": "2024-08-29 17:24:02.60722",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "64",
+                    "Цвет": "золотистый",
+                    "Оперативная память (ГБ)": "4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 27
+            }
+        },
+        "topId": "0ce723e5-430e-4f45-88cd-dab0a38e155b"
+    },
+    "message": "",
+    "errors": []
+}

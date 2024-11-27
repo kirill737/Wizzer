@@ -1,0 +1,104 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 3,
+        "opinions": [
+            {
+                "id": "ff57cf08-6aaa-4a1b-a08f-b8a411e6d496",
+                "objectId": "cd8b6cce-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cd8b6cce5a12d21a/667-smartfon-xiaomi-14t-pro-512-gb-sinij/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 512 ГБ синий",
+                "user": {
+                    "id": "91012f37-45cc-4b41-ae14-b89f601abb24",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZH88380",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3d0df505257a2d0661d771533710304a",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-23 08:15:51.694261",
+                "insertStampFormatted": "23.10.2024",
+                "updateStamp": "2024-10-23 09:42:04.219435",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий",
+                    "Память (ГБ)": "512"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый, шустрый кирпич. Заряда на день хватает (не играю). Чтение, инет, просмотр видео, музыка.</p>",
+                "minus": "<p>Пока не обнаружил. Если только дырка в экране) После ми 10, непривычно.</p>",
+                "comment": "<p>Пока не разобрался с камерой, такое ощущение, что мылит фотки..</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        },
+        "topId": "67402e25-3168-41d0-907b-fccfd827e97c"
+    },
+    "message": "",
+    "errors": []
+}

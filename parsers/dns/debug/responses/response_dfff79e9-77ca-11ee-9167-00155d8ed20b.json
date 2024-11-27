@@ -1,0 +1,708 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 142,
+        "opinions": [
+            {
+                "id": "98d70248-c167-4d4f-a61b-0d99e73875d4",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "c9ba6575-685e-4974-0be9-2295b97dbfad",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UP30725",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c87f388940eb2cad7e9745f633fa415d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 07:50:49.462049",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 09:02:04.299462",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Не дорогой, вполне шустрый.</p>",
+                "minus": "<p>Возможно они есть по железу, но я не спец, мне норм всё</p>",
+                "comment": "<p>Обычный смартфон без излишеств и явных багов.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "90de5921-5ea2-400e-a45a-460103e62383",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "f5da6c6a-1104-3aef-c170-4af2baa021bb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YQ44433",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e41834939cb1ab148b5cdac284573466",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 11:53:08.868332",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 12:32:14.552143",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Красивый смартфон, тянет игры, камера хорошая. Школьнику очень нравится.</p>",
+                "minus": "<p>После двух месяцев использования не нашли недостатки. Советую друзьям и родственникам.</p>",
+                "comment": "<p>Берите! В своей ценовой категории лучшая модель.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2ea61a19-9565-4907-9f3f-26aed435b885",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "e980afeb-71cf-0adb-25f0-ff80799da217",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-LT95108",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-11 13:55:34.49795",
+                "insertStampFormatted": "11.10.2024",
+                "updateStamp": "2024-10-11 14:18:46.161448",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Отличный смартфон за свою цену!!!</p>",
+                "minus": "<p>Нет.</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "acffdf48-bcfa-4430-97e6-94ebfabc8918",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "5994d953-36e8-7ca1-c740-edcfb3a167dc",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VX95402",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ae151589fe02e2372ccdc654c946a1f5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-01 15:37:08.58903",
+                "insertStampFormatted": "01.09.2024",
+                "updateStamp": "2024-09-04 01:58:42.415292",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Производительность - шустрый, большой объем памяти, со своими ежедневными задачами справляется на 100%.</p><p>Удобный, большой красивый корпус, плюс к нему есть миллионы чехлов.</p><p>Заряд держит достойно, если правильно его настроить, отключить ненужные приложения, и не играть в игры 24/7 (мобильный гейминг, имейджин)</p>",
+                "minus": "<p>Камера не очень, особенно если присутствует плохое освещение/вечернее/ночное время, но для бюджетного смартфона это норма.</p><p>Скорее всего не для тех, кто ищет мобилу для каких-то требовательных игр</p>",
+                "comment": "<p>Достойный бюджетный вариант.</p><p>Главное настройте под себя. Все жалобы насчёт рекламы, слабой батареи и ненужных приложений именно из-за того, что народ не умеет настраивать аппараты под себя (вся эта хрень отключается и удаляется в настройках)</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "34d25311-9d06-4687-bd1a-d10cb5253423",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "50e06912-16c6-481c-8a69-990aff8c6c03",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZU582772",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "85abfe44910a5745d7b38a0672f9c87f",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-06 19:10:16.362932",
+                "insertStampFormatted": "06.08.2024",
+                "updateStamp": "2024-08-06 19:21:29.118654",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Нет</p>",
+                "minus": "<p>Батарея производительность камера</p><p>Сервисное обслуживание</p>",
+                "comment": null,
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9e795041-2c8d-48e3-866d-b36a76f537c6",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "3126ca31-3ffe-49a7-8f19-1cbb13951ca2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/e8e15f47b13159f2631d14656f6c1b4e/f9460fb6a31fb5597cb3f161681f568abd3cb5d2fcbb584fbf5a2d92228eaf31.jpg\">",
+                    "name": "EGZO",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-07-05 05:20:55.40844",
+                "insertStampFormatted": "05.07.2024",
+                "updateStamp": "2024-07-05 05:21:49.578291",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрый и отличный за 12000 рублей</p>",
+                "minus": "<p>Динамик конечно слабоват</p>",
+                "comment": "<p>Брал за 14к близкому человеку, но сейчас ему цена 16к, он этой цены не стоит...</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5e1a0552-5df8-4dc2-930a-57c2ab69b9bd",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "a3b0f0a4-e550-acec-7e41-58e7d4870d56",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/68575f20d66a6b93b17bee8cb96a1576/38573e33503bef4a0544e93bdd6a7c43b4c390b9ff989817cdb85ebed240b6ed.jpeg\">",
+                    "name": "КИТ123",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "31727705aad19679a5cd7538d8d30892",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-28 14:16:31.245429",
+                "insertStampFormatted": "28.05.2024",
+                "updateStamp": "2024-05-28 15:23:23.594478",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая производительнасть</p>",
+                "minus": "<p>Спустя год использование. Вместо 90 Гц столо 61</p>",
+                "comment": "<p>Норм</p>",
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "aa52c337-5c39-418a-b5d9-eddbe850fc5a",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "b7592418-ab53-f6a7-9311-14e497375dc7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-EJ82718",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-23 05:35:44.58847",
+                "insertStampFormatted": "23.04.2024",
+                "updateStamp": "2024-04-23 05:50:33.336033",
+                "rating": 2,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 2
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>батарея плохая,</p><p>пол дня держит зарядку</p>",
+                "comment": null,
+                "usersCommentsCount": 4,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "b594e8dd-4cd2-43ef-ad1c-66ca9bf4262e",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "103582b9-5a40-7876-3653-78b27b161c26",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "tchken-SJ47128",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "706aac53c59d5ea5e604dfd5bb457379",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-18 13:35:03.76585",
+                "insertStampFormatted": "18.04.2024",
+                "updateStamp": "2024-04-18 14:29:09.536015",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Достаточно много памяти, как постоянной, так и оперативной.</p><p>Экран с частотой 90 Гц.</p><p>Особенности лотка для симкарт и флэшки.</p>",
+                "minus": "<p>MediaTek Helio G85, - процессор родом из 2020 года, претензий к нему нет, но надо понимать что это именно бюджетный процессор и несмотря на восьмиядерность максимальную частоту обеспечивают лишь два, а ещё шесть работают на 1800 МГц.</p><p>Слабый блок питания в комплекте.</p>",
+                "comment": "<p>Попользовался несколько месяцев, впечатление хорошее. Все необходимое можно быстро установить и настроить под себя, датчик отпечатка пальцев отзывчивый, морду лица аппарат тоже сканирует качественно, даже при слабом освещении. Достаточно много памяти для установки приложений и хранения данных.</p><p>Экран приятный для глаз, не напрягает, в кислотность оттенков не уходит. Микрофон и динамик вполне себе четко передают звук. Батарея за счет не самого мощного и хорошо оптимизированного процессора держит пару дней.</p><p>Есть глюк, в случае если приложения переносились бэкапом, а не были первично установлены после перезагрузки часть ярлыков рабочего стола может быть вынесена из папок и перенесена на отдельный экран</p><p>Что удивило так это невозможность стандартно включить режим плавающих окон, - как видно из скрина сама служба на телефоне есть, но из меню настроек почему-то не включается.</p><p>Добавлю вот ещё что, несмотря на то что у меня крупные руки(11 размер перчаток) использовать данные аппарат с управлением жестами мне оказалось не реально при управлении одной рукой, пришлось использовать кнопочный режим.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e01efe67-e334-45e9-8200-9729c64c0aa6",
+                "objectId": "dfff79e9-77ca-11ee-9167-00155d8ed20b",
+                "objectUrl": "/product/dfff79e977caed20/674-smartfon-poco-c65-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон POCO C65 256 ГБ черный",
+                "user": {
+                    "id": "455f27ab-f7c5-402c-876d-a84f24e52d98",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AD82627",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3d87a270183a137c534b9f0265be8f71",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-17 21:28:01.994206",
+                "insertStampFormatted": "18.04.2024",
+                "updateStamp": "2024-04-18 01:36:21.557625",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Работает</p>",
+                "minus": "<p>Иногда зависает камера, как мне кажется. Приходится ждать, когда будет готова к работе</p>",
+                "comment": "<p>Заряжается быстро. Серфить по инету удобно. Памяти хватает</p><p>Звук вполне приличный, но я музыку не слушаю, а для болтовни всего хватает</p><p>Дёшево и сердито. Меня устраивает</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 3,
+                "2": 1,
+                "3": 5,
+                "4": 9,
+                "5": 103
+            }
+        },
+        "topId": "43b5febb-ff26-46d2-9361-272b4b64f7c9"
+    },
+    "message": "",
+    "errors": []
+}

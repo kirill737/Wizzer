@@ -1,0 +1,718 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 134,
+        "opinions": [
+            {
+                "id": "086f2f2e-69c6-474d-93de-fa30a46d41ff",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "367163a4-a448-d2e6-9aa2-ed5356f74077",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PU81387",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "851934428caae9cdf40872850e7ecc14",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-26 13:09:32.226954",
+                "insertStampFormatted": "26.10.2024",
+                "updateStamp": "2024-10-26 14:02:53.749241",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Богатый функционал, хорошая камера, батарея долго держит, цена очень доступная!</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "80c3409f-5528-40ce-965c-379aa2ebee1e",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "d51f3008-516a-ad74-2890-61d801c51bbd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "cve2035",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 17:49:48.97892",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 18:18:25.81948",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Классный корпус, красивый.</p>",
+                "minus": "<p>Блеклый экран, не хватает яркости. Камера просто отстойная, 8мп iphone 5s будет сильно лучше.</p><p>Батарея едва держит 1 день, если использовать браузер и мессенджеры.</p><p>Фризов ещё нету, динамик громкий, звук не четкий, без гугла живется норм, экосистема huawei просто кишит рекламой, хотелось бы отключить неиспользуемые приложения, но нельзя, например Облако или Ассистент...</p><p>Батарея зарядилась с 5% до 100% за ~1:40, емкость аккумулятора на момент полного заряда 2493mAh, в характеристиках указано 5000mAh, даже не близко.</p>",
+                "comment": "<p>К покупке не рекомендую, если вы хотите от этого смрюартфона что-то чуть более чем звонилка.</p>",
+                "usersCommentsCount": 4,
+                "images": [
+                    {
+                        "id": "9f6b03a4-6495-4ca8-bca8-ce463fd45766",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/e5c6a20497850eb1d6114c28c1c31dca/9351c870fbaacf88bd07e5b974609125e3de9f5d31ab14ef85dff3221dd843f0.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "24197dc4-b989-4775-a5a9-4b2b0545d8a3",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "15a03d25-70b7-1874-d3de-068891c0e499",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZX49195",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "734f33f952b567acd2a95a8414015644",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-01 06:08:52.50553",
+                "insertStampFormatted": "01.10.2024",
+                "updateStamp": "2024-10-01 06:22:05.625298",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>+ Для своей цены очень шустрый и отзывчивый</p><p>+ 128 Гб памяти, чего хватит для рабочих задач на приличное время</p><p>+ Фотографии более чем достойные, опять же для такой цены</p><p>+ Предустановленный AppGallery, более чем перекрывает собой play market</p><p>+ Наличие быстрой зарядки и чехла в комплекте также порадовали</p><p>+ Хорошо держит батарейку и относительно быстро заряжает (от 0% до 100% примерно за 55 минут)</p>",
+                "minus": "<p>- Всё же отсутствие Google-сервисов несколько сужает возможные сценарии использования (втч Google Play Games и его сохранение прогресса), но странно было бы рассчитывать на серьёзную игровую производительность в этом сегменте</p><p>- 4 Гб RAM его когда-нибудь и отправят на свалку истории (крайне хотелось бы видеть как минимум 6 Гб)</p><p>- Иметь 60 герц экран в 2024 совсем несерьёзно</p>",
+                "comment": "<p>В общем и целом хорошее устройство за свои деньги. Требовать от него чего-то сверхъестественного я бы не стал, это ни разу не флагман.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ba3ed035-03c9-4137-8117-c27e56ee0778",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "30e37a42-ab00-40aa-98ed-90fb45cf42c7",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "skylol",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1594edd76d2e85bdcc67def004e41452",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-18 14:50:54.53679",
+                "insertStampFormatted": "18.09.2024",
+                "updateStamp": "2024-09-18 14:55:47.722998",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена на момент покупки.</p><p>Всё работает</p>",
+                "minus": "<p>За эти деньги нет</p>",
+                "comment": "<p>Покупал по акции за 6,8 к.р. За эти гроши подарок.</p><p>Нужен был второй телефон с NFC для нескольких программ.</p><p>Он конечно достаточно задумчивый, но после удаления кучи хлама через ADB AppControll, стал шустрее.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9a4f95fc-d514-4095-a722-7e245cffced6",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "b6a965a2-3708-3022-b7f0-6a0d4523ce26",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QX21669",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5a2c135d73a0f638ca7d980ca20b7871",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-07 16:53:45.380033",
+                "insertStampFormatted": "07.09.2024",
+                "updateStamp": "2024-09-07 18:09:27.227329",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>камера 50Мп с ии способны делать хорошие фотки</p>",
+                "minus": "<p>слабый фонарик и не яркий экран .жаль что нельзя сделать виртуальную оперативку  всё таки памяти 128гб так что не жаль</p>",
+                "comment": "<p>для использования google cервисов нужен gbox</p><p>я выбрал этот телефон так как мне он будет нужен в основном для мессенджеров и простых игр</p><p>если вам нужен телефон для простых задач то это хороший вариант</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6be3c75c-1ef5-4de9-b387-61d1dcf846e9",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "2121bc21-e928-efe9-33f7-c385f8663970",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FP97114",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-05 15:00:27.26449",
+                "insertStampFormatted": "05.09.2024",
+                "updateStamp": "2024-09-05 15:02:53.377226",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>Гавно полное</p>",
+                "minus": "<p>Гавно полное</p>",
+                "comment": "<p>Гавно полное, не берите (гугла нет) иза этого телефон не работает!!!</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "cbce8d41-1a9b-42f5-9622-d90dc457276c",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "27dc2afc-eba9-b412-f19c-ae964ca9d55f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KF18090",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-04 15:11:45.13994",
+                "insertStampFormatted": "04.09.2024",
+                "updateStamp": "2024-09-04 15:23:53.494678",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [],
+                "plus": "<p>Цена</p>",
+                "minus": "<p>Ватсап не видит контакты, звук из динамиков противный , не шустрый , селфи камера ужасна, экран тускловат , сканер отпечатка пальца работает ужасно</p>",
+                "comment": "<p>В принципе за эти деньги наверное лучшее решение</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "fe61e2c6-daa8-42b4-b64d-f73a076b3b64",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "5a748318-c3ab-800d-3d6b-5c3738c53111",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Aristofer",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "af3a81854b7b3df7295d626b1167e833",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-24 03:08:55.53723",
+                "insertStampFormatted": "24.08.2024",
+                "updateStamp": "2024-08-24 03:42:30.686183",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличные характеристики (память, ОЗУ, камера и батарея) за такую цену. Быстрая зарядка.</p>",
+                "minus": "<p>Отсутствие сервисов Google в следствии их санкций в сторону Huawei. Отсутствие возможности перенести данные с прошлого устройства. Чехол не подходит к защитному стеклу.</p>",
+                "comment": "<p>Некоторые приложения (Discord и Youtube) работают через GBox (эмулятор сервисов Google для Huawei). Я не смог перенести свои данные из Google Fit и привязанных к нему приложений.</p><p>На фото содержимое упаковки без зарядки и телефона.</p>",
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "77d1e243-08db-4338-a598-c4aa8ce7e9a9",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2b4bfb6fb343b232e8809795fff56e40/d86c25a4747a5a15ac31d91906d1bc58c83571ce3da2e176bbf5526579e27161.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "09ee5c81-42a5-4616-a001-abc245e18c78",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "edeb0768-8217-4c26-6449-a45d509eb5be",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SJ49620",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "98a7faee5a6e197c59ac1f9fa3a8eb31",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-20 13:04:36.851085",
+                "insertStampFormatted": "20.08.2024",
+                "updateStamp": "2024-08-20 13:15:12.31637",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая батарея, быстрая зарядка, экран достаточно красочный. Достаточно хорошая производительность, приложения не виснут, в играх не перегревается до тормозов. Наклеенная пленка на экран и чехол, хотя чехол скорее для галочки, но приятно.</p>",
+                "minus": "<p>Кто жалуется на визгливый звук, но я такого не заметил, звук вполне нормальный, хотя меломаном может и не подойти. Непривычная система навигации, нужно проводить от края экрана к центру, чтобы сработало. В зависимости от края экрана срабатывает то или иное действие. Непривычно, но можно освоится.</p>",
+                "comment": "<p>В цело за свои деньги весьма достойный телефон.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0dca8466-f4cd-4d1d-88c3-0221285b5219",
+                "objectId": "c9460b81-d5ec-11ee-91cb-00155d8ed20c",
+                "objectUrl": "/product/c9460b81d5eced20/652-smartfon-huawei-nova-y61-128-gb-cernyj/",
+                "objectName": "6.52\" Смартфон HUAWEI nova Y61 128 ГБ черный",
+                "user": {
+                    "id": "3a978cba-7982-42ad-bcd9-ddb4849e7276",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IL9429",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "416526915af5b448a8cdcc1385b9a622",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-17 13:23:34.047726",
+                "insertStampFormatted": "17.08.2024",
+                "updateStamp": "2024-08-17 13:52:42.929741",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "128/4"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>работает только нет гугл плэй, у хуавей с этим проблема</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 4,
+                "3": 2,
+                "4": 8,
+                "5": 84
+            }
+        },
+        "topId": "ce53fda6-2332-4373-84b4-0d2eb255853d"
+    },
+    "message": "",
+    "errors": []
+}

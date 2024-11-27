@@ -1,0 +1,739 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 335,
+        "opinions": [
+            {
+                "id": "8b3aa9c3-6963-457d-bb8a-4f9b72b319de",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "26520a58-6340-4fb1-c05f-4ff96a48b408",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "ЧтотоКакто",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "6cc888fc8415c9f6610ff25baa89b867",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-16 16:50:17.07598",
+                "insertStampFormatted": "16.11.2024",
+                "updateStamp": "2024-11-16 17:37:15.014192",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Большой экран</p><p>Хорошая автономность</p><p>Неплохая камера</p>",
+                "minus": "<p>Ужасный датчик приближения</p><p>Мусорные встроенные приложения</p><p>В комплекте идёт блок без быстрой зарядки</p>",
+                "comment": "<p>За свою цену телефон просто отличный. Взял его взамен своего старого POCO M5. За +- одинаковую цену, этот телефон намного лучше.</p><p>Экран большой и сочный. Динамики и микрофон хорошие, проблем не наблюдалось. Камера обычная, ни хорошая, но и не плохая.</p><p>Что по производительности, не знаю, кроме аркадных игр ничего не запускал, но с несколькими включенными приложениями справляется на ура.</p><p>За две недели использований никаких задержек и лагов не наблюдалось.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "58c9350c-15a9-451c-9a68-5c6b3abe824c",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "daac2b2d-9037-c93d-ef01-fdad01975bc1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-RV01270",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "37ec4a7e570fd1edc91fad8ebaf8360b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 14:05:19.546118",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 14:24:53.423754",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Качество</p>",
+                "minus": "<p>нет</p>",
+                "comment": "<p>удобный,быстрый</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9960a85a-d59f-41bf-ba97-45ef6c24995a",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "51c5aa1a-66bd-472d-bba9-d9c375e2b3d0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-UP879216",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1196848de95b41bb43402f52e72e04f3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 11:38:54.13684",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 12:12:25.228401",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Слабый аккумулятор.</p>",
+                "comment": "<p>Брал на обновления 9С</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ef50087f-dda4-465d-91a6-ff37c17687fb",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "c889a2f0-564d-ea8e-c564-3494efbfa495",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PL28084",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4695a7f65981a40f59a7e91af4a99f9c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-20 15:07:37.14551",
+                "insertStampFormatted": "20.09.2024",
+                "updateStamp": "2024-09-20 15:16:08.580426",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Телефон хороший, бабушка довольна!</p>",
+                "minus": "<p>Блок зарядки, как указанно имеется быстрая зарядка, но блок покупается отдельно, в комплекте обычный слабенький.</p>",
+                "comment": "<p>За 11999руб. телефон просто отличный, минус можно и не считать. За цену по которой телефон сейчас (14999) - дорого.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ea37e9c8-0dff-4f97-9e45-537959e1facd",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "e6376438-7f5d-461e-9f25-4fac8e08f0cf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Crematorium111",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-11 21:51:00.62658",
+                "insertStampFormatted": "12.09.2024",
+                "updateStamp": "2024-09-12 01:10:50.629726",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Громкий разговорный динамик, подходит для тех, кто плохо слышит.</p><p>Работает хорошо, быстро, шустро, хороший смартфон для повседневных задач. В игры не играю, поэтому ничего сказать не могу.</p>",
+                "minus": "<p>Камера не для тех, кто любит делать много крутых фото.</p><p>Смартфон поддерживает быструю зарядку 18w, а в комплекте зарядка на 10w (не быстрая). Неприятно.</p><p>Нет заводской плёнки на экране, нет обычного чехла накладки, как Xiaomi продавали раньше.</p>",
+                "comment": "<p>Кладите нормальное зарядное устройство в комплект, обычный прозрачный чехол, пленочку на дисплей - так покупка станет приятнее.</p><p>Предыдущий смартфон покупал в такой комплектации.</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c9a32c94-29eb-4376-9e86-ee168f77061e",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "80f812e4-c7ac-ca63-110b-6a0e00efbdf9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QE72015",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-08 17:49:16.67261",
+                "insertStampFormatted": "08.09.2024",
+                "updateStamp": "2024-09-08 20:00:08.995739",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>по хараеткистикам - отличный телефон</p>",
+                "minus": "<p>на следующий день после покупки телефон стал постоянно перезагружаться, вечный экран загрузки. Оформили возврат, признали телефон бракованым</p>",
+                "comment": "<p>жаль что так получилось, но хорошо чтотвсе в первый день выяснилось, т.к. телефон брали для ребенка, мог остаться без связи в любой момент</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "56ed7c63-4a85-4733-ac4a-94e9e044224a",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "7c4839db-159c-4388-aaf7-1f2266ed5826",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TD0900",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-25 05:57:42.3638",
+                "insertStampFormatted": "25.08.2024",
+                "updateStamp": "2024-08-25 08:51:02.879598",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>На \"новом\" телефоне не достаточно  максимальный запас  аккумулятора, должен составлять 5000, а на самом деле 4899, я встаю в 07:00 и в 14:00 остаётся уже 30%, как то не правильно видеть на новом телефоне</p>",
+                "comment": null,
+                "usersCommentsCount": 2,
+                "images": [
+                    {
+                        "id": "7ef5ec4d-7555-4979-b151-25286a63edf7",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/03a95ea76a2ede997857fa68f7a7fc4b/2aa661244016c89714b25c22cf9f58bfcc6072351cf9fd2f7225c8d59c622e83.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0049e634-ac46-4958-a0af-bfb5179055f3",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "47f4ca4b-3577-5134-d543-f66d639e3e98",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/97939604f534437316c4b58d1ac520df/3a68497724a82b861ca264a33ed56c4c2f4447b6eedd254e8c6583f71c135a68.png\">",
+                    "name": "Пришелец-MY06815",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-24 06:18:14.75339",
+                "insertStampFormatted": "24.08.2024",
+                "updateStamp": "2024-08-24 07:03:04.308674",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хороший яркий дисплей, оперативы 8, поддержка бесконтактной оплаты картами, долго держит батарею, быстрая зарядка.</p>",
+                "minus": "<p>В комплекте обычный блок на 10w, а смартфон поддерживает быструю зарядку на 18w, это огромный минус, пришлось покупать. Динамики слабоваты, при разговоре через громкоговоритель слышно конечно так себе.</p>",
+                "comment": "<p>Использую его уже месяц, в целом все устраивает за свои деньги так вообще шикарный аппарат. Сравнивал открытие карты 2 ГИС с iphone 11 pro max, сяоми конечно отстает причём секунд на 10 т.е. в айфоне моментально карта погружается хоть он уже довольно таки не новый, а тут вроде и проц норм и оперативы 8....бюджетник что тут скажешь)) батр держит хорошо, пользуюсь на мобильном инете с блютуз ушами, утром зарядил до 95-98 вечером остаётся ещё 10%...</p>",
+                "usersCommentsCount": 1,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "967ca61c-f088-4e13-be13-45921e8c54f9",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "77a05bfd-35b6-e1c9-d411-f95c05d020b4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OYT211022",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9e7a495d6552cf77cc627a1af243bfa3",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-05 12:51:44.249302",
+                "insertStampFormatted": "05.08.2024",
+                "updateStamp": "2024-08-05 13:10:39.941697",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Ребёнок доволен. До сих пор не разбил (уже два месяца).</p>",
+                "minus": "<p>Пока не обнаружены.</p>",
+                "comment": "<p>Вроде бы, всего ребёнку хватает - он смотрит видео, постоянно играет в какие-то игры, смартфон всё вроде бы тянет.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7f354f08-6895-4e8f-a1e5-d14c1d6648b2",
+                "objectId": "3fe52801-7478-11ee-9170-00155d8ed209",
+                "objectUrl": "/product/3fe528017478ed20/674-smartfon-xiaomi-redmi-13c-256-gb-cernyj/",
+                "objectName": "6.74\" Смартфон Xiaomi Redmi 13C 256 ГБ черный",
+                "user": {
+                    "id": "09359dc0-ef3a-172f-b303-0130fd1e1df2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/6d7ae1e8432bab5d3a12f6224b78fdb7/d46420caf4af752ec39bf47816a13381b4164d9cd99b52b494216c98e87f961c.jpg\">",
+                    "name": "Sleepper1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "849ded19f490b970ccc19dd337af26f7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-05 08:28:46.80704",
+                "insertStampFormatted": "05.08.2024",
+                "updateStamp": "2024-08-05 08:49:25.198287",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Адекватный аппарат за адекватные деньги!</p>",
+                "minus": "<p>Не обнаружил</p>",
+                "comment": "<p>Определенно рекомендую к использованию!</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 6,
+                "2": 6,
+                "3": 6,
+                "4": 25,
+                "5": 219
+            }
+        },
+        "topId": "ce63abe9-1c2d-4533-bf16-6f8bc8c4c041"
+    },
+    "message": "",
+    "errors": []
+}

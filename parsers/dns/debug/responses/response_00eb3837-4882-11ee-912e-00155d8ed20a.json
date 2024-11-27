@@ -1,0 +1,751 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 90,
+        "opinions": [
+            {
+                "id": "6e78a9be-955e-4231-8cbc-894249759d12",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "29e1873f-2afc-9365-1a25-cb4201b62c23",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/57292d3df943fef0d7dd9e04fd84e5e4/501cebb8773d8973e0be60d5ab881db57ffdb74744b165a3de1ffd13bbf3af63.jpeg\">",
+                    "name": "MetallForever",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c3a0d26e9a364df7facb88f465403d3c",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-24 06:11:10.40971",
+                "insertStampFormatted": "24.11.2024",
+                "updateStamp": "2024-11-24 08:40:18.832546",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Телефон имбовый. Айфон это качество и долголетие именно за это мы и любим его.</p>",
+                "minus": "<p>60гц и маленькая батарея но это пустяки.</p>",
+                "comment": "<p>Если не хочется тратится на п или пм то это отличный вариант.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5e602ac8-0d31-4d5f-ada6-dc38548e1e18",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "e695553b-b859-ef1e-8eb8-09d31a8ebfd1",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "timewithyan",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "fa3fdf6bd976c68051f1ce8c2fee2bcc",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-19 10:30:36.28003",
+                "insertStampFormatted": "19.11.2024",
+                "updateStamp": "2024-11-19 10:35:27.464954",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Пойдет</p>",
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8a1636a9-df4e-4278-b0f6-705441eb1f71",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "422f1f03-3f2d-feca-1aac-2b40dd014e75",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-WH17856",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-02 23:38:59.19019",
+                "insertStampFormatted": "03.11.2024",
+                "updateStamp": "2024-11-03 01:06:09.499163",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>все кайф</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ec290229-80a1-4528-91af-04dcc0bf5657",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "8c83704d-7678-4390-b17a-7c9ed77c6f93",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/8c83b68d897235ca80fba8e9f2924dec/277c5e84904207c75f0b14384dff4e5578f7f7e8c529667aa9bee42de87077de.png\">",
+                    "name": "SerGeeICH",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-30 00:11:05.73183",
+                "insertStampFormatted": "30.10.2024",
+                "updateStamp": "2024-10-30 00:47:16.375916",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все как обычно, качественная сборка, телефон для Индии, телефон с сим и e-sim</p>",
+                "minus": "<p>Не обнаружил</p>",
+                "comment": "<p>Все как обычно, хороший телефон, поравилась челка, обновления все нормально.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "8c9ed169-1ac6-4202-91bd-7d86f9400fa2",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "cce80f29-62f1-4844-8c2e-6a31d5eba950",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "PiPeTkA15",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e2a07f83dc56db37a661da56256e1168",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-24 05:52:00.784702",
+                "insertStampFormatted": "24.09.2024",
+                "updateStamp": "2024-09-24 05:59:50.366545",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>После мертвого андроида , вообще ракетп</p>",
+                "minus": "<p>Не выявл</p>",
+                "comment": "<p>Доволен как сло</p>",
+                "usersCommentsCount": 3,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9d0e6907-8b33-4d8c-a71c-538ef4aa318d",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "ac3aa8c3-9bec-0dc7-2dcb-8c95ee35e3fb",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VQ27762",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-14 14:20:51.74651",
+                "insertStampFormatted": "14.09.2024",
+                "updateStamp": "2024-09-14 14:45:42.050652",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>хороший айфон, как и должно быть</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "faa976f8-883a-45bc-9776-db1fa76e1152",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/979044651bcaa2fd5172a64eae5be9e6/752bc81ab42cc5b461cd7abab475e5fbd52e779bf733e8c83772270e73c1369c.jpeg"
+                    },
+                    {
+                        "id": "e3630269-1c63-445a-beef-99249b0fa323",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/c5b46f6bd27463070dffdf4e00c87968/539c32dada5a7ace156ff9d5d53cdef7949bb60dc0b7452e66dd6c8add14c296.jpeg"
+                    },
+                    {
+                        "id": "b271861f-6eb7-4ac5-9ea4-d4c44e3837a2",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/963ea6aaa8a8e7f5b69152b453c41c28/becf22f31094262e28b09570383a2529e0dbe2c381b289b157128e9f964852ea.jpeg"
+                    },
+                    {
+                        "id": "552ca3a4-1774-4330-ab81-43e15beb4789",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/6620d9098acced021355656bc752b43d/e1968d3fdc85116ac92fc2c68109e3679356fb3e7db3d24a07d82e42612d497e.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "3071fdab-e0f6-4b0f-baf7-33695d759a2f",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "5a0da743-73fd-274e-f988-3bf39c30e692",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QI40300",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "89723ab39024af0d7a42f12d4dfab007",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-16 05:44:07.66309",
+                "insertStampFormatted": "16.04.2024",
+                "updateStamp": "2024-04-16 05:46:24.528547",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Iphone как iphone</p>",
+                "minus": "<p>У меня очень быстро садится телефон, еле еле хватает до вечера.....</p>",
+                "comment": null,
+                "usersCommentsCount": 5,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "14929528-c977-4c10-8ae1-e373d4ff953d",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "0a11583b-a549-64e8-c84d-39e239feb272",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-ZO29280",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ef9422a5c45f87954560ffb5c14a0c15",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-13 15:27:50.277335",
+                "insertStampFormatted": "13.02.2024",
+                "updateStamp": "2024-02-14 03:01:01.508958",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошо держит заряд батарей</p>",
+                "minus": "<p>Недостатки в принципе нет, удобный стильный</p>",
+                "comment": "<p>Рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "7e03561e-b1bd-4443-9db1-00f057ef20d2",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "163098df-3f89-4d3c-f1e5-c66e53c06a06",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/31f4a3263e66ce8d998cc86862f735c0/962f105688ff751bdb6ffc4bb66fd9e917d9bb20d48acfde34c898bf59a711e7.jpeg\">",
+                    "name": "Пришелец-PL9322",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-09 01:20:08.87033",
+                "insertStampFormatted": "09.01.2024",
+                "updateStamp": "2024-01-09 01:56:55.939027",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 1
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 1
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 1
+                    }
+                ],
+                "plus": "<p>нет</p>",
+                "minus": "<p>все</p>",
+                "comment": "<p>переходите на samsung, не задумывайтесь. экосистема apple вся обрезана из за санкций</p>",
+                "usersCommentsCount": 11,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "26edb522-ab0b-4511-8691-b77a88291b3d",
+                "objectId": "00eb3837-4882-11ee-912e-00155d8ed20a",
+                "objectUrl": "/product/00eb38374882ed20/61-smartfon-apple-iphone-15-128-gb-cernyj/",
+                "objectName": "6.1\" Смартфон Apple iPhone 15 128 ГБ черный",
+                "user": {
+                    "id": "17975bad-89b7-421b-b441-44255563559b",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-TB3714",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "b2fd16ca25257ce67e2d9f4557b6d0f6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-19 16:35:27.904516",
+                "insertStampFormatted": "19.10.2024",
+                "updateStamp": "2024-10-19 16:35:27.904516",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Память (ГБ)": "128",
+                    "Модель": "A3090(nano-SIM+eSIM)",
+                    "Цвет": "черный"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 4,
+                "5": 51
+            }
+        },
+        "topId": "4b03ec3a-bd36-450e-ad2f-f89a46d8f2aa"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,101 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": null,
+        "opinions": [
+            {
+                "id": "9c651341-487e-403a-b219-b5d663c9c819",
+                "objectId": "647e4734-7fc9-11ef-927a-0050569d5825",
+                "objectUrl": "/product/647e47347fc9d582/667-smartfon-realme-13-5g-256-gb-fioletovyj/",
+                "objectName": "6.67\" Смартфон realme 13+ 5G 256 ГБ фиолетовый",
+                "user": {
+                    "id": "0f72f6c0-947d-a40b-39e2-8f418002da52",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "adcom",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 4,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ff7e9a079073c03ff7557212b18a2fee",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-25 05:22:41.38836",
+                "insertStampFormatted": "25.11.2024",
+                "updateStamp": "2024-11-25 05:48:44.669232",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": [],
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>не пожмотились и положили хорошую зарядку</p>",
+                "minus": "<p>очень спорный дизайн, лучше смотреть видео или в руках крутить перед покупкой</p>",
+                "comment": "<p>для игрулей - 120Гц в ваших игрулях по умолчанию будет отключено, придется включать ручками сторонней программой - в принципе ребенок которому его и покупали доволен</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        },
+        "topId": "03f039e7-b3da-4b0f-94f9-24080855b450"
+    },
+    "message": "",
+    "errors": []
+}

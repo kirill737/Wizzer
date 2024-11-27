@@ -1,0 +1,724 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 125,
+        "opinions": [
+            {
+                "id": "ef7d4735-d294-4936-9f04-51ceff34409d",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "dd838d31-be77-d809-3b0a-9a9a0b85bd3e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VV14776",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-15 21:52:18.08284",
+                "insertStampFormatted": "16.06.2024",
+                "updateStamp": "2024-06-15 21:57:02.610735",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Цена, 5g, 2 сим + sd, комплектация</p>",
+                "minus": "<p>Оболочка, камера</p>",
+                "comment": "<p>Телефон подавал большие надежды, но полностью разочаровал своей оболочкой, странными настройками и глюками, не рекомендую к покупке, мне пришлось менять на другую модель... Также камера совершенно не оправдала ожидание, слишком неестественная цветопередача</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "38ac3846-7205-45fb-b440-a2bced875161",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "46161d00-fe35-1927-a683-39f3a2747473",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-GF75112",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "09b86195f4da2f7cd5fdbe7dd6b24450",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-06-14 08:32:33.987898",
+                "insertStampFormatted": "14.06.2024",
+                "updateStamp": "2024-06-14 08:54:45.263807",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Цена. Камера</p>",
+                "minus": "<p>Динамик не регулируется. При разговоре слышат все ))) нужно отходить</p>",
+                "comment": "<p>В целом цена и качество соответствует. Работает без проблем. Камера мне оч нравится.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c1d904e8-ebbc-4726-b15d-372ce08e4a21",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "464d6bea-c8d0-0083-f64d-554cb8b03a12",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/9476af9dd1af3ff124ffb0b262ed2eb6/b3b027374e3f3ea98222f62c56136cd5bde17da8c5d3e739730c59e01d394355.jpeg\">",
+                    "name": "ArtemBoxing",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-19 17:10:40.53849",
+                "insertStampFormatted": "19.05.2024",
+                "updateStamp": "2024-05-19 17:40:43.823395",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Дизайн, производительность, камера, звук.</p>",
+                "minus": "<p>Нету.</p>",
+                "comment": "<p>Очень хороший аппарат только сегодня купил его.</p><p>Через полгода добавлю отзыв.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9e3ff5a5-470a-4e78-aa24-733ef2f393d4",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "6793c6c5-ed75-4adc-b996-cc4cfc712c2f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/fdde5a6fe9136c23e8b720442b41f3ec/7695e0b0eac3d6a9f670a4aab31970c5fdc4fcd3c5577a970038d50e44938d2a.png\">",
+                    "name": "Rivfader-1",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "0e5d42597cd8951a9f20cbc48219dea7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-19 05:39:03.732175",
+                "insertStampFormatted": "19.05.2024",
+                "updateStamp": "2024-05-19 05:52:12.056511",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Процессор, амолед, камеры неплохие.</p>",
+                "minus": "<p>Быстро разряжается! На всех почти стоят батареи на 5к мАч, не думал, что это мало, ибо такая на моем Asus Zenfone Max Pro M1 работает уже шестой год и держит два дня! На этом утром 100%, в обед уже 50% при очень малом времени использования! Это провал...</p>",
+                "comment": "<p>Дизайн по мне так не особо. Угловатый.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "291129c3-55a0-4d9d-b058-769f0e98630b",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "6265b64d-0181-c1b0-d3d2-fdf0b840bb9a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VX63073",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "984b4381ab8a3d01107361f179ef89d6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-04-02 20:54:42.419714",
+                "insertStampFormatted": "02.04.2024",
+                "updateStamp": "2024-04-03 01:31:40.997183",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": "<p>Отлично тянет большое количество вкладок в браузере и игры по типу GenshinImpact и PUBG, быстро загружает массивные презентации и работы в Word и Exel.</p>",
+                "minus": "<p>Камера слабовата на расстоянии свыше 10-15м начинается мыло. Плюс очень слабая батарея для такого процессора и видео ядра, при активной работе садится за час - полтора.</p>",
+                "comment": "<p>В принципе, если в игры вы заходите только дома или в местах, где можно подзарядиться, а камера вам нужна в основном для фото документации или того, что находится прямо перед вами, то это хороший выбор за свои деньги.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "5d0db57c-c0a0-42d3-b8f4-ec1d9d8ea522",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "48e2fb87-f54f-4ec9-91f8-8cef899e26d4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FH6246",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3597ca784c94006bf97854ab08f19a97",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-16 06:03:59.731671",
+                "insertStampFormatted": "16.03.2024",
+                "updateStamp": "2024-03-16 07:43:23.80365",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Экран</p><p>Батарея</p><p>Производительность</p><p>Система</p><p>Камера</p><p>Память</p>",
+                "minus": "<p>Перегрев процессора</p>",
+                "comment": "<p>Летает почти всё, что захочу, геншин идёт на средних настройках в 60 фпс, но как только идёт сильный нагрев процессора спустя 2-3 часа, то фпс падает до 20-30 кадров</p><p>Батарею держит приемлемо, конечно, по сравнению с моим старым Samsung m21 разряжается быстрее, но и батарея меньше, компенсирует ещё более быстрой зарядкой за 1.5 часа</p><p>Камера тоже приемлемая, ночью только при нормальном освещении более-менее картинка, днём снимает хорошо, но брал я его одним из главных причин потому что есть макросъёмка, которая мне очень помогает: надо сфоткать очень мелкую деталь, приближаю камеру и она быстро фокусируется, но недостаток в том, что нет глубиной камеры, она тоже бывала иногда полезна, когда нужно стеллаж с продуктами сфоткать</p><p>Памяти хватает, прибавил для стандартных 8 гб + 8 гб из основной, чтобы наверняка хватало, в итоге храню иногда по 6-7 приложений в памяти и ниодно из них телефон не сбрасывает из оперативной памяти</p><p>Система на китайском смартфоне очень понравилась, есть несколько крутых фишек, такие как: авто-ответ на звонок при поднесении к уху; включение режима полёта на ночь для экономии батареи; проигрывания звука при полной зарядке</p><p>Но хоть процессор и мощный, если перегревается, то начинает троттлить и производительность падает на 40%</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c60e30c6-71c2-4a0f-ab88-75086cd6e75b",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "d08161ec-1996-4b10-aa12-c75abc0edb5d",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "AngelISKRA",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-12 09:58:05.99761",
+                "insertStampFormatted": "12.03.2024",
+                "updateStamp": "2024-03-12 14:40:47.594775",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Производительность, соотношение цена/качество, внешний вид</p>",
+                "minus": "<p>Слабоватенькая батарея</p>",
+                "comment": "<p>В целом телефоном очень довольна. Перешла на него со старого realme xt, разница конечно по производительности и частоте экрана очень заметна (в лучшую сторону). На камеру вообще не смотрела, так как не для фото и видео выбирала телефон, но она здесь по ощущениям примерно такая же, как и на моем старом телефоне - есть и ладно. Хоть объем батареи и больше, но тем не менее разряжается довольно быстро при активном использовании (браузер, соц сети, настройка всего и вся) в сравнении с тем же realme xt, пока тот был молод и горяч. Так что зарядочку лучше всегда держать неподалеку</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1e46c8a3-2c4b-4401-97b0-bdaa64cc02e1",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "716d275f-1bbd-b3c9-0a39-5cb91db47348",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BA99117",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4475615c16ab8527b75f98468120c4b8",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-05 18:13:17.39133",
+                "insertStampFormatted": "05.03.2024",
+                "updateStamp": "2024-03-05 18:54:45.126914",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстро заряжается, долго держит батарею, шустрый. Меня все устраивает.</p>",
+                "minus": "<p>Пока не обнаружила</p>",
+                "comment": "<p>Советую 👍</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c8720703-c89f-4523-9856-476fe258a618",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "5e75301c-720f-a9f0-60ab-78bd5a3fb42f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/61b1205a78d88ad99124255e8e6d1660/af0f6838191a2b16d16b35c3efac3352f561bc697cf55372b4b5a776007776a3.jpeg\">",
+                    "name": "Пришелец-TA74806",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-02 08:04:37.34179",
+                "insertStampFormatted": "02.02.2024",
+                "updateStamp": "2024-02-05 01:22:09.887176",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Камера , батарея , дизайн , телефон огонь 🔥</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Рекомендую к покупке 👍</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e7463ed2-f2ee-4b9c-9f9d-25b2c0ec07d7",
+                "objectId": "413aa13c-fda5-4fe4-9f67-c958dfb5abe1",
+                "objectUrl": "/product/413aa13cfda55abe/67-smartfon-tecno-camon-20-pro-5g-256-gb-sinij/",
+                "objectName": "6.7\" Смартфон Tecno CAMON 20 Pro 5G 256 ГБ синий",
+                "user": {
+                    "id": "4cab7719-d6d0-b3fc-626f-8d1427af6be2",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Марьяна1990",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-04 10:08:52.7643",
+                "insertStampFormatted": "04.01.2024",
+                "updateStamp": "2024-01-04 13:35:25.693821",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "синий"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень довольна покупкой, именно то что мне надо.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 2,
+                "2": 0,
+                "3": 1,
+                "4": 10,
+                "5": 81
+            }
+        },
+        "topId": "2cf4af4a-a5fa-4974-a3e2-74bf206f6f70"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,743 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 19,
+        "opinions": [
+            {
+                "id": "6f11d49f-d64d-4264-9faa-d791dea4f4bd",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "c47cb1ae-3fae-139b-6677-39cef9878aea",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JG3735",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a1e86f89734501134b05ec5864e5e640",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-17 08:41:14.1497",
+                "insertStampFormatted": "17.11.2024",
+                "updateStamp": "2024-11-17 09:43:49.151276",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Отличный аппарат. Производительность и камера на уровне. Зарядка очень быстрая.</p>",
+                "minus": "<p>Отсутствует старый стиль шторки</p>",
+                "comment": "<p>5 баллов</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "a54ad571-7970-4970-a6fe-2550bb65ffef",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "50b78e7a-9d31-c54c-93a0-30d3cf3d7f62",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/a6157124d70698a1b232de922fb98360/b527aebbcbe3be5211702f642bdf7aadbb6d9ec04a5c0dd6f15f3ea31da1b18a.jpg\">",
+                    "name": "RyzeN",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 3,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e39fdeb2b54f33321805c8ff63bb7acb",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-14 12:52:01.80424",
+                "insertStampFormatted": "14.11.2024",
+                "updateStamp": "2024-11-14 13:45:58.465381",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Сборка,комплектация (120 wt зарядник моё почтение),качественная ОС,мощный чип Mediatek Dimensity 9300+ , 3 честных модуля в классической компоновке (ширик, стандартный объектив, зум) с оптикой Leica Summilux, дополнены флагманским софтом Xiaomi и отключаемым AI. влагозащита корпуса,  нейтральный дизайн и достойный чехол в комплекте.</p>",
+                "minus": "<p>Наличие рекламы и мусорный софт (без него ни как) но это легко решается.</p>",
+                "comment": "<p>Смартфон идеально подойдет любителям классических моделей, потому что Xiaomi 14T Pro идеально подходит под это описание. Классический корпус, квадратные формы со скругленными углами и полное ощущение премиума, когда держишь его в руке. Смартфон справится с любой задачей, так что, если он понравился вам внешне, можно смело покупать, потому что Xiaomi 14T Pro не разочарует.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "9a7336f5-c64e-4196-aab4-1ad69a50f1e2",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "bced6312-7d96-5aec-e33f-b2120940c9ee",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-HC16602",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "24d3f8af7d8977f7639f66e87f8b9f95",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-04 15:55:09.84937",
+                "insertStampFormatted": "04.11.2024",
+                "updateStamp": "2024-11-04 16:33:04.328947",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Пересел с POCO X3 GT</p><p>Классный дизайн, хотя блок камер, на мой взгляд, немного большеват</p><p>Когда впервые его взял в руки - получил нереальные ощущения, настолько он приятно лежит в руке</p><p>Очень сочный яркий экран</p><p>Камера снимает прекрасно</p><p>Автономность тоже впечатляет</p><p>Зарядка гипербыстрая</p>",
+                "minus": "<p>Камера, конечно, как я писал, снимает прекрасно, но разочаровал ультраширик, как по мне - снимает не особо</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "67402e25-3168-41d0-907b-fccfd827e97c",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "43db98b2-0f2a-6c07-c31e-0ef7eb2e97bd",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OX21521",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "d8ccd8c58f5875449eb1588639988bdf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-29 16:53:21.24404",
+                "insertStampFormatted": "29.09.2024",
+                "updateStamp": "2024-09-29 17:35:10.210143",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Все познается в сравнении и после моего нот 8 про, я как будно с жигулей пересел на премиум класс) Экран шикарный, сочный яркие цвета. В общем аппарат огонь, все летает, все работает, зарядка за 25 минут от 0 до 100 это чудеса прям какие-то) Заряд держит тоже долго, при том что телефон рук не покидал.</p>",
+                "minus": "<p>Может для кого-то дизайн, для других стоимость, для третьих еще что-то, а я не вижу в нем недостатков</p>",
+                "comment": "<p>Взяли два смартфона в комплекте, один с пылесосом, другой с часами. Один черный титан, приятно слегка шершавой поверхностью, второй гладкий, серый титан.</p><p>С женой от телефонов в восторге!</p>",
+                "usersCommentsCount": 15,
+                "images": [
+                    {
+                        "id": "b6573879-d639-4209-b500-f48dc070d6ee",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/af2322638917a04c08c8fd83a228ec9f/411346846a7e712dd80b9f533698ab3c2c4d88566107bf4493bccde8e092b7fa.jpeg"
+                    },
+                    {
+                        "id": "6117b0af-8ddc-4cb6-ae02-2a682564c13c",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/9d8040f61ec340f1cbc530a71d2b7633/208b95ab61e136aacdca04a1c2ff2fa814c26b6aa4cd8a4efe339cba0e74a3ec.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "c60c66af-11e9-4ed8-905a-afcb401a2fde",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "96c8b98e-75a5-467b-af9e-23696a790d9a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PO31174",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "5c836ae05bb5bafb870ef258b3712851",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 21:57:39.180163",
+                "insertStampFormatted": "28.10.2024",
+                "updateStamp": "2024-10-27 21:57:39.180163",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 3
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "03983cc3-4272-4225-80b1-6f61e8aafdc8",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "be6a68b1-0661-725b-c635-64b6c6a97168",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-DQ32385",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "c269a5b8038a87bfcd88a5f3fd0fbdc6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 16:00:34.737452",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 16:00:34.737452",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "e9055648-9c71-446e-98d1-dc2e010946af",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "abc40f2f-555f-31a4-b8ae-88eebc61b4f0",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FH78063",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "1cd533fc36919219c080d1afdbbc5e54",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 18:20:57.900442",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 18:20:57.900442",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "abaddd26-c653-422f-a682-fb348f64d485",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "1112c8ff-7e4a-ac55-d9b8-ae23b3b72cf9",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NR51046",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "2b6309f5cb67bd1203d1751469d94ce6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 13:29:49.50831",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 13:29:49.50831",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "991b6f04-bfa1-4322-9ac6-3de4960c7c37",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "3f6b7e3b-513c-c519-31a5-8b06c7fa522c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PA85383",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "66cd9fe3eb31b1b47362a632dc38a26b",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-21 06:29:35.643472",
+                "insertStampFormatted": "21.10.2024",
+                "updateStamp": "2024-10-21 06:29:35.643472",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "5f9e343b-fab4-4e87-841e-f924b1e07205",
+                "objectId": "cc266dcc-5a12-11ef-924f-0050569d21a3",
+                "objectUrl": "/product/cc266dcc5a12d21a/667-smartfon-xiaomi-14t-pro-256-gb-cernyj/",
+                "objectName": "6.67\" Смартфон Xiaomi 14T Pro 256 ГБ черный",
+                "user": {
+                    "id": "b9c69ade-db86-57ee-7208-6cd894cd2af4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FW61129",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "9f7902313d49e602f8f86eecb8f237ec",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-12 12:16:45.254426",
+                "insertStampFormatted": "12.10.2024",
+                "updateStamp": "2024-10-12 12:16:45.254426",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "черный",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 1,
+                "5": 9
+            }
+        },
+        "topId": "67402e25-3168-41d0-907b-fccfd827e97c"
+    },
+    "message": "",
+    "errors": []
+}

@@ -1,0 +1,710 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": null,
+        "opinions": [
+            {
+                "id": "8be0e301-a38f-4984-bb5b-3c5e1c69ab83",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "3127602f-d48a-1d11-3b6d-3fb71464d29a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BU95530",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e2cfc4615ccf7fbaef4aadbf208e74e1",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-05-30 10:24:00.25622",
+                "insertStampFormatted": "30.05.2024",
+                "updateStamp": "2024-05-30 13:02:02.028549",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Года не прошло стали глючит оба телефона,покупал два,дочери и жене</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "42a89c5f-ea58-4c63-8a19-876e466dc986",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "04c03b24-d574-4b7c-bf7c-4a5f5cbf4193",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/d44a547ba803d3d71925d7c05bfe8a39/b0bc1dc5e9276b66f91dd9eaf4ffd0adde885eb6cc55746e0531f21cc6084cf5.jpeg\">",
+                    "name": "_Андрей_521",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "be6c9ace32f9ad523065d8adee5f95eb",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-11 13:04:59.777242",
+                "insertStampFormatted": "11.12.2023",
+                "updateStamp": "2023-12-11 14:25:59.953327",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Быстрый, не глючит, приятный дисплей</p>",
+                "minus": "<p>Звук слабоват, камера так себе</p>",
+                "comment": "<p>Как рабочая лошадка отличный аппарат</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f57cbbd1-76c1-4d1e-9ecd-967bb8f334c5",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "792196e9-a56a-b8da-12a2-42f9a0a40388",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAB02521",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "7dd73098a47b881540562e8bf5131a1f",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-01 18:34:28.251723",
+                "insertStampFormatted": "01.12.2023",
+                "updateStamp": "2023-12-01 18:39:36.617762",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 3
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 1
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 2
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": "<p>Использую телефон чуть больше месяца и со звуком уже проблемы.Когда с кем то разговариваю собеседник говорит,что я как будто заикаюсь не всё слышно.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "09e3b013-8e94-42ca-958e-98e799c9ec88",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "d968988d-fc7d-4261-8f34-eaeb860039a6",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAL06913",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f07b513eb69448d2de098e3bcd933e90",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-08-12 09:40:35.980568",
+                "insertStampFormatted": "12.08.2023",
+                "updateStamp": "2023-12-06 04:27:44.61369",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Неплохой телефон-звонилка. Покупали бабушке, все довольны, бабушка счастлива.</p>",
+                "minus": "<p>Не снапдрэгон</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "fdd20e2b-9882-45b2-a718-460e5a61cf1f",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "21b1f9d3-525e-6096-c892-e2284d70e9e4",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/c21e9118d085076ca106ec528caa8d56/510c743229693f23a8b98133649ea895de72162e726ebb90380e547b4e81aa23.jpg\">",
+                    "name": "klubmentty",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-04-13 15:29:40.32672",
+                "insertStampFormatted": "13.04.2023",
+                "updateStamp": "2023-04-14 00:09:30.227406",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая камера</p><p>Очень шустрый</p><p>Долго держит заряд</p><p>Плавность это точно в его стиле</p><p>Сам по себе телефон красивый</p>",
+                "minus": "<p>Пока не обнаружил</p>",
+                "comment": "<p>Купил телефон в основном для таких целей как вк, ютуб и тд. Может и поиграть но врятли. Не знаю как другим не понравилась столь шикарная камера, мне лично понравилась, за такие деньги я считаю очень хорошая камера. Если не засорять и следить за ним, производительность будет на высоте. Заряжается быстро, разряжается долго, по времени не проверял, на целый день хватает сполна. Вообще, советую телефон к покупке, как бюджетный вариант</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "a98c9562-2322-4f8d-9c75-3da965e2b147",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/e29530d6de45602309af535c7a484993/6202e90865df53e38901d0d3575812eecd4d0dd2a9a251b4f9a095ce9ddb6cb5.jpeg"
+                    },
+                    {
+                        "id": "9337580f-4e76-46cd-b34b-b187107c8823",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/c7241157544c73d449bcbb4d1ab1676c/30495fe728442d8e3f05e964154e42e7498a477ababf9f9f97b3a2459223090b.jpeg"
+                    },
+                    {
+                        "id": "88b64aaf-7b08-4989-adee-da42daa4d3cd",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/bb23c3cfed254b3185e76e1d8062d3c0/2308b2307314d806ece9ba43d1b060f3f50b22add37a81a111f4810d8e1034ce.jpeg"
+                    },
+                    {
+                        "id": "4eb36191-18c9-4c33-8e80-f27dd4ab96e2",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/be2445e43fbd1a908d600c29b7ae1b62/f8cab86b0c1a91e2fa92d7cfd5aca966898d2f99d2b94d8e3f16a0c6d30232e5.jpeg"
+                    },
+                    {
+                        "id": "0d4a40c8-9db6-4e3c-84d2-e5de31bfdb77",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/22098018daa9e6f5179bed8d5a15d625/55afb9f81815f47981cc7a56639c4dc111b789d6a0aa9882142b1d4f99104964.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "52629e92-0d30-4d39-a25b-ddff3cd15042",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "c6fbc039-d43f-c805-a5e8-c0e5514c673e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-YD74050",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "81bd64488c0dbf019eb344aeaa2370f9",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-04-11 17:27:13.974221",
+                "insertStampFormatted": "11.04.2023",
+                "updateStamp": "2023-04-11 19:15:00.31415",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 3
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Батарея, вроде 5000, держит максимум 1,5 дня</p>",
+                "comment": "<p>Заряд держит 1,5 дня, при чем яркость не на максимуме, частота экрана установил на 60Гц</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "1dd9e8f4-31be-4457-a9d0-6113d1a2c921",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "40ba3e73-20c2-b255-7986-2cb1b2ca1a5c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Алла-XA72405",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "a5fc75796e251e4e79dc51d5451e8d28",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-03-11 14:49:58.542849",
+                "insertStampFormatted": "11.03.2023",
+                "updateStamp": "2023-03-11 18:31:37.186482",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Недостатков не заметил</p>",
+                "minus": "<p>Их нет</p>",
+                "comment": "<p>Покупайте смело</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "3bcb46df-ad92-473b-b421-15ce3721c96a",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/1a8eaaa9533554ccd05e7b182c5386e0/01abd40c90ecc215183f4adb44c5699f925235f294cde6e63ba66261ca4f801d.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2f46ced6-e1fe-4671-b911-7b1fa84a0835",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "a390cddd-e439-7f3e-de61-a04a9235c453",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KH35753",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e1c79fa7f1cb8dead4a3eed06be76eeb",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-02-21 17:19:36.705401",
+                "insertStampFormatted": "21.02.2023",
+                "updateStamp": "2023-02-21 17:55:38.409867",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Дешевый</p>",
+                "minus": "<p>Пока не выявлено</p>",
+                "comment": "<p>Брался ребёнку.</p><p>Функции выполняет.</p><p>Онлайн игры на минималках тянет.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "72400121-3840-49fa-9416-c691e0e4bdcd",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "2f78c5fe-d3d4-0311-134a-3142faed0464",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CS92962",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "8f9ea2ab5366e22cef6c451be8d2b245",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-09-22 15:47:20.098188",
+                "insertStampFormatted": "22.09.2024",
+                "updateStamp": "2024-09-22 15:47:20.098188",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "3ffee6d6-30c7-409e-9ffe-9070b035e393",
+                "objectId": "958d21e4-37de-11ed-901f-00155d8ed20b",
+                "objectUrl": "/product/958d21e437deed20/659-smartfon-realme-narzo-50-128-gb-goluboj/",
+                "objectName": "6.59\" Смартфон realme narzo 50 128 ГБ голубой",
+                "user": {
+                    "id": "a8fdd24e-b878-31c0-23c7-10268902bc52",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-OQ1798",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "679e462e49d18be349e5636b2726e49a",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-15 09:19:49.622182",
+                "insertStampFormatted": "15.12.2023",
+                "updateStamp": "2023-12-15 09:19:49.622182",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "голубой"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 4,
+                "2": 0,
+                "3": 1,
+                "4": 3,
+                "5": 66
+            }
+        },
+        "topId": "1dd9e8f4-31be-4457-a9d0-6113d1a2c921"
+    },
+    "message": "",
+    "errors": []
+}

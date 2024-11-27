@@ -1,0 +1,680 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 256,
+        "opinions": [
+            {
+                "id": "6d4614f1-be75-42b3-b14a-88fb222470f4",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "39e823fc-be5d-f123-ded1-d6987b7fadca",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PI15252",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cf747c93548b79ea63115b549ef54641",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-03-22 04:42:54.50478",
+                "insertStampFormatted": "22.03.2024",
+                "updateStamp": "2024-03-22 05:12:11.23519",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [],
+                "plus": "<p>очень круто выглядит, неплохо фотографирует, в целом работой довольна, батареи хватает лично мне на день примерно, не понимаю жалоб остальных. заряжается быстро, работает шустро.</p>",
+                "minus": "<p>особо не выявила</p>",
+                "comment": "<p>примеры качества фото ниже. лично я - довольна, фото яркие, не размытые, если ещё настроить фокус и тп вообще чудесно</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "ff76e059-2d42-4af8-91e4-b41c854fe9ea",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/2ef9b23621d9c8c177f850ac5b41dba2/e0c745c4db629e33033257ca46830ed7d7720bd4a907fcf65bb05ceef50e2502.jpg"
+                    },
+                    {
+                        "id": "f3d0b39d-8bed-4923-afb9-9728aae8c3f1",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/508d39b05490d37eceae81ad22142339/985d8b38987e0c00967ca96b68c89816cb12a6578aaa3073b793a4485eee800b.jpg"
+                    },
+                    {
+                        "id": "df989e06-5756-4f81-b060-a480ab44540b",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/1d60bd5d4a9906877d130a1d2c43580c/5636a841a122cbe0f9cbc5908e9d6cda7d5229fe23979aed10f663bc04b2c031.jpg"
+                    },
+                    {
+                        "id": "578a4067-e7cb-4ab7-a6a7-a241d833cd97",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/dd0a76d6e4206fc8d61789aef4b586f8/ed795d23f017e5dbafdbda181540b83f879feeb0f90bef8cee2ab0a4e14bb0f6.jpg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "6688d41b-7f39-4749-be41-10d38f346627",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "1ca0e2fe-0fa8-6234-f31a-5faa40172627",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-BP33473",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "cf53df78f36adcebf919cb95b63b9fe5",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-02-03 04:56:51.26743",
+                "insertStampFormatted": "03.02.2024",
+                "updateStamp": "2024-02-03 05:13:48.218081",
+                "rating": 1,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 1
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": "<p>Не работает основная и селфи камеры!</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "92bd9486-4e00-431e-8e16-081984cc586a",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "0a21776a-678c-d75f-8f97-0dfa321be236",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-NH06054",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "ad92f6754503e66dd2e7f5f2770fbd80",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-01-26 08:48:49.22981",
+                "insertStampFormatted": "26.01.2024",
+                "updateStamp": "2024-01-26 13:26:30.304116",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Очень красивый! Шустрый, лёгкий, яркий.</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Дочка довольна</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "daba8914-fe41-4451-9fd7-8082df16d9bb",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "b3ff135b-2f97-9440-1d68-f21597fdbb11",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JI69008",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "4e7d0c9e9d490c5978f07ade71890be9",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-23 06:08:25.16588",
+                "insertStampFormatted": "23.12.2023",
+                "updateStamp": "2023-12-23 06:38:26.713432",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Хорошая Производительность,</p>",
+                "minus": "<p>Нет</p>",
+                "comment": "<p>Камера отлично фотает</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "a86d48de-e2bd-41b8-83a2-7ddb83a4dfc9",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st4/crop/100/100/d03d9fb147a6a97deff3559515b3e056/52665889145404016cdd89749b2b2fc5b0d96074a41fc23e7c0385dab0692668.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "458e8431-d66e-4a50-94be-f2e22d5dd6cb",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "3a15a76b-6399-1e37-ef44-f61d63eeaebf",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PH60759",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "76b989cbbd847b0bc9708df60a5915d5",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-12 09:32:32.11421",
+                "insertStampFormatted": "12.12.2023",
+                "updateStamp": "2023-12-12 13:03:44.407258",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Внешний вид просто супер, любимая довольна как слон. Экран тоже хороший, лучше чем на моем xiaomi 10s.Камера при хорошем освящении тоже норм, но мне особо сравнивать не с чем. Зарядка 67ват тоже порадовала. Dolby atmos это вещь.</p>",
+                "minus": "<p>Батарея 4300,хотелось бы на 5000,будем надеяться, что телефон хорошо оптимизирован и заряда на день будет хватать.</p>",
+                "comment": "<p>В целом жена телефоном довольна, он красивый, шустрый, с хорошим экраном, звуком и камерой.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "0014f09d-bfff-459b-8a5e-3a0508c4f701",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "f0c68b58-4d40-b97d-944a-cb93bcf57b15",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/89c499c457e6fec8c6d94fa666dab660/f5409768ea9f4b640bfa6f2daa304e9ddcaa02f5a362f2d01f1e1029b864751f.jpg\">",
+                    "name": "Пришелец-MZ86835",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "e90663009450cde5473ab7d97f87d91c",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-12-11 01:56:00.954908",
+                "insertStampFormatted": "11.12.2023",
+                "updateStamp": "2023-12-11 02:18:17.72821",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>1. Внешний вид (у меня розовая версия), смартофон красиво сияет и переливается.</p><p>2. Экран 120 герц.</p><p>3. Камера умеет в Full HD 60 кадров. Да, в телефонах за 15 тысяч такое тоже есть, но там при 60-ти кадрах картинка мылится, а тут Full HD настоящее, мыла нет.</p><p>4. Звук классный, басы присутствуют.</p><p>5. Ультра-быстрая зарядка.</p>",
+                "minus": "<p>1. Батарея средняя, до конца дня хватает, но если включить на ютубе ролик в 2 или 4к, то 5-6 процентов улетают за 10 минут.</p><p>2. Из-за оболочки (MIUI), телефон нужно перезагружать раз в двое суток, иначе оператива заполняется мусором.</p><p>3. Нет разъёма для наушников (скорее придирка)</p><p>4. Власти о нас заботятся, и при первом включении на телефоне будет полно мусора, типо яndекса, подробнее напишу в коменте.</p>",
+                "comment": "<p>Итак, многие недалёкие люди жалуются на смартфоны Xiaomi, из-за встроенной рекаламы. Очень жаль что такие \"Критики\" не умеют читать. Поясню: рекаламу на смартфонах XIaomi можно отключить одним переключателем, который находится в последнем меню при первом включении. Но такая зараза как уандекс является обязательной, если не хотите её подхватить, то при первом включении выберите любой регион, кроме Российской Федерации и вуаля - рекламы на смартфоне нет. Рекомендую таким критикам научится читать.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "ee5ae285-6bc5-4036-8f70-a4a179f182de",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "cf6bd4a4-7740-4940-a108-93fa3b0dbc77",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-AAM45327",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 1,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "72519eec6bb8e3cdbf4976afc4839556",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-10-12 07:15:06.06238",
+                "insertStampFormatted": "12.10.2023",
+                "updateStamp": "2023-10-12 08:25:59.497143",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 4
+                    }
+                ],
+                "plus": "<p>Телефон очень симпатичный и приятный в руках. Хороший звук, экран. Все приложения работают быстро. Со старого аппарата перенеслись все данные и приложения.</p>",
+                "minus": "<p>Есть проблема с датчиком приближения, о которой давно пишут в отзывах, и она до сих пор не решена. Камера посредственная. Цвета искажаются, снимать пейзажи бессмысленно, получается неважно.</p><p>Памяти маловато, если бы была версия на 256г было бы отлично.</p>",
+                "comment": "<p>Хороший телефон, приятный в использовании.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "e4fc65e8-dd34-4b73-8588-731750e9a8f2",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "becfc857-5c11-812d-2d85-9080750d9018",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-FJ61042",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "37a7505adc6a1c969b03eba5763586cb",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-06-27 03:07:35.658267",
+                "insertStampFormatted": "27.06.2023",
+                "updateStamp": "2023-06-27 06:37:21.69184",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Не более года",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 4
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Быстрая зарядка, держит батарею хорошо</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "2974c408-f2db-4ea4-987b-e4f3cd717483",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "f643ccda-07b4-0520-8269-af51e94b1eea",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/34d2d62dfe3f463544d34c8a22bc51db/519ad45b12a694ca53b8fc588fb57e161f82928c350abc1d5f1b22e5a20e2e3d.jpg\">",
+                    "name": "-Shkredov",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "24de5da3c2f7287e8e87ed329e50f708",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-15 05:20:51.89317",
+                "insertStampFormatted": "15.05.2023",
+                "updateStamp": "2023-05-15 05:35:09.979478",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Автономность</p><p>Быстрая зарядка 67W</p><p>Процессор</p><p>Отличный стерео звук</p><p>Экран 120 hz</p>",
+                "minus": "<p>Для себя не обнаружил.</p>",
+                "comment": "<p>Тут уже подмечу для себя:</p><p>Форм фактор очень нравится, прямые грани телефона</p><p>Цвет</p><p>И ещё про зарядку супер или ультра, так пишется на самом экране телефона при зарядке, так как при подключении к старому redmi note 8 с его родной зарядкой так не пишется, и заметно что зарядка не fast charge.</p><p>В общем у этого телефона (Xiaomi 12 Lite) реально быстрая зарядка, не только на словах.</p><p>Рекомендую к покупке.</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "79fdb608-a090-437b-93bf-47fb995ef64d",
+                "objectId": "70780e76-d4eb-11ec-8fbb-00155d8ed20b",
+                "objectUrl": "/product/70780e76d4ebed20/655-smartfon-xiaomi-12-lite-128-gb-rozovyj/",
+                "objectName": "6.55\" Смартфон Xiaomi 12 Lite 128 ГБ розовый",
+                "user": {
+                    "id": "9abbf32a-a5ad-38ad-5ef3-e02807433e24",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-IK70371",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2023-05-08 12:59:55.97428",
+                "insertStampFormatted": "08.05.2023",
+                "updateStamp": "2023-05-09 09:57:32.252721",
+                "rating": 3,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "розовый"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 2
+                    }
+                ],
+                "plus": "<p>Внешний вид</p>",
+                "minus": "<p>Смотрите комментарий</p>",
+                "comment": "<p>Пользуюсь телефоном 2 дня. Перешла на него с бюджетного самсунга. Плюсы: выглядит красиво, насыщенная цветопередача, камера. Зарядка с 1 до 100% заняла ровно час.Наверное на этом все. Из минусов: Невероятно огромное количество уведомлений(ладно это можно в основном убрать).  Начал нагреваться при раздаче интернета уже через 5 минут. Зарядки хватает примерно на 20 часов умеренного пользования.   Лично мне не понравилось навязывание обновления на MIUI 14, пришлось обновить, но спустя несколько часов опять пришло уведомление на то же обновление.</p><p>Посмотрю ещё несколько дней на его работу,  возможно сделаю возврат.  Думаю 30 тысяч смартфон не стоит.</p>",
+                "usersCommentsCount": 2,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 1,
+                "2": 0,
+                "3": 4,
+                "4": 6,
+                "5": 233
+            }
+        },
+        "topId": "732f3be9-df49-4000-a7af-ac79ee39a2fd"
+    },
+    "message": "",
+    "errors": []
+}

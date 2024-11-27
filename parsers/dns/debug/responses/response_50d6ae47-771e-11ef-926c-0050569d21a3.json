@@ -1,0 +1,104 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 1,
+        "opinions": [
+            {
+                "id": "fc5338a8-d25b-4d82-95ad-f2198aff448a",
+                "objectId": "50d6ae47-771e-11ef-926c-0050569d21a3",
+                "objectUrl": "/product/50d6ae47771ed21a/667-smartfon-vivo-v40-lite-128-gb-zelenyj/",
+                "objectName": "6.67\" Смартфон Vivo V40 Lite 128 ГБ зеленый",
+                "user": {
+                    "id": "d4101b34-fe71-4723-96b0-8dd7de1fea9e",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Oleg DDjei",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 2,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f2c1aa4c4e1c447848c7db0871ac62cf",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-01 05:35:49.75037",
+                "insertStampFormatted": "01.11.2024",
+                "updateStamp": "2024-11-01 05:51:51.262763",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "зеленый",
+                    "Память (ГБ)": "128"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Выглядит классно. Удовлетворяет всем моим требованиям</p>",
+                "minus": "<p>Пока не выявлено</p>",
+                "comment": "<p>В описании имеется неточность: прописан видео режим 1920x1080 (240 кадр./сек.). Нет такого параметра в этом телефоне. Исправьте и не вводите людей в заблуждение. Замедленная съемка только 1280x720 (120 кадр./сек.). А в остальном полный порядок. Хороший телефон. Рекомендую</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 0,
+                "5": 1
+            }
+        },
+        "topId": "fc5338a8-d25b-4d82-95ad-f2198aff448a"
+    },
+    "message": "",
+    "errors": []
+}

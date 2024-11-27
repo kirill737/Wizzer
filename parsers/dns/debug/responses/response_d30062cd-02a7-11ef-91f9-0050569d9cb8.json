@@ -1,0 +1,743 @@
+{
+    "assets": {
+        "inlineJs": [],
+        "inlineJsHead": [],
+        "inlineCss": [],
+        "jsFiles": [
+            "https://a.dns-shop.ru/static/11/1bwssq0/ajax-state.js"
+        ],
+        "cssFiles": [
+            {
+                "url": "https://a.dns-shop.ru/static/11/1bwssq0/css/ajax-state.css",
+                "media": null
+            }
+        ]
+    },
+    "result": true,
+    "data": {
+        "totalCount": 73,
+        "opinions": [
+            {
+                "id": "4cc41e69-0cdf-467a-82fb-9bfeaa7e161b",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "04caffc6-de62-8a87-1d8c-532fd30106ec",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st4/crop/300/300/aabc04ae3e15863bc8d7d24aa851da9c/1b4d90aae881fb39cc4a224a7c09ef566dbe9bfc19d15a7326f184dcaad260c3.png\">",
+                    "name": "Элинар Миф",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "f82616642c3452121c9ebcdc3162bdc9",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-26 17:15:57.19352",
+                "insertStampFormatted": "26.11.2024",
+                "updateStamp": "2024-11-26 17:53:15.814562",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Хорошая (но чуть хуже камера по сравнению с прошлой 11 версией), хорошо держит заряд и быстро заряжается (от 20 до 100% за менее чем час), много памяти, шустрый и очень стильный. Нормальный базовый чехол в комплекте. Сканер отпечатка пальца на экране - это вообще моё самое любимое!</p>",
+                "minus": "<p>Звук тише чем у 11 маодели, нет свехгромкого режима, зато наконец-то добавили два динамика.</p>",
+                "comment": "<p>Достойная заменена 11 модели, которую я бездарно разбил. Для работы и развлечений подходит идеально. Мои любимые игрушки (Diablo Immortal и Puzzle Quest 3) тянет хорошо, во время игры заряд держит неплохо. С Bluetooth устройствами работает вроде как хорошо (наушники, колонка), а вот браслет периодически отваливается и не коннектится (не могу понять в чём проблема: в телефоне или браслете).</p><p>Телефон однозначно рекомендую: золотой и функциональный - что ещё нужно?</p>",
+                "usersCommentsCount": 0,
+                "images": [
+                    {
+                        "id": "95a0e532-e8b5-44e2-964c-e643c4d814c3",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/e86d3a25ad57447b3c830fe24bb99680/2846386f5ffa59084ed39b9cce4096072e13e58ea989a34d28c95480b529562a.jpeg"
+                    },
+                    {
+                        "id": "045a6f33-55ee-4b1b-9b91-8ce9a5fac619",
+                        "thumbUrl": "https://c.dns-shop.ru/thumb/st1/crop/100/100/c66b5c447a0c21c072fbfffdd324ee0e/3134613126fd5d31cedfe998f4b6aa4357bb5dd7aa15f5f704daf143e1c7fcaa.jpeg"
+                    }
+                ],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "f0367ca3-92cb-4d2e-918d-e04a1a443a8b",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "2aae58f2-c834-eadb-b642-a78597532a82",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-KS38149",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-11-21 12:21:14.0399",
+                "insertStampFormatted": "21.11.2024",
+                "updateStamp": "2024-11-21 12:33:59.373852",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>Производительность, камера</p>",
+                "minus": "<p>Нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "ea5380fc-b9ef-43e3-87ad-2d5e7955e8c0",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "9fc6e688-2087-0ebb-672a-9efa301b1173",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-PI2876",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-08 04:10:44.68291",
+                "insertStampFormatted": "08.10.2024",
+                "updateStamp": "2024-10-08 04:51:27.128872",
+                "rating": 4,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 4
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 3
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 3
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>экран</p><p>батарея</p>",
+                "minus": "<p>лагает в анимациях системы</p>",
+                "comment": "<p>за свои деньги в целом не самое ужасное что можно взять</p>",
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "31772bb4-86d2-4496-8aa3-c181d1d15268",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "45159a5a-7121-4d37-88f2-5585a734cf37",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-QY8670",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dfe37bb81c64ef0f800f54a3ad9b2ea7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-08-21 07:38:59.299987",
+                "insertStampFormatted": "21.08.2024",
+                "updateStamp": "2024-08-21 08:04:59.828673",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": "<p>все нравится</p>",
+                "minus": "<p>пока нет</p>",
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": false,
+                "additions": [],
+                "isCanBeSupplemented": true,
+                "videos": []
+            },
+            {
+                "id": "f1f9b855-ded5-414f-9c3d-b125b82fb119",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "22e575dd-806d-0142-62ca-a637b908f806",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-XJ08133",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "72fde699e3e8e93bda9bb7ebff11df03",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-27 13:33:31.703564",
+                "insertStampFormatted": "27.10.2024",
+                "updateStamp": "2024-10-27 13:33:31.703564",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "69a8350d-3752-424d-8df5-6b96f7b988b1",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "021e6fcc-5c83-a78e-7ff3-4e921796d5f8",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-CN19847",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "780a1bddf5d4797b0a51d91f24037ce6",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-22 04:10:47.622715",
+                "insertStampFormatted": "22.10.2024",
+                "updateStamp": "2024-10-22 04:10:47.622715",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 4
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "34b8ea13-6717-4fb5-a918-d5597b25a678",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "926a6543-987e-f0df-72a6-5828f8dac47f",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-VA26742",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3e49c128a63e3f8708d8675e1a5625e7",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-17 18:02:10.018872",
+                "insertStampFormatted": "17.10.2024",
+                "updateStamp": "2024-10-17 18:02:10.018872",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "2f971fba-e769-434e-8a84-ff2898f7117a",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "f7b0d447-fff4-526d-4504-85d61cfcc66a",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-JL87033",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "dc96d602b402cff82fc01552f4f9872d",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 16:15:42.65908",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 16:15:42.65908",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "28f53cc6-23b6-4c40-b2c5-eee7c8bc6dc2",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "4b292b71-0899-146d-9223-bec9edb2fe9c",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/e4018b78fab20bb97cffb9010a34163b/d501f030ab004cb045403a54f1ce068f2f12d259ca3e5c79b691f8904630b190.jpeg\">",
+                    "name": "Алексей197716",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "64ba5f06e65a5d8ce7e178865c1ab180",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-16 03:02:32.014297",
+                "insertStampFormatted": "16.10.2024",
+                "updateStamp": "2024-10-16 03:02:32.014297",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            },
+            {
+                "id": "9091950d-6ea8-4657-8a59-68c334007ae7",
+                "objectId": "d30062cd-02a7-11ef-91f9-0050569d9cb8",
+                "objectUrl": "/product/d30062cd02a7d9cb/667-smartfon-realme-12-5g-256-gb-bezevyj/",
+                "objectName": "6.67\" Смартфон realme 12+ 5G 256 ГБ бежевый",
+                "user": {
+                    "id": "c8a5ead4-df04-4132-abc7-5c2e8d108f45",
+                    "avatar": "<img alt=\"\" data-src=\"https://c.dns-shop.ru/thumb/st1/crop/300/300/ed0faa3982c4814aa7ec1507c76b6476/bb6fa769bbe393c849a725fde858008447abd5d70bc1309ef92fa65760f39295.png\">",
+                    "name": "Пришелец-SS1620",
+                    "isReal": true,
+                    "isGuest": false,
+                    "level": 0,
+                    "administrativeStatus": null,
+                    "popoverUrl": "/uniformProfile/personal/get-user-popover-content/?userId=",
+                    "fingerPrint": "3f88d6da882a9c3168e519a10c37bd24",
+                    "highlightName": false
+                },
+                "insertStamp": "2024-10-15 10:53:55.665013",
+                "insertStampFormatted": "15.10.2024",
+                "updateStamp": "2024-10-15 10:53:55.665013",
+                "rating": 5,
+                "source": {
+                    "id": 1,
+                    "title": "Dns-shop.ru",
+                    "url": null,
+                    "isExternal": false
+                },
+                "multiCardSpecs": {
+                    "Цвет": "бежевый",
+                    "Память (ГБ)": "256"
+                },
+                "period": "Менее месяца",
+                "characteristicGrades": [
+                    {
+                        "id": "82a7e965-468a-7568-c41d-5a1373db0d7a",
+                        "title": "Внешний вид и размер",
+                        "value": 5
+                    },
+                    {
+                        "id": "6589781d-4709-b066-d145-bf7ab134a235",
+                        "title": "Производительность",
+                        "value": 5
+                    },
+                    {
+                        "id": "ca55e7c7-ef62-8c75-1aae-30211a177dba",
+                        "title": "Камера",
+                        "value": 5
+                    },
+                    {
+                        "id": "9cfb74df-2d91-ed4a-4090-b62478e1ab1d",
+                        "title": "Качество связи",
+                        "value": 5
+                    },
+                    {
+                        "id": "271ab3d8-9386-83ed-7686-aaea0ed877ea",
+                        "title": "Батарея",
+                        "value": 5
+                    }
+                ],
+                "plus": null,
+                "minus": null,
+                "comment": null,
+                "usersCommentsCount": 0,
+                "images": [],
+                "hasNotApprovedImages": false,
+                "isEditable": true,
+                "additions": [],
+                "isCanBeSupplemented": false,
+                "videos": []
+            }
+        ],
+        "filtersCounts": {
+            "grades": {
+                "1": 0,
+                "2": 0,
+                "3": 0,
+                "4": 3,
+                "5": 41
+            }
+        },
+        "topId": "7a5f64a9-9367-424c-9a41-9da3a07dc2b0"
+    },
+    "message": "",
+    "errors": []
+}
