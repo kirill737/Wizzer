@@ -77,7 +77,7 @@ for obj in reviews_generator(DATA_PATH):
 
     if len(batch) == 64:
         with open("done_batches.json", "a", encoding="utf-8") as f:
-            f.write(json.dumps(batch) + "\n")
+            f.write(json.dumps(batch, ensure_ascii=False) + "\n")
            
         print("loading batch")
         
@@ -91,6 +91,8 @@ for obj in reviews_generator(DATA_PATH):
         print("success")
 
 if len(batch):
+    with open("done_batches.json", "a", encoding="utf-8") as f:
+        f.write(json.dumps(batch, ensure_ascii=False) + "\n")
     try:
         es_helper.add_documents(ES_INDEX_NAME, data=batch)
         del batch

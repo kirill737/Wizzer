@@ -1,5 +1,6 @@
 import os
 
+import torch
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 
@@ -9,6 +10,7 @@ helpers = {
     "minus": "Недостатки",
 }
 
+device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cpu")
 
 def postprocess_logits(logits):
     # Преобразуем числа в классы
@@ -16,16 +18,23 @@ def postprocess_logits(logits):
     return classes
 
 
-def process_texts(model: AutoModelForSequenceClassification, tokenizer: AutoTokenizer, texts: list):
-    # Токенизация всех текстов
-    inputs = tokenizer(texts, return_tensors="pt", truncation=True, padding=True, max_length=128)
+def process_texts(model: AutoModelForSequenceClassification, tokenizer: AutoTokenizer, texts: list, batch_size: int = 128):
+    all_logits = []
+    for i in range(0, len(texts), batch_size):
+        # Токенизация всех текстов
+        inputs = tokenizer(texts[i:i+batch_size], return_tensors="pt", truncation=True, padding=True, max_length=128).to(device)
 
-    # Прогон текстов через модель
-    outputs = model(**inputs)
-    logits = outputs.logits.detach().cpu().numpy()
+        # Прогон текстов через модель
+        with torch.no_grad():
+            outputs = model(**inputs)
+        
+        all_logits.append(outputs.logits.detach().cpu().numpy())
 
     # Постобработка logits
-    return postprocess_logits(logits)
+    if len(all_logits):
+        return postprocess_logits(np.vstack(all_logits))
+    else:
+        return np.array([[0., 0., 0.]])
 
 
 def process_reviews(model, tokenizer, reviews):
