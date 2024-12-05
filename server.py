@@ -33,7 +33,7 @@ async def live() -> str:
     return "ok"
 
 
-@app.get("/device")
+@app.post("/device")
 async def device_endpoint(body: DeviceRequest) -> DeviceResponse:
     try:
         device_info = await get_device_info(body)
