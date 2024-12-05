@@ -31,15 +31,16 @@ class ElasticSearchHelper:
                 }
             }
             response = self.es.search(index=index_name, body=query)
-            hits = response["hits"]["hits"]
+            return response["hits"]["hits"]
             
-            if hits:
-                print(f"Найдено {len(hits)} документов, соответствующих запросу '{query_string}':")
-                for i, hit in enumerate(hits, start=1):
-                    print(f"\nДокумент {i}:")
-                    print(json.dumps(hit["_source"], indent=4, ensure_ascii=False))
-            else:
-                print(f"Нет документов, соответствующих запросу '{query_string}'.")
+            # if hits:
+            #     print(f"Найдено {len(hits)} документов, соответствующих запросу '{query_string}':")
+            #     for i, hit in enumerate(hits, start=1):
+            #         print(f"\nДокумент {i}:")
+            #         print(json.dumps(hit["_source"], indent=4, ensure_ascii=False))
+            # else:
+            #     print(f"Нет документов, соответствующих запросу '{query_string}'.")
+            
         except Exception as e:
             print(f"Ошибка при поиске документов в индексе '{index_name}': {e}")
 
