@@ -28,20 +28,15 @@ def process_texts(model: AutoModelForSequenceClassification, tokenizer: AutoToke
     return postprocess_logits(logits)
 
 
-def process_reviews(reviews):
+def process_reviews(model, tokenizer, reviews):
     indexes, all_texts = [0], []
     for review in reviews: 
         texts = [
-            helpers.get(review_part, "") + " : " + comment 
-            for review_part, comment in review.items() if len(comment) > 4
+            helpers.get(review_part, "") + " : " + review[review_part]
+            for review_part in ["plus", "minus", "comment"] if len(review[review_part]) > 4
         ]
         indexes.append(indexes[-1] + len(texts))
         all_texts.extend(texts)
-
-    # Загрузка модели и токенизатора
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    model = AutoModelForSequenceClassification.from_pretrained(os.path.join(script_dir, "rubert_multilabel_model-best"))
-    tokenizer = AutoTokenizer.from_pretrained(os.path.join(script_dir, "rubert_multilabel_model-best"))
 
     all_marks = process_texts(model, tokenizer, all_texts)
     
@@ -51,3 +46,12 @@ def process_reviews(reviews):
         review_marks.append(np.where(review_summary >= 1, 1, np.where(review_summary <= -1, -1, 0)))
 
     return np.array(review_marks)
+
+
+def load_model():
+    # Загрузка модели и токенизатора
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    model = AutoModelForSequenceClassification.from_pretrained(os.path.join(script_dir, "rubert_multilabel_model-best"))
+    tokenizer = AutoTokenizer.from_pretrained(os.path.join(script_dir, "rubert_multilabel_model-best"))
+
+    return model, tokenizer

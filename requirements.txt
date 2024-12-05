@@ -5,3 +5,4 @@ numpy
 elasticsearch
 requests
 pydantic>=2.0.0
+load-dotenv
