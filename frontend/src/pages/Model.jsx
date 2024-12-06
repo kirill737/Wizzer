@@ -106,7 +106,7 @@ function Model() {
 
   const getDeviceInfo = async () => {
     try {
-      const res = await api.post("api/get_model", {"user_query": params.query, "top_k": 50});
+      const res = await api.post("device", {"user_query": params.query, "top_k": 50});
       if (res.status === 200) {
           setPriceOrder(res.data.price_order)
           setRatingOrder(res.data.rating_order)
@@ -258,34 +258,34 @@ function Model() {
                 <aside class="menu">
                   <p class="menu-label">Модели</p>
                   <ul class="menu-list">
-                    <li><a href="./model/iPhone 11">iPhone 11</a></li>
-                    <li><a href="./model/iPhone 11 Pro">iPhone 11 Pro</a></li>
-                    <li><a href="./model/iPhone 11 Pro Max">iPhone 11 Pro Max</a></li>
-                    <li><a href="./model/iPhone 12">iPhone 12</a></li>
-                    <li><a href="./model/iPhone 12 mini">iPhone 12 mini</a></li>
-                    <li><a href="./model/iPhone 12 Pro">iPhone 12 Pro</a></li>
-                    <li><a href="./model/iPhone 12 Pro Max">iPhone 12 Pro Max</a></li>
-                    <li><a href="./model/iPhone 13">iPhone 13</a></li>
-                    <li><a href="./model/iPhone 13 mini">iPhone 13 mini</a></li>
-                    <li><a href="./model/iPhone 13 Pro">iPhone 13 Pro</a></li>
-                    <li><a href="./model/iPhone 13 Pro Max">iPhone 13 Pro Max</a></li>
-                    <li><a href="./model/iPhone 14">iPhone 14</a></li>
-                    <li><a href="./model/iPhone 14 Plus">iPhone 14 Plus</a></li>
-                    <li><a href="./model/iPhone 14 Pro">iPhone 14 Pro</a></li>
-                    <li><a href="./model/iPhone 14 Pro Max">iPhone 14 Pro Max</a></li>
-                    <li><a href="./model/iPhone 15">iPhone 15</a></li>
-                    <li><a href="./model/iPhone 15 Plus">iPhone 15 Plus</a></li>
-                    <li><a href="./model/iPhone 15 Pro">iPhone 15 Pro</a></li>
-                    <li><a href="./model/iPhone 15 Pro Max">iPhone 15 Pro Max</a></li>
-                    <li><a href="./model/iPhone 16">iPhone 16</a></li>
-                    <li><a href="./model/iPhone 16 Plus">iPhone 16 Plus</a></li>
-                    <li><a href="./model/iPhone 16 Pro">iPhone 16 Pro</a></li>
-                    <li><a href="./model/iPhone 16 Pro Max">iPhone 16 Pro Max</a></li>
-                    <li><a href="./model/iPhone 7">iPhone 7</a></li>
-                    <li><a href="./model/iPhone SE">iPhone SE</a></li>
-                    <li><a href="./model/iPhone X">iPhone X</a></li>
-                    <li><a href="./model/iPhone XR">iPhone XR</a></li>
-                    <li><a href="./model/iPhone XS">iPhone XS</a></li>
+                    <li><a href="/model/iPhone 11">iPhone 11</a></li>
+                    <li><a href="/model/iPhone 11 Pro">iPhone 11 Pro</a></li>
+                    <li><a href="/model/iPhone 11 Pro Max">iPhone 11 Pro Max</a></li>
+                    <li><a href="/model/iPhone 12">iPhone 12</a></li>
+                    <li><a href="/model/iPhone 12 mini">iPhone 12 mini</a></li>
+                    <li><a href="/model/iPhone 12 Pro">iPhone 12 Pro</a></li>
+                    <li><a href="/model/iPhone 12 Pro Max">iPhone 12 Pro Max</a></li>
+                    <li><a href="/model/iPhone 13">iPhone 13</a></li>
+                    <li><a href="/model/iPhone 13 mini">iPhone 13 mini</a></li>
+                    <li><a href="/model/iPhone 13 Pro">iPhone 13 Pro</a></li>
+                    <li><a href="/model/iPhone 13 Pro Max">iPhone 13 Pro Max</a></li>
+                    <li><a href="/model/iPhone 14">iPhone 14</a></li>
+                    <li><a href="/model/iPhone 14 Plus">iPhone 14 Plus</a></li>
+                    <li><a href="/model/iPhone 14 Pro">iPhone 14 Pro</a></li>
+                    <li><a href="/model/iPhone 14 Pro Max">iPhone 14 Pro Max</a></li>
+                    <li><a href="/model/iPhone 15">iPhone 15</a></li>
+                    <li><a href="/model/iPhone 15 Plus">iPhone 15 Plus</a></li>
+                    <li><a href="/model/iPhone 15 Pro">iPhone 15 Pro</a></li>
+                    <li><a href="/model/iPhone 15 Pro Max">iPhone 15 Pro Max</a></li>
+                    <li><a href="/model/iPhone 16">iPhone 16</a></li>
+                    <li><a href="/model/iPhone 16 Plus">iPhone 16 Plus</a></li>
+                    <li><a href="/model/iPhone 16 Pro">iPhone 16 Pro</a></li>
+                    <li><a href="/model/iPhone 16 Pro Max">iPhone 16 Pro Max</a></li>
+                    <li><a href="/model/iPhone 7">iPhone 7</a></li>
+                    <li><a href="/model/iPhone SE">iPhone SE</a></li>
+                    <li><a href="/model/iPhone X">iPhone X</a></li>
+                    <li><a href="/model/iPhone XR">iPhone XR</a></li>
+                    <li><a href="/model/iPhone XS">iPhone XS</a></li>
                   </ul>
                 </aside>}
             </div>
@@ -311,7 +311,7 @@ function Model() {
                     <div className="column my-auto">
                       <p className="attribute-name">Ср. рейтинг</p>
                       <span class="icon-text is-size-5">
-                        <span>{meanRating}</span>
+                        <span>{meanRating.toFixed(2)}</span>
                         <span class="icon has-text-warning">
                           <i class="fas fa-star"></i>
                         </span>
