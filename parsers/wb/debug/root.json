@@ -1,0 +1,1777 @@
+{
+    "photosUris": null,
+    "photo": [
+        234603598,
+        234603718,
+        233350322,
+        233350326,
+        232583497,
+        232583498,
+        220069641,
+        220069628,
+        220069627
+    ],
+    "valuation": "4.6",
+    "valuationSum": 97,
+    "valuationDistribution": {
+        "1": 2,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 19
+    },
+    "valuationDistributionPercent": {
+        "1": 10,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 90
+    },
+    "matchingSizePercentages": null,
+    "feedbackCount": 21,
+    "feedbackCountWithPhoto": 4,
+    "feedbackCountWithText": 15,
+    "feedbackCountWithVideo": 0,
+    "feedbacks": [
+        {
+            "id": "etGWRd5pz1RlY6BbjYIg",
+            "globalUserId": "104523850",
+            "wbUserId": 104523850,
+            "wbUserDetails": {
+                "name": "Олег",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 260908381,
+            "text": "",
+            "pros": "Заказал на подарок, пока не вскрывал коробку. Ждал около двух суток. Недолго. Упаковка хорошая. Благодарю продавца за товар и доставку в срок. Хорошей торговли.",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "бежевый",
+            "size": "0",
+            "createdDate": "2024-11-27T20:24:45Z",
+            "updatedDate": "2024-12-12T10:31:46Z",
+            "answer": {
+                "text": "Здравствуйте! Спасибо за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-29T15:41:08Z",
+                "createDate": "2024-11-29T15:28:34Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "editable": false,
+                "supplierId": 4129300
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "91953350",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-29T15:09:49Z"
+                },
+                {
+                    "globalUserId": "121709389",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T19:33:55Z"
+                },
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T21:05:15Z"
+                },
+                {
+                    "globalUserId": "52899457",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-02T19:58:45Z"
+                },
+                {
+                    "globalUserId": "111475919",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-04T14:22:14Z"
+                },
+                {
+                    "globalUserId": "49027255",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-04T19:58:04Z"
+                },
+                {
+                    "globalUserId": "16753597",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T20:44:40Z"
+                },
+                {
+                    "globalUserId": "113422599",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T10:31:46Z"
+                }
+            ],
+            "photo": [
+                234603598,
+                234603718
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 7,
+                "minuses": 1
+            },
+            "rank": 15.0,
+            "statusId": 16,
+            "bables": [],
+            "exclusionFromRating": {
+                "isExcluded": false,
+                "reasons": [],
+                "timestamp": "2024-11-27T20:26:06Z"
+            }
+        },
+        {
+            "id": "pEsXGiqVhGdYfvuwj2Hs",
+            "globalUserId": "16895465",
+            "wbUserId": 16895465,
+            "wbUserDetails": {
+                "hasPhoto": false,
+                "name": "Лидия",
+                "country": "ru"
+            },
+            "nmId": 260908379,
+            "text": "",
+            "pros": "Оригинальный",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "белый",
+            "size": "0",
+            "createdDate": "2024-11-25T19:19:51Z",
+            "updatedDate": "2024-11-30T19:34:03Z",
+            "answer": {
+                "text": "Здравствуйте! Спасибо за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-29T17:23:19Z",
+                "createDate": "2024-11-29T15:28:37Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "editable": false,
+                "supplierId": 4129300
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T16:06:40Z"
+                },
+                {
+                    "globalUserId": "121709389",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T19:34:03Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 2,
+                "minuses": 0
+            },
+            "rank": 14.0,
+            "statusId": 16,
+            "bables": []
+        },
+        {
+            "id": "rNKpFzV9FCUDqTn1z3LP",
+            "globalUserId": "36364777",
+            "wbUserId": 36364777,
+            "wbUserDetails": {
+                "name": "Зварда",
+                "hasPhoto": false,
+                "country": "ru"
+            },
+            "nmId": 260908378,
+            "text": "",
+            "pros": "Все отлично, покупкой давольна",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "белый",
+            "size": "",
+            "createdDate": "2024-11-24T09:20:21Z",
+            "updatedDate": "2024-12-12T14:41:33Z",
+            "answer": {
+                "text": "Здравствуйте! Спасибо за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-25T08:15:55Z",
+                "createDate": "2024-11-25T07:57:03Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "editable": false,
+                "supplierId": 4129300
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T16:06:39Z"
+                },
+                {
+                    "globalUserId": "29158580",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-27T11:46:58Z"
+                },
+                {
+                    "globalUserId": "145408344",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-27T12:23:38Z"
+                },
+                {
+                    "globalUserId": "53263979",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-27T15:14:16Z"
+                },
+                {
+                    "globalUserId": "121709389",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T19:34:05Z"
+                },
+                {
+                    "globalUserId": "88360489",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-03T11:46:06Z"
+                },
+                {
+                    "globalUserId": "111475919",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-04T14:22:32Z"
+                },
+                {
+                    "globalUserId": "29186085",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-09T19:36:05Z"
+                },
+                {
+                    "globalUserId": "16753597",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T20:45:05Z"
+                },
+                {
+                    "globalUserId": "198604051",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-11T20:58:47Z"
+                },
+                {
+                    "globalUserId": "80173457",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T05:15:11Z"
+                },
+                {
+                    "globalUserId": "195458677",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T14:41:33Z"
+                }
+            ],
+            "photo": [
+                233350322,
+                233350326
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 11,
+                "minuses": 1
+            },
+            "rank": 13.0,
+            "statusId": 0,
+            "bables": [],
+            "exclusionFromRating": {
+                "isExcluded": false,
+                "reasons": [],
+                "timestamp": "2024-11-27T10:31:24Z"
+            }
+        },
+        {
+            "id": "96IVg7y1Sey7Q1S9La9Y",
+            "globalUserId": "55437575",
+            "wbUserId": 55437575,
+            "wbUserDetails": {
+                "name": "Андрей",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 262349941,
+            "text": "Супер!",
+            "pros": "Хорошо упакован, серийный номер совпадает с коробкой, на сайте показано, что оригинал. Рекомендую к покупке. Состояние аккумулятора 100",
+            "cons": "Нет",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "желтый",
+            "size": "",
+            "createdDate": "2024-11-21T18:02:49Z",
+            "updatedDate": "2024-12-14T14:50:16Z",
+            "answer": {
+                "text": "Здравствуйте! Спасибо за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-25T08:48:02Z",
+                "createDate": "2024-11-25T07:57:13Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "editable": false,
+                "supplierId": 4129300,
+                "employeeId": 0
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "117857969",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-22T15:40:18Z"
+                },
+                {
+                    "globalUserId": "50328852",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-22T16:29:23Z"
+                },
+                {
+                    "globalUserId": "94649765",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-23T11:34:55Z"
+                },
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T15:52:39Z"
+                },
+                {
+                    "globalUserId": "90211012",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-01T16:38:16Z"
+                },
+                {
+                    "globalUserId": "111475919",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-04T14:22:43Z"
+                },
+                {
+                    "globalUserId": "197905833",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-09T12:01:20Z"
+                },
+                {
+                    "globalUserId": "29186085",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-09T19:36:01Z"
+                },
+                {
+                    "globalUserId": "16753597",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T20:45:07Z"
+                },
+                {
+                    "globalUserId": "89826683",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-14T08:48:36Z"
+                },
+                {
+                    "globalUserId": "144411241",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-14T13:16:08Z"
+                },
+                {
+                    "globalUserId": "16598087",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-14T14:50:16Z"
+                }
+            ],
+            "photo": [
+                232583497,
+                232583498
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 10,
+                "minuses": 2
+            },
+            "rank": 12.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "EPWuv40D4AdXsEke3XJU",
+            "globalUserId": "11722172",
+            "wbUserId": 11722172,
+            "wbUserDetails": {
+                "country": "ru",
+                "hasPhoto": false,
+                "name": "Екатерина"
+            },
+            "nmId": 262349940,
+            "text": "Телефон пришел отлично запакованный, все как полагается. Покупкой довольна",
+            "pros": "Все!",
+            "cons": "Нет",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "белый",
+            "size": "",
+            "createdDate": "2024-11-20T10:47:54Z",
+            "updatedDate": "2024-12-05T15:20:27Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-21T08:10:04Z",
+                "createDate": "2024-11-21T07:47:32Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "supplierId": 4129300,
+                "employeeId": 0,
+                "editable": false
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:34Z"
+                },
+                {
+                    "globalUserId": "84487820",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-24T08:25:25Z"
+                },
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T15:52:45Z"
+                },
+                {
+                    "globalUserId": "155647667",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-05T15:20:27Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 4,
+                "minuses": 0
+            },
+            "rank": 11.0,
+            "statusId": 0,
+            "bables": [],
+            "exclusionFromRating": {
+                "isExcluded": false,
+                "reasons": [],
+                "timestamp": "2024-11-27T07:19:38Z"
+            }
+        },
+        {
+            "id": "3ajuOrrWgfHdAVkRsEvR",
+            "globalUserId": "16270649",
+            "wbUserId": 16270649,
+            "wbUserDetails": {
+                "name": "Илья",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 260908381,
+            "text": "",
+            "pros": "Оригинальный телефон. Хорошо упакован, модно не переживать, ято в процессе транспортировки что-то слуиятся.",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "бежевый",
+            "size": "",
+            "createdDate": "2024-11-19T11:51:41Z",
+            "updatedDate": "2024-11-26T15:52:49Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-21T08:44:23Z",
+                "createDate": "2024-11-21T07:47:40Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "supplierId": 4129300,
+                "editable": false
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:35Z"
+                },
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T15:52:49Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 2,
+                "minuses": 0
+            },
+            "rank": 10.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "z9zp5A1ezlD6P9IKZSSy",
+            "globalUserId": "63088689",
+            "wbUserId": 63088689,
+            "wbUserDetails": {
+                "name": "Вячеслав",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 260908372,
+            "text": "",
+            "pros": "Товар отличный,серийник совпадает,телефон пришел вовремя,упакован хорошо,спасибо продавцу 👍",
+            "cons": "Нет",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "черный",
+            "size": "",
+            "createdDate": "2024-11-19T07:30:42Z",
+            "updatedDate": "2024-11-26T15:52:53Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-21T08:44:23Z",
+                "createDate": "2024-11-21T07:47:43Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "editable": false,
+                "supplierId": 4129300,
+                "employeeId": 0
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:36Z"
+                },
+                {
+                    "globalUserId": "40297557",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-21T06:03:02Z"
+                },
+                {
+                    "globalUserId": "11110862",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-24T12:26:01Z"
+                },
+                {
+                    "globalUserId": "104523850",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T15:52:53Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 4,
+                "minuses": 0
+            },
+            "rank": 9.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "ZQq3GRfrFBuBGexVXkDF",
+            "globalUserId": "81785980",
+            "wbUserId": 81785980,
+            "wbUserDetails": {
+                "hasPhoto": false,
+                "country": "ru",
+                "name": "Лейсан"
+            },
+            "nmId": 260908374,
+            "text": "",
+            "pros": "-",
+            "cons": "Недобросовестный продавец, хочу сделать возврат , а они пишут что невозвратный , по закону о защите прав потребителей статья 25 часть 1 можно вернуть любой товар в течении 14 дней , я даже его не открывала ( в упаковке) жду ответа",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 1,
+            "color": "черный",
+            "size": "",
+            "createdDate": "2024-11-17T10:28:29Z",
+            "updatedDate": "2024-12-14T15:01:13Z",
+            "answer": null,
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "159374907",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-23T09:41:19Z"
+                },
+                {
+                    "globalUserId": "8641232",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-23T16:05:50Z"
+                },
+                {
+                    "globalUserId": "121709389",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-23T17:34:01Z"
+                },
+                {
+                    "globalUserId": "69009639",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-24T06:38:34Z"
+                },
+                {
+                    "globalUserId": "26039682",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-25T21:39:22Z"
+                },
+                {
+                    "globalUserId": "42187545",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-26T05:14:18Z"
+                },
+                {
+                    "globalUserId": "140688461",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T11:15:53Z"
+                },
+                {
+                    "globalUserId": "55297180",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-28T05:38:50Z"
+                },
+                {
+                    "globalUserId": "21428988",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-28T16:59:22Z"
+                },
+                {
+                    "globalUserId": "18142883",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-28T22:05:36Z"
+                },
+                {
+                    "globalUserId": "133897151",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-29T08:48:55Z"
+                },
+                {
+                    "globalUserId": "16098454",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-30T01:26:40Z"
+                },
+                {
+                    "globalUserId": "11802269",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T17:07:15Z"
+                },
+                {
+                    "globalUserId": "37934511",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-01T18:27:05Z"
+                },
+                {
+                    "globalUserId": "37295292",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-02T13:30:15Z"
+                },
+                {
+                    "globalUserId": "28291380",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-05T07:55:13Z"
+                },
+                {
+                    "globalUserId": "39199881",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-07T02:26:28Z"
+                },
+                {
+                    "globalUserId": "134307667",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-08T10:32:01Z"
+                },
+                {
+                    "globalUserId": "194334089",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-08T10:35:44Z"
+                },
+                {
+                    "globalUserId": "27007295",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-08T18:16:33Z"
+                },
+                {
+                    "globalUserId": "29186085",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-09T19:34:49Z"
+                },
+                {
+                    "globalUserId": "10656798",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T07:21:13Z"
+                },
+                {
+                    "globalUserId": "37191739",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T15:45:56Z"
+                },
+                {
+                    "globalUserId": "16753597",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-10T20:45:22Z"
+                },
+                {
+                    "globalUserId": "88305436",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-11T01:40:42Z"
+                },
+                {
+                    "globalUserId": "62731522",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-11T08:53:23Z"
+                },
+                {
+                    "globalUserId": "98803827",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T05:25:16Z"
+                },
+                {
+                    "globalUserId": "20179638",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T17:44:25Z"
+                },
+                {
+                    "globalUserId": "127133759",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-12T21:14:49Z"
+                },
+                {
+                    "globalUserId": "25516568",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T21:35:49Z"
+                },
+                {
+                    "globalUserId": "18654197",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-13T13:30:33Z"
+                },
+                {
+                    "globalUserId": "95316329",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-14T15:01:13Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 20,
+                "minuses": 12
+            },
+            "rank": 8.0,
+            "statusId": 0,
+            "bables": [],
+            "exclusionFromRating": {
+                "isExcluded": false,
+                "reasons": [],
+                "timestamp": "2024-11-27T09:58:40Z"
+            }
+        },
+        {
+            "id": "g08yy8v6YIPz6WK8rEBm",
+            "globalUserId": "44576944",
+            "wbUserId": 44576944,
+            "wbUserDetails": {
+                "name": "Ирина",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 260908381,
+            "text": "",
+            "pros": "Очень переживала , вдруг брак тли не оригинал. Но опасения оказались напрасными . Пользуюсь телефоном вторую неделю . Все отлично , пришло всё в заводской упаковке , как положено . Хорошо упакованно в целости и сохранности . Оригинал . Доставили на день раньше заявленного срока . Спасибо поодавцу .",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "бежевый",
+            "size": "",
+            "createdDate": "2024-11-17T06:24:41Z",
+            "updatedDate": "2024-11-27T07:18:58Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-21T08:09:19Z",
+                "createDate": "2024-11-21T07:47:49Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "editable": false,
+                "supplierId": 4129300,
+                "employeeId": 0
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:38Z"
+                },
+                {
+                    "globalUserId": "45162666",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-22T08:47:33Z"
+                },
+                {
+                    "globalUserId": "128741853",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-27T07:18:58Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 2,
+                "minuses": 1
+            },
+            "rank": 7.0,
+            "statusId": 0,
+            "bables": [],
+            "exclusionFromRating": {
+                "isExcluded": false,
+                "reasons": [],
+                "timestamp": "2024-11-26T16:37:45Z"
+            }
+        },
+        {
+            "id": "bSkXwUeojtXBYBFxbx5L",
+            "globalUserId": "27058847",
+            "wbUserId": 27058847,
+            "wbUserDetails": {
+                "hasPhoto": false,
+                "country": "ru",
+                "name": "Виктор"
+            },
+            "nmId": 262349942,
+            "text": "",
+            "pros": "",
+            "cons": "Не связывайтесь с данным продавцов, поставляет неоригинальный товар, при всем этом, еще отказывается подтверждать возврат! Будте осторожны!!!",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 1,
+            "color": "черный",
+            "size": "",
+            "createdDate": "2024-11-14T11:12:41Z",
+            "updatedDate": "2024-12-14T07:02:27Z",
+            "answer": null,
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-20T19:25:41Z"
+                },
+                {
+                    "globalUserId": "192750007",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-21T14:01:27Z"
+                },
+                {
+                    "globalUserId": "45162666",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-22T08:47:52Z"
+                },
+                {
+                    "globalUserId": "101726409",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-22T11:09:11Z"
+                },
+                {
+                    "globalUserId": "121709389",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-23T17:33:59Z"
+                },
+                {
+                    "globalUserId": "69009639",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-24T06:38:46Z"
+                },
+                {
+                    "globalUserId": "84487820",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-24T08:26:24Z"
+                },
+                {
+                    "globalUserId": "140688461",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-26T11:15:48Z"
+                },
+                {
+                    "globalUserId": "55297180",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-28T05:39:12Z"
+                },
+                {
+                    "globalUserId": "21428988",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-28T16:59:41Z"
+                },
+                {
+                    "globalUserId": "18142883",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-28T22:05:51Z"
+                },
+                {
+                    "globalUserId": "93866671",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T15:25:01Z"
+                },
+                {
+                    "globalUserId": "37934511",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-01T18:27:16Z"
+                },
+                {
+                    "globalUserId": "55647658",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-02T10:54:05Z"
+                },
+                {
+                    "globalUserId": "37295292",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-02T13:30:25Z"
+                },
+                {
+                    "globalUserId": "28291380",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-05T07:55:23Z"
+                },
+                {
+                    "globalUserId": "39199881",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-07T02:26:38Z"
+                },
+                {
+                    "globalUserId": "49914702",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-07T07:23:05Z"
+                },
+                {
+                    "globalUserId": "29186085",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-09T19:34:33Z"
+                },
+                {
+                    "globalUserId": "37191739",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T15:46:01Z"
+                },
+                {
+                    "globalUserId": "88305436",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-11T01:41:11Z"
+                },
+                {
+                    "globalUserId": "62731522",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-11T08:53:32Z"
+                },
+                {
+                    "globalUserId": "80173457",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T05:16:20Z"
+                },
+                {
+                    "globalUserId": "20179638",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T17:44:28Z"
+                },
+                {
+                    "globalUserId": "127133759",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T21:15:01Z"
+                },
+                {
+                    "globalUserId": "25516568",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T21:36:10Z"
+                },
+                {
+                    "globalUserId": "149211245",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-13T12:34:56Z"
+                },
+                {
+                    "globalUserId": "33346784",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-14T07:02:27Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 25,
+                "minuses": 3
+            },
+            "rank": 6.0,
+            "statusId": 0,
+            "bables": [
+                "неоригинал"
+            ]
+        },
+        {
+            "id": "ZI3fnm2xzzBNWdylp4gz",
+            "globalUserId": "53136245",
+            "wbUserId": 53136245,
+            "wbUserDetails": {
+                "country": "ru",
+                "hasPhoto": false,
+                "name": "Роман"
+            },
+            "nmId": 262349942,
+            "text": "",
+            "pros": "Все отлично! Новый, оригинальный, упакован хорошо, доставлен в срок!\nМожно смело брать👍",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "черный",
+            "size": "",
+            "createdDate": "2024-11-13T19:11:34Z",
+            "updatedDate": "2024-12-12T21:36:14Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-15T08:41:30Z",
+                "createDate": "2024-11-15T08:17:33Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "supplierId": 4129300,
+                "editable": false
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "312163",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-14T17:48:53Z"
+                },
+                {
+                    "globalUserId": "3188995",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-16T17:51:01Z"
+                },
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:42Z"
+                },
+                {
+                    "globalUserId": "88305436",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-11T01:41:14Z"
+                },
+                {
+                    "globalUserId": "25516568",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-12T21:36:14Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 4,
+                "minuses": 1
+            },
+            "rank": 5.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "xsUQZYSgcR0lrJyjqd3g",
+            "globalUserId": "55031440",
+            "wbUserId": 55031440,
+            "wbUserDetails": {
+                "name": "Евгений",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 262349942,
+            "text": "",
+            "pros": "Покупка понравилась. Всё работает как надо. Доставили на три дня раньше, заявленного. Спасибо продавцу!",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "черный",
+            "size": "",
+            "createdDate": "2024-11-07T17:43:32Z",
+            "updatedDate": "2024-12-11T01:41:17Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-13T09:15:26Z",
+                "createDate": "2024-11-13T09:07:28Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "supplierId": 4129300,
+                "editable": false
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "312163",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-14T17:49:22Z"
+                },
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:44Z"
+                },
+                {
+                    "globalUserId": "88305436",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-11T01:41:17Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 3,
+                "minuses": 0
+            },
+            "rank": 4.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "rc83g6ypdYsM9Asx5Te2",
+            "globalUserId": "46551076",
+            "wbUserId": 46551076,
+            "wbUserDetails": {
+                "hasPhoto": false,
+                "country": "ru",
+                "name": "Айгуль"
+            },
+            "nmId": 260908375,
+            "text": "",
+            "pros": "Очень волновалась за покупке телефона на маркетплейсе 🤔. Но волнения оказались напрасными. Все пришло в целости, раньше срока. Оригинал. Все супер. Поодавца рекомендую.",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "желтый",
+            "size": "",
+            "createdDate": "2024-11-02T17:50:23Z",
+            "updatedDate": "2024-11-20T19:25:45Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-11-13T19:38:27Z",
+                "createDate": "2024-11-13T09:07:35Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "supplierId": 4129300,
+                "editable": false
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "1001961",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-03T11:51:19Z"
+                },
+                {
+                    "globalUserId": "145127191",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-06T07:35:08Z"
+                },
+                {
+                    "globalUserId": "50455826",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-07T04:27:01Z"
+                },
+                {
+                    "globalUserId": "46563528",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-18T18:10:12Z"
+                },
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:45Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 4,
+                "minuses": 1
+            },
+            "rank": 3.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "Jw0q1EtrqAcNjJ90hsLx",
+            "globalUserId": "47091663",
+            "wbUserId": 47091663,
+            "wbUserDetails": {
+                "country": "ru",
+                "name": "Сергей",
+                "hasPhoto": false
+            },
+            "nmId": 260908375,
+            "text": "",
+            "pros": "Оригинальный, запечатан, упакован! Производство август 24",
+            "cons": "",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "желтый",
+            "size": "",
+            "createdDate": "2024-10-14T13:44:53Z",
+            "updatedDate": "2024-12-12T21:36:30Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим Вас за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-10-16T14:24:59Z",
+                "createDate": "2024-10-16T13:42:55Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "editable": false,
+                "supplierId": 4129300,
+                "employeeId": 0
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "12799110",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-15T14:03:34Z"
+                },
+                {
+                    "globalUserId": "123829703",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-16T17:05:58Z"
+                },
+                {
+                    "globalUserId": "146055727",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-19T04:14:40Z"
+                },
+                {
+                    "globalUserId": "105930647",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-21T11:28:52Z"
+                },
+                {
+                    "globalUserId": "124776605",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-22T14:38:09Z"
+                },
+                {
+                    "globalUserId": "185362571",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-23T02:14:36Z"
+                },
+                {
+                    "globalUserId": "81966758",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-23T17:18:28Z"
+                },
+                {
+                    "globalUserId": "24167909",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-10-26T10:43:49Z"
+                },
+                {
+                    "globalUserId": "187054065",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-30T07:39:07Z"
+                },
+                {
+                    "globalUserId": "7426698",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-30T18:46:41Z"
+                },
+                {
+                    "globalUserId": "116257402",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-10-31T19:19:59Z"
+                },
+                {
+                    "globalUserId": "26946040",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-02T13:53:58Z"
+                },
+                {
+                    "globalUserId": "124593149",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-02T14:49:33Z"
+                },
+                {
+                    "globalUserId": "1001961",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-03T11:51:22Z"
+                },
+                {
+                    "globalUserId": "128840881",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-04T21:12:06Z"
+                },
+                {
+                    "globalUserId": "145127191",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-06T07:35:11Z"
+                },
+                {
+                    "globalUserId": "20840616",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-07T05:12:53Z"
+                },
+                {
+                    "globalUserId": "84481540",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-07T13:16:51Z"
+                },
+                {
+                    "globalUserId": "32293215",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-07T17:16:02Z"
+                },
+                {
+                    "globalUserId": "6181845",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-09T15:38:31Z"
+                },
+                {
+                    "globalUserId": "53869081",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-10T12:22:43Z"
+                },
+                {
+                    "globalUserId": "18368598",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-11T17:36:38Z"
+                },
+                {
+                    "globalUserId": "154240433",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-13T15:36:38Z"
+                },
+                {
+                    "globalUserId": "192962479",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-13T20:58:03Z"
+                },
+                {
+                    "globalUserId": "312163",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-14T17:49:06Z"
+                },
+                {
+                    "globalUserId": "131093911",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-15T05:09:43Z"
+                },
+                {
+                    "globalUserId": "3619472",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-15T12:10:01Z"
+                },
+                {
+                    "globalUserId": "58630493",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-15T12:52:23Z"
+                },
+                {
+                    "globalUserId": "96637099",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-15T17:32:42Z"
+                },
+                {
+                    "globalUserId": "14370354",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-15T19:00:03Z"
+                },
+                {
+                    "globalUserId": "197729029",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-16T16:44:17Z"
+                },
+                {
+                    "globalUserId": "87433761",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-11-17T10:05:01Z"
+                },
+                {
+                    "globalUserId": "88579454",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-17T18:54:55Z"
+                },
+                {
+                    "globalUserId": "122165188",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T05:33:17Z"
+                },
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:18Z"
+                },
+                {
+                    "globalUserId": "87171549",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-21T02:18:05Z"
+                },
+                {
+                    "globalUserId": "47940870",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-21T19:56:23Z"
+                },
+                {
+                    "globalUserId": "138960607",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-30T22:06:05Z"
+                },
+                {
+                    "globalUserId": "143113301",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-01T20:24:03Z"
+                },
+                {
+                    "globalUserId": "111475919",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-04T14:28:52Z"
+                },
+                {
+                    "globalUserId": "33732574",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-04T14:54:46Z"
+                },
+                {
+                    "globalUserId": "16753597",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T20:45:31Z"
+                },
+                {
+                    "globalUserId": "39857366",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-12T11:36:51Z"
+                },
+                {
+                    "globalUserId": "25516568",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-12-12T21:36:30Z"
+                }
+            ],
+            "photo": [
+                220069641,
+                220069628,
+                220069627
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 37,
+                "minuses": 7
+            },
+            "rank": 2.0,
+            "statusId": 0,
+            "bables": []
+        },
+        {
+            "id": "nOP3FjuCk0hqUCfVjodr",
+            "globalUserId": "6333151",
+            "wbUserId": 6333151,
+            "wbUserDetails": {
+                "name": "Анастасия",
+                "country": "ru",
+                "hasPhoto": false
+            },
+            "nmId": 260908375,
+            "text": "Рекомендую к покупке.  Был хорошо упакован. Пришел в заводской упаковке. Оригинальный, пришел не активирован. Дома активировала без проблем, всё отлично! Довольна покупкой. Значительно дешевле, чем в магазинах.",
+            "pros": "Оригинал. Пришел быстро, раньше на 2 дня.",
+            "cons": "Нет",
+            "matchingSize": "",
+            "matchingPhoto": "",
+            "matchingDescription": "",
+            "productValuation": 5,
+            "color": "желтый",
+            "size": "",
+            "createdDate": "2024-10-12T05:59:13Z",
+            "updatedDate": "2024-12-10T20:45:34Z",
+            "answer": {
+                "text": "Здравствуйте! Благодарим Вас за отличную оценку товара!",
+                "state": "wbRu",
+                "lastUpdate": "2024-10-16T14:27:15Z",
+                "createDate": "2024-10-16T13:42:57Z",
+                "rejectReason": 0,
+                "metadata": null,
+                "employeeId": 0,
+                "supplierId": 4129300,
+                "editable": false
+            },
+            "metadata": null,
+            "feedbackHelpfulness": [
+                {
+                    "globalUserId": "65017145",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-14T05:05:00Z"
+                },
+                {
+                    "globalUserId": "12799110",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-15T14:03:39Z"
+                },
+                {
+                    "globalUserId": "21867518",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-18T18:42:59Z"
+                },
+                {
+                    "globalUserId": "105930647",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-21T11:28:53Z"
+                },
+                {
+                    "globalUserId": "120853869",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-10-25T05:29:00Z"
+                },
+                {
+                    "globalUserId": "59106457",
+                    "wbUserId": 0,
+                    "helpfulness": "minus",
+                    "time": "2024-10-31T01:27:08Z"
+                },
+                {
+                    "globalUserId": "124593149",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-02T14:49:59Z"
+                },
+                {
+                    "globalUserId": "1001961",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-03T11:51:49Z"
+                },
+                {
+                    "globalUserId": "145127191",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-06T07:35:27Z"
+                },
+                {
+                    "globalUserId": "46563528",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-18T18:10:39Z"
+                },
+                {
+                    "globalUserId": "194244729",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-11-20T19:25:48Z"
+                },
+                {
+                    "globalUserId": "16753597",
+                    "wbUserId": 0,
+                    "helpfulness": "plus",
+                    "time": "2024-12-10T20:45:34Z"
+                }
+            ],
+            "video": null,
+            "votes": {
+                "pluses": 11,
+                "minuses": 1
+            },
+            "rank": 1.0,
+            "statusId": 0,
+            "bables": []
+        }
+    ]
+}

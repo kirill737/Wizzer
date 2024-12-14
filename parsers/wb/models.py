@@ -3,6 +3,7 @@
 """
 from typing import List
 from pydantic import BaseModel
+from datetime import datetime
 
 # Вспомогательные функции
 # def getModel(text):
@@ -95,32 +96,37 @@ class InputJSON(BaseModel):
 
 
 class OutputProduct(BaseModel):
-    brand: str
-    # brandId: int
+    brand: str # brandId: int
     id: int
-    # color: str
+    model: str
+    memory: int
     fullname: str
-    # model: str
-    # memory: str
+    cpu: str
+    marketplace: str
+    link: str
+    date: str
     rating: float
     price: float
-    # reviewRating: float
     feedbacks: int
     
 
     # Валидатор для создания нового объекта на основе Product
     @classmethod
     def from_product(cls, product: Product):
+        # print(product)
         return cls(
             brand=product.brand,
-            # brandId=product.brandId,/
             id=product.id,
-            # color=product.colors[0].name if product.colors else "",
+            model="",
+            memory=404,
             fullname=product.name,
-            # model=product.model,
-            # memory=product.memory,
+            cpu="",
+            marketplace="wb",
+            link=f"https://www.wildberries.ru/catalog/{product.id}/detail.aspx",
+            date=datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
             rating=product.reviewRating,
-            # reviewRating=product.reviewRating,
-            feedbacks=product.feedbacks,
-            price=product.sizes[0].price.total / 100
+            price=product.sizes[0].price.total / 100,
+            feedbacks=product.feedbacks
+            # feedbacks=10000
+            
         )

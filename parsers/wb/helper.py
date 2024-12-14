@@ -5,7 +5,7 @@
 import json
 DEBUG_MODE = 0
 STEP_MODE = 1
-LOG_MODE = 0 
+LOG_MODE = 1
 DNS_URL = "https://www.dns-shop.ru"
 
 def debug_print(text: str) -> None:
