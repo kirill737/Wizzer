@@ -14,6 +14,7 @@ def get_root_by_id(product_id: int) -> int:
         f"appType=1&curr=rub&dest=-1257786&nm={product_id}",
         timeout=10
     )
+    
     if response.status_code != 200:
         raise RuntimeError(
             f"Wrong response code: {response.status_code}"
@@ -21,6 +22,7 @@ def get_root_by_id(product_id: int) -> int:
     root_json = response.json()
     try:
         root_value = root_json['data']['products'][0]['root']
+        print(f"id: {product_id} root {root_value}")
         return root_value
     except (KeyError, IndexError) as exc:
         raise RuntimeError("Json access error") from exc
@@ -40,24 +42,26 @@ def get_raw_feedbacks_by_root_index(root: int, index: int) -> dict:
     step_print("Got raw feedbacks.")
     return feedbacks_json
 
-def get_feedbacks_by_root(root: int) -> list[dict]:
+def get_feedbacks_by_root(product_id: int, root: int) -> list[dict]:
     step_print(f"Getting nice feedbacks by root...")
     for i in range(1, 5):
         if get_raw_feedbacks_by_root_index(root, i)['feedbacks']:
             feedbacks_json = get_raw_feedbacks_by_root_index(root, i)
+            save_json("./parsers/wb/debug/root.json", feedbacks_json)
             # save_log_file("parsers/wb/debug/tmp.json", feedbacks_json)
             break
         continue
     try:
         feedbacks_info = []
         for feedback in feedbacks_json['feedbacks']:
-            feedbacks_info.append({ 
-                "plus": feedback['pros'],
-                "minus": feedback['cons'],
-                "comment": feedback['text'],
-                "rating": feedback['productValuation']
-            })
-        step_print("Got nice feedbacks.")
+            if feedback['nmId'] == product_id:
+                feedbacks_info.append({ 
+                    "plus": feedback['pros'],
+                    "minus": feedback['cons'],
+                    "comment": feedback['text'],
+                    "rating": feedback['productValuation']
+                })
+            # step_print("Got nice feedbacks.")
         return feedbacks_info
     except (KeyError, IndexError) as exc:
         raise RuntimeError("Json access error") from exc
@@ -80,7 +84,7 @@ def get_all_feedbacks(product_id: int) -> list[dict]:
         ]
     """
     root = get_root_by_id(product_id)
-    feedbacks = get_feedbacks_by_root(root)
+    feedbacks = get_feedbacks_by_root(product_id, root)
     step_print(f"Got all feedbacks for one product {product_id}.")
     return feedbacks
 

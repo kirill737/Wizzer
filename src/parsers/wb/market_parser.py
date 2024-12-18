@@ -38,7 +38,7 @@ def add_few_cards_to_json(file: str, data: list[dict]) -> None:
     step_print("Cards added to json!")
 
 def get_data_from_raw_json(input_json: str):
-    step_print("Getting data from raw json...")
+    
     """
         Извлекает нужные данные из response json и возвращает их в виде списка словарей.
     """
@@ -58,14 +58,15 @@ def get_data_from_raw_json(input_json: str):
     step_print("Got all data!")
     return output_products
 
-def parse_brand_by_url(url: str, pages_amount: int = 100):
+def parse_cards_by_url(url: str, page: int):
     """
-        Парсит бренд по ссылку на категорию с ним.  <br>
+        Парсит несколько страниц по ссылку на категорию.  <br>
         url - ссылка на категорию. <br>
-        output_json - название выходного json файла. <br>
-        pages_amount -  кол-во страниц для парсинга.
+        from_page - начальная страница. <br>
+        pages_amount - конечная страница.
     """
-    step_print("Parsing brand by url...")
+    step_print("Parsing cards by url...")
+    
     # Извлекает id бренда из ссылки на категорию
     def extract_fbrand_value(url: str) -> int:
         """
@@ -84,36 +85,41 @@ def parse_brand_by_url(url: str, pages_amount: int = 100):
         'dest': '-1257786',
         'fbrand': str(extract_fbrand_value(url)),
         'foriginal': '1',
-        'page': '1',
+        'page': f"{page}",
         'sort': 'popular',
         'spp': '1',
         'subject': '515',
     }
+    print(params)
     step_print("Sending responses...")
     response = requests.get(
         CATALOG_URL, params=params, timeout=10)
     few_cards = []
-    while response.status_code == 200 and int(params['page']) <= pages_amount:
-        print(f"Parsing page {params['page']} ")
+    step_print(f"Parsing page{page}")
+    if response.status_code == 200:
+        # print(f"Parsing page {params['page']} ")
         raw_data = response.json()
+        step_print("Getting data from raw json...")
         few_cards += get_data_from_raw_json(raw_data)
         # add_few_cards_to_json(few_cards, output_json)
-        params['page'] = str(int(params['page']) + 1)
+        # params['page'] = str(int(params['page']) + 1)
         response = requests.get(
             CATALOG_URL, params=params, timeout=10)
-    step_print("All responses were sent.")
+    # step_print("All responses were sent.")
     step_print("Parsing finished!")
     return few_cards
+
 def parse_cards_by_ids(folder: str, id_list: list[int]):
     for card_id in id_list:
         feedbacks = get_all_feedbacks(product_id=card_id)
         save_log_file(f"{folder}/{card_id}_feedbacks.json", feedbacks)
-if __name__ == "__main__":
-    # BRAND_ID = 6049
-    BRAND_ID = 5772
-    SORT = "popular"
-    parse_brand_by_url(
-        f"https://www.wildberries.ru/catalog/elektronika"
-        f"/smartfony-i-telefony/vse-smartfony?sort={SORT}&fbrand={BRAND_ID}",
-        OUTPUT_JSON
-    )
+
+# if __name__ == "__main__":
+#     # BRAND_ID = 6049
+#     BRAND_ID = 5772
+#     SORT = "popular"
+#     parse_cards_by_url(
+#         f"https://www.wildberries.ru/catalog/elektronika"
+#         f"/smartfony-i-telefony/vse-smartfony?sort={SORT}&fbrand={BRAND_ID}",
+#         OUTPUT_JSON
+#     )
